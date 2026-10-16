@@ -1,0 +1,1 @@
+const h=document.querySelector('[data-rotate]');if(h){const a=JSON.parse(h.dataset.rotate);let i=0;a.forEach(x=>{const m=x.match(/url\(([^)]+\.jpg)\)/);if(m)new Image().src=m[1]});setInterval(()=>{i=(i+1)%a.length;h.style.cssText=a[i]},6000)}

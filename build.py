@@ -21,15 +21,25 @@ def page(title,body,desc='',hero=None):
 <link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel=stylesheet>
 <link rel=stylesheet href="{BASE}/static/style.css"></head><body>
 <div class=bar><a href="{BASE}/"><b>✠ The Daily Word</b></a><button class=menu aria-label=Menu onclick="document.querySelector('.bar nav').classList.toggle('open')">☰</button>
-<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/about/">About</a></nav></div>
-<main>{body}</main><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
+<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/about/">About</a></nav></div>
+<main>{body}</main><script src="{BASE}/static/rotate.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
 def write(rel,h):
     p=os.path.join(OUT,rel.strip('/'),'index.html'); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w',encoding='utf-8').write(h)
-def hero(meta,title,sub=''):
-    img=meta.get('hero')
-    if img and not os.path.exists(os.path.join(ROOT,'static/art',img)): img=None
-    st=f' style="background-image:linear-gradient(#0000 40%,#000a),url({BASE}/static/art/{img})"' if img else ''
-    return f'<div class=hero{st}>{html.escape(title)}<small>{html.escape(sub)}</small></div>'
+def art(name):
+    n=name.rsplit('.',1)[0] if name else None
+    return n if n and os.path.exists(os.path.join(ROOT,'static/art',n+'.jpg')) else None
+def bg(n,shade='linear-gradient(#0000 40%,#000a)'):
+    j=f'{BASE}/static/art/{n}.jpg'; w=f'{BASE}/static/art/{n}.webp'
+    return f'background-image:{shade},url({j});background-image:{shade},image-set(url({w}) type("image/webp"),url({j}) type("image/jpeg"))'
+def hero(meta,title,sub='',rotate=None):
+    n=art(meta.get('hero')); st=f' style=\'{bg(n)}\'' if n else ''
+    rot=''
+    if rotate:
+        rot=' data-rotate=\''+json.dumps([bg(x) for x in rotate])+'\''
+    return f'<div class="hero tall"{st}{rot}>{html.escape(title)}<small>{html.escape(sub)}</small></div>'
+def band(n,cap):
+    return f'<figure class=band><picture><source srcset="{BASE}/static/art/{n}-600.webp 600w,{BASE}/static/art/{n}.webp 1280w" sizes="(max-width:760px) 100vw,760px" type=image/webp><img src="{BASE}/static/art/{n}.jpg" alt="{html.escape(cap)}" loading=lazy></picture><figcaption>{html.escape(cap)} · <a href="{BASE}/gallery/">Gallery</a></figcaption></figure>'
+GALLERY=[('last-supper','The Last Supper','after Leonardo da Vinci'),('sermon-on-the-mount','The Sermon on the Mount','after Carl Bloch'),('calling-fishermen','The Calling of the Fishermen','in the manner of the Old Masters'),('pieta','Pietà','after Michelangelo\'s statue in St Peter\'s'),('st-michael-dragon','St Michael Defeating the Dragon','after Raphael and Guido Reni'),('pilgrim-camino','A Pilgrim at Sunrise near Santiago','in the classical landscape tradition'),('mont-saint-michel','Mont-Saint-Michel at Tide','after J. M. W. Turner'),('skellig-michael','Skellig Michael','in the Romantic tradition')]
 def verified(meta,rel):
     if 'last_verified' not in meta: sys.exit(f'ERROR: {rel} missing last_verified')
     return f'<p class=src><b>Last verified:</b> {meta["last_verified"]}. Prices, hours and rules change: confirm with the official source before you go.</p>'
@@ -55,11 +65,11 @@ def build():
         d=datetime.date.fromisoformat(m['date'])
         body=(hero(m,m['ref'],m.get('title','')) if m.get('hero') else '')+f'''<div class=k>Verse a Day #{m['number']} · {d:%B} {d.day}, {d.year}</div><h1>{m['ref']}</h1><span class=badge>Alignment: {html.escape(m.get('alignment','—'))}</span>
 <img class=v style="margin-top:12px" src="{BASE}/static/img/verses/{m['image']}" alt="{m['ref']} in Greek, Latin and English">
-{md(m['body'].split('<!--texts-->')[0])}<h2>Four witnesses</h2>{rows}{md(m['body'].split('<!--texts-->')[1]) if '<!--texts-->' in m['body'] else ''}<p class=src>{' &nbsp;·&nbsp; '.join(nav)}</p>'''
+{md(m['body'].split('<!--texts-->')[0])}{band('calling-fishermen','The Calling of the Fishermen')}<h2>Four witnesses</h2>{rows}{md(m['body'].split('<!--texts-->')[1]) if '<!--texts-->' in m['body'] else ''}{band('pieta','Pietà, after Michelangelo')}<p class=src>{' &nbsp;·&nbsp; '.join(nav)}</p>'''
         write(f'verses/{m["slug"]}',page(m['ref'],body,m.get('title','')))
-    def vcard(m): return f'<a class=card href="{BASE}/verses/{m["slug"]}/" data-s="{html.escape((m["ref"]+" "+m.get("title","")+" "+m["book"]).lower())}">{m["date"][5:].replace("-","/")} · <b>{m["ref"]}</b> — {html.escape(m.get("title",""))} <span class=badge style=float:right>{html.escape(m.get("alignment","").split(".")[0][:14])}</span></a>'
+    def vcard(m): return f'<a class=card href="{BASE}/verses/{m["slug"]}/" data-s="{html.escape((m["ref"]+" "+m.get("title","")+" "+m["book"]).lower())}">{m["date"][5:].replace("-","/")} · <b>{m["ref"]}</b> — {html.escape(m.get("title",""))} <span class=badge style=float:right>{html.escape(m.get("alignment","").split(".")[0].split(",")[0][:18])}</span></a>'
     books=sorted({m['book'] for m in vs})
-    arch=f'''{hero({'hero':'sermon-on-the-mount.jpg'} if os.path.exists(os.path.join(ROOT,'static/art/sermon-on-the-mount.jpg')) else {},'Verse Archive','One New Testament verse a day, in Greek, Latin and English')}<input id=q placeholder="Search verses (e.g. kingdom, John)" oninput="for(const c of document.querySelectorAll('.cards .card'))c.style.display=c.dataset.s.includes(this.value.toLowerCase())?'':'none'">
+    arch=f'''{hero({'hero':'sermon-on-the-mount'},'Verse Archive','One New Testament verse a day, in Greek, Latin and English')}<input id=q placeholder="Search verses (e.g. kingdom, John)" oninput="for(const c of document.querySelectorAll('.cards .card'))c.style.display=c.dataset.s.includes(this.value.toLowerCase())?'':'none'">
 <p class=src>Books: {' · '.join(books)}</p><div class=cards>{''.join(vcard(m) for m in reversed(vs))}</div>'''
     write('verses',page('Verse Archive',arch))
     # ---- wiki pages
@@ -74,7 +84,7 @@ def build():
         for m,b in subs:
             crumb=f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a> › <a href="{BASE}/{url}/">{secname}</a></div>'.replace('//"','/"')
             facts=''
-            if m.get('facts'): facts='<div class=facts>'+''.join(f'<div>{html.escape(k)}<b>{html.escape(v)}</b></div>' for k,v in m['facts'].items())+'</div>'
+            if m.get('facts'): facts='<div class="facts'+(' long' if max(len(v) for v in m['facts'].values())>22 else '')+'">'+''.join(f'<div>{html.escape(k)}<b>{html.escape(v)}</b></div>' for k,v in m['facts'].items())+'</div>'
             write(f'{url}/{m["slug"]}',page(m['title'],crumb+hero(m,m['title'],m.get('subtitle',''))+facts+md(b)+verified(m,m['slug']),m.get('subtitle','')))
         groups={}
         for m,b in subs: groups.setdefault(m.get('group','Pages'),[]).append(m)
@@ -84,6 +94,8 @@ def build():
     m,b=load(os.path.join(C,'pilgrimage','index.md'))
     cards=''.join(f'<a class="card{"" if r["status"]=="live" else " soon"}" href="{BASE}/pilgrimage/{r["id"]}/"><b>{r["name"]}</b><br><span class=src>{r["summary"]}</span></a>' if r['status']=='live' else f'<div class="card soon"><b>{r["name"]}</b> <span class=badge>Coming soon</span><br><span class=src>{r["summary"]}</span></div>' for r in roads)
     write('pilgrimage',page('Pilgrimage Roads',hero(m,m['title'],m.get('subtitle',''))+md(b)+'<div class=cards>'+cards+'</div>'))
+    g=''.join(f'<figure class=gal><picture><source srcset="{BASE}/static/art/{n}.webp" type=image/webp><img src="{BASE}/static/art/{n}.jpg" alt="{t}" loading=lazy></picture><figcaption><b>{t}</b><br><span class=src>{by}</span></figcaption></figure>' for n,t,by in GALLERY if art(n))
+    write('gallery',page('Gallery','<h1>Gallery</h1><p>Original paintings made for The Daily Word. They are new adaptations inspired by the Old Masters (da Vinci, Michelangelo, Raphael, Guido Reni, Carl Bloch and Turner), not copies of their works.</p>'+g))
     # ---- about
     m,b=load(os.path.join(C,'about.md')); b=b.replace('{{ESV_COUNT}}',str(esv))
     write('about',page('About',f'<h1>{m["title"]}</h1>'+md(b)))
@@ -92,7 +104,7 @@ def build():
     ex=(scene.group(1)[:260].rsplit(' ',1)[0]+'…') if scene else t.get('title','')
     hm,hb=load(os.path.join(C,'home.md'))
     d=datetime.date.fromisoformat(t['date'])
-    home=hero(hm,hm['title'],hm.get('subtitle',''))+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
+    home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
 <div class=card><a href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{t['ref']}"></a><p style="margin:.6em 0 0">{html.escape(ex)} <a href="{BASE}/verses/{t['slug']}/">Read today's verse →</a></p></div>
 <h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
 <h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/" style="grid-column:1/-1">✨ Saints<small>Lives, miracles, feast days & trivia</small></a></div>'''+md(hb)
