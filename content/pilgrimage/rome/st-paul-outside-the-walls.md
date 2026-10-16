@@ -11,7 +11,7 @@ map: map-rome-paul.svg
 map_alt: Local map of St Paul Outside the Walls
 map_caption: San Paolo on the Via Ostiense, south of the Aurelian Walls; Tre Fontane, the traditional place of Paul's martyrdom, is about 2.5 km further south.
 ---
-Two miles outside the ancient city gate on the road to Ostia, the apostle **Paul** was buried after his beheading, by tradition at Tre Fontane around AD 67. Over his grave stands the second-largest church in Rome, a vast five-aisled basilica that looks ancient but was almost entirely rebuilt after a fire in 1823. For the walk, it is the second station, and for Paul's own story, see our Footsteps of St Paul guide (coming next).
+Two miles outside the ancient city gate on the road to Ostia, the apostle **Paul** was buried after his beheading, by tradition at Tre Fontane around AD 67. Over his grave stands the second-largest church in Rome, a vast five-aisled basilica that looks ancient but was almost entirely rebuilt after a fire in 1823. For the walk, it is the second station, and for Paul's own story, see our [Footsteps of St Paul](/pilgrimage/st-paul/) guide.
 
 ## Good to know
 - **Entry** to the basilica is free; the cloister and the archaeological area have a small fee.
@@ -54,5 +54,6 @@ From San Paolo the pilgrims climbed east along the **Via delle Sette Chiese**, a
 
 ## Sources
 - [Vatican: Basilica di San Paolo fuori le Mura](https://www.vatican.va/various/basiliche/san_paolo/index_it.html)
+- [Benedict XVI, Homily closing the Pauline Year, 28 June 2009 (the tomb findings)](https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090628_chius-anno-paolino.html)
 - [Vatican News: The Seven Churches Pilgrimage, St Paul Outside the Walls](https://www.vaticannews.va/en/church/news/2022-09/seven-churches-pilgrimage-series-st-paul-outside-the-walls.html)
 - [UNESCO: Historic Centre of Rome … and San Paolo Fuori le Mura](https://whc.unesco.org/en/list/91)
