@@ -18,11 +18,12 @@ Spain, writers, people in religious life, and headache sufferers.
 
 ## Trivia
 - She died on the night Catholic countries **switched to the Gregorian calendar**: the day after 4 October 1582 was 15 October, which is why her feast is the 15th.
-- After a carriage accident she famously told God, *"If this is how you treat your friends, no wonder you have so few!"* ⚠ (traditional anecdote).
+- A much-loved story has her telling God after a mishap on the road, *"If this is how you treat your friends, no wonder you have so few!"* ⚠ It isn't in her own writings or in the first biography; the earliest known version is from 1912, so it is probably legend.
 - Bernini's sculpture *The Ecstasy of St Teresa* in Rome depicts her vision of an angel piercing her heart.
 
 ## Sources
 - [Britannica: St Teresa of Ávila](https://www.britannica.com/biography/Saint-Teresa-of-Avila)
-- [Catholic Encyclopedia: St Teresa of Ávila](https://www.newadvent.org/cathen/14515b.htm)
+- [Catholic Encyclopedia: St Teresa of Ávila](https://www.newadvent.org/cathen/14515b.htm) (beatified 1614, canonised 1622)
+- [National Catholic Register: "If this is how you treat your friends…"](https://www.ncregister.com/blog/if-this-is-how-you-treat-your-friends)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

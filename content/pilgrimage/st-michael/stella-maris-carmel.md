@@ -20,7 +20,7 @@ last_verified: October 15, 2026
 </div>
 
 ## Visiting
-- **Church hours:** daily about 6:00–12:00 and 15:00–18:00 ⚠ (confirm locally).
+- **Church hours:** daily 6:00–12:00 and 15:00–18:00 (per the Carmelite custody site; call +972 4 833 7758 to confirm).
 - Don't confuse it with the separate, larger **Elijah's Cave** on Allenby Road below the mountain.
 - The Haifa cable car links the Bahá'í Gardens area and Bat Galim to the Stella Maris ridge ⚠ (check that it's running).
 

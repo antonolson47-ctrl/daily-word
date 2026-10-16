@@ -14,15 +14,17 @@ Born Anjezë Gonxhe Bojaxhiu in Skopje to an Albanian family, she joined the Lor
 Beatified on **19 October 2003** by **Pope John Paul II**, after the reported healing of an Indian woman, Monica Besra. Canonised on **4 September 2016** by **Pope Francis**, after the healing of a Brazilian man with brain abscesses was approved.
 
 ## Patronages
-Missionaries of Charity, World Youth Day ⚠, and co-patron of the Archdiocese of Calcutta ⚠.
+Co-patron of the Archdiocese of Calcutta (declared 6 September 2017, alongside St Francis Xavier). Some lists also name her a patron of World Youth Day, though St John Paul II is its recognised patron.
 
 ## Trivia
 - She asked the Nobel Committee to **cancel the celebratory banquet** and give the money to the poor.
 - Her private letters, published in 2007 as *Come Be My Light*, revealed that she felt **spiritual darkness for nearly 50 years** while she kept smiling and serving.
-- Her white sari with three blue stripes is a registered trademark of the Missionaries of Charity.
+- Her white sari with its blue border was registered in India as a trademark of the Missionaries of Charity on 4 September 2016, the day she was canonised.
 
 ## Sources
 - [Vatican: Homily for the canonisation, 4 Sept 2016](https://www.vatican.va/content/francesco/en/homilies/2016/documents/papa-francesco_20160904_omelia-canonizzazione-madre-teresa.html)
 - [Nobel Prize: Mother Teresa, 1979](https://www.nobelprize.org/prizes/peace/1979/teresa/facts/)
+- [AP: Vatican declares Mother Teresa a patron saint of Calcutta (2017)](https://apnews.com/general-news-42da4c857971478487fc542cd61a470c)
+- [The Hindu: the blue-bordered sari trademark](https://www.thehindu.com/news/international/saint-teresas-blue-bordered-sari-an-intellectual-property-now/article19244409.ece)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

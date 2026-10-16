@@ -17,7 +17,7 @@ Michael is not a canonised human but one of the three archangels named in the Ca
 Soldiers, police officers, paramedics, the sick, and a good death.
 
 ## Trivia
-- **Pope Leo XIII** composed the *Prayer to St Michael* in the 1880s and ordered it said after Low Mass. A popular story says it came from a vision of Satan's boasting during Mass ⚠ (the vision is a tradition, not documented by Leo himself).
+- **Pope Leo XIII** added the short *Prayer to St Michael* in **1886** to the prayers he had ordered said after Low Mass in 1884. The famous story that he wrote it after a vision of Satan during Mass first appeared in the 1930s, with conflicting details and no contemporary evidence, so treat it as legend.
 - Michaelmas was one of the four "quarter days" when rents were due in England, and it gave its name to Oxford and Cambridge's autumn **Michaelmas term**.
 - English folklore: don't pick blackberries after Michaelmas, because the devil, cast out of heaven, landed in a bramble bush and spoiled them.
 
@@ -26,5 +26,6 @@ Soldiers, police officers, paramedics, the sick, and a good death.
 ## Sources
 - [Catholic Encyclopedia: St Michael the Archangel](https://www.newadvent.org/cathen/10275b.htm)
 - [Britannica: Michael](https://www.britannica.com/topic/Michael-archangel)
+- [Wikipedia: Prayer to Saint Michael (history & sources)](https://en.wikipedia.org/wiki/Prayer_to_Saint_Michael)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

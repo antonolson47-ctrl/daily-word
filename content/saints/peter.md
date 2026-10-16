@@ -18,11 +18,12 @@ Fishermen, net makers, popes, and locksmiths (the keys of the kingdom).
 
 ## Trivia
 - Early tradition (recorded by Origen, via Eusebius) says he asked to be **crucified upside down**, feeling unworthy to die as Jesus did.
-- Excavations under St Peter's Basilica in the 1940s–60s found a 1st-century tomb area. In 1968 **Pope Paul VI** announced that bones found there had been identified "in a way we can consider convincing" as Peter's ⚠ (scholars still debate this).
+- Excavations under St Peter's Basilica in the 1940s–60s found a 1st-century tomb area. On **26 June 1968** **Pope Paul VI** announced that bones found there had been identified "in a way we can consider convincing" as Peter's, based largely on Margherita Guarducci's work. He stopped short of certainty, and scholars still debate it.
 - Peter's in-law appears in the Gospels: Jesus healed his **mother-in-law** (Mark 1:30), so Peter was married.
 
 ## Sources
 - [Britannica: St Peter the Apostle](https://www.britannica.com/biography/Saint-Peter-the-Apostle)
-- [Catholic Encyclopedia: St Peter](https://www.newadvent.org/cathen/11744a.htm)
+- [Catholic Encyclopedia: St Peter](https://www.newadvent.org/cathen/11744a.htm) (Origen on the upside-down crucifixion)
+- [AP: Vatican unveils bone fragments said to be Peter's](https://apnews.com/general-news-f8e5f9f5489d450d8224ecb4fc28737e)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

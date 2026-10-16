@@ -8,7 +8,7 @@ facts: {"Country":"Greece","Type":"Orthodox monastery","Island":"Symi (Dodecanes
 last_verified: October 15, 2026
 ---
 <div class=history markdown=1>
-**History.** The main pilgrimage site of the Dodecanese, set on a quiet bay in the south of Symi. Its church (*katholikon*) dates to the 15th century and the present monastery buildings to the early 18th, built on older foundations. It is famous for its silver-covered icon of the Archangel Michael as the patron of sailors ([Visit Greece](https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/monastery-of-the-archangel-michael-panormitis)).
+**History.** The main pilgrimage site of the Dodecanese, set on a quiet bay in the south of Symi. The monastery is documented in the 15th century. It was destroyed in the mid-18th century and rebuilt in **1783**, when the present church (*katholikon*) and its frescoes were made. It is famous for its huge icon of the Archangel Michael, covered in silver in **1724** and honoured by sailors. Who painted the icon, and when, is unknown ([Visit Greece](https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/monastery-of-the-archangel-michael-panormitis)).
 </div>
 
 <div class=legend markdown=1>
@@ -25,6 +25,8 @@ last_verified: October 15, 2026
 Fly Rhodes → Athens → Tel Aviv, then train to Haifa (~1 hour).
 
 ## Sources
+- [Greek Ministry of Culture: Monastery of Archangel Michael Panormitis](http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=5026)
+- [Panormitis monastery: history (Greek)](https://panormitisymis.gr/index.php/el/istoria/i-istoria-tis-ieras-monis)
 - [Visit Greece: Panormitis](https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/monastery-of-the-archangel-michael-panormitis)
 - [Visit Symi: religious tourism](https://visitsymi.gr/en/activities/religious-tourism/)
 - [Panormitis monastery: access (Greek)](https://www.panormitisymis.gr/index.php/el/iera-moni/prosvasi)

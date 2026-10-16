@@ -8,7 +8,7 @@ facts: {"Country":"England","Type":"Tidal island","Access":"Causeway at low tide
 last_verified: October 15, 2026
 ---
 <div class=history markdown=1>
-**History.** A tidal island crowned by a castle and church. In the Middle Ages it was a Benedictine priory linked to Mont-Saint-Michel. It later became a fortress, has been home to the St Aubyn family since the 17th century, and is cared for today by the National Trust together with the family.
+**History.** A tidal island crowned by a castle and church. In the Middle Ages it was a priory of the Benedictine abbey of Mont-Saint-Michel, until England dissolved its "alien priories" in 1414. It later became a fortress. Colonel John St Aubyn bought it in 1659, and his family still lives in the castle. In 1954 the 3rd Lord St Levan gave most of the island to the National Trust, and the family kept a 999-year lease to live there.
 </div>
 
 <div class=legend markdown=1>
@@ -26,3 +26,5 @@ Train Penzance → Plymouth, then the Brittany Ferries crossing Plymouth → Ros
 ## Sources
 - [St Michael's Mount: official site](https://stmichaelsmount.co.uk/)
 - [National Trust: St Michael's Mount](https://www.nationaltrust.org.uk/visit/cornwall/st-michaels-mount)
+- [St Michael's Mount: Looking after the Mount (history)](https://stmichaelsmount.co.uk/about-us/looking-after-the-mount/)
+- [Marazion Town Council: St Michael's Mount (495 legend, 1659 purchase)](https://www.maraziontowncouncil.gov.uk/general-info/st-michaels-mount/)

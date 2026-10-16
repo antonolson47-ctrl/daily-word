@@ -8,7 +8,7 @@ facts: {"Lived":"18 May 1920 – 2 April 2005","Feast day":"22 October","Recogni
 last_verified: October 15, 2026
 ---
 ## His story
-Karol Wojtyła, born in Wadowice, Poland, lost his mother, brother and father by age 20. He worked in a quarry and acted in underground theatre during the Nazi occupation while secretly studying for the priesthood. Elected pope in 1978, the first non-Italian pope in 455 years, he travelled to 129 countries and helped inspire the peaceful end of communism in Eastern Europe.
+Karol Wojtyła, born in Wadowice, Poland, lost his mother, brother and father by age 20. He worked in a quarry and acted in underground theatre during the Nazi occupation while secretly studying for the priesthood. Elected pope in 1978, the first non-Italian pope in 455 years, he made 104 international journeys to 129 countries and helped inspire the peaceful end of communism in Eastern Europe.
 
 ## Path to sainthood
 Crowds shouted *"Santo subito!"* ("Sainthood now!") at his funeral. Pope Benedict XVI waived the usual five-year wait. He was beatified on **1 May 2011** by **Benedict XVI**, after the healing of Sr Marie Simon-Pierre from Parkinson's disease. He was canonised on **27 April 2014** by **Pope Francis**, after the healing of Floribeth Mora Díaz of Costa Rica (a brain aneurysm), on the same day as **St John XXIII**.
@@ -22,7 +22,7 @@ World Youth Day, young people, and families.
 - He wrote poetry and plays, and spoke many languages.
 
 ## Sources
-- [Vatican: biography of John Paul II](https://www.vatican.va/content/john-paul-ii/en/biography.index.html)
+- [Vatican: biography of John Paul II](https://www.vatican.va/special/canonizzazione-27042014/documents/biografia_gpii_canonizzazione_en.html)
 - [Vatican: Canonisation homily, 27 April 2014](https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140427_omelia-canonizzazioni.html)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

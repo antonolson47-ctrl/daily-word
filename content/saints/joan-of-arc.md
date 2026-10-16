@@ -14,7 +14,7 @@ A peasant girl from Domrémy who, guided by the voices of St Michael, St Catheri
 A **retrial in 1456** declared her innocent. She was **beatified on 18 April 1909** by **Pope Pius X** and **canonised on 16 May 1920** by **Pope Benedict XV**.
 
 ## Patronages
-France (secondary patron, 1922), soldiers, and women in military service.
+France (secondary patron, proclaimed by Pius XI on 2 March 1922), soldiers, and women in military service.
 
 ## Trivia
 - Among the charges against her was **wearing men's clothing**.
@@ -25,4 +25,4 @@ France (secondary patron, 1922), soldiers, and women in military service.
 - [Britannica: St Joan of Arc](https://www.britannica.com/biography/Saint-Joan-of-Arc)
 - [Catholic Encyclopedia: St Joan of Arc](https://www.newadvent.org/cathen/08409c.htm)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>

@@ -19,10 +19,11 @@ Missionaries, writers, journalists, theologians, and tentmakers.
 ## Trivia
 - He made a living as a **tentmaker** (Acts 18:3).
 - Thirteen New Testament letters bear his name. Scholars agree almost universally that seven are his own; authorship of the others is debated.
-- In 2009 Vatican scientists carbon-dated bone fragments from his sarcophagus to the 1st or 2nd century, as **Pope Benedict XVI** announced.
+- On **28 June 2009** **Pope Benedict XVI** announced that bone fragments from the sarcophagus under St Paul Outside the Walls had been carbon-dated to the 1st or 2nd century, which he said "seems to confirm" the tradition that they are Paul's.
 
 ## Sources
 - [Britannica: St Paul the Apostle](https://www.britannica.com/biography/Saint-Paul-the-Apostle)
 - [Catholic Encyclopedia: St Paul](https://www.newadvent.org/cathen/11567b.htm)
+- [Reuters: Pope says bone fragments found in St Paul's tomb (2009)](https://www.reuters.com/article/lifestyle/science/pope-says-bone-fragments-found-in-st-pauls-tomb-idUSTRE55R22O/)
 
-<p class=src>Sources are standard references (encyclopedias and Vatican records). Feast days follow the General Roman Calendar.</p>
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>
