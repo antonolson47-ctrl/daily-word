@@ -4,7 +4,7 @@
  {"id": "st-paul", "name": "Footsteps of St Paul", "status": "live", "summary": "Paul's missionary journeys and voyage to Rome: Damascus, Antioch, Ephesus, Philippi, Athens, Corinth, Malta."},
  {"id": "st-olav", "name": "St Olav's Way", "status": "live", "summary": "Nine St Olav Ways to Nidaros Cathedral in Trondheim: Gudbrandsdalsleden from Oslo, St. Olavsleden from Sweden, the coast and more."},
  {"id": "via-francigena", "name": "Via Francigena", "status": "live", "summary": "Canterbury to Rome, about 2,000 km, on Archbishop Sigeric's 10th-century route."},
- {"id": "holy-land", "name": "The Holy Land", "status": "soon", "summary": "Jerusalem, Bethlehem, Nazareth and Galilee: the Jesus Trail and the Via Dolorosa."},
+ {"id": "holy-land", "name": "The Holy Land", "status": "live", "summary": "Jerusalem, Bethlehem, Nazareth and Galilee: the Jesus Trail and the Via Dolorosa."},
  {"id": "marian-shrines", "name": "Marian Shrines", "status": "soon", "summary": "Fátima, Lourdes, Guadalupe and Częstochowa."},
  {"id": "st-cuthbert", "name": "St Cuthbert's Way", "status": "soon", "summary": "Melrose to Holy Island (Lindisfarne), Scotland to England."},
  {"id": "assisi", "name": "Assisi and the Way of St Francis", "status": "soon", "summary": "From La Verna to Assisi and Rome in the footsteps of St Francis."}]
