@@ -17,6 +17,8 @@ He was known as a soldier who prayed before battle, forbade looting and treated 
 
 The history here is well documented by contemporary chroniclers such as Fernão Lopes. Later popular tradition added miracles at Aljubarrota, such as a spring that appeared for his thirsty troops.
 
+<figure class=photo><picture><source srcset="/static/art/gp-nuno-600.webp 600w,/static/art/gp-nuno.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-nuno.jpg" alt="The equestrian statue of St Nuno Álvares Pereira outside Batalha Monastery" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The equestrian statue of St Nuno Álvares Pereira outside Batalha Monastery · Photo: <a href="https://commons.wikimedia.org/wiki/File:Monumento_a_Nuno_%C3%81lvares_Pereira_-_Batalha_(Portugal)_(398696356).jpg">Monumento a Nuno Álvares Pereira - Batalha (Portugal) (398696356)</a> by Vitor Oliveira from Torres Vedras, PORTUGAL, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
+
 ## Path to sainthood
 Venerated as a saint in Portugal for centuries; beatified by **Benedict XV** in 1918 and canonised by **Pope Benedict XVI** on **26 April 2009**.
 

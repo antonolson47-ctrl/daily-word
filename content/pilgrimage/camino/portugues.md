@@ -55,6 +55,11 @@ From Porto Cathedral the way runs down to the Douro and follows the river to the
 
 <figure class=photo><picture><source srcset="/static/art/cp-matosinhos-600.webp 600w,/static/art/cp-matosinhos.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-matosinhos.jpg" alt="Janet Echelman&#x27;s &quot;She Changes&quot; over the seafront, Matosinhos" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Janet Echelman's "She Changes" over the seafront, Matosinhos · Photo: <a href="https://commons.wikimedia.org/wiki/File:Anemona_She_Changes_(Porto-Matosinhos).jpg">Anemona She Changes (Porto-Matosinhos)</a> by Sitomon, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
 
+
+<figure class=photo><picture><source srcset="/static/art/gp-matosinhos-beach-600.webp 600w,/static/art/gp-matosinhos-beach.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-matosinhos-beach.jpg" alt="The beach at Matosinhos, where the Coastal route first meets the Atlantic" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The beach at Matosinhos, where the Coastal route first meets the Atlantic · Photo: <a href="https://commons.wikimedia.org/wiki/File:Praia_de_Matosinhos_-_panoramio_(1).jpg">Praia de Matosinhos - panoramio (1)</a> by Mister No, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons</figcaption></figure>
+
+
+
 #### Vila do Conde
 A fishing and shipbuilding town at the mouth of the Ave. The great **Monastery of Santa Clara** (founded 1318) rises over the river, and its 18th-century **aqueduct**, once 999 arches long, strides across the fields. Down on the quay is a full-size replica of a 16th-century caravel (*nau*). Wooden boardwalks start here and run north over the dunes. The town is known for bobbin lace and for convent sweets such as *pastéis de Santa Clara*.
 

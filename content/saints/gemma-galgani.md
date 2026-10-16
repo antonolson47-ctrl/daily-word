@@ -17,6 +17,8 @@ That same year, on **8 June 1899**, she reported receiving the **stigmata**, whi
 
 Her experiences are recorded in her diary and letters and in the testimony of her spiritual director, the Passionist Fr Germano Ruoppolo, who wrote her life. Some contemporaries, including doctors, were sceptical, and the Church canonised her for her heroic virtue, **without ruling on** her mystical phenomena.
 
+<figure class=photo><picture><source srcset="/static/art/gp-gemma-600.webp 600w,/static/art/gp-gemma.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-gemma.jpg" alt="A devotional portrait of St Gemma Galgani, based on her photograph" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>A devotional portrait of St Gemma Galgani, based on her photograph · Photo: <a href="https://commons.wikimedia.org/wiki/File:La_seraphique_Gemma_Galgani_(HS85-10-31647).jpg">La seraphique Gemma Galgani (HS85-10-31647)</a> by Jules-Ernest Livernois, Public domain, via Wikimedia Commons</figcaption></figure>
+
 ## Path to sainthood
 Beatified in 1933 and canonised by **Pope Pius XII** on **2 May 1940**.
 

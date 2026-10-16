@@ -18,6 +18,9 @@ map_caption: Lourdes in the foothills of the Pyrenees, between Tarbes and Pau, w
 - **The Grotto** is open day and night. Pilgrims touch the rock, light candles and drink from or wash at the **fountains** of the spring Bernadette uncovered.
 - **The baths** (*piscines*): pilgrims can be immersed or washed in the spring water with the help of volunteers. Times vary by season; ask at the sanctuary.
 - **Daily processions** (April–October): the **Eucharistic procession** with the blessing of the sick in the afternoon and the **Marian torchlight procession** at 21:00, singing the *Lourdes Ave Maria*.
+
+<figure class=photo><picture><source srcset="/static/art/gp-lourdes-torch-600.webp 600w,/static/art/gp-lourdes-torch.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-lourdes-torch.jpg" alt="The torchlight procession (procession aux flambeaux) at Lourdes, August 2019" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The torchlight procession (procession aux flambeaux) at Lourdes, August 2019 · Photo: <a href="https://commons.wikimedia.org/wiki/File:Procession_aux_flambeaux_27_ao%C3%BBt_2019.jpg">Procession aux flambeaux 27 août 2019</a> by Thomon, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
 - **Churches:** the **Basilica of the Immaculate Conception** (upper), the **Rosary Basilica** with its mosaics, the **crypt**, and the underground **Basilica of St Pius X**, which holds 25,000.
 - **In town:** Bernadette's **cachot**, the former prison cell where her destitute family lived, her birthplace at the **Boly Mill**, and the parish church with the font where she was baptized.
 - **Getting there:** Lourdes station is on the line from Toulouse and Bordeaux; Tarbes-Lourdes-Pyrénées airport is 10 km away. The **Accueil Notre-Dame** looks after sick pilgrims.

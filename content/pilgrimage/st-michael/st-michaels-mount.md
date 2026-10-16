@@ -44,6 +44,11 @@ map_caption: St Michael's Mount in Mount's Bay, Cornwall.
 - **The terraced gardens.** They cling to the south face, warmed by the granite and the Gulf Stream, with succulents, aloes and plants from South Africa and the Canaries that would not survive elsewhere in Britain.
 - **The harbour and causeway.** The harbour was rebuilt in the 1720s, and the granite causeway leads to Marazion at low tide. Mount's Bay was a busy trading port in the Middle Ages, and the small village of islanders' houses below the castle survives.
 
+
+<figure class=photo><picture><source srcset="/static/art/gp-mount-harbour-600.webp 600w,/static/art/gp-mount-harbour.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-mount-harbour.jpg" alt="Boats in the harbour of St Michael&#x27;s Mount at low tide" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Boats in the harbour of St Michael's Mount at low tide · Photo: <a href="https://commons.wikimedia.org/wiki/File:Tethered_boats_in_St._Michael%27s_Mount_harbour_-_geograph.org.uk_-_7879202.jpg">Tethered boats in St. Michael&#x27;s Mount harbour - geograph.org.uk - 7879202</a> by DS Pugh, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
+
+
+
 <figure><picture><source srcset="/static/art/sm-mount-window.webp" type="image/webp"><img src="/static/art/sm-mount-window.jpg" alt="A rose window in the priory church" loading="lazy" width="800" height="600" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>A rose window in the priory church. Photo: <a href="https://commons.wikimedia.org/wiki/File:West_window_of_the_chapel_of_St_Michael%27s_Mount_-_geograph.org.uk_-_4878168.jpg">David Smith</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
 
 ### Relics and sacred objects

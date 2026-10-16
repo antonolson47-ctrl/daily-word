@@ -14,6 +14,9 @@ The **Way of St Francis** (*Via di Francesco*) follows the hill paths of Tuscany
 ## Good to know
 - **Two halves.** The **northern way** runs La Verna – Assisi (about 8 to 10 days); the **southern way** runs Assisi – Rieti valley (about 8 days) and on to Rome (another 5 to 6). The whole way from La Verna to Rome is roughly 500 km.
 - **Waymarks:** the yellow **Tau** and yellow-and-blue signs.
+
+<figure class=photo><picture><source srcset="/static/art/gp-vdf-sign-600.webp 600w,/static/art/gp-vdf-sign.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gp-vdf-sign.jpg" alt="A yellow Tau waymark on the Via di Francesco" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>A yellow Tau waymark on the Via di Francesco · Photo: <a href="https://commons.wikimedia.org/wiki/File:Via_di_Francesco,_segnaletica_02.jpg">Via di Francesco, segnaletica 02</a> by Mongolo1984, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
 - **Credential:** order the official pilgrim credential from the Via di Francesco at least **3 weeks** ahead, or **2 months** if it must be posted outside Italy.
 - **Testimonium:** for at least **100 km on foot** or **200 km by bike**, collected at the **Statio Peregrinorum**, Piazza Inferiore di San Francesco 2, Assisi (10:00–12:30 and 15:00–17:30; +39 075 819001). Every pilgrim also receives the **Chartula Peregrini**.
 - **Pilgrim Mass** at the Basilica of St Francis, April to October: **18:00** on weekdays, **17:00** on Sundays.
