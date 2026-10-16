@@ -32,7 +32,43 @@ Full kilometre table: [Gronze, Camino Francés](https://www.gronze.com/camino-fr
 - **Short on time?** Sarria to Santiago (~114 km, 5 days) earns the Compostela. 67% of Francés pilgrims start there, so it's busy.
 - **Getting to the start:** fly to Biarritz or Bordeaux → train to Bayonne → train/bus to Saint-Jean-Pied-de-Port; or Madrid → Pamplona → bus.
 
+## Deep Dive
+
+### History and origins
+The cult of St James grew after a tomb near the Galician coast was identified, in the early 9th century, as that of the Apostle; the bishop Teodomiro of Iria Flavia is credited with the discovery and King Alfonso II of Asturias with the first church over it. That the tomb is truly St James's is a matter of faith and tradition; that pilgrims came in growing numbers is history. The first foreign pilgrim known by name is Gotescalco, bishop of Le Puy, who travelled in 950–951.
+
+The road we call the Francés took shape in the 11th century, when the kings of Navarre and León, above all Sancho III and Alfonso VI, shifted it south from the hills onto easier ground and built bridges, hospitals and new towns for pilgrims and settlers, many of them "Franks" from beyond the Pyrenees. Around 1140 the *Codex Calixtinus* was compiled; its fifth book, the so-called *Pilgrim's Guide*, describes this route stage by stage. In 1993 UNESCO inscribed the Camino Francés as a World Heritage Site, and the French approach routes followed in 1998.
+
+### Regions crossed
+From the French Basque Country the road enters **Navarra**, where Basque (Euskara) is still heard in the Pyrenean valleys, then the wine country of **La Rioja**, the vast region of **Castilla y León** (the provinces of Burgos, Palencia and León) and finally **Galicia** (Lugo and A Coruña), where signs switch to Galician. The food changes with the land: Navarrese vegetables and *pochas* beans, Rioja wine and lamb chops grilled over vine cuttings, the roast suckling lamb and *morcilla* of Burgos, León's *cecina* (cured beef) and the *botillo* of El Bierzo, then Galicia's *pulpo á feira*, Arzúa-Ulloa cheese and *tarta de Santiago*.
+
+### Elevation and landscape
+Day one is the big one: the Napoleon route climbs from about 170 m at Saint-Jean to roughly 1,430 m near the Col de Lepoeder before dropping to Roncesvalles. After Burgos comes the **Meseta**, a high plateau of wheat fields mostly between 750 and 900 m, open, windy and long. The route's highest point is the **Cruz de Ferro** in the Montes de León, at around 1,500 m, followed by a steep descent into the green basin of El Bierzo. The last great climb is up to **O Cebreiro** (about 1,300 m) and on past the Alto do Poio, after which Galicia is a rolling country of oak woods, granite villages and frequent rain. Guides disagree on total ascent because they measure differently, so we don't quote a single figure.
+
+### Notable past travellers
+- **Gotescalco of Le Puy** (950–951): the earliest documented pilgrim from beyond the Pyrenees.
+- **The author of the *Pilgrim's Guide*** (c. 1140): traditionally identified as the French cleric **Aymeric Picaud**, though scholars still debate the attribution.
+- **Hermann Künig von Vach** (1495): a German Servite friar whose rhymed guidebook was printed for German pilgrims.
+- **Domenico Laffi**: a priest from Bologna who walked the route several times and published a vivid account in 1673.
+- **Francis of Assisi** (*tradition*): Franciscan tradition says he made the pilgrimage around 1213–1215, but there is no contemporary documentary proof.
+
+### Notable stops
+- **Roncesvalles**: Augustinian collegiate church and pilgrim hospital, tied by legend to Roland's last stand in the *Song of Roland*.
+- **Pamplona**: walled city of the San Fermín festival, entered over the medieval Magdalena bridge.
+- **Puente la Reina**: where the routes from Somport and Roncesvalles meet, crossing an 11th-century six-arched bridge.
+- **Santo Domingo de la Calzada**: the cathedral keeps a live hen and rooster in memory of the miracle of the hanged pilgrim, a famous legend.
+- **Burgos**: its Gothic cathedral is a World Heritage Site in its own right (since 1984).
+- **León**: the Cathedral's stained glass and the Royal Pantheon of San Isidoro, with its 12th-century frescoes.
+- **Astorga**: Roman walls and Gaudí's Episcopal Palace.
+- **Cruz de Ferro**: pilgrims leave a stone from home at the foot of an iron cross on a tall pole.
+- **O Cebreiro**: thatched *pallozas* and the church linked to a medieval Eucharistic miracle legend.
+- **Sarria**: the most popular start for those walking the last 100 km.
+
 ## Sources
+- [UNESCO: Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain](https://whc.unesco.org/en/list/669)
+- [UNESCO: Routes of Santiago de Compostela in France](https://whc.unesco.org/en/list/868)
+- [UNESCO: Burgos Cathedral](https://whc.unesco.org/en/list/316)
+- [UNESCO: Santiago de Compostela (Old Town)](https://whc.unesco.org/en/list/347)
 - [Xunta de Galicia official Camino site: French Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/french-way)
 - [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)
 - [Pilgrim's Office: the Compostela certificate](https://oficinadelperegrino.com/en/pilgrimage/the-compostela/)

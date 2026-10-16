@@ -18,7 +18,36 @@ Medieval pilgrims from England, Ireland and northern Europe sailed to Ferrol or 
 ## Good to know
 - **Fly into** A Coruña or Santiago, then bus/train to Ferrol.
 
+## Deep Dive
+
+### History and origins
+From the 12th century pilgrims from England, Ireland, Scotland, Flanders and Scandinavia sailed to Galicia and landed at **A Coruña** or **Ferrol**, then walked the remaining distance inland. English royal records from the 14th and 15th centuries include licences for ships to carry pilgrims to Santiago, especially in Holy Years such as 1434, when many licences were granted. Sea travel was quicker than crossing France but brought its own dangers; an anonymous 15th-century English poem about seasick pilgrims begins, memorably, "Men may leve all gamys / That saylen to seynt Jamys". The Reformation in England largely ended the traffic in the 16th century.
+
+Today the route is also used by modern pilgrims who want a complete Camino in about a week. The Pilgrim's Office treats it like the others: walk at least 100 km on foot and collect stamps in your credencial. Because the A Coruña branch is shorter than 100 km, the Pilgrim's Office sets special rules for it, mainly for pilgrims who have already walked part of a Camino in their home country; check the current rules before relying on them.
+
+### Regions crossed
+The route stays entirely within **Galicia**, in the province of A Coruña: the naval town of Ferrol, the estuaries (*rías*) of Ferrol and Betanzos, then inland farmland and woods to Santiago. Galician is the everyday language. Food highlights include Betanzos-style tortilla (famously runny), fresh seafood around the rías, *empanada* and the Galician cheeses and breads of the inland villages.
+
+### Elevation and landscape
+The first days follow the shores of the rías through fishing towns and wooded valleys, mostly at low altitude. From Betanzos the path climbs steadily inland toward **Hospital de Bruma**, the most demanding stretch, then crosses a plateau of fields and pine woods before descending toward Santiago. The route is short, around 115 km from Ferrol, and makes a good one-week walk. The terrain mixes forest tracks, quiet country lanes and some paved stretches near towns. It is far less crowded than the Francés, so it suits pilgrims who want quiet, though accommodation is thinner in the inland stages; booking ahead is wise in summer and in Holy Years.
+
+### Notable past travellers
+- **William Wey** (1456): an English fellow of Eton College who sailed from Plymouth to A Coruña and wrote an account of the journey, including practical details such as currency exchange; one of the best-documented English pilgrims.
+- **English and Irish pilgrims in Holy Years** (15th century): recorded through royal ship licences rather than personal accounts.
+
+### Notable stops
+- **Ferrol**: an 18th-century naval town with a grid-plan district (A Magdalena); the official starting point at the harbour.
+- **Neda**: a riverside village with a medieval pilgrim hospital tradition.
+- **Pontedeume**: medieval bridge and the tower of the Andrade family.
+- **Betanzos**: an old royal town with Gothic churches (Santa María do Azougue, San Francisco with the tomb of Fernán Pérez de Andrade).
+- **Hospital de Bruma**: where the Ferrol and A Coruña branches meet; a medieval hospital stood here.
+- **Sigüeiro**: last town before Santiago, on the Tambre river.
+- **A Coruña** (alternate start): the Tower of Hercules, the world's oldest Roman lighthouse still in use; this start is too short on its own for the Compostela.
+- **Santiago de Compostela**: the Inglés enters the city from the north, reaching the cathedral through the old town.
+- **Bruma's small church**: the rest stop on the plateau, a reminder of the hospital that sheltered medieval pilgrims landing from the sea.
+
 ## Sources
+- [UNESCO: Santiago de Compostela (Old Town)](https://whc.unesco.org/en/list/347)
 - [Xunta de Galicia official Camino site: English Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/english-way)
 - [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)
 - [Pilgrim's Office: the Compostela certificate](https://oficinadelperegrino.com/en/pilgrimage/the-compostela/)
