@@ -3,7 +3,8 @@ title: St Augustine of Hippo
 subtitle: Bishop, Doctor of the Church, author of the Confessions
 group: Doctors & Teachers
 order: 5
-hero: st-augustine.jpg
+hero: saint-augustine.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg">Saint Augustine (c. 1645–50)</a>, Philippe de Champaigne · public domain, via Wikimedia Commons
 facts: {"Lived":"354 – 430","Feast day":"28 August","Recognised":"Pre-Congregation; Doctor of the Church"}
 last_verified: October 15, 2026
 ---

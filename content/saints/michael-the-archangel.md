@@ -3,7 +3,8 @@ title: St Michael the Archangel
 subtitle: Prince of the heavenly host
 group: Angels & Apostles
 order: 1
-hero: st-michael-dragon.jpg
+hero: saint-michael-the-archangel.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Guido_Reni_031.jpg">The Archangel Michael Defeating Satan (1636)</a>, Guido Reni · public domain, via Wikimedia Commons
 facts: {"Lived":"An angel: not a human life","Feast day":"29 September (Michaelmas)","Recognised":"Scripture & ancient tradition"}
 last_verified: October 15, 2026
 ---

@@ -3,7 +3,8 @@ title: St Patrick
 subtitle: Apostle of Ireland
 group: Missionaries & Mystics
 order: 7
-hero: st-patrick.jpg
+hero: saint-patrick.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Saint_Patrick_Catholic_Church_(Junction_City,_Ohio)_-_stained_glass,_Saint_Patrick_-_detail.jpg">St Patrick window, St Patrick&#x27;s Church, Junction City, Ohio</a>, photo by Nheyob · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons
 facts: {"Lived":"5th century (exact dates uncertain ⚠)","Feast day":"17 March","Recognised":"Pre-Congregation"}
 last_verified: October 15, 2026
 ---

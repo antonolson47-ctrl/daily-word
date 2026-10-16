@@ -3,7 +3,8 @@ title: St Thomas Aquinas
 subtitle: The Angelic Doctor
 group: Doctors & Teachers
 order: 6
-hero: st-thomas-aquinas.jpg
+hero: saint-thomas-aquinas.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_(Crivelli,_15th-century).jpg">Saint Thomas Aquinas (1476)</a>, Carlo Crivelli · public domain, via Wikimedia Commons
 facts: {"Lived":"c. 1225 – 7 March 1274","Feast day":"28 January","Recognised":"Canonised 18 July 1323, Pope John XXII"}
 last_verified: October 15, 2026
 ---

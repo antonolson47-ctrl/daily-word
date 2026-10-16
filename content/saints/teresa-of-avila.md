@@ -3,7 +3,8 @@ title: St Teresa of Ávila
 subtitle: Reformer of Carmel, mystic, Doctor of the Church
 group: Doctors & Teachers
 order: 10
-hero: st-teresa-avila.jpg
+hero: saint-teresa-of-avila.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Saint_Teresa_of_%C3%81vila_Interceding_for_Souls_in_Purgatory_MET_DT206354.jpg">Saint Teresa of Ávila Interceding for Souls in Purgatory</a>, Peter Paul Rubens · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons
 facts: {"Lived":"28 March 1515 – 4 October 1582","Feast day":"15 October","Recognised":"Canonised 12 March 1622 (Gregory XV); Doctor 1970"}
 last_verified: October 15, 2026
 ---

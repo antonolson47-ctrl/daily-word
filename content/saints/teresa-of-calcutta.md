@@ -3,7 +3,8 @@ title: St Teresa of Calcutta
 subtitle: Mother Teresa
 group: Modern Saints
 order: 12
-hero: st-teresa-calcutta.jpg
+hero: saint-teresa-of-calcutta.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:MotherTeresa_090.jpg">Mother Teresa (1986)</a>, photo by Túrelio · <a href="https://creativecommons.org/licenses/by-sa/2.0/de/deed.en">CC BY-SA 2.0 de</a>, via Wikimedia Commons
 facts: {"Lived":"26 August 1910 – 5 September 1997","Feast day":"5 September","Recognised":"Beatified 2003 (John Paul II); canonised 4 Sept 2016 (Francis)"}
 last_verified: October 15, 2026
 ---

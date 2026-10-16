@@ -3,7 +3,8 @@ title: St Peter
 subtitle: Fisherman, apostle, first bishop of Rome
 group: Angels & Apostles
 order: 2
-hero: st-peter.jpg
+hero: saint-peter.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Crucifixion_of_Saint_Peter-Caravaggio_(c.1600).jpg">Crucifixion of Saint Peter (1600)</a>, Caravaggio · public domain, via Wikimedia Commons
 facts: {"Lived":"d. c. AD 64–67, Rome","Feast day":"29 June (with St Paul)","Recognised":"Pre-Congregation (apostle)"}
 last_verified: October 15, 2026
 ---

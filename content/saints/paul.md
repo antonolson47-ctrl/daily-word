@@ -3,7 +3,8 @@ title: St Paul
 subtitle: Apostle to the Gentiles
 group: Angels & Apostles
 order: 3
-hero: st-paul.jpg
+hero: saint-paul.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg">Conversion on the Way to Damascus (1600–01)</a>, Caravaggio · public domain, via Wikimedia Commons
 facts: {"Lived":"c. AD 5 – c. 64/67","Feast day":"29 June; Conversion: 25 January","Recognised":"Pre-Congregation (apostle)"}
 last_verified: October 15, 2026
 ---

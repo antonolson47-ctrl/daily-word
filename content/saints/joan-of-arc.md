@@ -3,7 +3,8 @@ title: St Joan of Arc
 subtitle: The Maid of Orléans
 group: Missionaries & Mystics
 order: 9
-hero: st-joan-of-arc.jpg
+hero: saint-joan-of-arc.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg">Joan of Arc at the Coronation of Charles VII (1854)</a>, Jean-Auguste-Dominique Ingres · public domain, via Wikimedia Commons
 facts: {"Lived":"c. 1412 – 30 May 1431","Feast day":"30 May","Recognised":"Beatified 1909 (Pius X); canonised 16 May 1920 (Benedict XV)"}
 last_verified: October 15, 2026
 ---

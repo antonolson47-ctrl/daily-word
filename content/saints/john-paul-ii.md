@@ -3,7 +3,8 @@ title: St John Paul II
 subtitle: Pope from 1978 to 2005
 group: Modern Saints
 order: 13
-hero: st-john-paul-ii.jpg
+hero: saint-john-paul-ii.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_visits_Katowice_church,_Poland_straightened_cropped.jpg">John Paul II in Katowice, Poland (1983)</a>, photo by Bernard Gotfryd · public domain, via Wikimedia Commons
 facts: {"Lived":"18 May 1920 – 2 April 2005","Feast day":"22 October","Recognised":"Beatified 1 May 2011 (Benedict XVI); canonised 27 April 2014 (Francis)"}
 last_verified: October 15, 2026
 ---

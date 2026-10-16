@@ -3,7 +3,8 @@ title: St Thérèse of Lisieux
 subtitle: The Little Flower
 group: Missionaries & Mystics
 order: 11
-hero: st-therese.jpg
+hero: saint-therese-of-lisieux.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Th%C3%A9r%C3%A8se_de_Lisieux_in_1885.jpg">Thérèse of Lisieux, photograph (c. 1888)</a>, unknown photographer · public domain, via Wikimedia Commons
 facts: {"Lived":"2 January 1873 – 30 September 1897","Feast day":"1 October","Recognised":"Canonised 17 May 1925 (Pius XI); Doctor 1997"}
 last_verified: October 15, 2026
 ---

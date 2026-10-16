@@ -3,7 +3,8 @@ title: St Francis of Assisi
 subtitle: Little poor man of Assisi
 group: Missionaries & Mystics
 order: 8
-hero: st-francis.jpg
+hero: saint-francis-of-assisi.jpg
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Giotto_-_Legend_of_St_Francis_-_-15-_-_Sermon_to_the_Birds.jpg">Sermon to the Birds, Upper Basilica, Assisi (c. 1297–1300)</a>, traditionally attributed to Giotto · public domain, via Wikimedia Commons
 facts: {"Lived":"1181/1182 – 3 October 1226","Feast day":"4 October","Recognised":"Canonised 16 July 1228, Pope Gregory IX"}
 last_verified: October 15, 2026
 ---
