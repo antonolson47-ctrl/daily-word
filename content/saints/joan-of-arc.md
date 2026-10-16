@@ -19,7 +19,7 @@ France (secondary patron, proclaimed by Pius XI on 2 March 1922), soldiers, and 
 
 ## Trivia
 - Among the charges against her was **wearing men's clothing**.
-- **St Michael** was one of her voices, which ties her to [St Michael's Line](/daily-word/pilgrimage/st-michael/) and Mont-Saint-Michel, which never fell to the English.
+- **St Michael** was one of her voices, which ties her to [St Michael's Line](/pilgrimage/st-michael/) and Mont-Saint-Michel, which never fell to the English.
 - She could not read or write, but her signature ("Jehanne") survives on letters she dictated.
 
 ## Sources

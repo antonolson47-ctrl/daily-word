@@ -45,7 +45,7 @@ def main():
     imgname=f'{date}.png'; shutil.copy(img,os.path.join(ROOT,'static/img/verses',imgname))
     open(os.path.join(ROOT,'content/verses',slug+'.md'),'w',encoding='utf-8').write(to_md(d,S,al,date,imgname,title or d['ref']))
     subprocess.run([sys.executable,os.path.join(ROOT,'build.py')],check=True)
-    url=f'https://antonolson47-ctrl.github.io/daily-word/verses/{slug}/'
+    url=f'https://dailywordptl.com/verses/{slug}/'
     if push:
         g=lambda *c: subprocess.run(['git','-C',ROOT,*c],check=True)
         g('add','-A'); g('commit','-q','-m',f'Verse {date}: {d["ref"]}'); g('push','-q','origin','main')

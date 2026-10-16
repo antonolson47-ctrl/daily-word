@@ -3,7 +3,7 @@
 import os, re, json, shutil, html, sys, datetime
 import markdown
 ROOT=os.path.dirname(os.path.abspath(__file__)); C=os.path.join(ROOT,'content'); OUT=os.path.join(ROOT,'docs')
-BASE='/daily-word'
+BASE=''
 def md(t): return markdown.markdown(t,extensions=['tables','md_in_html'])
 def load(p):
     s=open(p,encoding='utf-8').read(); meta={}
@@ -118,7 +118,8 @@ def build():
 '''+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
 <h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/" style="grid-column:1/-1">✨ Saints<small>Lives, miracles, feast days & trivia</small></a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
-    open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/daily-word/">Home</a></p>'))
+    open(os.path.join(OUT,'CNAME'),'w').write('dailywordptl.com\n')
+    open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>'))
     print(f'built {len(vs)} verses; ESV verses quoted: {esv}/500')
     if esv>=450: print('WARNING: approaching Crossway 500-verse limit; plan the switch to NRSV/BSB/WEB')
 if __name__=='__main__': build()

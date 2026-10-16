@@ -18,4 +18,4 @@ map_caption: St Michael's line: the seven sanctuaries, from Skellig Michael in I
 </div>
 <!--list-->
 ## Sources
-[Wikipedia: Saint Michael's line](https://en.m.wikipedia.org/wiki/Saint_Michael%27s_line) · [Europeana: Shrines to Saint Michael](https://www.europeana.eu/en/stories/shrines-to-saint-michael-across-europe) · [Saints: Michael the Archangel](/daily-word/saints/michael-the-archangel/)
+[Wikipedia: Saint Michael's line](https://en.m.wikipedia.org/wiki/Saint_Michael%27s_line) · [Europeana: Shrines to Saint Michael](https://www.europeana.eu/en/stories/shrines-to-saint-michael-across-europe) · [Saints: Michael the Archangel](/saints/michael-the-archangel/)

@@ -7,7 +7,7 @@ last_verified: October 15, 2026
 For more than a thousand years, pilgrims have walked across Europe to the tomb of the Apostle James the Greater in the Cathedral of Santiago de Compostela, in Galicia (northwest Spain). In 2025 a record **530,987** pilgrims received the Compostela certificate ([Pilgrim Office statistics](https://oficinadelperegrino.com/estadisticas-2/)).
 
 <div class=warn markdown=1>
-**2027 is a Holy Year.** The Holy Door opens on 31 December 2026 and stays open all of 2027. Expect the biggest crowds in modern history: book private beds early. [Holy Year 2027 →](/daily-word/pilgrimage/camino/holy-year-2027/)
+**2027 is a Holy Year.** The Holy Door opens on 31 December 2026 and stays open all of 2027. Expect the biggest crowds in modern history: book private beds early. [Holy Year 2027 →](/pilgrimage/camino/holy-year-2027/)
 </div>
 <!--list-->
 ## Quick answers

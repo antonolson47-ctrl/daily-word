@@ -22,7 +22,7 @@ Soldiers, police officers, paramedics, the sick, and a good death.
 - Michaelmas was one of the four "quarter days" when rents were due in England, and it gave its name to Oxford and Cambridge's autumn **Michaelmas term**.
 - English folklore: don't pick blackberries after Michaelmas, because the devil, cast out of heaven, landed in a bramble bush and spoiled them.
 
-**Shrines:** see [St Michael's Line](/daily-word/pilgrimage/st-michael/).
+**Shrines:** see [St Michael's Line](/pilgrimage/st-michael/).
 
 ## Sources
 - [Vatican News: St Michael the Archangel](https://www.vaticannews.va/en/saints/09/29/st--michael--archangel.html)
