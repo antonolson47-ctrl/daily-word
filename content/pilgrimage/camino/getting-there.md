@@ -19,4 +19,4 @@ last_verified: October 15, 2026
 <div class=warn markdown=1>⚠ Schedules and seasonal flights change. Check the current timetables from SNCF/Transports 64 (Saint-Jean), Renfe, ALSA and the airlines before booking.</div>
 
 ## Sources
-[Spain.info Camino](https://www.spain.info/en/top/camino-de-santiago/) · [Renfe](https://www.renfe.com/) · [Aena (Spanish airports)](https://www.aena.es/en/) · [Gronze](https://www.gronze.com/)
+[Xunta de Galicia official Camino site: the routes](https://www.caminodesantiago.gal/en/make-plans/the-ways) · [Renfe](https://www.renfe.com/) · [Aena (Spanish airports)](https://www.aena.es/en/) · [Gronze](https://www.gronze.com/)

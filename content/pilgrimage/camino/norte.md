@@ -18,6 +18,10 @@ Cliffs, beaches and green hills through the Basque Country, Cantabria and Asturi
 - At Villaviciosa you can switch to the Primitivo via Oviedo.
 
 ## Sources
+- [Xunta de Galicia official Camino site: Northern Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/northern-way)
+- [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)
+- [Pilgrim's Office: the Compostela certificate](https://oficinadelperegrino.com/en/pilgrimage/the-compostela/)
+- [Cathedral of Santiago de Compostela (official)](https://catedraldesantiago.es/en/)
 - [Oficina del Peregrino, statistics 2025](https://oficinadelperegrino.com/estadisticas-2/) (route shares, via [santiago.es summary](https://santiago.es/en/camino-de-santiago/pilgrim-statistics))
 - [santiago.es: every Camino route side by side](https://santiago.es/en/camino-de-santiago/routes)
 - [pilgrim.es route list](https://www.pilgrim.es/camino-de-santiago/) · [Seis Caminos route list](https://seiscaminosdesantiago.com/en/routes)

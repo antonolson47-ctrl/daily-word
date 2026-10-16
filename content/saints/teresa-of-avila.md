@@ -23,6 +23,9 @@ Spain, writers, people in religious life, and headache sufferers.
 - Bernini's sculpture *The Ecstasy of St Teresa* in Rome depicts her vision of an angel piercing her heart.
 
 ## Sources
+- [Paul VI, homily proclaiming St Teresa a Doctor of the Church (27 Sep 1970), vatican.va](https://www.vatican.va/content/paul-vi/en/homilies/1970/documents/hf_p-vi_hom_19700927.html)
+- [Benedict XVI, General Audience on St Teresa of Ávila (2 Feb 2011), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110202.html)
+- [Vatican News: St Teresa of Jesus](https://www.vaticannews.va/en/saints/10/15/st--theresa-of-jesus--virgin--doctor-of-the-church--discalced-ca.html)
 - [Britannica: St Teresa of Ávila](https://www.britannica.com/biography/Saint-Teresa-of-Avila)
 - [Catholic Encyclopedia: St Teresa of Ávila](https://www.newadvent.org/cathen/14515b.htm) (beatified 1614, canonised 1622)
 - [National Catholic Register: "If this is how you treat your friends…"](https://www.ncregister.com/blog/if-this-is-how-you-treat-your-friends)

@@ -23,6 +23,8 @@ Fishermen, net makers, popes, and locksmiths (the keys of the kingdom).
 - Peter's in-law appears in the Gospels: Jesus healed his **mother-in-law** (Mark 1:30), so Peter was married.
 
 ## Sources
+- [Benedict XVI, General Audience "Peter, the rock" (7 Jun 2006), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060607.html)
+- [Vatican News: St Peter](https://www.vaticannews.va/en/saints/06/29/saint-peter--apostle-of-the-city-of-rome.html)
 - [Britannica: St Peter the Apostle](https://www.britannica.com/biography/Saint-Peter-the-Apostle)
 - [Catholic Encyclopedia: St Peter](https://www.newadvent.org/cathen/11744a.htm) (Origen on the upside-down crucifixion)
 - [AP: Vatican unveils bone fragments said to be Peter's](https://apnews.com/general-news-f8e5f9f5489d450d8224ecb4fc28737e)

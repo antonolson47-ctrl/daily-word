@@ -23,6 +23,7 @@ Converts, penitents, perfumers, hairdressers, and contemplatives.
 - French tradition places her last years in a cave at **La Sainte-Baume** in Provence.
 
 ## Sources
+- [Vatican News: St Mary Magdalene](https://www.vaticannews.va/en/saints/07/22/st--mary-magdalene--disciple-of-the-lord-.html)
 - [Vatican: Decree raising Mary Magdalene to a feast (2016)](https://www.vatican.va/roman_curia/congregations/ccdds/documents/sanctae-m-magdalenae-decretum_en.pdf)
 - [Britannica: St Mary Magdalene](https://www.britannica.com/biography/Saint-Mary-Magdalene)
 

@@ -23,6 +23,7 @@ Ireland, Nigeria, engineers, and the Archdiocese of New York.
 - The shamrock story (explaining the Trinity with a three-leaf clover) first appears in writing centuries after his death ⚠.
 
 ## Sources
+- [Vatican News: St Patrick](https://www.vaticannews.va/en/saints/03/17/st--patrick--bishop--disciple-of-ireland-.html)
 - [Britannica: St Patrick](https://www.britannica.com/biography/Saint-Patrick)
 - [Royal Irish Academy: St Patrick's Confessio](https://www.confessio.ie/)
 

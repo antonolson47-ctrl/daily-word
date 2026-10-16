@@ -23,6 +23,7 @@ Co-patron of the Archdiocese of Calcutta (declared 6 September 2017, alongside S
 - Her white sari with its blue border was registered in India as a trademark of the Missionaries of Charity on 4 September 2016, the day she was canonised.
 
 ## Sources
+- [Vatican News: St Teresa of Calcutta](https://www.vaticannews.va/en/saints/09/05/s--mother-theresa-of-calcutta.html)
 - [Vatican: Homily for the canonisation, 4 Sept 2016](https://www.vatican.va/content/francesco/en/homilies/2016/documents/papa-francesco_20160904_omelia-canonizzazione-madre-teresa.html)
 - [Nobel Prize: Mother Teresa, 1979](https://www.nobelprize.org/prizes/peace/1979/teresa/facts/)
 - [AP: Vatican declares Mother Teresa a patron saint of Calcutta (2017)](https://apnews.com/general-news-42da4c857971478487fc542cd61a470c)

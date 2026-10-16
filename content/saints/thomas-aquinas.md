@@ -23,6 +23,8 @@ Students, universities, Catholic schools, theologians, and pencil makers.
 - After an experience during Mass in December 1273 he stopped writing, saying everything he had written seemed "like straw". The *Summa* was left unfinished.
 
 ## Sources
+- [Benedict XVI, General Audience on St Thomas Aquinas (2 Jun 2010), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100602.html)
+- [Leo XIII, encyclical Aeterni Patris (1879), vatican.va](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html)
 - [Britannica: St Thomas Aquinas](https://www.britannica.com/biography/Saint-Thomas-Aquinas)
 - [Catholic Encyclopedia: St Thomas Aquinas](https://www.newadvent.org/cathen/14663b.htm)
 

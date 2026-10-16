@@ -24,6 +24,8 @@ Italy, animals, ecology, and merchants.
 - Pope Francis (elected 2013) was the first pope to take his name.
 
 ## Sources
+- [Benedict XVI, General Audience on St Francis (27 Jan 2010), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100127.html)
+- [Vatican News: St Francis of Assisi](https://www.vaticannews.va/en/saints/10/04/st--francis-of-assisi--founder-of-the-franciscan--order--patron-.html)
 - [Britannica: St Francis of Assisi](https://www.britannica.com/biography/Saint-Francis-of-Assisi)
 - [Catholic Encyclopedia: St Francis of Assisi](https://www.newadvent.org/cathen/06221a.htm)
 

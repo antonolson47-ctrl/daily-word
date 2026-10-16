@@ -16,4 +16,4 @@ For more than a thousand years, pilgrims have walked across Europe to the tomb o
 - **Cheapest bed:** Galician public albergues, €10 a night, no reservations.
 
 ## Sources
-[Oficina del Peregrino](https://oficinadelperegrino.com/en/) · [Xunta de Galicia Camino site](https://www.caminodesantiago.gal/) · [Gronze](https://www.gronze.com/) · [santiago.es route comparison](https://santiago.es/en/camino-de-santiago/routes) · [Confraternity of St James](https://www.csj.org.uk/) · [American Pilgrims on the Camino](https://americanpilgrims.org/) · [Wise Pilgrim](https://www.wisepilgrim.com/) · [Spain.info](https://www.spain.info/en/top/camino-de-santiago/)
+[Oficina del Peregrino](https://oficinadelperegrino.com/en/) · [Xunta de Galicia Camino site](https://www.caminodesantiago.gal/) · [Gronze](https://www.gronze.com/) · [santiago.es route comparison](https://santiago.es/en/camino-de-santiago/routes) · [Confraternity of St James](https://www.csj.org.uk/) · [American Pilgrims on the Camino](https://americanpilgrims.org/) · [Wise Pilgrim](https://www.wisepilgrim.com/)

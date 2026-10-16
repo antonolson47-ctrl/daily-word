@@ -23,6 +23,8 @@ France (secondary patron, proclaimed by Pius XI on 2 March 1922), soldiers, and 
 - She could not read or write, but her signature ("Jehanne") survives on letters she dictated.
 
 ## Sources
+- [Benedict XVI, General Audience on St Joan of Arc (26 Jan 2011), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110126.html)
+- [Vatican News: St Joan of Arc](https://www.vaticannews.va/en/saints/05/30/st--joan-of-arc--virgin.html)
 - [Britannica: St Joan of Arc](https://www.britannica.com/biography/Saint-Joan-of-Arc)
 - [Catholic Encyclopedia: St Joan of Arc](https://www.newadvent.org/cathen/08409c.htm)
 

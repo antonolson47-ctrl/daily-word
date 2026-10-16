@@ -23,6 +23,7 @@ World Youth Day, young people, and families.
 - He wrote poetry and plays, and spoke many languages.
 
 ## Sources
+- [Vatican News: St John Paul II](https://www.vaticannews.va/en/saints/10/22/st--john-paul--ii--pope.html)
 - [Vatican: biography of John Paul II](https://www.vatican.va/special/canonizzazione-27042014/documents/biografia_gpii_canonizzazione_en.html)
 - [Vatican: Canonisation homily, 27 April 2014](https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140427_omelia-canonizzazioni.html)
 

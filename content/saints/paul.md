@@ -23,6 +23,8 @@ Missionaries, writers, journalists, theologians, and tentmakers.
 - On **28 June 2009** **Pope Benedict XVI** announced that bone fragments from the sarcophagus under St Paul Outside the Walls had been carbon-dated to the 1st or 2nd century, which he said "seems to confirm" the tradition that they are Paul's.
 
 ## Sources
+- [Benedict XVI, General Audience opening the Pauline catechesis (2 Jul 2008), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080702.html)
+- [Vatican News: St Paul](https://www.vaticannews.va/en/saints/06/29/saint-paul--apostle-of-the-city-of-rome.html)
 - [Britannica: St Paul the Apostle](https://www.britannica.com/biography/Saint-Paul-the-Apostle)
 - [Catholic Encyclopedia: St Paul](https://www.newadvent.org/cathen/11567b.htm)
 - [Reuters: Pope says bone fragments found in St Paul's tomb (2009)](https://www.reuters.com/article/lifestyle/science/pope-says-bone-fragments-found-in-st-pauls-tomb-idUSTRE55R22O/)

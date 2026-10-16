@@ -23,8 +23,8 @@ Missions (named by Pius XI on 14 December 1927, alongside St Francis Xavier, tho
 - She promised to "spend my heaven doing good on earth" and to let fall "a shower of roses". Roses are her symbol.
 
 ## Sources
+- [Vatican News: St Thérèse of the Child Jesus](https://www.vaticannews.va/en/saints/10/01/st--therese-of-the-child-jesus--carmelite---virgin-doctor-of-the.html)
 - [Britannica: St Thérèse of Lisieux](https://www.britannica.com/biography/Saint-Therese-of-Lisieux)
-- [Vatican City State: Saint of the day, St Thérèse](https://vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/764-1-ottobre-santa-teresa-di-gesu-bambino-dottore-della-chiesa.html)
 - [AP: Pope canonizes first married couple in modern times](https://apnews.com/general-news-d762866d597b44f59432bfeed2abfbab)
 - [Vatican: John Paul II, Divini Amoris Scientia (1997)](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1997/documents/hf_jp-ii_apl_19101997_divini-amoris.html)
 

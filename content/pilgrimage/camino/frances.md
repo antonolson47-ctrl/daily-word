@@ -33,6 +33,10 @@ Full kilometre table: [Gronze, Camino Francés](https://www.gronze.com/camino-fr
 - **Getting to the start:** fly to Biarritz or Bordeaux → train to Bayonne → train/bus to Saint-Jean-Pied-de-Port; or Madrid → Pamplona → bus.
 
 ## Sources
+- [Xunta de Galicia official Camino site: French Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/french-way)
+- [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)
+- [Pilgrim's Office: the Compostela certificate](https://oficinadelperegrino.com/en/pilgrimage/the-compostela/)
+- [Cathedral of Santiago de Compostela (official)](https://catedraldesantiago.es/en/)
 - [Oficina del Peregrino, statistics 2025](https://oficinadelperegrino.com/estadisticas-2/) (route shares, via [santiago.es summary](https://santiago.es/en/camino-de-santiago/pilgrim-statistics))
 - [santiago.es: every Camino route side by side](https://santiago.es/en/camino-de-santiago/routes)
 - [pilgrim.es route list](https://www.pilgrim.es/camino-de-santiago/) · [Seis Caminos route list](https://seiscaminosdesantiago.com/en/routes)

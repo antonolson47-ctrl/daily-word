@@ -23,6 +23,8 @@ Theologians, printers, brewers, and those struggling with sin.
 - He died in 430 while the **Vandals besieged Hippo**.
 
 ## Sources
+- [Benedict XVI, General Audience on St Augustine (9 Jan 2008), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080109.html)
+- [Vatican News: St Augustine](https://www.vaticannews.va/en/saints/08/28/st---augustine--bishop-of-hyppo-and-doctor-of-the-church.html)
 - [Britannica: St Augustine](https://www.britannica.com/biography/Saint-Augustine)
 - [Catholic Encyclopedia: St Augustine](https://www.newadvent.org/cathen/02084a.htm)
 

@@ -19,6 +19,10 @@ Medieval pilgrims from England, Ireland and northern Europe sailed to Ferrol or 
 - **Fly into** A Coruña or Santiago, then bus/train to Ferrol.
 
 ## Sources
+- [Xunta de Galicia official Camino site: English Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/english-way)
+- [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)
+- [Pilgrim's Office: the Compostela certificate](https://oficinadelperegrino.com/en/pilgrimage/the-compostela/)
+- [Cathedral of Santiago de Compostela (official)](https://catedraldesantiago.es/en/)
 - [Oficina del Peregrino, statistics 2025](https://oficinadelperegrino.com/estadisticas-2/) (route shares, via [santiago.es summary](https://santiago.es/en/camino-de-santiago/pilgrim-statistics))
 - [santiago.es: every Camino route side by side](https://santiago.es/en/camino-de-santiago/routes)
 - [pilgrim.es route list](https://www.pilgrim.es/camino-de-santiago/) · [Seis Caminos route list](https://seiscaminosdesantiago.com/en/routes)

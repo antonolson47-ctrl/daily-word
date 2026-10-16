@@ -25,6 +25,7 @@ Soldiers, police officers, paramedics, the sick, and a good death.
 **Shrines:** see [St Michael's Line](/daily-word/pilgrimage/st-michael/).
 
 ## Sources
+- [Vatican News: St Michael the Archangel](https://www.vaticannews.va/en/saints/09/29/st--michael--archangel.html)
 - [Catholic Encyclopedia: St Michael the Archangel](https://www.newadvent.org/cathen/10275b.htm)
 - [Britannica: Michael](https://www.britannica.com/topic/Michael-archangel)
 - [Wikipedia: Prayer to Saint Michael (history & sources)](https://en.wikipedia.org/wiki/Prayer_to_Saint_Michael)
