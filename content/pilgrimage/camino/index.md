@@ -15,5 +15,8 @@ For more than a thousand years, pilgrims have walked across Europe to the tomb o
 - **Most popular:** Camino Francés (45.6% of 2025 pilgrims), then the two Portuguese routes (~36% combined).
 - **Cheapest bed:** Galician public albergues, €10 a night, no reservations.
 
+## The saint at the end of the road
+The Camino ends at the tomb of the apostle James. Read his story, and what is history and what is legend, on our [St James the Greater (Santiago)](/saints/james-the-greater/) page. Saints along the routes include [St Fermín](/saints/fermin/) in Pamplona (Camino Francés), [St Eulalia](/saints/eulalia/) in Mérida (Vía de la Plata) and [St Elizabeth of Portugal](/saints/elizabeth-of-portugal/) in Coimbra (Camino Portugués), who walked to Santiago herself in 1325.
+
 ## Sources
 [Oficina del Peregrino](https://oficinadelperegrino.com/en/) · [Xunta de Galicia Camino site](https://www.caminodesantiago.gal/) · [Gronze](https://www.gronze.com/) · [santiago.es route comparison](https://santiago.es/en/camino-de-santiago/routes) · [Confraternity of St James](https://www.csj.org.uk/) · [American Pilgrims on the Camino](https://americanpilgrims.org/) · [Wise Pilgrim](https://www.wisepilgrim.com/)
