@@ -1,0 +1,6 @@
+[{"id":"camino","name":"Camino de Santiago","status":"live","summary":"Spain & Portugal to the tomb of St James in Santiago de Compostela. Routes, Compostela rules, costs, Holy Year 2027."},
+ {"id":"st-michael","name":"St Michael's Line","status":"live","summary":"Seven sanctuaries of the Archangel, from Skellig Michael to Mount Carmel."},
+ {"id":"via-francigena","name":"Via Francigena","status":"soon","summary":"Canterbury to Rome, about 2,000 km, on Archbishop Sigeric's 10th-century route."},
+ {"id":"kumano-kodo","name":"Kumano Kodo","status":"soon","summary":"Japan's ancient pilgrimage trails on the Kii Peninsula."},
+ {"id":"st-olav","name":"St Olav's Way","status":"soon","summary":"Oslo or Sweden to Trondheim's Nidaros Cathedral."},
+ {"id":"st-cuthbert","name":"St Cuthbert's Way","status":"soon","summary":"Melrose to Holy Island (Lindisfarne), Scotland to England."}]
