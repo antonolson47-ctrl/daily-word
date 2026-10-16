@@ -11,6 +11,58 @@ last_verified: October 15, 2026
 ## Her story
 Lucy was a young Christian woman martyred at Syracuse during the persecution of Diocletian. Her early cult is well attested (she is named in the Roman Canon of the Mass), but her later *Acts* are largely legendary: they say she gave her dowry to the poor, was denounced by a rejected suitor, and could not be moved even by a team of oxen when the authorities tried to drag her away, before being killed by the sword.
 
+## The full story: from Syracuse to the Lucia crown
+
+<div class=warn markdown=1>**History or legend?** What we can rely on: Lucy was a real virgin martyr of **Syracuse** who died around **304**, during Diocletian's persecution. Her cult is very early. A 4th/5th-century Greek inscription found in the catacomb of San Giovanni in Syracuse names her feast, and her name was added to the **Roman Canon** of the Mass, where it is still read today. The story told below comes from her ***Acts*** (*Passio*), written in Greek and Latin probably in the 5th–6th century. Vatican News describes it as "a collection of traditions, popular tales and legends". The famous **eyes** story is later still, from the Middle Ages.</div>
+
+### A daughter of Syracuse
+In the Acts, Lucy is born in the late 3rd century to a rich and noble Christian family in Syracuse, the old Greek city on Sicily's east coast. Her father dies when she is small, and her mother **Eutychia** brings her up. Lucy has secretly resolved to give her life to Christ and remain a virgin. Not knowing this, Eutychia promises her in marriage to a young pagan nobleman. Lucy keeps finding reasons to put the wedding off.
+
+### Healing at St Agatha's tomb
+Eutychia has suffered for years from a haemorrhage that no doctor could cure. In the Vatican News account, mother and daughter go on pilgrimage around 301 to **Catania**, about 60 km north, to the tomb of the martyr **St Agatha**, arriving on her feast, 5 February. At Mass they hear the Gospel of the woman healed by touching the hem of Jesus's cloak. Lucy urges her mother to trust Agatha's intercession. That night, praying at the tomb, Lucy falls asleep and sees Agatha in a dream: "Lucy, my sister, why do you ask of me what you yourself can obtain for your mother?" Agatha tells her that, just as Catania is honoured through Agatha, Syracuse will be honoured through Lucy. Eutychia is healed. Lucy then tells her mother her secret, and asks to give her dowry to the poor at once.
+
+### The spurned suitor
+Back in Syracuse, Lucy and her mother begin selling jewels and land and giving the money away. The disappointed fiancé finds out where the dowry is going and, in revenge, denounces Lucy to the governor, **Paschasius**, as a Christian. This is during the Great Persecution, which Diocletian launched in 303.
+
+### The brothel and the oxen
+Paschasius orders her to sacrifice to the gods. She refuses, saying that the true sacrifice is to care for widows and orphans, and that she has nothing left to give but herself. When he threatens to have her dragged to a **brothel** to be defiled, she answers that the body is not defiled without the consent of the mind. The guards try to carry her off and cannot move her. They tie ropes to her; more men pull; the Passio's later retellings speak of **a thousand men**, and then teams of **oxen**, all unable to shift her an inch. She stands, in the words of the Golden Legend, as if rooted to the ground.
+
+### The fire that would not burn
+Paschasius, suspecting witchcraft, has her drenched in urine (thought to break spells), then surrounded with brushwood, pitch and oil, and set on fire. The flames do not harm her.
+
+### The sword and the prophecy
+At last a sword (in some versions a dagger) is thrust into her **throat**. Even then, the Passio says, she goes on speaking. She foretells that the persecution will soon end: Diocletian will lose his throne, Maximian will die, and peace will come to the Church. Only after receiving Holy Communion from priests does she die. Diocletian did in fact abdicate in 305, and the Edict of Milan came in 313, which the story turns into prophecy. She was buried in Syracuse, where the catacomb of Santa Lucia lies beneath the church built over her tomb.
+
+### The eyes: a late medieval legend
+Nothing in the ancient Acts says Lucy's eyes were put out. The story appears only in the late Middle Ages: in one version her eyes are gouged out by her torturers, in another she tears them out herself and sends them to the suitor who admired them, and God gives her new, even more beautiful eyes. The legend probably grew from her name, since **Lucia** comes from Latin ***lux, lucis***, "light". A saint of light became the saint of sight. From the 14th–15th century painters show her holding her **eyes on a dish**, or, as in **Francesco del Cossa**'s panel at the top of this page, on a stem like a flower. Dante gives "Lucia" a role as a messenger of illuminating grace in the *Divine Comedy*. She is invoked against eye disease and is patron of the blind.
+
+### Her relics: Syracuse, Constantinople, Venice
+Her body stayed in Syracuse for centuries. In **1039** the Byzantine general George Maniakes took it to **Constantinople**; after the Fourth Crusade sacked the city in **1204** it was brought to **Venice**. There it lay in the church of Santa Lucia until that church was demolished in the 1860s to build the railway station, which is why Venice's station is still called **Venezia Santa Lucia**. Since **1861** the relics have rested in the church of **San Geremia**, its full name now San Geremia e Lucia. Syracuse, which has her empty tomb and some relics, has long asked for her return; the body has visited the city on special occasions (most recently in 2014).
+
+### "Lucy light, the shortest day"
+Before the **Gregorian calendar reform of 1582**, the Julian calendar had drifted about ten days behind the sun, so the winter solstice fell around **12–13 December**. Lucy's feast was therefore the shortest day and longest night of the year, which made her the perfect saint of light in the darkness. An old English saying went "Lucy light, Lucy light, shortest day and longest night", and John Donne's poem *A Nocturnal upon S. Lucy's Day, Being the Shortest Day* (c. 1617) plays on it. Sweden and other Protestant countries kept the Julian calendar until the 18th century, which helps explain why the date stayed linked to midwinter in Nordic folk memory.
+
+### Lussinatten: the longest night
+In old Swedish folklore, **Lussinatten**, the night of 12–13 December, was a dangerous night. Animals were thought to speak, and evil spirits roamed. A dark female figure, *Lussi*, punished households whose Christmas work was not done. People stayed awake (*lussevaka*), ate an early, generous meal, and farm work had to be finished. The bright, white-robed Lucia of modern celebrations is a much later, Christianised and gentler figure.
+
+<figure><picture><source srcset="/static/art/lucy-dardel.webp" type="image/webp"><img src="/static/art/lucy-dardel.jpg" alt="A 19th-century Swedish manor house Lucia celebration: a girl with a candle crown serving the household at dawn" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src><a href="https://commons.wikimedia.org/wiki/File:Luciafirande_p%C3%A5_Koberg_i_V%C3%A4sterg%C3%B6tland_1848._Fritz_von_Dardel_-_Nordiska_Museet_-_NMA.0033692.jpg">Lucia celebration at Koberg, Västergötland, 1848</a>, watercolour by Fritz von Dardel · public domain, Nordiska museet via Wikimedia Commons</figcaption></figure>
+
+### Lucia Day in Sweden
+The custom of a girl dressed in white, wearing a crown of lights and bringing coffee and saffron buns to the household at dawn, is first recorded on manor farms in **western Sweden** in the 18th century. It spread through student customs in Uppsala and Lund. Skansen, Stockholm's open-air museum, staged Lucia processions from **1893** to show the old western Swedish custom. A photo of Skansen's 1896 Lucia already shows the **white gown, red sash** and candle crown decorated with lingonberry sprigs. The red sash is often explained as a sign of her martyrdom.
+
+The modern public festival dates from **13 December 1927**, when Stockholm's merchants' associations, backed by the newspaper ***Stockholms Dagblad***, held a mounted Lucia procession through the electrically lit city centre. In **1928** Stockholms Dagblad began choosing an official **Stockholm Lucia**. From 1929 readers voted, and other papers copied the idea across the country. (The pageant is sometimes credited to a paper called *Dagen*. In fact it was Stockholms Dagblad, as Nordiska museet and Skansen both record.)
+
+Today almost every school, church, office and care home in Sweden holds a **Luciatåg** (procession). Lucia leads, followed by white-clad attendants (*tärnor*) with candles, **star boys** (*stjärngossar*) in pointed hats, and often gingerbread men and tomtar. The crown is now usually battery-lit. The procession sings the Swedish version of **"Sankta Lucia"**, which is in fact a **Neapolitan song**. "Santa Lucia" was published by Teodoro Cottrau in 1849 as a boatman's song about the Santa Lucia waterfront in Naples, and it was given new Swedish words about light conquering darkness. Everyone eats ***lussekatter***, S-shaped saffron buns with raisins, and drinks coffee or glögg.
+
+<figure><picture><source srcset="/static/art/lucy-lucia1929.webp" type="image/webp"><img src="/static/art/lucy-lucia1929.jpg" alt="Gudrun Jern, Stockholm's Lucia of 1929, wearing a crown of candles" loading="lazy" style="width:70%;height:auto;display:block;margin:0 auto;border-radius:10px"></picture><figcaption class=src><a href="https://commons.wikimedia.org/wiki/File:Lucia_1929.png">Gudrun Jern, Lucia of 1929</a>, chosen in the first reader vote run by Stockholms Dagblad. Photo by Axel Malmström · public domain, via Wikimedia Commons</figcaption></figure>
+
+### Finland, Norway and Denmark
+- **Finland:** Lucia spread to Swedish-speaking Finland in the late 1800s. Since 1949 the Swedish-speaking organisation Folkhälsan has chosen a national Lucia, who is crowned in **Helsinki Cathedral** on 13 December and then travels around the country visiting hospitals and care homes.
+- **Norway:** *Luciadagen* became widespread from the 1950s, mainly in schools and kindergartens, where children walk in procession with candles, singing "Santa Lucia" in Norwegian, and eat *lussekatter*.
+- **Denmark:** Lucia arrived in **1944**, during the German occupation, as a quiet act of light and defiance. Processions are now common in schools, churches and hospitals.
+
+In Lucy's native **Sicily**, by contrast, her day is kept with ***cuccìa***, a dish of boiled wheat berries. People eat no bread or pasta that day, in memory of a famine that legend says she ended in 1646, when grain ships arrived in Syracuse harbour on her feast.
+
 ## Path to sainthood
 Pre-Congregation saint, venerated since at least the 5th century.
 
@@ -23,7 +75,10 @@ The blind, eye disease, Syracuse.
 - Paintings show her holding her **eyes** on a dish, from a late medieval legend that her eyes were put out.
 
 ## Sources
+- [Vatican News (Italian): Santa Lucia, vergine e martire di Siracusa](https://www.vaticannews.va/it/santo-del-giorno/12/13/santa-lucia--vergine-e-martire-di-siracusa.html)
 - [Vatican News: St Lucy](https://www.vaticannews.va/en/saints/12/13/st--lucy--virgin-and-martyr-of--syracuse.html)
 - [Catholic Encyclopedia: St Lucy](https://www.newadvent.org/cathen/09414a.htm)
+- [Nordiska museet: Lucia, history and timeline](https://www.nordiskamuseet.se/en/traditions-celebrations/lucia/)
+- [Skansen: Om Lucia (Swedish)](https://www.skansen.se/se-och-gora/hogtider-traditioner/jul/lucia/)
 
 <p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
