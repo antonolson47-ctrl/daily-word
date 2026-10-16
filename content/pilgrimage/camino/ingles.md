@@ -21,7 +21,7 @@ Medieval pilgrims from England, Ireland and northern Europe sailed to Ferrol or 
 ## Deep Dive
 
 ### History and origins
-From the 12th century pilgrims from England, Ireland, Scotland, Flanders and Scandinavia sailed to Galicia and landed at **A Coruña** or **Ferrol**, then walked the remaining distance inland. English royal records from the 14th and 15th centuries include licences for ships to carry pilgrims to Santiago, especially in Holy Years such as 1434, when many licences were granted. Sea travel was quicker than crossing France but brought its own dangers; an anonymous 15th-century English poem about seasick pilgrims begins, memorably, "Men may leve all gamys / That saylen to seynt Jamys". The Reformation in England largely ended the traffic in the 16th century.
+From the 12th century pilgrims from England, Ireland, Scotland, Flanders and Scandinavia sailed to Galicia and landed at **A Coruña** or **Ferrol**, then walked the remaining distance inland. English royal records from the 14th and 15th centuries include licences for ships to carry pilgrims to Santiago, especially in Holy Years: in 1434 licences were issued for dozens of ships, recorded in Rymer's *Foedera*. Sea travel was quicker than crossing France but brought its own dangers; an anonymous late-medieval English poem about seasick pilgrims (*The Pilgrims' Sea Voyage*) begins, memorably, "Men may leve all gamys / That saylen to seynt Jamys". The Reformation in England largely ended the traffic in the 16th century.
 
 Today the route is also used by modern pilgrims who want a complete Camino in about a week. The Pilgrim's Office treats it like the others: walk at least 100 km on foot and collect stamps in your credencial. Because the A Coruña branch is shorter than 100 km, the Pilgrim's Office sets special rules for it, mainly for pilgrims who have already walked part of a Camino in their home country; check the current rules before relying on them.
 
@@ -32,7 +32,7 @@ The route stays entirely within **Galicia**, in the province of A Coruña: the n
 The first days follow the shores of the rías through fishing towns and wooded valleys, mostly at low altitude. From Betanzos the path climbs steadily inland toward **Hospital de Bruma**, the most demanding stretch, then crosses a plateau of fields and pine woods before descending toward Santiago. The route is short, around 115 km from Ferrol, and makes a good one-week walk. The terrain mixes forest tracks, quiet country lanes and some paved stretches near towns. It is far less crowded than the Francés, so it suits pilgrims who want quiet, though accommodation is thinner in the inland stages; booking ahead is wise in summer and in Holy Years.
 
 ### Notable past travellers
-- **William Wey** (1456): an English fellow of Eton College who sailed from Plymouth to A Coruña and wrote an account of the journey, including practical details such as currency exchange; one of the best-documented English pilgrims.
+- **William Wey** (1456): an English fellow of Eton College who sailed from Plymouth on 17 May 1456, landed at A Coruña on 21 May and wrote a day-by-day account of the journey; one of the best-documented English pilgrims.
 - **English and Irish pilgrims in Holy Years** (15th century): recorded through royal ship licences rather than personal accounts.
 
 ### Notable stops
@@ -42,11 +42,14 @@ The first days follow the shores of the rías through fishing towns and wooded v
 - **Betanzos**: an old royal town with Gothic churches (Santa María do Azougue, San Francisco with the tomb of Fernán Pérez de Andrade).
 - **Hospital de Bruma**: where the Ferrol and A Coruña branches meet; a medieval hospital stood here.
 - **Sigüeiro**: last town before Santiago, on the Tambre river.
-- **A Coruña** (alternate start): the Tower of Hercules, the world's oldest Roman lighthouse still in use; this start is too short on its own for the Compostela.
+- **A Coruña** (alternate start): the Tower of Hercules, which UNESCO notes has served as a lighthouse at the harbour entrance since the Romans built it in the late 1st century AD; this start is too short on its own for the Compostela.
 - **Santiago de Compostela**: the Inglés enters the city from the north, reaching the cathedral through the old town.
 - **Bruma's small church**: the rest stop on the plateau, a reminder of the hospital that sheltered medieval pilgrims landing from the sea.
 
 ## Sources
+- [Confraternity of St James: William Wey's 1456 pilgrimage](https://www.csj.org.uk/blog/the-pilgrimage-of-william-wey-to-st-james-of-compostella)
+- [Rymer's Foedera, April–June 1434 (pilgrim ship licences), British History Online](https://www.british-history.ac.uk/rymer-foedera/vol10/pp575-594)
+- [UNESCO: Tower of Hercules](https://whc.unesco.org/en/list/1312)
 - [UNESCO: Santiago de Compostela (Old Town)](https://whc.unesco.org/en/list/347)
 - [Xunta de Galicia official Camino site: English Way](https://www.caminodesantiago.gal/en/make-plans/the-ways/english-way)
 - [Official Pilgrim's Office (Oficina del Peregrino)](https://oficinadelperegrino.com/en/)

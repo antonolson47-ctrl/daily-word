@@ -20,13 +20,13 @@ The oldest route, named for King Alfonso II of Asturias, who according to tradit
 ## Deep Dive
 
 ### History and origins
-According to tradition, **King Alfonso II of Asturias** ("the Chaste"), ruling from Oviedo, travelled to see the newly discovered tomb of St James in the 820s or 830s and ordered the first church built there, making him the first pilgrim of all. That he promoted the cult and endowed the church is supported by early documents; that he walked this exact route is tradition. Oviedo's Cathedral of San Salvador and its Holy Chamber (Cámara Santa), with relics including the Sudarium of Oviedo, made the city a pilgrim destination in its own right, giving rise to the saying: *"Quien va a Santiago y no al Salvador, visita al criado y deja al Señor"* ("Whoever goes to Santiago and not to the Saviour visits the servant and neglects the Lord"). The Asturian monarchy's role in the Camino's beginnings is one reason pilgrims call this the "original" way. In 2015 UNESCO included the Primitivo in the World Heritage "Routes of Northern Spain".
+According to tradition, **King Alfonso II of Asturias** ("the Chaste"), ruling from Oviedo, travelled to see the newly discovered tomb of St James in the 820s or early 830s (the earliest surviving charter mentioning the discovery dates from 834) and ordered the first church built there, making him the first pilgrim of all. That he promoted the cult and endowed the church is supported by early documents; that he walked this exact route is tradition. Oviedo's Cathedral of San Salvador and its Holy Chamber (Cámara Santa), with relics including the Sudarium of Oviedo, made the city a pilgrim destination in its own right, giving rise to the saying: *"Quien va a Santiago y no al Salvador, visita al criado y deja al Señor"* ("Whoever goes to Santiago and not to the Saviour visits the servant and neglects the Lord"). The Asturian monarchy's role in the Camino's beginnings is one reason pilgrims call this the "original" way. In 2015 UNESCO included the Primitivo in the World Heritage "Routes of Northern Spain".
 
 ### Regions crossed
 The route crosses western **Asturias**, a land of green mountains, hórreos (raised granaries) and Asturian speech, and then enters **Galicia** at the Puerto del Acebo, passing through the province of Lugo before joining the Francés at Melide (A Coruña). Food is hearty mountain fare: *fabada asturiana*, *cachopo* (breaded stuffed veal), Asturian cider, and in Galicia *caldo gallego*, Lugo beef and *pulpo* at Melide, famous for its octopus houses.
 
 ### Elevation and landscape
-This is the most mountainous of the main routes. After Tineo, pilgrims can take the **Hospitales** route, a high, exposed ridge at around 1,200 m with ruins of medieval pilgrim hospitals and sweeping views, best avoided in bad weather. The route then crosses the **Puerto del Palo** (about 1,150 m), descends to the Grandas de Salime reservoir and climbs again to A Fonsagrada, the first Galician town. Expect long climbs and descents through forests, pastures and slate villages. Weather can change quickly in the mountains, and fog is common on the high ground; carry layers even in summer. After Lugo the route becomes gentler as it approaches Melide and the busier final stages shared with the Francés.
+This is the most mountainous of the main routes. After Tineo, pilgrims can take the **Hospitales** route, a high, exposed ridge that tops out at about 1,200 m with ruins of medieval pilgrim hospitals and sweeping views, best avoided in bad weather. The route then crosses the **Puerto del Palo** (1,146 m, the highest point of the main route), descends to the Grandas de Salime reservoir and climbs again to A Fonsagrada, the first Galician town. Expect long climbs and descents through forests, pastures and slate villages. Weather can change quickly in the mountains, and fog is common on the high ground; carry layers even in summer. After Lugo the route becomes gentler as it approaches Melide and the busier final stages shared with the Francés.
 
 ### Notable past travellers
 - **Alfonso II of Asturias** (9th century): by tradition the first pilgrim; documents show his patronage of the shrine.
@@ -39,12 +39,16 @@ This is the most mountainous of the main routes. After Tineo, pilgrims can take 
 - **Hospitales ridge**: ruins of three medieval hospitals in high pasture.
 - **Grandas de Salime**: its Ethnographic Museum and a vast dam on the Navia.
 - **A Fonsagrada**: whose name tradition links to a "holy fountain" of milk-flowing water.
-- **Lugo**: the only city in the world still fully encircled by its Roman walls (UNESCO World Heritage), walkable along the top.
+- **Lugo**: its late-Roman walls survive as a complete circuit, which UNESCO calls the finest example of late Roman fortifications in western Europe; you can walk the whole way round on top.
 - **Melide**: where the Primitivo meets the Francés; the place for *pulpo*.
 - **Pola de Allande**: a mountain village below the Puerto del Palo, on the alternative route to the Hospitales.
 - **Castroverde and San Romao da Retorta**: rural stops between A Fonsagrada and Lugo and between Lugo and Melide.
 
 ## Sources
+- [Ad Limina 8 (2017): Adeline Rucquoi, the kingdom of Oviedo and the cult of St James (charter of 834)](https://doi.org/10.61890/adlimina/8.2017/01)
+- [Xacopedia: Puerto del Palo (1,146 m)](https://www.xacopedia.com/Puerto_del_Palo_alto_del)
+- [Concello da Fonsagrada: the holy fountain legend](https://es.afonsagrada.org/pdis/fuente-sagrada)
+- [Xunta de Galicia: from the first pilgrims to today](https://www.caminodesantiago.gal/es/descubre/origenes-y-evolucion/de-los-primeros-peregrinos-a-la-actualidad)
 - [UNESCO: Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain](https://whc.unesco.org/en/list/669)
 - [UNESCO: Monuments of Oviedo and the Kingdom of the Asturias](https://whc.unesco.org/en/list/312)
 - [UNESCO: Roman Walls of Lugo](https://whc.unesco.org/en/list/987)

@@ -20,13 +20,13 @@ The longest and loneliest route, following a Roman road north through Mérida, C
 ## Deep Dive
 
 ### History and origins
-The route follows much of the Roman road that linked **Emerita Augusta** (Mérida) with **Asturica Augusta** (Astorga), recorded in the 3rd-century *Antonine Itinerary*. Roman milestones still stand along it. The name "Plata" probably comes from the Arabic *balat* (paved road) rather than silver, though popular etymology links it to silver. In the Middle Ages, Christians living under Muslim rule (Mozarabs) and later southern pilgrims used it to go north. The route was revived as a pilgrim road in the late 20th century, with associations of the Camino marking it with yellow arrows and opening albergues; it remains one of the least crowded routes. North of Zamora, many pilgrims follow the Camino Sanabrés to Ourense and Santiago, while others continue to Astorga to join the Francés.
+The route follows much of the Roman road that linked **Emerita Augusta** (Mérida) with **Asturica Augusta** (Astorga), whose stations are recorded in the Roman *Antonine Itinerary* (generally dated to the 3rd century), though not as a single named road. Roman milestones still stand along it. The name has nothing to do with silver as far as anyone can prove: a traditional explanation derives "Plata" from the Arabic *balat* (paved road), but scholars do not agree, and other proposals include the Latin *delapidata* ("paved with stone"). In the Middle Ages, Christians living under Muslim rule (Mozarabs) and later southern pilgrims used it to go north. The route was revived as a pilgrim road in the late 20th century, with associations of the Camino marking it with yellow arrows and opening albergues; it remains one of the least crowded routes. North of Zamora, many pilgrims follow the Camino Sanabrés to Ourense and Santiago, while others continue to Astorga to join the Francés.
 
 ### Regions crossed
 From **Andalusia** (Seville) the route crosses **Extremadura** (Badajoz and Cáceres), then **Castilla y León** (Salamanca and Zamora) and finally **Galicia** (Ourense and Pontevedra, then A Coruña). The landscapes and food change: Andalusian gazpacho and tapas, Extremadura's *jamón ibérico* from acorn-fed pigs and Torta del Casar cheese, Salamanca's *hornazo* (meat pie), Zamora's rice dishes and Toro wine, and Galician *lacón con grelos* and Ribeiro wine.
 
 ### Elevation and landscape
-The south is flat and hot: wide plains, cork oak and holm oak pastures (*dehesa*), and long stretches without towns. North of Plasencia the route climbs to the **Puerto de Béjar** and the Castilian plateau around Salamanca and Zamora, mostly between 700 and 900 m. The highest passes come on the Sanabrés, at **Padornelo** and **A Canda**, both above 1,200 m, before descending into Galicia's valleys toward Ourense.
+The south is flat and hot: wide plains, cork oak and holm oak pastures (*dehesa*), and long stretches without towns. North of Plasencia the route climbs to the **Puerto de Béjar** and the Castilian plateau around Salamanca and Zamora, mostly between 700 and 900 m. The highest passes come on the Sanabrés, at **Padornelo** and **A Canda**, at roughly 1,340 m and 1,260 m respectively, before descending into Galicia's valleys toward Ourense.
 
 The Roman heritage is visible: stretches of the old road, granite milestones and bridges such as Mérida's long Roman bridge over the Guadiana. Distances between villages can be long in Extremadura, so carrying enough water and planning each stage matters more here than on the busier routes. In return, many pilgrims find the solitude and the wide sky the best part of the journey. Summer heat in Extremadura is extreme, so most pilgrims walk in spring or autumn.
 
@@ -49,6 +49,10 @@ The Via de la Plata is better documented as a road than through individual pilgr
 - **Lalín and Silleda**: inland Galician towns in the final days before Santiago.
 
 ## Sources
+- [Junta de Castilla y León: La Vía de la Plata (Roman road and milestones)](https://www.jcyl.es/jcyl/patrimoniocultural/miliarios/assets/la-v%c3%ada-de-la-plata4.pdf)
+- [Spanish Ministry of Culture, National Museum of Roman Art: toponymy of the Vía de la Plata (origin of the name)](https://www.cultura.gob.es/mnromano/en/dam/jcr:c04fb0cc-3be2-47b7-83cd-fd82b4a2eaba/03--e--s-nchez-salor-toponimia-de-la-v-a-de-la-plata.pdf)
+- [Xacopedia: Puerto de Padornelo](https://xacopedia.com/Padornelo_puerto_de)
+- [Guiarutas: Camino Sanabrés (Padornelo and A Canda altitudes)](https://guiarutas.es/caminos/sanabres/)
 - [UNESCO: Cathedral, Alcázar and Archivo de Indias in Seville](https://whc.unesco.org/en/list/383)
 - [UNESCO: Archaeological Ensemble of Mérida](https://whc.unesco.org/en/list/664)
 - [UNESCO: Old Town of Cáceres](https://whc.unesco.org/en/list/384)
