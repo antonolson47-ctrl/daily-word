@@ -15,7 +15,7 @@ def load(p):
                 if v.startswith('[') or v.startswith('{'): v=json.loads(v)
                 meta[k.strip()]=v
     return meta,s.strip()
-SUB='<div class=sub><h2 style="border:0;margin-top:0">✉ Get the Daily Word by email (free)</h2><p class=src>One New Testament verse each morning, with the scene, the Greek, Latin and English, and a story.</p><iframe src="https://dailywordptl.substack.com/embed" title="Subscribe to The Daily Word on Substack" loading=lazy frameborder=0 scrolling=no></iframe></div>'
+SUB='<div class=sub><h2 style="border:0;margin-top:0">✉ Get the Daily Word by email (free)</h2><p class=src>One New Testament verse each morning, with the scene, the Greek, Latin and English, and a story.</p><iframe src="https://dailywordptl.substack.com/embed" title="Subscribe to The Daily Word on Substack" loading=lazy frameborder=0 scrolling=no></iframe><p style="text-align:center;margin:6px 0 10px"><a class=subbtn href="https://dailywordptl.substack.com/subscribe">Subscribe on Substack →</a></p></div>'
 def page(title,body,desc='',hero=None):
     return f'''<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} · The Daily Word</title><meta name=description content="{html.escape(desc)}">
