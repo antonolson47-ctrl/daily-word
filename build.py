@@ -64,6 +64,9 @@ def build():
             m,b=load(os.path.join(C,'verses',f)); m['slug']=f[:-3]; m['body']=b; vs.append(m)
     vs.sort(key=lambda m:m['date'])
     esv=sum(int(m.get('verse_count',1)) for m in vs)
+    for dp,_,fs in os.walk(os.path.join(C,'pilgrimage')):
+        for f in fs:
+            if f.endswith('.md'): esv+=int(load(os.path.join(dp,f))[0].get('esv_verses',0))
     for i,m in enumerate(vs):
         rows=f'''<div class=card><div class=row><div class=k>Greek · SBLGNT</div><div class=gr>{html.escape(m['greek'])}</div><div class=it>{html.escape(m.get('translit',''))}</div></div>
 <div class=row><div class=k>Latin · Vulgate</div>{html.escape(m['latin'])}</div><div class=row><div class=k>KJV</div>{html.escape(m['kjv'])}</div><div class=row><div class=k>ESV</div>{html.escape(m['esv'])}</div></div>'''
@@ -83,7 +86,8 @@ def build():
     write('verses',page('Verse Archive',arch))
     # ---- wiki pages
     roads=json.load(open(os.path.join(C,'pilgrimage','roads.json')))
-    for sec,url,top in [('pilgrimage/camino','pilgrimage/camino',('Pilgrimage','pilgrimage')),('pilgrimage/st-michael','pilgrimage/st-michael',('Pilgrimage','pilgrimage')),('saints','saints',('Home',''))]:
+    SECS=[(f'pilgrimage/{r["id"]}',)*2+(('Pilgrimage','pilgrimage'),) for r in roads if r['status']=='live' and os.path.isdir(os.path.join(C,'pilgrimage',r['id']))]+[('saints','saints',('Home',''))]
+    for sec,url,top in SECS:
         d=os.path.join(C,sec); items=[]
         for f in sorted(os.listdir(d)):
             if not f.endswith('.md'): continue

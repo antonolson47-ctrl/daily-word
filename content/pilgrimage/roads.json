@@ -1,6 +1,10 @@
-[{"id":"camino","name":"Camino de Santiago","status":"live","summary":"Spain & Portugal to the tomb of St James in Santiago de Compostela. Routes, Compostela rules, costs, Holy Year 2027."},
- {"id":"st-michael","name":"St Michael's Line","status":"live","summary":"Seven sanctuaries of the Archangel, from Skellig Michael to Mount Carmel."},
- {"id":"via-francigena","name":"Via Francigena","status":"soon","summary":"Canterbury to Rome, about 2,000 km, on Archbishop Sigeric's 10th-century route."},
- {"id":"kumano-kodo","name":"Kumano Kodo","status":"soon","summary":"Japan's ancient pilgrimage trails on the Kii Peninsula."},
- {"id":"st-olav","name":"St Olav's Way","status":"soon","summary":"Oslo or Sweden to Trondheim's Nidaros Cathedral."},
- {"id":"st-cuthbert","name":"St Cuthbert's Way","status":"soon","summary":"Melrose to Holy Island (Lindisfarne), Scotland to England."}]
+[{"id": "camino", "name": "Camino de Santiago", "status": "live", "summary": "Spain & Portugal to the tomb of St James in Santiago de Compostela. Routes, Compostela rules, costs, Holy Year 2027."},
+ {"id": "st-michael", "name": "St Michael's Line", "status": "live", "summary": "Seven sanctuaries of the Archangel, from Skellig Michael to Mount Carmel."},
+ {"id": "rome", "name": "Rome and the Seven Churches", "status": "live", "summary": "St Philip Neri's one-day walk to seven basilicas: the tombs of Peter and Paul, the Lateran, the Passion relics and Mary Major."},
+ {"id": "st-paul", "name": "Footsteps of St Paul", "status": "soon", "summary": "Paul's missionary journeys and voyage to Rome: Damascus, Antioch, Ephesus, Philippi, Athens, Corinth, Malta."},
+ {"id": "st-olav", "name": "St Olav's Way", "status": "soon", "summary": "Oslo or Sweden to Trondheim's Nidaros Cathedral."},
+ {"id": "via-francigena", "name": "Via Francigena", "status": "soon", "summary": "Canterbury to Rome, about 2,000 km, on Archbishop Sigeric's 10th-century route."},
+ {"id": "holy-land", "name": "The Holy Land", "status": "soon", "summary": "Jerusalem, Bethlehem, Nazareth and Galilee: the Jesus Trail and the Via Dolorosa."},
+ {"id": "marian-shrines", "name": "Marian Shrines", "status": "soon", "summary": "Fátima, Lourdes, Guadalupe and Częstochowa."},
+ {"id": "st-cuthbert", "name": "St Cuthbert's Way", "status": "soon", "summary": "Melrose to Holy Island (Lindisfarne), Scotland to England."},
+ {"id": "assisi", "name": "Assisi and the Way of St Francis", "status": "soon", "summary": "From La Verna to Assisi and Rome in the footsteps of St Francis."}]
