@@ -15,13 +15,14 @@ def load(p):
                 if v.startswith('[') or v.startswith('{'): v=json.loads(v)
                 meta[k.strip()]=v
     return meta,s.strip()
+SUB='<div class=sub><h2 style="border:0;margin-top:0">✉ Get the Daily Word by email (free)</h2><p class=src>One New Testament verse each morning, with the scene, the Greek, Latin and English, and a story.</p><iframe src="https://dailywordptl.substack.com/embed" title="Subscribe to The Daily Word on Substack" loading=lazy frameborder=0 scrolling=no></iframe></div>'
 def page(title,body,desc='',hero=None):
     return f'''<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} · The Daily Word</title><meta name=description content="{html.escape(desc)}">
 <link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel=stylesheet>
 <link rel=stylesheet href="{BASE}/static/style.css"></head><body>
 <div class=bar><a href="{BASE}/"><b>✠ The Daily Word</b></a><button class=menu aria-label=Menu onclick="document.querySelector('.bar nav').classList.toggle('open')">☰</button>
-<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/about/">About</a></nav></div>
+<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
 <main>{body}</main><script src="{BASE}/static/rotate.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
 def write(rel,h):
     p=os.path.join(OUT,rel.strip('/'),'index.html'); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w',encoding='utf-8').write(h)
@@ -65,7 +66,7 @@ def build():
         d=datetime.date.fromisoformat(m['date'])
         body=(hero(m,m['ref'],m.get('title','')) if m.get('hero') else '')+f'''<div class=k>Verse a Day #{m['number']} · {d:%B} {d.day}, {d.year}</div><h1>{m['ref']}</h1><span class=badge>Alignment: {html.escape(m.get('alignment','—'))}</span>
 <img class=v style="margin-top:12px" src="{BASE}/static/img/verses/{m['image']}" alt="{m['ref']} in Greek, Latin and English">
-{md(m['body'].split('<!--texts-->')[0])}{band('calling-fishermen','The Calling of the Fishermen')}<h2>Four witnesses</h2>{rows}{md(m['body'].split('<!--texts-->')[1]) if '<!--texts-->' in m['body'] else ''}{band('pieta','Pietà, after Michelangelo')}<p class=src>{' &nbsp;·&nbsp; '.join(nav)}</p>'''
+{md(m['body'].split('<!--texts-->')[0])}{band('calling-fishermen','The Calling of the Fishermen')}<h2>Four witnesses</h2>{rows}{md(m['body'].split('<!--texts-->')[1]) if '<!--texts-->' in m['body'] else ''}{band('pieta','Pietà, after Michelangelo')}<p class=src>{' &nbsp;·&nbsp; '.join(nav)}</p>'''+SUB
         write(f'verses/{m["slug"]}',page(m['ref'],body,m.get('title','')))
     def vcard(m): return f'<a class=card href="{BASE}/verses/{m["slug"]}/" data-s="{html.escape((m["ref"]+" "+m.get("title","")+" "+m["book"]).lower())}">{m["date"][5:].replace("-","/")} · <b>{m["ref"]}</b> — {html.escape(m.get("title",""))} <span class=badge style=float:right>{html.escape(m.get("alignment","").split(".")[0].split(",")[0][:18])}</span></a>'
     books=sorted({m['book'] for m in vs})
@@ -98,7 +99,7 @@ def build():
     write('gallery',page('Gallery','<h1>Gallery</h1><p>Original paintings made for The Daily Word. They are new adaptations inspired by the Old Masters (da Vinci, Michelangelo, Raphael, Guido Reni, Carl Bloch and Turner), not copies of their works.</p>'+g))
     # ---- about
     m,b=load(os.path.join(C,'about.md')); b=b.replace('{{ESV_COUNT}}',str(esv))
-    write('about',page('About',f'<h1>{m["title"]}</h1>'+md(b)))
+    write('about',page('About',f'<h1>{m["title"]}</h1>'+md(b)+SUB))
     # ---- home
     t=vs[-1]; scene=re.search(r'## Setting the scene\s+(.+?)(\n\n|$)',t['body'],re.S)
     ex=(scene.group(1)[:260].rsplit(' ',1)[0]+'…') if scene else t.get('title','')
@@ -106,7 +107,7 @@ def build():
     d=datetime.date.fromisoformat(t['date'])
     home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
 <div class=card><a href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{t['ref']}"></a><p style="margin:.6em 0 0">{html.escape(ex)} <a href="{BASE}/verses/{t['slug']}/">Read today's verse →</a></p></div>
-<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
+'''+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
 <h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/" style="grid-column:1/-1">✨ Saints<small>Lives, miracles, feast days & trivia</small></a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
     open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/daily-word/">Home</a></p>'))
