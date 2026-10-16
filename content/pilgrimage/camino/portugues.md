@@ -6,7 +6,7 @@ order: 2
 hero: start-portugues.jpg
 hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:View_of_Ribeira_from_Cais_de_Gaia,_20250605_1628_9890.jpg">Porto, the Ribeira on the Douro</a> by Jakub Hałun, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons
 facts: {"From Porto":"~240 km (Central) · ~270 km (Coastal)","From Lisbon":"~608–620 km","Shortest valid":"Tui, ~116 km","2025 pilgrims":"19.0% + 16.9%"}
-last_verified: October 15, 2026
+last_verified: October 16, 2026
 map: map-portugues.svg
 map_alt: Route map of the Camino Portugués
 map_caption: Camino Portugués: the Central route from Lisbon via Porto and Tui, and the Coastal route from Porto.
@@ -46,6 +46,91 @@ This is the gentlest of the long routes. Most of it is lowland farmland, eucalyp
 - **Padrón**: where tradition says the boat bearing St James's body moored; the stone *pedrón* is kept under the altar of Santiago church.
 - **Caldas de Reis**: a spa town with hot springs, where local tradition places the birth of King Alfonso VII in 1105 (historians confirm only that he was born in Galicia).
 - **Vigo and A Guarda** (Coastal route): A Guarda's Monte de Santa Trega has a Celtic hillfort (*castro*) overlooking the mouth of the Minho.
+
+### Coastal route, stop by stop
+The **Camino Portugués da Costa** leaves Porto along the Atlantic, crosses the Minho by ferry into Galicia and follows the Rías Baixas until it joins the Central route at **Redondela**. Many pilgrims switch between the coastal path and the boardwalks of the **Senda Litoral**. Below are the main stops from south to north.
+
+#### Porto and Matosinhos
+From Porto Cathedral the way runs down to the Douro and follows the river to the sea at Foz, then along the promenade to **Matosinhos**. Here the city meets the ocean: long beaches, the Leça harbour and Janet Echelman's huge net sculpture *She Changes* (the "Anémona") over the roundabout. Matosinhos is Portugal's fish-grilling capital. On Rua Heróis de França the smoke of charcoal grills hangs over the street; try grilled sardines, sea bass or *caldeirada* (fish stew).
+
+<figure class=photo><picture><source srcset="/static/art/cp-matosinhos-600.webp 600w,/static/art/cp-matosinhos.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-matosinhos.jpg" alt="Janet Echelman&#x27;s &quot;She Changes&quot; over the seafront, Matosinhos" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Janet Echelman's "She Changes" over the seafront, Matosinhos · Photo: <a href="https://commons.wikimedia.org/wiki/File:Anemona_She_Changes_(Porto-Matosinhos).jpg">Anemona She Changes (Porto-Matosinhos)</a> by Sitomon, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Vila do Conde
+A fishing and shipbuilding town at the mouth of the Ave. The great **Monastery of Santa Clara** (founded 1318) rises over the river, and its 18th-century **aqueduct**, once 999 arches long, strides across the fields. Down on the quay is a full-size replica of a 16th-century caravel (*nau*). Wooden boardwalks start here and run north over the dunes. The town is known for bobbin lace and for convent sweets such as *pastéis de Santa Clara*.
+
+<figure class=photo><picture><source srcset="/static/art/cp-viladoconde-600.webp 600w,/static/art/cp-viladoconde.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-viladoconde.jpg" alt="The Monastery of Santa Clara above the Ave, Vila do Conde" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Monastery of Santa Clara above the Ave, Vila do Conde · Photo: <a href="https://commons.wikimedia.org/wiki/File:Mosteiro_de_Santa_Clara_-_Vila_do_Conde_-_Portugal_(49792807217).jpg">Mosteiro de Santa Clara - Vila do Conde - Portugal (49792807217)</a> by Vitor Oliveira from Torres Vedras, PORTUGAL, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Póvoa de Varzim
+Póvoa joins on to Vila do Conde along a seafront of wide sandy beaches. It grew from a fishing village into a 19th-century bathing resort and still has a fishermen's quarter whose families mark their boats with old *siglas poveiras*, signs that served as family signatures. North of the town, the dunes and fields of the coast are farmed with seaweed (*sargaço*) gathered from the beach. Local dishes include *pescada à poveira* (hake) and *arroz de sardinha*.
+
+<figure class=photo><picture><source srcset="/static/art/cp-povoa-600.webp 600w,/static/art/cp-povoa.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-povoa.jpg" alt="Praia da Lagoa, Póvoa de Varzim" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Praia da Lagoa, Póvoa de Varzim · Photo: <a href="https://commons.wikimedia.org/wiki/File:Praia_da_Lagoa_P%C3%B3voa_Varzim.jpg">Praia da Lagoa Póvoa Varzim</a> by PedroPVZ, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Esposende
+The way crosses the Cávado on a long bridge to **Esposende**, a quiet town on the river mouth inside the **Litoral Norte Natural Park**, with dunes, pine woods and a red lighthouse beside the 17th-century fort. The coast north to Viana is the wildest stretch in Portugal, with fishing hamlets such as Marinhas and Castelo do Neiva. Try *arroz de marisco* (seafood rice) or fresh grilled fish.
+
+<figure class=photo><picture><source srcset="/static/art/cp-esposende-600.webp 600w,/static/art/cp-esposende.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-esposende.jpg" alt="The lighthouse by the fort of São João Baptista, Esposende" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The lighthouse by the fort of São João Baptista, Esposende · Photo: <a href="https://commons.wikimedia.org/wiki/File:Farol_(junto_ao_Forte_S_Jo%C3%A3o_Baptista_-_Esposende)1493.JPG">Farol (junto ao Forte S João Baptista - Esposende)1493</a> by João Carvalho, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Viana do Castelo and Santa Luzia
+Viana is one of the loveliest towns on the route, with a Renaissance square, granite manor houses and Eiffel's iron bridge over the Lima. Above it, on **Monte de Santa Luzia**, stands the **Sanctuary of the Sacred Heart of Jesus** (1904–1959), modelled on Sacré-Cœur in Paris. The funicular or a steep stair takes pilgrims to the top, and the view from the dome over the river mouth and the Atlantic is one of the finest of the whole Camino. Viana is famous for gold filigree and festival costume. At table, order *bacalhau à Gil Eanes* (salt cod) and *bolas de Berlim*.
+
+<figure class=photo><picture><source srcset="/static/art/cp-viana-600.webp 600w,/static/art/cp-viana.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-viana.jpg" alt="The Sanctuary of Santa Luzia above Viana do Castelo" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Sanctuary of Santa Luzia above Viana do Castelo · Photo: <a href="https://commons.wikimedia.org/wiki/File:Monte_de_Santa_Luzia_sanctuary_in_Viana_do_Castelo_12.jpg">Monte de Santa Luzia sanctuary in Viana do Castelo 12</a> by Krzysztof Golik, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Caminha and the Minho ferry to A Guarda
+**Caminha** is a small walled town where the Minho meets the sea. Its Gothic **parish church** and the clock tower on the main square are worth a stop. Across the estuary rises the cone of **Monte de Santa Trega (Tecla)** in Spain. Pilgrims cross by the small ferry or a water taxi (sailings depend on tides and the season, so check ahead) and land near **A Guarda**. The Minho is known for lamprey (*lampreia*) in late winter and spring, and for *vinho verde*.
+
+<figure class=photo><picture><source srcset="/static/art/cp-caminha-600.webp 600w,/static/art/cp-caminha.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-caminha.jpg" alt="The Minho estuary and Monte de Santa Trega, seen from Caminha" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Minho estuary and Monte de Santa Trega, seen from Caminha · Photo: <a href="https://commons.wikimedia.org/wiki/File:Rio_Minho_-_La_Guardia,_Monte_de_Santa_Tecla,_Gal%C3%ADcia_-_Caminha_Portugal.JPG">Rio Minho - La Guardia, Monte de Santa Tecla, Galícia - Caminha Portugal</a> by José Mouteira, <a href="https://creativecommons.org/licenses/by-sa/3.0/es/deed.en">CC BY-SA 3.0 es</a>, via Wikimedia Commons</figcaption></figure>
+
+#### A Guarda and Santa Tecla
+A Guarda is a fishing port famous for **lobster** (*lavagante*) and seafood. Above it, the **Castro de Santa Trega**, a Celtic-era hillfort inhabited from about the 1st century BC, has round stone houses, some rebuilt. A small museum and the hermitage of Santa Tecla stand at the summit. From the top the view spreads over the mouth of the Minho, Portugal and the open Atlantic.
+
+<figure class=photo><picture><source srcset="/static/art/cp-tecla-600.webp 600w,/static/art/cp-tecla.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-tecla.jpg" alt="The round houses of the Castro de Santa Trega, A Guarda" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The round houses of the Castro de Santa Trega, A Guarda · Photo: <a href="https://commons.wikimedia.org/wiki/File:Castro_de_Santa_Tecla_en_A_Guarda.jpg">Castro de Santa Tecla en A Guarda</a> by Calaboso, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Oia monastery
+North of A Guarda the path runs along a rocky, empty coast. The **Monastery of Santa María de Oia** stands on the very edge of the sea. Founded in the 12th century and Cistercian from 1185, it is the only Galician monastery built on the shore.
+
+<div class=legend markdown=1>
+**Legend and history.** Local tradition says the monks fired the monastery's cannon at Turkish and Berber pirates in 1624, and that the monks' bravery drove them off. That the coast was raided is historical; the details of the story are tradition.
+</div>
+
+The coast from here to Baiona is open and wind-blown, with wild horses on the hills behind.
+
+<figure class=photo><picture><source srcset="/static/art/cp-oia-600.webp 600w,/static/art/cp-oia.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-oia.jpg" alt="The Monastery of Santa María de Oia on the seashore" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Monastery of Santa María de Oia on the seashore · Photo: <a href="https://commons.wikimedia.org/wiki/File:Monasterio_de_Oia_-_panoramio.jpg">Monasterio de Oia - panoramio</a> by farrangallo, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Baiona
+Baiona is where the caravel **Pinta** landed on 1 March 1493, bringing Europe the first news of Columbus's discovery of the Americas; a replica floats in the harbour. The **Monterreal** fortress, now a parador, fills the headland, and the walk around its walls looks out to the **Cíes Islands**. On the hill above town, the 15 m statue of the **Virxe da Rocha** (Our Lady of the Rock) looks out to sea. Eat octopus (*pulpo á feira*), scallops (*vieiras*) and Rías Baixas **albariño**.
+
+<figure class=photo><picture><source srcset="/static/art/cp-baiona-600.webp 600w,/static/art/cp-baiona.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-baiona.jpg" alt="Cannon on the walls of Monterreal, Baiona" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Cannon on the walls of Monterreal, Baiona · Photo: <a href="https://commons.wikimedia.org/wiki/File:Baiona_lmb-2.jpg">Baiona lmb-2</a> by Lmbuga (Luis Miguel Bugallo Sánchez), <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Vigo
+Galicia's largest city lies on its own ría, sheltered by the **Cíes Islands** (part of the Atlantic Islands National Park). The way enters along the shore, past Samil beach, or by the higher **Senda da Auga** (water path). Climb **O Castro** park for the view over the port and the ría. Vigo is Europe's leading fishing port, and on Rúa da Pescadería in the old town the *ostreiras* (oyster sellers) shuck fresh oysters at their stalls.
+
+<figure class=photo><picture><source srcset="/static/art/cp-vigo-600.webp 600w,/static/art/cp-vigo.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-vigo.jpg" alt="The Cíes Islands at the mouth of the Ría de Vigo" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Cíes Islands at the mouth of the Ría de Vigo · Photo: <a href="https://commons.wikimedia.org/wiki/File:C%C3%ADes_Islands_from_Baiona.jpg">Cíes Islands from Baiona</a> by Ernestroyer, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Redondela
+At **Redondela** the Coastal route joins the Central route from Tui. The town is known for its two tall railway **viaducts** (19th and 20th century) striding over the rooftops. It sits at the head of the Ría de Vigo, where the sea battle of **Rande** was fought in 1702 in the narrow strait. Tradition makes Redondela the home of choco (cuttlefish) cooking: try *chocos en su tinta*.
+
+<figure class=photo><picture><source srcset="/static/art/cp-redondela-600.webp 600w,/static/art/cp-redondela.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-redondela.jpg" alt="The railway viaduct over Redondela" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The railway viaduct over Redondela · Photo: <a href="https://commons.wikimedia.org/wiki/File:Redondela_Viadukt.jpg">Redondela Viadukt</a> by Kanakari at de.wikipedia, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Pontevedra
+Pontevedra has one of the best-kept old towns in Galicia, mostly car-free, with granite squares such as Praza da Leña and Praza da Ferrería. Pilgrims stop at the **Sanctuary of the Virxe Peregrina** (18th century), whose plan is shaped like a scallop shell. The Pilgrim Virgin is patron of the province, and her statue wears a pilgrim's hat and carries a staff and gourd. The ruined Gothic church of **Santo Domingo** is nearby. Try *empanada*, *pulpo* and *tortilla* in the tapas bars.
+
+<figure class=photo><picture><source srcset="/static/art/cp-pontevedra-600.webp 600w,/static/art/cp-pontevedra.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-pontevedra.jpg" alt="The Sanctuary of the Virxe Peregrina, Pontevedra" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Sanctuary of the Virxe Peregrina, Pontevedra · Photo: <a href="https://commons.wikimedia.org/wiki/File:Virxe-Peregrina-2021.jpg">Virxe-Peregrina-2021</a> by Bjørn Christian Tørrissen, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
+#### Padrón
+The way follows the Sar valley to **Padrón**, where the river Sar meets the Ulla. The poet **Rosalía de Castro** lived and died nearby; her house is a museum.
+
+<div class=legend markdown=1>
+**Legend.** According to the Compostelan tradition (*Translatio*, 12th century), the stone boat carrying the body of St James from Jaffa moored here, at ancient **Iria Flavia**, and was tied to a stone post, the **pedrón**, that gives the town its name. The Roman altar stone said to be the mooring post is kept under the high altar of the **church of Santiago**. Pilgrims also climb to **Santiaguiño do Monte**, where James is said to have preached.
+</div>
+
+<div class=history markdown=1>
+**History.** The *pedrón* is in fact a Roman altar dedicated to Neptune, with a Latin inscription. Iria Flavia was a Roman town and later Galicia's first bishopric, whose bishop **Theodemir** was involved in the discovery of the tomb in Compostela around 820–830.
+</div>
+
+Don't leave without a plate of **pimientos de Padrón**, little green peppers fried in olive oil and salted: "some are hot and some are not" (*uns pican e outros non*). From Padrón it is about 25 km to Santiago.
+
+<figure class=photo><picture><source srcset="/static/art/cp-padron-600.webp 600w,/static/art/cp-padron.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cp-padron.jpg" alt="The church of Santiago, Padrón, where the pedrón is kept" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The church of Santiago, Padrón, where the pedrón is kept · Photo: <a href="https://commons.wikimedia.org/wiki/File:Igrexa_de_Santiago_de_Padr%C3%B3n.jpg">Igrexa de Santiago de Padrón</a> by Jordi Gili, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons</figcaption></figure>
+
 
 ## Sources
 - [Ad Limina XI: Paulo Catarino Lopes on Portuguese late-medieval routes (Queen Isabel, 1325/1335)](https://www.caminodesantiago.gal/documents/17639/896784/Ad_Limina_XI-03-Paulo+Catarino+Lopes.pdf)
