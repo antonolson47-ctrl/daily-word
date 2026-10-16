@@ -6,5 +6,5 @@
  {"id": "via-francigena", "name": "Via Francigena", "status": "live", "summary": "Canterbury to Rome, about 2,000 km, on Archbishop Sigeric's 10th-century route."},
  {"id": "holy-land", "name": "The Holy Land", "status": "live", "summary": "Jerusalem, Bethlehem, Nazareth and Galilee: the Jesus Trail and the Via Dolorosa."},
  {"id": "marian-shrines", "name": "Marian Shrines", "status": "live", "summary": "Fátima, Lourdes, Guadalupe and Częstochowa."},
- {"id": "st-cuthbert", "name": "St Cuthbert's Way", "status": "soon", "summary": "Melrose to Holy Island (Lindisfarne), Scotland to England."},
+ {"id": "st-cuthbert", "name": "St Cuthbert's Way", "status": "live", "summary": "Melrose to Holy Island (Lindisfarne), Scotland to England."},
  {"id": "assisi", "name": "Assisi and the Way of St Francis", "status": "soon", "summary": "From La Verna to Assisi and Rome in the footsteps of St Francis."}]
