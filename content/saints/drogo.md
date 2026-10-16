@@ -4,7 +4,7 @@ subtitle: The shepherd so ugly he was walled in, and could be in two places at o
 group: Founders & Monks
 order: 100
 hero: st-drogo
-hero_credit: <a href="https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Druon_de_Sebourg_29.JPG">Église Saint-Druon de Sebourg 29</a> by Chatsam, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Drogo's legendary bilocation.
 facts: {"Lived": "1105–1186, Flanders and Hainaut", "Feast day": "16 April", "Recognised": "Venerated locally; pre-Congregation"}
 last_verified: October 16, 2026
 ---

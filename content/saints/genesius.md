@@ -4,7 +4,7 @@ subtitle: The actor converted on stage
 group: Martyrs
 order: 76
 hero: st-genesius
-hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Barcelona_-_Iglesia_de_Sant_Jaume_(Sant_Genis).jpg">Barcelona - Iglesia de Sant Jaume (Sant Genis)</a> by Zarateman, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>, via Wikimedia Commons
+hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Genesius converting mid-performance before the emperor.
 facts: {"Lived": "d. c. 286–303, Rome", "Feast day": "25 August", "Recognised": "Pre-Congregation"}
 last_verified: October 16, 2026
 ---

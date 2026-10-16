@@ -4,7 +4,7 @@ subtitle: The woman who rose from her coffin
 group: Missionaries & Mystics
 order: 64
 hero: st-christina-the-astonishing
-hero_credit: <a href="https://commons.wikimedia.org/wiki/File:St_Christina_the_Astonishing_church_photo.jpg">St Christina the Astonishing church photo</a> by Patrick3Lopez, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Christina rising from her coffin at her own funeral.
 facts: {"Lived": "c. 1150–1224, Brustem and Sint-Truiden (Belgium)", "Feast day": "24 July (local)", "Recognised": "Venerated locally; never formally canonised"}
 last_verified: October 16, 2026
 ---
