@@ -6,6 +6,9 @@ order: 1
 hero: skellig-michael.jpg
 facts: {"Country":"Ireland","Type":"Island monastery","UNESCO":"1996","Season":"~May–Sept"}
 last_verified: October 15, 2026
+map: map-sm-skellig-michael.svg
+map_alt: Map showing where Skellig Michael is
+map_caption: Skellig Michael off the Kerry coast.
 ---
 <div class=history markdown=1>
 **History.** A jagged sea rock off the Iveragh Peninsula holds one of the best-preserved early Christian monasteries in Europe: drystone beehive huts and oratories built by monks who lived there for centuries in the early Middle Ages. It became a UNESCO World Heritage Site in 1996 ([UNESCO](https://whc.unesco.org/en/list/757)).

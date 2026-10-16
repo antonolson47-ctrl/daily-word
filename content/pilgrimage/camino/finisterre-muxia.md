@@ -3,9 +3,13 @@ title: Finisterre & Muxía
 subtitle: The epilogue: from Santiago to the 'end of the world'
 group: The routes
 order: 7
-hero: 
+hero: start-finisterre-muxia.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg">Santiago Cathedral, the Obradoiro façade</a> by Fernando, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons
 facts: {"Start":"Santiago","Length":"~3–5 days ⚠","Ends":"Cape Fisterra / Muxía","2025 pilgrims":"0.4%"}
 last_verified: October 15, 2026
+map: map-finisterre-muxia.svg
+map_alt: Route map of the Finisterre & Muxía
+map_caption: Finisterre & Muxía: Santiago west to the Atlantic at Fisterra and Muxía.
 ---
 The only Camino that starts in Santiago. Pilgrims walk west to the Atlantic at Cape Fisterra, once thought the end of the known world, and to the Marian sanctuary of A Virxe da Barca at Muxía. Many walk a loop that takes in both.
 

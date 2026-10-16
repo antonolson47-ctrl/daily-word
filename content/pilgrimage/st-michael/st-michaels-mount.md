@@ -4,8 +4,12 @@ subtitle: Marazion, Cornwall, England
 group: The seven sanctuaries
 order: 2
 hero: st-michaels-mount.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:St._Michael%27s_Mount_-_The_view_from_the_beach_at_Marazion_-_geograph.org.uk_-_8051143.jpg">St Michael&#x27;s Mount from Marazion beach</a> by Chris Gorringe, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, via Wikimedia Commons
 facts: {"Country":"England","Type":"Tidal island","Access":"Causeway at low tide","Run by":"National Trust & St Aubyn family"}
 last_verified: October 15, 2026
+map: map-sm-st-michaels-mount.svg
+map_alt: Map showing where St Michael's Mount is
+map_caption: St Michael's Mount in Mount's Bay, Cornwall.
 ---
 <div class=history markdown=1>
 **History.** A tidal island crowned by a castle and church. In the Middle Ages it was a priory of the Benedictine abbey of Mont-Saint-Michel, until England dissolved its "alien priories" in 1414. It later became a fortress. Colonel John St Aubyn bought it in 1659, and his family still lives in the castle. In 1954 the 3rd Lord St Levan gave most of the island to the National Trust, and the family kept a 999-year lease to live there.

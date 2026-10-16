@@ -4,8 +4,12 @@ subtitle: Monastery of the Archangel Michael, Symi, Greece
 group: The seven sanctuaries
 order: 6
 hero: symi-panormitis.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Panormitis,_Symi,_Greece_-_panoramio_(1).jpg">Panormitis Monastery, Symi</a> by npinikas, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons
 facts: {"Country":"Greece","Type":"Orthodox monastery","Island":"Symi (Dodecanese)","From Rhodes":"~1h25 by ferry"}
 last_verified: October 15, 2026
+map: map-sm-panormitis-symi.svg
+map_alt: Map showing where Panormitis is
+map_caption: Panormitis on Symi, near Rhodes in the Dodecanese.
 ---
 <div class=history markdown=1>
 **History.** The main pilgrimage site of the Dodecanese, set on a quiet bay in the south of Symi. The monastery is documented in the 15th century. It was destroyed in the mid-18th century and rebuilt in **1783**, when the present church (*katholikon*) and its frescoes were made. It is famous for its huge icon of the Archangel Michael, covered in silver in **1724** and honoured by sailors. Who painted the icon, and when, is unknown ([Visit Greece](https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/monastery-of-the-archangel-michael-panormitis)).

@@ -3,9 +3,13 @@ title: Camino Francés
 subtitle: The French Way: the classic, from the Pyrenees to Santiago
 group: The routes
 order: 1
-hero: pilgrim-camino.jpg
+hero: start-frances.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Saint-Jean-Pied-de-Port_et_la_Nive.jpg">Saint-Jean-Pied-de-Port and the Nive</a> by LPLT, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 facts: {"Distance":"~764–772 km","Stages":"33 · 5–6 weeks","Start":"Saint-Jean-Pied-de-Port","2025 pilgrims":"45.6%"}
 last_verified: October 15, 2026
+map: map-frances.svg
+map_alt: Route map of the Camino Francés
+map_caption: Camino Francés: Saint-Jean-Pied-de-Port to Santiago (~770 km) through its main stage towns.
 ---
 The most historic and most walked route, described in the 12th-century Codex Calixtinus. It crosses Navarra, La Rioja, Castilla y León and Galicia, through Pamplona, Burgos and León. Its biggest drawback is crowding, especially from Sarria onward.
 

@@ -3,6 +3,9 @@ title: St Michael's Line
 subtitle: Seven sanctuaries of the Archangel, from Ireland to the Holy Land
 hero: st-michael-dragon.jpg
 last_verified: October 15, 2026
+map: map-st-michael-line.svg
+map_alt: Map of St Michael's line from Skellig Michael to Mount Carmel
+map_caption: St Michael's line: the seven sanctuaries, from Skellig Michael in Ireland to Mount Carmel in Israel.
 ---
 "Now war arose in heaven, Michael and his angels fighting against the dragon" (Revelation 12:7, ESV). Across Europe and the Mediterranean, Christians built shrines to the Archangel Michael on rocks, islands and mountaintops. Seven of the most famous are often said to lie on a single straight line.
 

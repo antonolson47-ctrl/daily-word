@@ -3,9 +3,13 @@ title: Camino Portugués
 subtitle: Lisbon or Porto to Santiago, inland (Central) or by the sea (Coastal)
 group: The routes
 order: 2
-hero: 
+hero: start-portugues.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:View_of_Ribeira_from_Cais_de_Gaia,_20250605_1628_9890.jpg">Porto, the Ribeira on the Douro</a> by Jakub Hałun, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons
 facts: {"From Porto":"~240 km (Central) · ~270 km (Coastal)","From Lisbon":"~608–620 km","Shortest valid":"Tui, ~116 km","2025 pilgrims":"19.0% + 16.9%"}
 last_verified: October 15, 2026
+map: map-portugues.svg
+map_alt: Route map of the Camino Portugués
+map_caption: Camino Portugués: the Central route from Lisbon via Porto and Tui, and the Coastal route from Porto.
 ---
 The second most popular Camino, now more than a third of all pilgrims. Most start in **Porto** (10–13 days). The **Central** route goes inland through Barcelos and Ponte de Lima and crosses into Spain at Valença/Tui; the **Coastal** route follows the Atlantic through Vila do Conde, Viana do Castelo and A Guarda. A **Spiritual Variant** from Pontevedra includes a boat stretch up the Ría de Arousa.
 

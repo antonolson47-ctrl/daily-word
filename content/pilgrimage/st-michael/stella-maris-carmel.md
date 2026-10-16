@@ -4,8 +4,12 @@ subtitle: Carmelite monastery, Haifa, Israel
 group: The seven sanctuaries
 order: 7
 hero: stella-maris.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Stella_Maris_Monastery_12.jpg">Stella Maris Monastery, Haifa</a> by דניאל פישלר, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 facts: {"Country":"Israel","Type":"Carmelite monastery","Church built":"1836","Entry":"Free"}
 last_verified: October 15, 2026
+map: map-sm-stella-maris-carmel.svg
+map_alt: Map showing where Stella Maris is
+map_caption: Stella Maris on Mount Carmel above Haifa.
 ---
 <div class=warn markdown=1>
 **Travel advisory.** Check the current [U.S. State Department travel advisory for Israel](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html) and enroll in [STEP](https://step.state.gov/) before planning this leg. Conditions can change quickly; follow official guidance and your airline.

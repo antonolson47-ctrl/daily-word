@@ -3,9 +3,13 @@ title: Vía de la Plata
 subtitle: The Silver Way: Seville to Santiago on a Roman road
 group: The routes
 order: 6
-hero: 
+hero: start-via-de-la-plata.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Catedral_de_Sevilla_y_Giralda..jpg">Seville Cathedral and the Giralda</a> by Azukiki, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 facts: {"Distance":"~960–1,005 km","Stages":"36–42","Start":"Seville","2025 pilgrims":"1.7%"}
 last_verified: October 15, 2026
+map: map-via-de-la-plata.svg
+map_alt: Route map of the Vía de la Plata
+map_caption: Vía de la Plata: Seville north to Zamora, then the Camino Sanabrés via Ourense.
 ---
 The longest and loneliest route, following a Roman road north through Mérida, Cáceres, Salamanca and Zamora, then the Camino Sanabrés via Ourense. Long stages between villages and extreme summer heat in Extremadura. About half of its pilgrims actually start in Ourense (~105 km) and only one in five from Seville.
 

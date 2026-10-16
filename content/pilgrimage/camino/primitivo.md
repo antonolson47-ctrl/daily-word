@@ -3,9 +3,13 @@ title: Camino Primitivo
 subtitle: The Original Way: Oviedo over the Asturian mountains
 group: The routes
 order: 4
-hero: 
+hero: start-primitivo.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Catedral_de_Oviedo_03.jpg">Oviedo Cathedral (San Salvador)</a> by Simon Burchell, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons
 facts: {"Distance":"~306–318 km","Stages":"13–15","Start":"Oviedo","2025 pilgrims":"5.25%"}
 last_verified: October 15, 2026
+map: map-primitivo.svg
+map_alt: Route map of the Camino Primitivo
+map_caption: Camino Primitivo: Oviedo over the Asturian mountains to Lugo, joining the Francés at Melide.
 ---
 The oldest route, named for King Alfonso II of Asturias, who according to tradition walked from Oviedo to see the newly found tomb of St James in the 9th century. It is mountainous and remote, with the high **Hospitales** section as its emotional peak, and it joins the Francés at Melide.
 

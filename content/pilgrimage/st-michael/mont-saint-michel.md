@@ -6,6 +6,9 @@ order: 3
 hero: mont-saint-michel.jpg
 facts: {"Country":"France","Type":"Abbey on a tidal island","UNESCO":"1979","Abbey ticket":"€13–16"}
 last_verified: October 15, 2026
+map: map-sm-mont-saint-michel.svg
+map_alt: Map showing where Mont-Saint-Michel is
+map_caption: Mont-Saint-Michel on the Normandy–Brittany border.
 ---
 <div class=history markdown=1>
 **History.** A Benedictine abbey founded in the 10th century on a granite island in a bay with some of the largest tides in Europe. It grew into the Gothic "Merveille" and later served as a prison. The Mont and its bay became a UNESCO World Heritage Site in 1979 ([UNESCO](https://whc.unesco.org/en/list/80)).

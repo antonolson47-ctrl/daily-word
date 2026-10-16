@@ -4,8 +4,12 @@ subtitle: Monte Pirchiriano, Val di Susa, Piedmont, Italy
 group: The seven sanctuaries
 order: 4
 hero: sacra-di-san-michele.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Sacra_di_San_Michele_-_Overview.jpg">Sacra di San Michele</a> by Merulana, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons
 facts: {"Country":"Italy","Type":"Mountaintop abbey","Founded":"c. 983–987","Ticket":"€10 / €8"}
 last_verified: October 15, 2026
+map: map-sm-sacra-di-san-michele.svg
+map_alt: Map showing where Sacra di San Michele is
+map_caption: Sacra di San Michele above the Val di Susa, west of Turin.
 ---
 <div class=history markdown=1>
 **History.** A Benedictine abbey founded around 983–987, perched on a rocky peak above the Susa Valley on the pilgrim road into Italy. It is the official symbol of the Piedmont region, and is often said to have inspired the abbey in Umberto Eco's *The Name of the Rose*.

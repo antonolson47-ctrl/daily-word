@@ -37,7 +37,15 @@ def hero(meta,title,sub='',rotate=None):
     rot=''
     if rotate:
         rot=' data-rotate=\''+json.dumps([bg(x) for x in rotate])+'\''
-    return f'<div class="hero tall"{st}{rot}>{html.escape(title)}<small>{html.escape(sub)}</small></div>'
+    cr=f'<p class=credit>{meta["hero_credit"]}</p>' if n and meta.get('hero_credit') else ''
+    return f'<div class="hero tall"{st}{rot}>{html.escape(title)}<small>{html.escape(sub)}</small></div>'+cr
+def addmap(m,b):
+    if not m.get('map'): return b
+    fig=f'\n\n<figure class=map><a href="{BASE}/static/maps/{m["map"]}"><img src="{BASE}/static/maps/{m["map"]}" alt="{html.escape(m.get("map_alt","Map"))}" loading=lazy></a><figcaption>{html.escape(m.get("map_caption",""))} Tap to enlarge.</figcaption></figure>\n\n'
+    for key in ('\n## Good to know','\n## '):
+        i=b.find(key)
+        if i>=0: return b[:i]+fig+b[i:]
+    return b+fig
 def band(n,cap):
     return f'<figure class=band><picture><source srcset="{BASE}/static/art/{n}-600.webp 600w,{BASE}/static/art/{n}.webp 1280w" sizes="(max-width:760px) 100vw,760px" type=image/webp><img src="{BASE}/static/art/{n}.jpg" alt="{html.escape(cap)}" loading=lazy></picture><figcaption>{html.escape(cap)} · <a href="{BASE}/gallery/">Gallery</a></figcaption></figure>'
 GALLERY=[('last-supper','The Last Supper','after Leonardo da Vinci'),('sermon-on-the-mount','The Sermon on the Mount','after Carl Bloch'),('calling-fishermen','The Calling of the Fishermen','in the manner of the Old Masters'),('pieta','Pietà','after Michelangelo\'s statue in St Peter\'s'),('st-michael-dragon','St Michael Defeating the Dragon','after Raphael and Guido Reni'),('pilgrim-camino','A Pilgrim at Sunrise near Santiago','in the classical landscape tradition'),('mont-saint-michel','Mont-Saint-Michel at Tide','after J. M. W. Turner'),('skellig-michael','Skellig Michael','in the Romantic tradition')]
@@ -86,11 +94,11 @@ def build():
             crumb=f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a> › <a href="{BASE}/{url}/">{secname}</a></div>'.replace('//"','/"')
             facts=''
             if m.get('facts'): facts='<div class="facts'+(' long' if max(len(v) for v in m['facts'].values())>22 else '')+'">'+''.join(f'<div>{html.escape(k)}<b>{html.escape(v)}</b></div>' for k,v in m['facts'].items())+'</div>'
-            write(f'{url}/{m["slug"]}',page(m['title'],crumb+hero(m,m['title'],m.get('subtitle',''))+facts+md(b)+verified(m,m['slug']),m.get('subtitle','')))
+            write(f'{url}/{m["slug"]}',page(m['title'],crumb+hero(m,m['title'],m.get('subtitle',''))+facts+md(addmap(m,b))+verified(m,m['slug']),m.get('subtitle','')))
         groups={}
         for m,b in subs: groups.setdefault(m.get('group','Pages'),[]).append(m)
         lists=''.join(f'<h2>{g}</h2><div class=cards>'+''.join(f'<a class=card href="{BASE}/{url}/{m["slug"]}/"><b>{html.escape(m["title"])}</b><br><span class=src>{html.escape(m.get("subtitle",""))}</span></a>' for m in ms)+'</div>' for g,ms in groups.items())
-        m,b=idx; parts=b.split('<!--list-->')
+        m,b=idx; parts=addmap(m,b).split('<!--list-->')
         write(url,page(m['title'],f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a></div>'.replace('//"','/"')+hero(m,m['title'],m.get('subtitle',''))+md(parts[0])+lists+(md(parts[1]) if len(parts)>1 else '')+verified(m,sec),m.get('subtitle','')))
     m,b=load(os.path.join(C,'pilgrimage','index.md'))
     cards=''.join(f'<a class="card{"" if r["status"]=="live" else " soon"}" href="{BASE}/pilgrimage/{r["id"]}/"><b>{r["name"]}</b><br><span class=src>{r["summary"]}</span></a>' if r['status']=='live' else f'<div class="card soon"><b>{r["name"]}</b> <span class=badge>Coming soon</span><br><span class=src>{r["summary"]}</span></div>' for r in roads)

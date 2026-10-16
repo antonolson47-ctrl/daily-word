@@ -4,8 +4,12 @@ subtitle: Gargano, Puglia, Italy
 group: The seven sanctuaries
 order: 5
 hero: monte-sant-angelo.jpg
+hero_credit: Photo: <a href="https://commons.wikimedia.org/wiki/File:Sanctuary_of_Saint_Michael_the_Archangel.jpg">Sanctuary of St Michael, Monte Sant&#x27;Angelo</a> by Bernard Gagnon, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons
 facts: {"Country":"Italy","Type":"Cave sanctuary","UNESCO":"2011 (Longobards)","Entry":"Free (church)"}
 last_verified: October 15, 2026
+map: map-sm-monte-sant-angelo.svg
+map_alt: Map showing where Monte Sant'Angelo is
+map_caption: Monte Sant'Angelo on the Gargano promontory, Puglia.
 ---
 <div class=history markdown=1>
 **History.** One of the oldest shrines to St Michael in the West: a natural cave on the Gargano promontory, venerated since late antiquity. It was a major sanctuary of the Lombards and a great medieval pilgrim goal, where Crusaders and pilgrims stopped on their way to the Apulian ports. Since 2011 it has been part of the UNESCO site "The Longobards in Italy: Places of Power" ([UNESCO](https://whc.unesco.org/en/list/1318)).
