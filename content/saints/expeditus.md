@@ -33,5 +33,6 @@ Urgent causes, procrastinators, students, IT workers (popular), Acireale (Sicily
 
 ## Sources
 - Hieronymian Martyrology, 19 April; H. Delehaye, *Analecta Bollandiana* 25 (1906), on the cult of St Expeditus.
+- [Wikipedia: Expeditus (overview with scholarly references)](https://en.wikipedia.org/wiki/Expeditus)
 
 <p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>

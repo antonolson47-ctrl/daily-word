@@ -26,6 +26,9 @@ Mystics, contemplatives, Spanish poets.
 ## Where to visit
 Convento de los Carmelitas Descalzos, Segovia (his tomb); Úbeda, where he died; Fontiveros, his birthplace
 
+
+<figure class=photo><picture><source srcset="/static/art/jc-segovia-tomb-600.webp 600w,/static/art/jc-segovia-tomb.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/jc-segovia-tomb.jpg" alt="The tomb of St John of the Cross, Discalced Carmelite friary, Segovia" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>His tomb in the Discalced Carmelite friary, Segovia · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASepulcro_de_San_Juan_de_la_Cruz%2C_Segovia.jpg">Sepulcro de San Juan de la Cruz, Segovia</a> · Jose Luis Filpo Cabana · CC BY 3.0, via Wikimedia Commons</figcaption></figure>
+
 ## Trivia
 - A small sketch he drew of Christ on the cross, seen from above, inspired Salvador Dalí's painting *Christ of Saint John of the Cross* (1951).
 - The phrase "**dark night of the soul**" comes from his poem.

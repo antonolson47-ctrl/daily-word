@@ -33,5 +33,6 @@ Africans, non-violence, prisoners (popular).
 
 ## Sources
 - *Apophthegmata Patrum* (Sayings of the Desert Fathers), "Moses"; Palladius, *Lausiac History*, ch. 19.
+- [Wikipedia: Moses the Black (overview with scholarly references)](https://en.wikipedia.org/wiki/Moses_the_Black)
 
 <p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>

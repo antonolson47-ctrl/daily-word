@@ -33,5 +33,6 @@ Shepherds, coffee-house owners (in some regions), people considered ugly, hernia
 
 ## Sources
 - *Vita S. Drogonis*, in *Acta Sanctorum*, April, vol. 2 (16 April).
+- [Wikipedia: Drogo (overview with scholarly references)](https://en.wikipedia.org/wiki/Drogo)
 
 <p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>

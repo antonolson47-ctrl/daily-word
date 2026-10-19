@@ -33,5 +33,6 @@ Mental illness, therapists, psychiatrists (popular patronage).
 
 ## Sources
 - Thomas of Cantimpré, *Vita Christinae Mirabilis* (c. 1232), in *Acta Sanctorum*, July, vol. 5.
+- [Wikipedia: Christina the Astonishing (overview with scholarly references)](https://en.wikipedia.org/wiki/Christina_the_Astonishing)
 
 <p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>

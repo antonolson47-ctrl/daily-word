@@ -6,7 +6,7 @@ last_verified: October 16, 2026
 ---
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
-There are now 100 saints here, and more are added in batches. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
+There are now 118 saints here, and more are added in batches. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
 <!--list-->
 
 ## Saints by Place
@@ -38,6 +38,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Ignatius of Loyola](/saints/ignatius-of-loyola/) | Azpeitia (Loyola) | Sanctuary of Loyola, Basque Country; the cave at Manresa |
 | [St Dominic](/saints/dominic/) | Caleruega | His birthplace, Caleruega (Burgos); his tomb in San Domenico, Bologna |
 | [St Francis Xavier](/saints/francis-xavier/) | Javier (Navarre) | Javier Castle, Navarre; Bom Jesus Basilica, Goa (his body) |
+| [St Beatriz da Silva](/saints/beatriz-da-silva/) | Toledo | Monastery of the Immaculate Conception, Toledo (her foundation) |
 
 ### Italy
 
@@ -71,6 +72,10 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Maria Goretti](/saints/maria-goretti/) | Nettuno / Corinaldo | Sanctuary of Santa Maria Goretti, Nettuno (her tomb); her birthplace, Corinaldo; the house at Le Ferriere where she was attacked |
 | [St John Bosco](/saints/john-bosco/) | Turin | Basilica of Mary Help of Christians, Valdocco (his tomb); his birthplace at Colle Don Bosco, Castelnuovo |
 | [St Philip Neri](/saints/philip-neri/) | Rome | Chiesa Nuova (Santa Maria in Vallicella), his tomb and rooms; San Girolamo della Carità; the Seven Churches walk |
+| [St Zita](/saints/zita/) | Lucca | Basilica of San Frediano, Lucca (her body) |
+| [St Margaret of Cortona](/saints/margaret-of-cortona/) | Cortona | Basilica of Santa Margherita, Cortona (her tomb) |
+| [St Erasmus (St Elmo)](/saints/erasmus/) | Formia / Gaeta | Gaeta Cathedral (relics); Formia |
+| [St Ignatius of Antioch](/saints/ignatius-of-antioch/) | Rome / Antioch | Basilica of San Clemente, Rome (relics claimed) |
 
 ### Mexico
 
@@ -90,6 +95,9 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Denis](/saints/denis/) | Paris / Saint-Denis | Basilica of Saint-Denis (his tomb); Saint-Pierre de Montmartre and the Chapelle du Martyre, Montmartre |
 | [St Bernadette Soubirous](/saints/bernadette/) | Lourdes / Nevers | Sanctuary of Our Lady of Lourdes; the *cachot* and her birthplace, the Boly mill; Espace Bernadette, Nevers (her body) |
 | [St Drogo](/saints/drogo/) | Sebourg (Nord) | Church of Saint-Druon, Sebourg (his relics) |
+| [St Fiacre](/saints/fiacre/) | Saint-Fiacre (Seine-et-Marne) / Meaux | Church of Saint-Fiacre; Chapelle Saint-Fiacre, Le Faouët (Brittany) |
+| [St Leonard of Noblac](/saints/leonard-of-noblac/) | Saint-Léonard-de-Noblat | Collegiate church and tomb |
+| [St Martha](/saints/martha/) | Tarascon | Collegiate Church of Sainte-Marthe, Tarascon (tomb tradition) |
 
 ### Ireland & Britain
 
@@ -102,6 +110,8 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Cuthbert](/saints/cuthbert/) | Durham / Lindisfarne (England) | Durham Cathedral (his shrine); Lindisfarne Priory; Inner Farne; see [St Cuthbert's Way](/pilgrimage/st-cuthbert/) |
 | [St Dunstan](/saints/dunstan/) | Glastonbury / Canterbury (England) | Glastonbury Abbey ruins; Canterbury Cathedral; the Convent of the Holy Child, Mayfield (his tongs) |
 | [St Thomas Becket](/saints/thomas-becket/) | Canterbury (England) | Canterbury Cathedral (the Martyrdom and Trinity Chapel); see [Via Francigena: Canterbury](/pilgrimage/via-francigena/canterbury/) |
+| [St Edmund](/saints/edmund/) | Bury St Edmunds (England) | St Edmundsbury Cathedral; the abbey ruins |
+| [St Rumwold](/saints/rumwold/) | Buckingham / King's Sutton (England) | Churches and wells dedicated to him; St Rumwold's, Bonnington (Kent) |
 
 ### Rest of Europe
 
@@ -113,6 +123,12 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Olav](/saints/olav/) | Trondheim / Stiklestad (Norway) | Nidaros Cathedral, Trondheim; Stiklestad church and battlefield; see [St Olav's Way](/pilgrimage/st-olav/) |
 | [St Blaise](/saints/blaise/) | Dubrovnik (Croatia) / Sivas (Turkey) | Church of St Blaise, Dubrovnik (his relics); the Festa of St Blaise, 3 February |
 | [St Elizabeth of Hungary](/saints/elizabeth-of-hungary/) | Marburg / Eisenach (Germany) | St Elizabeth's Church, Marburg; the Wartburg, Eisenach; Košice Cathedral (Slovakia), dedicated to her |
+| [St Hedwig of Silesia](/saints/hedwig/) | Trzebnica (Poland) | Sanctuary and tomb of St Hedwig, Trzebnica |
+| [St Vitus](/saints/vitus/) | Prague (Czech Republic) | St Vitus Cathedral, Prague Castle |
+| [St Notburga](/saints/notburga/) | Eben am Achensee (Austria) | Pilgrimage church of St Notburga (her shrine) |
+| [St Sunniva](/saints/sunniva/) | Selja (Norway) | Selja Abbey ruins and cave church; Bergen |
+| [St Wilgefortis](/saints/wilgefortis/) *(legend)* | Lucca / Tyrol | Volto Santo, Lucca Cathedral; Kümmernis images in Austrian and Bavarian churches |
+| [St Juliana of Nicomedia](/saints/juliana-of-nicomedia/) | Naples / Santillana del Mar | Collegiate church of Santillana del Mar, Cantabria (her tomb tradition) |
 
 ### Middle East & Africa
 
@@ -127,6 +143,8 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Barbara](/saints/barbara/) | Nicomedia (Turkey) / Heliopolis (Lebanon or Egypt) | St Barbara's Church, Old Cairo; St Vladimir's Cathedral, Kyiv (relics claimed) |
 | [St Polycarp](/saints/polycarp/) | Smyrna (İzmir, Turkey) | Church of St Polycarp, İzmir |
 | [Sts Perpetua and Felicity](/saints/perpetua-and-felicity/) | Carthage (Tunisia) | The Roman amphitheatre of Carthage; ruins of the Basilica Maiorum |
+| [St Apollonia](/saints/apollonia/) | Alexandria (Egypt) | Honoured across Europe; relics claimed in many churches |
+| [St Onuphrius](/saints/onuphrius/) | Egyptian desert | Sant'Onofrio al Gianicolo, Rome; Monastery of St Onuphrius, Jerusalem |
 
 ### Americas & Pacific
 
