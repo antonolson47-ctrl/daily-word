@@ -43,6 +43,32 @@ The image speaks the language of the Aztec world: a young woman with dark skin (
 
 <figure class=photo><picture><source srcset="/static/art/ms-gua-pilgrims-600.webp 600w,/static/art/ms-gua-pilgrims.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/ms-gua-pilgrims.jpg" alt="Pilgrims at the Basilica on 12 December 2024" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Pilgrims at the Basilica on 12 December 2024 · Photo: <a href="https://commons.wikimedia.org/wiki/File:12_de_diciembre_de_2024_en_la_Bas%C3%ADlica_de_Guadalupe_4.jpg">12 de diciembre de 2024 en la Basílica de Guadalupe 4</a> by ProtoplasmaKid, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### The New Basilica
+Built in **1974–76**, the round basilica seats 10,000. The **tilma** of St Juan Diego hangs above the altar; moving walkways below it keep the crowds flowing.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-guadal-the-new-basilica-600.webp 600w,/static/art/st2-ma-guadal-the-new-basilica.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-guadal-the-new-basilica.jpg" alt="The New Basilica" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The New Basilica · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ANueva_Basilica_de_Guadalupe_08.jpg">Nueva Basilica de Guadalupe 08</a> · GAED · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Old Basilica
+Completed in **1709**, it sank unevenly into the soft lake bed and leans visibly; it has been restored and reopened as the Templo Expiatorio a Cristo Rey.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-guadal-the-old-basilica-600.webp 600w,/static/art/st2-ma-guadal-the-old-basilica.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-guadal-the-old-basilica.jpg" alt="The Old Basilica" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Old Basilica · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ATemplo_Expiatorio_a_Cristo_Rey_%28Antigua_Bas%C3%ADlica_de_Guadalupe%29_-_Costado.jpg">Templo Expiatorio a Cristo Rey (Antigua Basílica de Guadalupe) - Costado</a> · Juan Carlos Fonseca Mata · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Capilla del Cerrito
+Stairs climb Tepeyac hill to the chapel where tradition places the first apparition and where Juan Diego gathered roses in December.
+
+<div class=legend markdown=1>
+**Tradition.** The roses, Castilian and out of season, filled his tilma; when he opened it before Bishop Zumárraga the image appeared. The tilma's survival is fact; its origin is a matter of faith and continuing study.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-guadal-capilla-del-cerrito-600.webp 600w,/static/art/st2-ma-guadal-capilla-del-cerrito.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-guadal-capilla-del-cerrito.jpg" alt="Capilla del Cerrito" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Capilla del Cerrito · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACapilla_del_Cerrito_%26_Angels_-_Mexico_2024.jpg">Capilla del Cerrito & Angels - Mexico 2024</a> · José Luiz · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### 12 December
+On the feast, millions of pilgrims, many on foot or on their knees, arrive overnight; it is among the largest pilgrimages in the world.
+
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-guadal-12-december-600.webp 600w,/static/art/st2-ma-guadal-12-december.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-guadal-12-december.jpg" alt="Pilgrims walking to the Basilica of Guadalupe" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Pilgrims walking to the Basilica of Guadalupe · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APeregrinos_caminando_hacia_la_Bas%C3%ADlica_de_Guadalupe.jpg">Peregrinos caminando hacia la Basílica de Guadalupe</a> · ProtoplasmaKid · CC BY 4.0, via Wikimedia Commons</figcaption></figure>
+
 ## Sources
 - [Basilica of Our Lady of Guadalupe (official)](https://virgendeguadalupe.org.mx/)
 - [Basilica of Guadalupe: timetable](https://virgendeguadalupe.org.mx/horarios/)

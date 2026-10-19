@@ -51,6 +51,36 @@ St **John Paul II** came here as a boy and young priest, and as Pope six times. 
 
 <figure class=photo><picture><source srcset="/static/art/ms-cz-tower-600.webp 600w,/static/art/ms-cz-tower.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/ms-cz-tower.jpg" alt="The tower of Jasna Góra" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The tower of Jasna Góra · Photo: <a href="https://commons.wikimedia.org/wiki/File:Tower_of_Jasna_G%C3%B3ra_(2).jpg">Tower of Jasna Góra (2)</a> by Radosław Botev &amp;amp; Sylwia Botev, <a href="https://creativecommons.org/licenses/by/3.0/pl/deed.en">CC BY 3.0 pl</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Jasna Góra monastery
+The Pauline Fathers' fortified monastery on the 'Bright Hill'; its 106 m tower dominates the city. Pilgrims enter through ramparts that held against the Swedes in 1655.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-czesto-jasna-g-ra-monastery-600.webp 600w,/static/art/st2-ma-czesto-jasna-g-ra-monastery.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-czesto-jasna-g-ra-monastery.jpg" alt="Jasna Góra monastery" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Jasna Góra monastery · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACz%C4%99stochowa_-_Jasna_G%C3%B3ra_Gate_01.jpg">Częstochowa - Jasna Góra Gate 01</a> · Yarl · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Chapel of the Black Madonna
+The icon is unveiled each morning to a fanfare and veiled again at midday; pilgrims circle the altar on their knees. Note the two scars on her cheek.
+
+<div class=legend markdown=1>
+**Legend.** Tradition says St Luke painted it on a table top from the Holy Family's house. Art historians date it to Byzantine or Italo-Byzantine work of the 13th–14th centuries. The scars come from the Hussite raid of **1430**.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-czesto-the-chapel-of-the-black-madonn-600.webp 600w,/static/art/st2-ma-czesto-the-chapel-of-the-black-madonn.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-czesto-the-chapel-of-the-black-madonn.jpg" alt="The Chapel of the Black Madonna" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Chapel of the Black Madonna · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AOur_Lady_of_Czestochowa_Chapel_%28Washington_Basilica%29.JPG">Our Lady of Czestochowa Chapel (Washington Basilica)</a> · Farragutful · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Basilica
+The baroque Basilica of the Holy Cross and Nativity of Mary, with its long nave and gilded altars, is used for large Masses when the chapel cannot hold the crowd.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-czesto-the-basilica-600.webp 600w,/static/art/st2-ma-czesto-the-basilica.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-czesto-the-basilica.jpg" alt="The Basilica" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Basilica · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AInterior_of_the_Jasna_G%C3%B3ra_Basilica_%281%29.jpg">Interior of the Jasna Góra Basilica (1)</a> · Radosław Botev &amp; Sylwia Botev · CC BY 3.0 pl, via Wikimedia Commons</figcaption></figure>
+
+#### The Warsaw Walking Pilgrimage
+Since **1711** pilgrims have walked from Warsaw to Jasna Góra each August, about 240 km in nine days, arriving for the Assumption on 15 August. It never stopped, even under Communism.
+
+<div class=history markdown=1>
+**History.** The Warsaw pilgrimage has taken place every year since 1711, a continuous tradition of over 300 years.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-czesto-the-warsaw-walking-pilgrimage-600.webp 600w,/static/art/st2-ma-czesto-the-warsaw-walking-pilgrimage.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-czesto-the-warsaw-walking-pilgrimage.jpg" alt="The Warsaw Walking Pilgrimage" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Warsaw Walking Pilgrimage · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AWarszawska_Akademicka_Pielgrzymka_Metropolitalna.jpg">Warszawska Akademicka Pielgrzymka Metropolitalna</a> · Piotr Rymuza · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Jasna Góra (official)](https://www.jasnagora.pl/)
 - [Jasna Góra: order of Masses and the unveiling of the icon](https://jasnagora.pl/kancelaria-kustosza-sanktuarium/porz%C4%85dek-mszy-%C5%9Bw-i-spowiedzi/)

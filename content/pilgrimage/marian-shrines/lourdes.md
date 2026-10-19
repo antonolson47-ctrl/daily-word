@@ -52,6 +52,29 @@ Bernadette never claimed any glory: "The Blessed Virgin used me like a broom. Wh
 
 <figure class=photo><picture><source srcset="/static/art/ms-lou-gave-600.webp 600w,/static/art/ms-lou-gave.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/ms-lou-gave.jpg" alt="The sanctuary on the river Gave" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The sanctuary on the river Gave · Photo: <a href="https://commons.wikimedia.org/wiki/File:Gave_de_Pau_(Lourdes).JPG">Gave de Pau (Lourdes)</a> by Père Igor, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### The Grotto of Massabielle
+The rock cave by the Gave river where Bernadette saw the Lady 18 times in 1858. Pilgrims pass under the rock, touching it, and drink from taps of the spring she uncovered.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-lourde-the-grotto-of-massabielle-600.webp 600w,/static/art/st2-ma-lourde-the-grotto-of-massabielle.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-lourde-the-grotto-of-massabielle.jpg" alt="The Grotto of Massabielle" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Grotto of Massabielle · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AGrotte_de_Massabielle_2019.jpg">Grotte de Massabielle 2019</a> · Thomon · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Basilicas
+Three churches are stacked above the Grotto: the Crypt (1866), the Upper Basilica of the Immaculate Conception (1871) and the Rosary Basilica (1889), with its Byzantine mosaics.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-lourde-the-basilicas-600.webp 600w,/static/art/st2-ma-lourde-the-basilicas.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-lourde-the-basilicas.jpg" alt="The Basilicas" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Basilicas · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABasilique_de_l%27Immacul%C3%A9e-Conception_%28Lourdes%29.jpg">Basilique de l'Immaculée-Conception (Lourdes)</a> · Van Der Meulen Christofle · CC0, via Wikimedia Commons</figcaption></figure>
+
+#### The Torchlight Procession
+Every evening from April to October, thousands carry candles round the esplanade singing the *Lourdes Ave Maria*, in many languages.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-lourde-the-torchlight-procession-600.webp 600w,/static/art/st2-ma-lourde-the-torchlight-procession.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-lourde-the-torchlight-procession.jpg" alt="The Torchlight Procession" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Torchlight Procession · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASoir_de_p%C3%A8lerinage_%C3%A0_Lourdes_01.jpg">Soir de pèlerinage à Lourdes 01</a> · Celeda · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Cachot
+The tiny former jail where Bernadette's destitute family lived in one room in 1858, a few streets from the sanctuary. It explains her poverty better than any book.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-lourde-the-cachot-600.webp 600w,/static/art/st2-ma-lourde-the-cachot.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-lourde-the-cachot.jpg" alt="The Cachot" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Cachot · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ALourdes_-_%C2%AB_cachot_%C2%BB_-_5.jpg">Lourdes - « cachot » - 5</a> · This illustration was made by Peter Potrowl.
+Please credit this with : © Peter P · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Sanctuary of Our Lady of Lourdes (official)](https://www.lourdes-france.org/en/)
 - [Lourdes: a place of prayer (sanctuary)](https://www.lourdes-france.org/en/lourdes-a-place-of-prayer/)

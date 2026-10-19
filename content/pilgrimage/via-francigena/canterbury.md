@@ -49,6 +49,32 @@ After the North Downs, the road drops to **Dover** and the white cliffs, the las
 
 <figure class=photo><picture><source srcset="/static/art/vf-dover-600.webp 600w,/static/art/vf-dover.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/vf-dover.jpg" alt="The White Cliffs of Dover" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The White Cliffs of Dover · Photo: <a href="https://commons.wikimedia.org/wiki/File:Dover_White_Cliffs_9.jpg">Dover White Cliffs 9</a> by kallerna, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Canterbury Cathedral
+Kilometre zero. The pilgrim's credential is stamped at the Cathedral, and the official start, a stone marked **Km 0**, sits near the south-west porch. Inside, a single candle burns on the pavement of the **Trinity Chapel** where Becket's shrine stood until Henry VIII's commissioners destroyed it in 1538.
+
+<div class=history markdown=1>
+**History.** The shrine was demolished in September 1538 and the bones are lost. The candle marks the site; the place of the murder, the *Martyrdom*, is marked by a modern sculpture of swords.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-canter-canterbury-cathedral-600.webp 600w,/static/art/st2-vi-canter-canterbury-cathedral.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-canter-canterbury-cathedral.jpg" alt="Canterbury Cathedral" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Canterbury Cathedral · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACanterbury_Cathedral_Nave_1%2C_Kent%2C_UK_-_Diliff.jpg">Canterbury Cathedral Nave 1, Kent, UK - Diliff</a> · Diliff · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### St Martin's Church
+Just outside the city walls stands the oldest church in continuous use in the English-speaking world. Queen **Bertha**, a Frankish Christian, prayed here before St Augustine arrived in 597; Bede says Augustine's monks first worshipped in it. It is part of the Canterbury UNESCO site with the Cathedral and St Augustine's Abbey.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-canter-st-martin-s-church-600.webp 600w,/static/art/st2-vi-canter-st-martin-s-church.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-canter-st-martin-s-church.jpg" alt="St Martin&#x27;s Church" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>St Martin&#x27;s Church · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACanterbury_St_Martin_close.jpg">Canterbury St Martin close</a> · Oosoom · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### Shepherdswell and the North Downs
+The first day crosses chalk farmland and orchards on the line of a Roman road to the coast. The village church of St Andrew at **Shepherdswell** is a traditional first stamp before the descent to Dover.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-canter-shepherdswell-and-the-north-do-600.webp 600w,/static/art/st2-vi-canter-shepherdswell-and-the-north-do.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-canter-shepherdswell-and-the-north-do.jpg" alt="Shepherdswell and the North Downs" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Shepherdswell and the North Downs · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASt_Andrew%27s_Church%2C_Shepherdswell_-_geograph.org.uk_-_1743357.jpg">St Andrew's Church, Shepherdswell - geograph.org.uk - 1743357</a> · adrian newell · CC BY-SA 2.0, via Wikimedia Commons</figcaption></figure>
+
+#### Dover
+Sigeric crossed at **Sumeran** (probably Sombre, near Wissant); modern pilgrims take the ferry from Dover to Calais. Above the port, the Saxon church of **St Mary in Castro** stands beside a Roman lighthouse inside Dover Castle, one of the oldest buildings in England.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-canter-dover-600.webp 600w,/static/art/st2-vi-canter-dover.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-canter-dover.jpg" alt="Dover" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Dover · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AChurch_of_St_Mary-in-Castro%2C_Dover_Castle_from_the_south-west.jpg">Church of St Mary-in-Castro, Dover Castle from the south-west</a> · DeFacto · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Canterbury Cathedral: pilgrimage](https://www.canterbury-cathedral.org/worship/pilgrimage/)
 - [Canterbury Cathedral: Via Francigena pilgrim record and credential](https://www.canterbury-cathedral.org/shop/pilgrims-to-rome-via-francigena-pilgrim-record-and-credential/)

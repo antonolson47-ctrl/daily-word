@@ -52,6 +52,36 @@ The present church is mostly Crusader (consecrated **1149**). The **Edicule** ov
 
 <figure class=photo><picture><source srcset="/static/art/hl-upper-600.webp 600w,/static/art/hl-upper.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hl-upper.jpg" alt="The Gothic hall of the Upper Room (Cenacle)" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Gothic hall of the Upper Room (Cenacle) · Photo: <a href="https://commons.wikimedia.org/wiki/File:Detail_of_Interior_of_Room_of_the_Last_Supper_(Cenacle)_-_Old_City_-_Jerusalem_-_Israel_(5676100495).jpg">Detail of Interior of Room of the Last Supper (Cenacle) - Old City - Jerusalem -</a> by Adam Jones from Kelowna, BC, Canada, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Church of the Holy Sepulchre
+One church covers both **Golgotha** and the **tomb**. Constantine's builders found the site in about 326 under a Roman temple. The tomb shrine, the **Aedicule**, was restored in 2016–17, when the original limestone burial bed was briefly uncovered.
+
+<div class=history markdown=1>
+**History.** Archaeology confirms the site was a quarry and burial ground outside the walls in Jesus' time; Christians identified it by the 4th century.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jerusa-church-of-the-holy-sepulchre-600.webp 600w,/static/art/st2-ho-jerusa-church-of-the-holy-sepulchre.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jerusa-church-of-the-holy-sepulchre.jpg" alt="Church of the Holy Sepulchre" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Church of the Holy Sepulchre · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AHoly_Land_2016_P0928_Church_of_the_Holy_Sepulchre_Aedicule_exterior.jpg">Holy Land 2016 P0928 Church of the Holy Sepulchre Aedicule exterior</a> · Fallaner · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Mount of Olives and Dominus Flevit
+The tear-shaped chapel of **Dominus Flevit** (1955, Barluzzi) marks where Jesus wept over the city (Luke 19:41). Its west window frames the view of the Temple Mount and the Dome of the Rock.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jerusa-mount-of-olives-and-dominus-fl-600.webp 600w,/static/art/st2-ho-jerusa-mount-of-olives-and-dominus-fl.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jerusa-mount-of-olives-and-dominus-fl.jpg" alt="Mount of Olives and Dominus Flevit" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Mount of Olives and Dominus Flevit · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AJerusalem_Dominus_flevit_BW_1.JPG">Jerusalem Dominus flevit BW 1</a> · Berthold Werner · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### St Anne's and the Pools of Bethesda
+The Crusader church of **St Anne**, with perfect acoustics, is traditionally the home of Mary's parents. Beside it, excavations show the **Pools of Bethesda** with five porticoes, where Jesus healed the paralysed man (John 5).
+
+<div class=history markdown=1>
+**History.** The five porticoes John describes were long doubted until excavations in the 19th and 20th centuries found the double pool.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jerusa-st-anne-s-and-the-pools-of-bet-600.webp 600w,/static/art/st2-ho-jerusa-st-anne-s-and-the-pools-of-bet.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jerusa-st-anne-s-and-the-pools-of-bet.jpg" alt="St Anne&#x27;s and the Pools of Bethesda" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>St Anne&#x27;s and the Pools of Bethesda · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AJerusalem-Church-of-St-Anne-KC-463.jpg">Jerusalem-Church-of-St-Anne-KC-463</a> · Bukvoed · CC BY 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Western Wall and the Davidson Center
+The retaining wall of Herod's Temple platform. Just south, the **Davidson Center** excavations show the 1st-century street and steps up to the Temple that Jesus and the apostles walked (Acts 3).
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jerusa-the-western-wall-and-the-david-600.webp 600w,/static/art/st2-ho-jerusa-the-western-wall-and-the-david.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jerusa-the-western-wall-and-the-david.jpg" alt="The Western Wall and the Davidson Center" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Western Wall and the Davidson Center · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AWestern_Wall_in_Passover_2022.jpg">Western Wall in Passover 2022</a> · DGtal · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Christian Information Centre: opening hours of the holy places (15 September 2026)](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)
 - [Custody of the Holy Land: Gethsemane](https://www.custodia.org/en/sanctuaries/gethsemane)

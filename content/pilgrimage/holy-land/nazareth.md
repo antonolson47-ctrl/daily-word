@@ -41,6 +41,33 @@ Next door, the **Church of St Joseph** (1914) stands over caves venerated as the
 
 <figure class=photo><picture><source srcset="/static/art/hl-nzview-600.webp 600w,/static/art/hl-nzview.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hl-nzview.jpg" alt="Nazareth, with the dome of the Basilica of the Annunciation" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Nazareth, with the dome of the Basilica of the Annunciation · Photo: <a href="https://commons.wikimedia.org/wiki/File:Nazareth_Panorama_Dafna_Tal_IMOT_(14532097313).jpg">Nazareth Panorama Dafna Tal IMOT (14532097313)</a> by Israel_photo_gallery, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Basilica of the Annunciation
+The 1969 basilica, the largest church in the Middle East, rises over the **grotto** venerated as Mary's home. Inside and outside, mosaics of Mary sent from countries around the world line the walls.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-nazare-basilica-of-the-annunciation-600.webp 600w,/static/art/st2-ho-nazare-basilica-of-the-annunciation.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-nazare-basilica-of-the-annunciation.jpg" alt="Basilica of the Annunciation" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Basilica of the Annunciation · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABasilica_of_the_Annunciation%2C_Nazareth%2C_Israel_11.jpg">Basilica of the Annunciation, Nazareth, Israel 11</a> · Hoshvilim · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Church of St Joseph
+A short walk away, the Franciscan church of **St Joseph** stands over caves traditionally linked to Joseph's workshop, with an old cistern and early Christian remains below.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-nazare-church-of-st-joseph-600.webp 600w,/static/art/st2-ho-nazare-church-of-st-joseph.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-nazare-church-of-st-joseph.jpg" alt="Church of St Joseph" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Church of St Joseph · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASaint_Joseph_stained_glass_window_in_the_Saint_Antony_church_in_St._Ulrich_in_Gr%C3%B6den.jpg">Saint Joseph stained glass window in the Saint Antony church in St. Ulrich in Gröden</a> · This Photo was taken by Wolfgang Moroder.  
+
+Feel free to use my photos, but ple · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### Mary's Well and St Gabriel's
+The Orthodox tradition places the Annunciation at the town spring, where the Greek Orthodox **Church of St Gabriel** is built over the water source (compare the *Protoevangelium of James*).
+
+<div class=legend markdown=1>
+**Tradition.** The *Protoevangelium of James* (2nd century) tells of the angel greeting Mary first as she drew water; Orthodox Christians honour that at St Gabriel's.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-nazare-mary-s-well-and-st-gabriel-s-600.webp 600w,/static/art/st2-ho-nazare-mary-s-well-and-st-gabriel-s.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-nazare-mary-s-well-and-st-gabriel-s.jpg" alt="Mary&#x27;s Well and St Gabriel&#x27;s" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Mary&#x27;s Well and St Gabriel&#x27;s · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AJan_Ci%C4%85gli%C5%84ski_-_Mary%E2%80%99s_Well_in_Nazareth._From_the_journey_to_Palestine_-_MP_1547_MNW_-_National_Museum_in_Warsaw.jpg">Jan Ciągliński - Mary’s Well in Nazareth. From the journey to Palestine - MP 1547 MNW - National Museum in Warsaw</a> · Jan Ciągliński · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### Nazareth Village
+A reconstructed 1st-century farm with olive press, terraces and synagogue, staffed by guides in period dress, gives a sense of the village Jesus knew.
+
+
+
 ## Sources
 - [Custody of the Holy Land: Nazareth, Basilica of the Annunciation](https://www.custodia.org/en/sanctuaries/nazareth)
 - [Christian Information Centre: current opening hours](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)

@@ -44,6 +44,32 @@ The French section is the longest and the quietest part of the Via Francigena: a
 ### Into the Jura
 After **Besançon**, with its cathedral of Saint-Jean and Vauban's citadel, the way climbs the valley of the Loue to **Pontarlier** and the Jura heights, and crosses into Switzerland.
 
+### Stop by stop
+#### Wissant and the Opal Coast
+Sigeric's first French stop (*Sumeran*) is placed by most scholars near **Wissant**, between the white cliffs of Cap Blanc-Nez and Cap Gris-Nez. On a clear day the English cliffs are visible behind you.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-france-wissant-and-the-opal-coast-600.webp 600w,/static/art/st2-vi-france-wissant-and-the-opal-coast.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-france-wissant-and-the-opal-coast.jpg" alt="Wissant and the Opal Coast" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Wissant and the Opal Coast · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AKite_surfer_on_the_beach_of_Wissant%2C_Pas-de-Calais_-8074.jpg">Kite surfer on the beach of Wissant, Pas-de-Calais -8074</a> · Raimond Spekking · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Arras
+The Flemish-baroque squares of **Arras**, rebuilt after the First World War, mark the road's turn south-east. The cathedral and the abbey of Saint-Vaast were great medieval pilgrim houses; the war cemeteries around the town are a sober reminder of a later pilgrimage of grief.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-france-arras-600.webp 600w,/static/art/st2-vi-france-arras.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-france-arras.jpg" alt="Arras" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Arras · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AArras_%2862%29%2C_Grand-Place%2C_c%C3%B4t%C3%A9_nord%2C_n%C2%B0_59_-_67_1.jpg">Arras (62), Grand-Place, côté nord, n° 59 - 67 1</a> · Pierre Poschadel · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Reims
+Kings of France were crowned at **Notre-Dame de Reims** for 800 years. Its west front holds the famous *Smiling Angel*. Close by, the basilica of **Saint-Remi** keeps the tomb of the bishop who baptised Clovis about 496, the birth of Christian France.
+
+<div class=legend markdown=1>
+**Legend.** A dove brought the *Sainte Ampoule* of holy oil from heaven for Clovis's baptism, tradition says; it was smashed in 1793 and a fragment preserved.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-france-reims-600.webp 600w,/static/art/st2-vi-france-reims.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-france-reims.jpg" alt="Reims" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Reims · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AFacade_of_Reims_Cathedral.jpg">Facade of Reims Cathedral</a> · The Crazy Tourist (thecrazytourist.com) · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Besançon and the Jura
+After the Champagne vineyards and Langres on its ridge, the road climbs to **Besançon** in its loop of the Doubs, under Vauban's citadel, and on through the Jura forests to the Swiss border at Jougne.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-france-besan-on-and-the-jura-600.webp 600w,/static/art/st2-vi-france-besan-on-and-the-jura.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-france-besan-on-and-the-jura.jpg" alt="Besançon and the Jura" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Besançon and the Jura · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABesancon_citadelle_tarragnoz.jpg">Besancon citadelle tarragnoz</a> · Djdjip · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [EAVF: Via Francigena stages (official)](https://www.viefrancigene.org/en/)
 - [Reims Cathedral (official)](https://www.cathedrale-reims.com/)

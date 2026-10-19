@@ -52,6 +52,32 @@ The octagonal **Church of the Beatitudes** (1938) has one side for each Beatitud
 **Tradition.** The Gospels do not name the "high mountain" of the Transfiguration; some scholars prefer Mount Hermon, near Caesarea Philippi, but Tabor has been the place of the feast since Origen and Cyril of Jerusalem.
 </div>
 
+### Stop by stop
+#### Mount Arbel
+A cliff over the lake with one of the great views of Galilee: Capernaum, Magdala and Tiberias below. The path down passes cave fortresses used by Jewish rebels against Herod.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-galile-mount-arbel-600.webp 600w,/static/art/st2-ho-galile-mount-arbel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-galile-mount-arbel.jpg" alt="Mount Arbel" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Mount Arbel · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AMount-Arbel-189.jpg">Mount-Arbel-189</a> · Bukvoed · CC BY 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### Magdala
+Excavations since 2009 uncovered a 1st-century **synagogue** with the carved **Magdala Stone**, one of the oldest images of the Temple menorah. Mary Magdalene's home town; Jesus very likely taught in synagogues like this.
+
+<div class=history markdown=1>
+**History.** The synagogue was in use before AD 70; it is one of the few 1st-century synagogues found in Galilee.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-galile-magdala-600.webp 600w,/static/art/st2-ho-galile-magdala.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-galile-magdala.jpg" alt="Magdala" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Magdala · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AMagdala_synagogue%2C_2019_%2801%29.jpg">Magdala synagogue, 2019 (01)</a> · Bahnfrend · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Capernaum
+The white limestone synagogue (4th–5th c.) stands on black basalt foundations of an earlier one. Beside it, a modern church hovers over the house of **St Peter**, venerated since the 1st century.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-galile-capernaum-600.webp 600w,/static/art/st2-ho-galile-capernaum.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-galile-capernaum.jpg" alt="Capernaum" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Capernaum · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACapernaum_Synagogue_Ruins.jpg">Capernaum Synagogue Ruins</a> · zeevveez · CC BY 2.0, via Wikimedia Commons</figcaption></figure>
+
+#### Primacy of St Peter
+A small basalt church by the shore over a rock called *Mensa Christi*, remembering the breakfast of fish and Jesus' threefold question to Peter (John 21).
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-galile-primacy-of-st-peter-600.webp 600w,/static/art/st2-ho-galile-primacy-of-st-peter.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-galile-primacy-of-st-peter.jpg" alt="Primacy of St Peter" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Primacy of St Peter · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Primacy_of_St_Peter%2C_2019_%2801%29.jpg">Church of the Primacy of St Peter, 2019 (01)</a> · Bahnfrend · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Custody of the Holy Land: Capernaum](https://www.custodia.org/en/sanctuaries/capernaum)
 - [Custody of the Holy Land: Tabgha](https://www.custodia.org/en/sanctuaries/tabgha)

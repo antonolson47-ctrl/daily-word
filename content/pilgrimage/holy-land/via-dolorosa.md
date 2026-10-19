@@ -51,6 +51,32 @@ map_caption: The fourteen stations from the Antonia (the Umariya school) to the 
 
 What matters is not the precise paving, but walking with Christ: the stations call each pilgrim to "take up his cross daily and follow me" (Luke 9:23).
 
+### Stop by stop
+#### Lions' Gate
+Also called St Stephen's Gate, where tradition places the first martyr's stoning. The route's Franciscan procession, every **Friday at 3 pm**, starts nearby.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-via-do-lions-gate-600.webp 600w,/static/art/st2-ho-via-do-lions-gate.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-via-do-lions-gate.jpg" alt="Lions&#x27; Gate" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Lions&#x27; Gate · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AOld_Jerusalem_Lions_Gate_sign.jpg">Old Jerusalem Lions Gate sign</a> · Utilisateur:Djampa - User:Djampa · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Church of the Flagellation
+Stations I–II. The Franciscan **Studium Biblicum** has its home here; the chapel windows show the scourging. The paving stones in the nearby **Ecce Homo** convent were once taken for the *Lithostrotos* of John 19:13.
+
+<div class=history markdown=1>
+**History.** Archaeologists date that paving to Hadrian's Aelia Capitolina (2nd century), after Jesus' time.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-via-do-church-of-the-flagellation-600.webp 600w,/static/art/st2-ho-via-do-church-of-the-flagellation.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-via-do-church-of-the-flagellation.jpg" alt="Church of the Flagellation" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Church of the Flagellation · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AJerusalem-Church-of-the-Flagellation-KC-503.jpg">Jerusalem-Church-of-the-Flagellation-KC-503</a> · Bukvoed · CC BY 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Ecce Homo Arch
+The arch crossing the street was named for Pilate's words, "Behold the man" (John 19:5). It is in fact part of a 2nd-century triple gateway built by Hadrian.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-via-do-ecce-homo-arch-600.webp 600w,/static/art/st2-ho-via-do-ecce-homo-arch.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-via-do-ecce-homo-arch.jpg" alt="Ecce Homo Arch" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Ecce Homo Arch · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AEcce_Homo_arch%2C_Jerusalem.png">Ecce Homo arch, Jerusalem</a> · C. H. Graves · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### Ninth Station and the Ethiopian monastery
+Station IX is reached by stairs to the roof of the Holy Sepulchre, where Ethiopian monks live in tiny cells of **Deir es-Sultan**. From here you descend through their chapels into the church.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-via-do-ninth-station-and-the-ethiopia-600.webp 600w,/static/art/st2-ho-via-do-ninth-station-and-the-ethiopia.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-via-do-ninth-station-and-the-ethiopia.jpg" alt="Ninth Station and the Ethiopian monastery" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Ninth Station and the Ethiopian monastery · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ADeir_Es-Sultan_122011.jpg">Deir Es-Sultan 122011</a> · Assayas · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Christian Information Centre: opening hours and the Friday Via Crucis](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)
 - [Custody of the Holy Land: Flagellation](https://www.custodia.org/en/sanctuaries/flagellation)

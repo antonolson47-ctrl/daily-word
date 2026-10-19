@@ -49,6 +49,36 @@ In the 13th century Viterbo was often the popes' residence. After the death of C
 
 <figure class=photo><picture><source srcset="/static/art/vf-laz-sutri-600.webp 600w,/static/art/vf-laz-sutri.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/vf-laz-sutri.jpg" alt="The rock-cut amphitheatre of Sutri" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The rock-cut amphitheatre of Sutri · Photo: <a href="https://commons.wikimedia.org/wiki/File:Sutri,_Anfiteatro_panoramica.jpg">Sutri, Anfiteatro panoramica</a> by Mariapia Statile, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### San Quirico and the Val d'Orcia
+South of Siena the road runs through the **Val d'Orcia**, a UNESCO landscape of cypresses and bare clay hills. **San Quirico d'Orcia**'s collegiate church has a richly carved Romanesque portal. Radicofani's fortress guards the last Tuscan ridge.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-bolsen-san-quirico-and-the-val-d-orci-600.webp 600w,/static/art/st2-vi-bolsen-san-quirico-and-the-val-d-orci.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-bolsen-san-quirico-and-the-val-d-orci.jpg" alt="San Quirico and the Val d&#x27;Orcia" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>San Quirico and the Val d&#x27;Orcia · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AIn_Val_d%27Orcia.jpg">In Val d'Orcia</a> · JP Vets · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Bolsena
+By the volcanic lake, the basilica of **Santa Cristina** keeps the altar of the Eucharistic miracle of **1263**, the event that led Pope Urban IV to extend the feast of **Corpus Christi** to the whole Church in 1264.
+
+<div class=legend markdown=1>
+**Tradition and history.** A Bohemian priest, Peter of Prague, doubting the Real Presence, saw blood drip from the Host onto the corporal. The corporal is in Orvieto Cathedral. The 1264 bull *Transiturus* is history; the miracle is a matter of faith.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-bolsen-bolsena-600.webp 600w,/static/art/st2-vi-bolsen-bolsena.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-bolsen-bolsena.jpg" alt="Bolsena" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Bolsena · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABolsena_-_Chiesa_di_Santa_Cristina_-_Agosto_2015.jpg">Bolsena - Chiesa di Santa Cristina - Agosto 2015</a> · Sidvics · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### Viterbo
+The 13th-century **Palace of the Popes** saw the longest papal election in history (1268–71): the exasperated townspeople locked the cardinals in, cut rations and took off the roof, which gave us the word *conclave* ('with a key').
+
+<div class=history markdown=1>
+**History.** The roofless-palace story is reported in contemporary sources; the cardinals finally elected Gregory X in September 1271.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-bolsen-viterbo-600.webp 600w,/static/art/st2-vi-bolsen-viterbo.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-bolsen-viterbo.jpg" alt="Viterbo" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Viterbo · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APalazzo_dei_Papi_%28Viterbo%29_2022.jpg">Palazzo dei Papi (Viterbo) 2022</a> · NikonZ7II · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Monte Mario and St Peter's
+The last morning crosses the park of **Monte Mario** to the first view of the dome, then the colonnade of **St Peter's Square**. Pilgrims walking the last 100 km can request the *Testimonium* at the Basilica.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-bolsen-monte-mario-and-st-peter-s-600.webp 600w,/static/art/st2-vi-bolsen-monte-mario-and-st-peter-s.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-bolsen-monte-mario-and-st-peter-s.jpg" alt="Monte Mario and St Peter&#x27;s" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Monte Mario and St Peter&#x27;s · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASt_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg">St Peter's Square, Vatican City - April 2007</a> · Diliff · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [St Peter's Basilica: the Testimonium](https://www.basilicasanpietro.va/en/testimonium)
 - [EAVF: Via Francigena stages (official)](https://www.viefrancigene.org/en/)

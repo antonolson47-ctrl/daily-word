@@ -44,6 +44,32 @@ A **silver star** under an altar in the Grotto bears the words *Hic de Virgine M
 
 <figure class=photo><picture><source srcset="/static/art/hl-mangersq-600.webp 600w,/static/art/hl-mangersq.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hl-mangersq.jpg" alt="Manger Square, in front of the basilica" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Manger Square, in front of the basilica · Photo: <a href="https://commons.wikimedia.org/wiki/File:Manger_Square.jpg">Manger Square</a> by Alexey Goral, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Manger Square and the Door of Humility
+The basilica's entrance was shrunk to about 1.2 m in the Ottoman period, probably to stop carts and horsemen. Everyone must bow to enter.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-bethle-manger-square-and-the-door-of--600.webp 600w,/static/art/st2-ho-bethle-manger-square-and-the-door-of-.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-bethle-manger-square-and-the-door-of-.jpg" alt="Manger Square and the Door of Humility" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Manger Square and the Door of Humility · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ADoor_of_Humility_%28Church_of_the_Nativity%2C_Bethlehem%29%2C_2019_%2801%29.jpg">Door of Humility (Church of the Nativity, Bethlehem), 2019 (01)</a> · Bahnfrend · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Grotto of the Nativity
+A silver **star** in the floor, inscribed *Hic de Virgine Maria Jesus Christus natus est*, marks the traditional birthplace. Justin Martyr (c. 155) already speaks of a cave.
+
+<div class=history markdown=1>
+**History.** The cave tradition is older than Constantine's basilica (c. 330); the present church is Justinian's, 6th century, and survived the Persian invasion of 614, legend says because the soldiers saw the Magi in Persian dress in a mosaic.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-bethle-the-grotto-of-the-nativity-600.webp 600w,/static/art/st2-ho-bethle-the-grotto-of-the-nativity.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-bethle-the-grotto-of-the-nativity.jpg" alt="The Grotto of the Nativity" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Grotto of the Nativity · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ANativity_Grotto_Star.jpg">Nativity Grotto Star</a> · Mark87 at English Wikipedia · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### St Catherine's and St Jerome's cave
+The Franciscan church of **St Catherine**, from which the Christmas midnight Mass is broadcast, connects to caves where St **Jerome** translated the Bible into Latin, the Vulgate (c. 386–405).
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-bethle-st-catherine-s-and-st-jerome-s-600.webp 600w,/static/art/st2-ho-bethle-st-catherine-s-and-st-jerome-s.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-bethle-st-catherine-s-and-st-jerome-s.jpg" alt="St Catherine&#x27;s and St Jerome&#x27;s cave" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>St Catherine&#x27;s and St Jerome&#x27;s cave · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABethlehem-13-Church_of_St_Catherine.jpg">Bethlehem-13-Church of St Catherine</a> · Ian Sewell · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Shepherds' Field, Beit Sahour
+East of town, Franciscan and Orthodox sites remember the angels' announcement (Luke 2:8–14). The Franciscan chapel is shaped like a shepherd's tent.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-bethle-shepherds-field-beit-sahour-600.webp 600w,/static/art/st2-ho-bethle-shepherds-field-beit-sahour.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-bethle-shepherds-field-beit-sahour.jpg" alt="Shepherds&#x27; Field, Beit Sahour" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Shepherds&#x27; Field, Beit Sahour · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AHoly_Land_2016_P0045_Roman_Catholic_Shepherds_Field_Chapel.jpg">Holy Land 2016 P0045 Roman Catholic Shepherds Field Chapel</a> · Fallaner · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Custody of the Holy Land: Bethlehem, Basilica of the Nativity](https://www.custodia.org/en/sanctuaries/bethlehem)
 - [Christian Information Centre: current opening hours](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)

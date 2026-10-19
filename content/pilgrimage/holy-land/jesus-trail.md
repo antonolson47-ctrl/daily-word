@@ -46,6 +46,32 @@ The twin hilltop of the **Horns of Hattin** saw the defeat of the Crusader army 
 **Tradition.** A medieval tradition put the Sermon on the Mount on the **Horns of Hattin** (the "Mount of the Beatitudes" of Crusader pilgrims), before it moved to the hill above Tabgha. The Gospel of Matthew simply says "the mountain".
 </div>
 
+### Stop by stop
+#### Zippori (Sepphoris)
+Herod Antipas's capital, an hour's walk from Nazareth. The famous mosaic of a woman, the 'Mona Lisa of the Galilee', and a large theatre show the Roman city Joseph may have worked in.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jesus--zippori-sepphoris-600.webp 600w,/static/art/st2-ho-jesus--zippori-sepphoris.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jesus--zippori-sepphoris.jpg" alt="Zippori (Sepphoris)" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Zippori (Sepphoris) · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ADetail_mosaic_Sepphoris.JPG">Detail mosaic Sepphoris</a> · Netzer and Weiss · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### Cana
+Franciscan and Orthodox churches commemorate the first sign at the wedding (John 2). Married couples often renew vows here.
+
+<div class=legend markdown=1>
+**Tradition and history.** Several villages claim Cana. Kafr Kanna has the pilgrim churches; many scholars favour Khirbet Qana to the north.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jesus--cana-600.webp 600w,/static/art/st2-ho-jesus--cana.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jesus--cana.jpg" alt="Cana" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Cana · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACatholic_Wedding_Church_of_Cana.jpg">Catholic Wedding Church of Cana</a> · Jayme del Rosario · CC BY 2.0, via Wikimedia Commons</figcaption></figure>
+
+#### Horns of Hattin
+The extinct volcano where Saladin destroyed the Crusader army in **1187**, a turning point in the Holy Land's history. The trail crosses its slopes on the way to Arbel.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jesus--horns-of-hattin-600.webp 600w,/static/art/st2-ho-jesus--horns-of-hattin.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jesus--horns-of-hattin.jpg" alt="Horns of Hattin" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Horns of Hattin · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AHorns_of_Hattin_%28997009157667905171%29.jpg">Horns of Hattin (997009157667905171)</a> · Benno Rothenberg · CC BY 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Tabgha
+The Church of the **Multiplication** has the famous 5th-century mosaic of two fish and a basket of loaves in front of the altar.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ho-jesus--tabgha-600.webp 600w,/static/art/st2-ho-jesus--tabgha.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jesus--tabgha.jpg" alt="Tabgha" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Tabgha · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ANorthern_views._Ain_Tabgha._Mosaic_floor._Loaves_and_fishes_LOC_matpc.02800.tif">Northern views. Ain Tabgha. Mosaic floor. Loaves and fishes LOC matpc.02800</a> · Matson Collection · Public domain, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Jesus Trail (official)](https://jesustrail.com/)
 - [Custody of the Holy Land: Cana](https://www.custodia.org/en/sanctuaries/cana)

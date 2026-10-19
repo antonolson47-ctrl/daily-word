@@ -39,3 +39,6 @@ td,th{vertical-align:top}.tbl{overflow-x:auto}
 
 .credit{font:11px system-ui,sans-serif;color:#6b5236;margin:-4px 2px 10px;text-align:right}.credit a{color:#6b5236}
 .map{margin:18px 0}.map img{width:100%;height:auto;display:block;border:1px solid #d9c59a;border-radius:10px;background:#cfe0e8}.map figcaption{font:12px system-ui,sans-serif;color:#6b5236;padding:4px 2px}
+.timeline{border-left:3px solid #b8863b;margin:18px 0 18px 6px;padding-left:18px}.timeline h3{margin:22px 0 4px;position:relative}.timeline h3:before{content:"";position:absolute;left:-27px;top:6px;width:14px;height:14px;border-radius:50%;background:#b8863b;border:2px solid #fbf5e6}
+#res .card{display:block}
+@media(min-width:561px){.bar nav{flex-wrap:wrap;justify-content:flex-end}}

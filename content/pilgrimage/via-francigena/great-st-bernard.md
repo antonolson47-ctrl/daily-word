@@ -54,6 +54,32 @@ From the col the road descends steeply into Italy and the **Aosta Valley**. Aost
 
 <figure class=photo><picture><source srcset="/static/art/vf-gsb-aosta-600.webp 600w,/static/art/vf-gsb-aosta.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/vf-gsb-aosta.jpg" alt="The Arch of Augustus in Aosta" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Arch of Augustus in Aosta · Photo: <a href="https://commons.wikimedia.org/wiki/File:Arch_of_Augustus_in_Aosta_(3).jpg">Arch of Augustus in Aosta (3)</a> by Krzysztof Golik, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Lausanne
+Swiss stages begin with Lake Geneva. **Lausanne Cathedral**, Switzerland's finest Gothic church, still keeps a night watchman who calls the hours from the tower, a tradition since 1405.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-great--lausanne-600.webp 600w,/static/art/st2-vi-great--lausanne.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-great--lausanne.jpg" alt="Lausanne" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Lausanne · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACath%C3%A9drale_de_Lausanne_20250409_01.jpg">Cathédrale de Lausanne 20250409 01</a> · Nickispeaki · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Saint-Maurice Abbey
+Founded in **515**, the abbey of **Saint-Maurice d'Agaune** has kept its monastic prayer going for more than 1,500 years, one of the oldest continuously active monasteries in the West. Its treasury holds Merovingian reliquaries.
+
+<div class=legend markdown=1>
+**Legend and history.** The abbey rose over the tomb of St Maurice and the *Theban Legion*, Christian soldiers said to have been massacred for refusing to sacrifice to the gods (c. 286). The cult is very old; the scale of the massacre is legend.
+</div>
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-great--saint-maurice-abbey-600.webp 600w,/static/art/st2-vi-great--saint-maurice-abbey.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-great--saint-maurice-abbey.jpg" alt="Saint-Maurice Abbey" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Saint-Maurice Abbey · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AAbbaye_Saint_Maurice_et_Saint_Maur_Clervaux_-_Autel_de_Saint_Anschaire_et_peintures_murales_-_avant_1941.jpg">Abbaye Saint Maurice et Saint Maur Clervaux - Autel de Saint Anschaire et peintures murales - avant 1941</a> · Unknown authorUnknown author · Public domain, via Wikimedia Commons</figcaption></figure>
+
+#### The Great St Bernard Hospice
+At **2,469 m** stands the hospice founded by St Bernard of Aosta around **1050**. Canons regular still live here and receive travellers; the famous **rescue dogs** were bred here from the 17th century and now spend summers at the pass.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-great--the-great-st-bernard-hospice-600.webp 600w,/static/art/st2-vi-great--the-great-st-bernard-hospice.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-great--the-great-st-bernard-hospice.jpg" alt="The Great St Bernard Hospice" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Great St Bernard Hospice · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ARoman_road_%28Great_St_Bernard_Pass%29.png">Roman road (Great St Bernard Pass)</a> · Phylog · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Aosta
+Coming down into Italy, **Aosta** greets pilgrims with Roman walls, the **Arch of Augustus** and the Romanesque cloister of **Sant'Orso**. St Anselm of Canterbury was born here about 1033, linking the road's two ends.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-great--aosta-600.webp 600w,/static/art/st2-vi-great--aosta.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-great--aosta.jpg" alt="Aosta" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Aosta · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AArch_of_Augustus_in_Aosta_%283%29.jpg">Arch of Augustus in Aosta (3)</a> · Krzysztof Golik · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Hospice du Grand-Saint-Bernard (official)](https://www.gsbernard.com/)
 - [Abbey of Saint-Maurice (official)](https://www.abbaye-stmaurice.ch/)

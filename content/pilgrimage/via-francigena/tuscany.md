@@ -48,6 +48,28 @@ Siena's **Duomo**, with its striped marble, inlaid floor and Pisano pulpit, was 
 
 <figure class=photo><picture><source srcset="/static/art/vf-tus-campo-600.webp 600w,/static/art/vf-tus-campo.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/vf-tus-campo.jpg" alt="The Piazza del Campo, Siena" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Piazza del Campo, Siena · Photo: <a href="https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg">Piazza del Campo 2014 01</a> by Perituss, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Pavia
+In the basilica of **San Pietro in Ciel d'Oro** lies **St Augustine**, in a marble Gothic tomb (the *Arca*), his relics brought from Sardinia in the 8th century. Boethius is buried in the crypt. Pavia was the Lombard capital, a key stop for Sigeric.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-tuscan-pavia-600.webp 600w,/static/art/st2-vi-tuscan-pavia.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-tuscan-pavia.jpg" alt="Pavia" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Pavia · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APavia_-_Basilica_di_San_Pietro_in_Ciel_d%27Oro_-_2025-09-11_17-58-43_001.jpg">Pavia - Basilica di San Pietro in Ciel d'Oro - 2025-09-11 17-58-43 001</a> · Bubici · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### The Cisa Pass
+The Apennine crossing at **1,041 m** has a small sanctuary of Our Lady of the Guard at the top. The descent leads to **Pontremoli**, whose museum holds the mysterious prehistoric *stele statues* of the Lunigiana.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-tuscan-the-cisa-pass-600.webp 600w,/static/art/st2-vi-tuscan-the-cisa-pass.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-tuscan-the-cisa-pass.jpg" alt="The Cisa Pass" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Cisa Pass · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APasso-della-Cisa-2012.JPG">Passo-della-Cisa-2012</a> · Bjørn Christian Tørrissen · CC BY-SA 3.0, via Wikimedia Commons</figcaption></figure>
+
+#### San Miniato
+A hill town on the ridge between Pisa and Florence. Sigeric's stage *Sce Dionisii* was nearby. Its Rocca tower, rebuilt after 1944, looks over the Arno valley; the town is famous for white truffles in November.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-tuscan-san-miniato-600.webp 600w,/static/art/st2-vi-tuscan-san-miniato.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-tuscan-san-miniato.jpg" alt="San Miniato" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>San Miniato · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASan_Miniato%2C_Tuscany_-_2009.jpg">San Miniato, Tuscany - 2009</a> · Arun Marsh · CC BY 2.0, via Wikimedia Commons</figcaption></figure>
+
+#### Monteriggioni
+A perfect ring of walls and 14 towers on a hill, built by Siena in 1213–19. Dante compared its towers to the giants circling the pit of hell (*Inferno* 31). Pilgrims enter by the Porta Franca, the gate that faced France.
+
+<figure class=photo><picture><source srcset="/static/art/st2-vi-tuscan-monteriggioni-600.webp 600w,/static/art/st2-vi-tuscan-monteriggioni.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-tuscan-monteriggioni.jpg" alt="Monteriggioni" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Monteriggioni · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APanorama_of_Monteriggioni.jpg">Panorama of Monteriggioni</a> · WikiRomaWiki · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [EAVF: Via Francigena stages (official)](https://www.viefrancigene.org/en/)
 - [Museo della Cattedrale di Lucca (Volto Santo)](https://www.museocattedralelucca.it/)

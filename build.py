@@ -22,10 +22,34 @@ def page(title,body,desc='',hero=None):
 <link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel=stylesheet>
 <link rel=stylesheet href="{BASE}/static/style.css"></head><body>
 <div class=bar><a href="{BASE}/"><b>✠ The Daily Word</b></a><button class=menu aria-label=Menu onclick="document.querySelector('.bar nav').classList.toggle('open')">☰</button>
-<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
+<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/timeline/">Timeline</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/search/" aria-label="Search">🔍 Search</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
 <main>{body}</main><script src="{BASE}/static/rotate.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
+SITE='https://dailywordptl.com'
+INDEX=[]
+OGMAP=[('pilgrimage/st-michael','og-stmichael'),('pilgrimage/camino','og-camino'),('pilgrimage','og-pilgrimage'),('saints','og-saints'),('verses','og-verses'),('timeline','og-timeline'),('gallery','og-gallery')]
+def ogimg(rel):
+    r=rel.strip('/')
+    for pre,img in OGMAP:
+        if r==pre or r.startswith(pre+'/'): return img
+    return 'og-home'
 def write(rel,h):
-    p=os.path.join(OUT,rel.strip('/'),'index.html'); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w',encoding='utf-8').write(h)
+    r=rel.strip('/'); url=SITE+'/'+(r+'/' if r else '')
+    t=re.search(r'<title>(.*?)</title>',h,re.S); title=html.unescape(t.group(1)) if t else 'The Daily Word'
+    d=re.search(r'<meta name=description content="(.*?)">',h); desc=html.unescape(d.group(1)) if d and d.group(1) else 'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides and the lives of the saints.'
+    img=f"{SITE}/static/og/{ogimg(rel)}.jpg"; e=html.escape
+    og=(f'<meta property=og:type content=website><meta property=og:site_name content="The Daily Word"><meta property=og:title content="{e(title)}"><meta property=og:description content="{e(desc)}">'
+        f'<meta property=og:url content="{url}"><meta property=og:image content="{img}"><meta property=og:image:width content=1200><meta property=og:image:height content=630>'
+        f'<meta name=twitter:card content=summary_large_image><meta name=twitter:title content="{e(title)}"><meta name=twitter:description content="{e(desc)}"><meta name=twitter:image content="{img}"><link rel=canonical href="{url}">')
+    if not d or not d.group(1): h=h.replace('<meta name=description content="">',f'<meta name=description content="{e(desc)}">',1)
+    h=h.replace('</head>',og+'</head>',1)
+    if r and r!='search':
+        m=re.search(r'<main>(.*?)</main>',h,re.S); body=m.group(1) if m else ''
+        body=re.sub(r'<(script|style|figure|iframe)[^>]*>.*?</\1>',' ',body,flags=re.S)
+        txt=re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',body))).strip()
+        sec=r.split('/')[0].capitalize() if '/' in r or r in ('verses','saints','pilgrimage') else 'Page'
+        if r.startswith('pilgrimage/'): sec='Pilgrimage'
+        INDEX.append({'t':title.replace(' · The Daily Word',''),'u':'/'+r+'/','s':sec,'d':desc[:160],'x':txt[:1500]})
+    p=os.path.join(OUT,r,'index.html'); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w',encoding='utf-8').write(h)
 def art(name):
     n=name.rsplit('.',1)[0] if name else None
     return n if n and os.path.exists(os.path.join(ROOT,'static/art',n+'.jpg')) else None
@@ -122,6 +146,13 @@ def build():
 '''+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
 <h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/" style="grid-column:1/-1">✨ Saints<small>Lives, miracles, feast days & trivia</small></a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
+    # ---- timeline
+    m,b=load(os.path.join(C,'timeline.md'))
+    write('timeline',page(m['title'],hero({'hero':'sermon-on-the-mount'},m['title'],m.get('subtitle',''))+md(b),m.get('subtitle','')))
+    # ---- search
+    sp='<h1>Search the Daily Word</h1><input id=q type=search autofocus placeholder="Search saints, pilgrimages, verses (e.g. Lourdes, Greek, dragon)" aria-label="Search the site"><p class=src id=cnt></p><div class=cards id=res></div><script src="/static/search.js"></script>'
+    write('search',page('Search',sp,'Search every saint, pilgrimage road and verse on The Daily Word.'))
+    json.dump(INDEX,open(os.path.join(OUT,'search-index.json'),'w',encoding='utf-8'),ensure_ascii=False,separators=(',',':'))
     open(os.path.join(OUT,'CNAME'),'w').write('dailywordptl.com\n')
     open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>'))
     print(f'built {len(vs)} verses; ESV verses quoted: {esv}/500')

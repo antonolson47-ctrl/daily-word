@@ -51,6 +51,28 @@ map_caption: Fátima, with the seers' hamlet of Aljustrel just to the south, and
 
 <figure class=photo><picture><source srcset="/static/art/ms-fat-trinity-600.webp 600w,/static/art/ms-fat-trinity.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/ms-fat-trinity.jpg" alt="The Basilica of the Most Holy Trinity" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Basilica of the Most Holy Trinity · Photo: <a href="https://commons.wikimedia.org/wiki/File:Portugal,_Fatima,_Basilica_of_the_Most_Holy_Trinity_(52593855536).jpg">Portugal, Fatima, Basilica of the Most Holy Trinity (52593855536)</a> by Lark Ascending, Public domain, via Wikimedia Commons</figcaption></figure>
 
+### Stop by stop
+#### Chapel of the Apparitions
+The small chapel marks the holm oak where Our Lady appeared on 13 May 1917. The rosary is prayed here many times a day, and the candlelight procession sets out from here on pilgrimage evenings.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-fatima-chapel-of-the-apparitions-600.webp 600w,/static/art/st2-ma-fatima-chapel-of-the-apparitions.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-fatima-chapel-of-the-apparitions.jpg" alt="Chapel of the Apparitions" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Chapel of the Apparitions · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AF%C3%A1tima%2C_Capelinha_das_Apari%C3%A7%C3%B5es.jpg">Fátima, Capelinha das Aparições</a> · Palickap · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Basilica of Our Lady of the Rosary
+The basilica (1928–53) holds the tombs of **Francisco**, **Jacinta** and **Lúcia**. Its tower crown is visible across the vast esplanade.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-fatima-basilica-of-our-lady-of-the-ro-600.webp 600w,/static/art/st2-ma-fatima-basilica-of-our-lady-of-the-ro.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-fatima-basilica-of-our-lady-of-the-ro.jpg" alt="Basilica of Our Lady of the Rosary" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Basilica of Our Lady of the Rosary · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ABas%C3%ADlica_de_Nossa_Senhora_do_Ros%C3%A1rio_de_F%C3%A1tima_-_30.jpg">Basílica de Nossa Senhora do Rosário de Fátima - 30</a> · Reis Quarteu · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Aljustrel
+The hamlet where the children lived. The Marto and dos Santos family houses are open to visitors, plain stone cottages with their furniture.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-fatima-aljustrel-600.webp 600w,/static/art/st2-ma-fatima-aljustrel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-fatima-aljustrel.jpg" alt="Aljustrel" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Aljustrel · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACasa_da_L%C3%BAcia_-_Aljustrel%2C_F%C3%A1tima_-_11.jpg">Casa da Lúcia - Aljustrel, Fátima - 11</a> · Reis Quarteu · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+#### Valinhos and the Way of the Cross
+A walk through olive groves leads to **Valinhos**, site of the August 1917 apparition, and **Loca do Cabeço**, where the angel appeared in 1916. The Hungarian Way of the Cross runs alongside.
+
+<figure class=photo><picture><source srcset="/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr-600.webp 600w,/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr.jpg" alt="Valinhos and the Way of the Cross" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Valinhos and the Way of the Cross · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACalv%C3%A1rio_H%C3%BAngaro_-_Cabe%C3%A7o_dos_Valinhos%2C_F%C3%A1tima_-_39.jpg">Calvário Húngaro - Cabeço dos Valinhos, Fátima - 39</a> · Reis Quarteu · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
+
+
 ## Sources
 - [Shrine of Fátima (official)](https://www.fatima.pt/en)
 - [Shrine of Fátima: narrative of the apparitions](https://www.fatima.pt/en/pages/narrative-of-the-apparitions-)
