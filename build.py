@@ -141,10 +141,11 @@ def build():
     ex=(scene.group(1)[:260].rsplit(' ',1)[0]+'…') if scene else t.get('title','')
     hm,hb=load(os.path.join(C,'home.md'))
     from cy.gen import CYBOX as CYB
+    from cy.explore import explore; EXP=explore(ROOT,C,len(vs))
     d=datetime.date.fromisoformat(t['date'])
     home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+CYB+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
 <div class=card><a href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{t['ref']}"></a><p style="margin:.6em 0 0">{html.escape(ex)} <a href="{BASE}/verses/{t['slug']}/">Read today's verse →</a></p></div>
-'''+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
+'''+EXP+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
 <h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/">✨ Saints<small>Lives, miracles, feast days & trivia</small></a><a class=door href="{BASE}/church-year/">⛪ The Church Year<small>Seasons, meditations, calendar & music</small></a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
     # ---- timeline
