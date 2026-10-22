@@ -22,8 +22,8 @@ def page(title,body,desc='',hero=None):
 <link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel=stylesheet>
 <link rel=stylesheet href="{BASE}/static/style.css"></head><body>
 <div class=bar><a href="{BASE}/"><b>✠ The Daily Word</b></a><button class=menu aria-label=Menu onclick="document.querySelector('.bar nav').classList.toggle('open')">☰</button>
-<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/timeline/">Timeline</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/search/" aria-label="Search">🔍 Search</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
-<main>{body}</main><script src="{BASE}/static/rotate.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
+<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/church-year/">Church Year</a><a href="{BASE}/music/">Music</a><a href="{BASE}/timeline/">Timeline</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/search/" aria-label="Search">🔍 Search</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
+<main>{body}</main><script src="{BASE}/static/rotate.js"></script><script src="{BASE}/static/churchyear.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
 SITE='https://dailywordptl.com'
 INDEX=[]
 OGMAP=[('pilgrimage/st-michael','og-stmichael'),('pilgrimage/camino','og-camino'),('pilgrimage','og-pilgrimage'),('saints','og-saints'),('verses','og-verses'),('timeline','og-timeline'),('gallery','og-gallery')]
@@ -140,11 +140,12 @@ def build():
     t=vs[-1]; scene=re.search(r'## Setting the scene\s+(.+?)(\n\n|$)',t['body'],re.S)
     ex=(scene.group(1)[:260].rsplit(' ',1)[0]+'…') if scene else t.get('title','')
     hm,hb=load(os.path.join(C,'home.md'))
+    from cy.gen import CYBOX as CYB
     d=datetime.date.fromisoformat(t['date'])
-    home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
+    home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+CYB+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
 <div class=card><a href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{t['ref']}"></a><p style="margin:.6em 0 0">{html.escape(ex)} <a href="{BASE}/verses/{t['slug']}/">Read today's verse →</a></p></div>
 '''+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
-<h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/" style="grid-column:1/-1">✨ Saints<small>Lives, miracles, feast days & trivia</small></a></div>'''+md(hb)
+<h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/">✨ Saints<small>Lives, miracles, feast days & trivia</small></a><a class=door href="{BASE}/church-year/">⛪ The Church Year<small>Seasons, meditations, calendar & music</small></a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
     # ---- timeline
     m,b=load(os.path.join(C,'timeline.md'))
@@ -152,6 +153,8 @@ def build():
     # ---- search
     sp='<h1>Search the Daily Word</h1><input id=q type=search autofocus placeholder="Search saints, pilgrimages, verses (e.g. Lourdes, Greek, dragon)" aria-label="Search the site"><p class=src id=cnt></p><div class=cards id=res></div><script src="/static/search.js"></script>'
     write('search',page('Search',sp,'Search every saint, pilgrimage road and verse on The Daily Word.'))
+    import cy.gen; MISSING=cy.gen.build(sys.modules[__name__],vs)
+    json.dump(MISSING,open(os.path.join(ROOT,'cy','missing_saints.json'),'w'),indent=1)
     json.dump(INDEX,open(os.path.join(OUT,'search-index.json'),'w',encoding='utf-8'),ensure_ascii=False,separators=(',',':'))
     open(os.path.join(OUT,'CNAME'),'w').write('dailywordptl.com\n')
     open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>'))

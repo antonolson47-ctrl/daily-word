@@ -1,0 +1,97 @@
+{
+ "handel": {
+  "page": "https://commons.wikimedia.org/wiki/File:George_Frideric_Handel_by_Balthasar_Denner.jpg",
+  "lic": "Public domain",
+  "artist": "Attributed to Balthasar Denner"
+ },
+ "bach": {
+  "page": "https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg",
+  "lic": "Public domain",
+  "artist": "Elias Gottlob Haussmann"
+ },
+ "mozart": {
+  "page": "https://commons.wikimedia.org/wiki/File:The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+  "lic": "Public domain",
+  "artist": "Johann Nepomuk della Croce"
+ },
+ "faure": {
+  "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Faur%C3%A9._Musicien._Directeur_du_Conservatoire_-_btv1b53267252r.jpg",
+  "lic": "Public domain",
+  "artist": "Atelier Nadar. Photographe"
+ },
+ "fisk": {
+  "page": "https://commons.wikimedia.org/wiki/File:The_Story_of_the_Jubilee_Singers_(cropped).jpg",
+  "lic": "Public domain",
+  "artist": "Unidentified artist"
+ },
+ "bwj": {
+  "page": "https://commons.wikimedia.org/wiki/File:Blind_Willie_Johnson.jpg",
+  "lic": "Public domain",
+  "artist": "Columbia Records \"race series\""
+ },
+ "davis": {
+  "page": "https://commons.wikimedia.org/wiki/File:Reverend_Gary_Davis1960s_LOC_Restored.jpg",
+  "lic": "Public domain",
+  "artist": "Unknown photographer"
+ },
+ "house": {
+  "page": "https://commons.wikimedia.org/wiki/File:Son_House.jpg",
+  "lic": "Public domain",
+  "artist": "Unknown photographer"
+ },
+ "tharpe": {
+  "page": "https://commons.wikimedia.org/wiki/File:Sister_Rosetta_Tharpe_(1938_publicity_photo_-_headshot).jpg",
+  "lic": "Public domain",
+  "artist": "James J. Kriegsmann"
+ },
+ "mahalia": {
+  "page": "https://commons.wikimedia.org/wiki/File:Mahalia_Jackson_Com_L10-0125-0004.tif",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Comet Photo AG (Z\u00fcrich)"
+ },
+ "dixie": {
+  "page": "https://commons.wikimedia.org/wiki/File:The_Dixie_Hummingbirds_(239252818).jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Bryan Ledgard"
+ },
+ "aretha": {
+  "page": "https://commons.wikimedia.org/wiki/File:Aretha_Franklin_1968.jpg",
+  "lic": "Public domain",
+  "artist": "Atlantic Records"
+ },
+ "staples": {
+  "page": "https://commons.wikimedia.org/wiki/File:Staple_Singers_on_Soul_Train.jpg",
+  "lic": "Public domain",
+  "artist": "Soul Train promotional photo"
+ },
+ "anderson": {
+  "page": "https://commons.wikimedia.org/wiki/File:Marian_Anderson_by_Carl_Van_Vechten_(cropped).jpg",
+  "lic": "Public domain",
+  "artist": "Carl Van Vechten"
+ },
+ "carter": {
+  "page": "https://commons.wikimedia.org/wiki/File:Carter_Family_1927.jpg",
+  "lic": "Public domain",
+  "artist": "Victor Talking Machine Company"
+ },
+ "monroe": {
+  "page": "https://commons.wikimedia.org/wiki/File:Bill_Monroe_1952.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "bunky's pickle"
+ },
+ "stanley": {
+  "page": "https://commons.wikimedia.org/wiki/File:IHearMySaviorCalling.jpg",
+  "lic": "Public domain",
+  "artist": "Unknown photographer"
+ },
+ "hank": {
+  "page": "https://commons.wikimedia.org/wiki/File:Hank_Williams_Promotional_Photo.jpg",
+  "lic": "Public domain",
+  "artist": "WSM radio"
+ },
+ "sacredharp": {
+  "page": "https://commons.wikimedia.org/wiki/File:Sacred_Harp_1870,_page_52.png",
+  "lic": "Public domain",
+  "artist": "B.F. White and E.J. King"
+ }
+}

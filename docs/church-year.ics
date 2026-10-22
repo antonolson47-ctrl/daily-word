@@ -1,0 +1,2806 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Daily Word//Church Year//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Church Year · The Daily Word
+X-WR-CALDESC:Seasons\, Sunday readings\, feast days and meditations from dailywordptl.com
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:20261101-383e403543@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:All Saints
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-4e4d705f15@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:All Souls
+DESCRIPTION:Feast day (commemoration)\nhttps://dailywordptl.com/church-ye
+ ar/feasts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-fee5fa961e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:St Martin de Porres
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/martin-
+ de-porres/
+URL:https://dailywordptl.com/saints/martin-de-porres/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-e4185c84d2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:St Martin of Tours
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-e449d22c14@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:St Elizabeth of Hungary
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/elizabe
+ th-of-hungary/
+URL:https://dailywordptl.com/saints/elizabeth-of-hungary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122-7ca75807aa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:St Cecilia
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/cecilia
+ /
+URL:https://dailywordptl.com/saints/cecilia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-dd3982a579@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1st Sunday of Advent
+DESCRIPTION:Readings: Isa 64:1-9 · Ps 80:1-7\,17-19 · 1 Cor 1:3-9 · Ma
+ rk 13:24-37 | Catholic: Isa 63:16b-17\,19b\; 64:2-7 · Mark 13:33-37\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-11-29
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-11-29
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-bc7a26dc86@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⛪ Advent begins
+DESCRIPTION:Season: Advent. Colour: Violet (Lutherans often use blue\; ro
+ se on the 3rd Sunday)\nhttps://dailywordptl.com/church-year/advent/
+URL:https://dailywordptl.com/church-year/advent/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-2a3f10928f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Advent: Feast of St Andrew\, Apostle
+DESCRIPTION:Readings: Romans 10:9-18 · Psalm 19 · Matthew 4:18-22\nhttp
+ s://dailywordptl.com/church-year/meditations/advent/#d2026-11-30
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-11-30
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-0e6d197225@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:St Andrew\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/andrew/
+URL:https://dailywordptl.com/saints/andrew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-3fe203a51e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Advent: Tuesday\, 1st week of Advent
+DESCRIPTION:Readings: Isaiah 11:1-10 · Psalm 72 · Luke 10:21-24\nhttps:
+ //dailywordptl.com/church-year/meditations/advent/#d2026-12-01
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-01
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202-ecc70fd263@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Advent: Wednesday\, 1st week of Advent
+DESCRIPTION:Readings: Isaiah 25:6-10a · Psalm 23 · Matthew 15:29-37\nht
+ tps://dailywordptl.com/church-year/meditations/advent/#d2026-12-02
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-02
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-6a3a6a164d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Advent: Thursday\, 1st week of Advent (St Francis Xavier)
+DESCRIPTION:Readings: Isaiah 26:1-6 · Psalm 118 · Matthew 7:21\,24-27\n
+ https://dailywordptl.com/church-year/meditations/advent/#d2026-12-03
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-03
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-48dcc97d25@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:St Francis Xavier
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/francis
+ -xavier/
+URL:https://dailywordptl.com/saints/francis-xavier/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-3aa71b4214@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Advent: Friday\, 1st week of Advent
+DESCRIPTION:Readings: Isaiah 29:17-24 · Psalm 27 · Matthew 9:27-31\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-12-04
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-04
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-0090b18432@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Advent: Saturday\, 1st week of Advent
+DESCRIPTION:Readings: Isaiah 30:19-21\,23-26 · Psalm 147 · Matthew 9:35
+ -10:1\,5a\,6-8\nhttps://dailywordptl.com/church-year/meditations/advent/#
+ d2026-12-05
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-05
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206-51ba9d6f01@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:2nd Sunday of Advent
+DESCRIPTION:Readings: Isa 40:1-11 · Ps 85:1-2\,8-13 · 2 Pet 3:8-15a · 
+ Mark 1:1-8\nhttps://dailywordptl.com/church-year/meditations/advent/#d202
+ 6-12-06
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-06
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206-1958166e29@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:St Nicholas
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/nichola
+ s/
+URL:https://dailywordptl.com/saints/nicholas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-16f3c94c9f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Advent: Monday\, 2nd week of Advent (St Ambrose)
+DESCRIPTION:Readings: Isaiah 35:1-10 · Psalm 85 · Luke 5:17-26\nhttps:/
+ /dailywordptl.com/church-year/meditations/advent/#d2026-12-07
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-07
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-d6858a1434@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:St Ambrose
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ambrose
+ /
+URL:https://dailywordptl.com/saints/ambrose/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-ea12d1a01c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Advent: Solemnity of the Immaculate Conception
+DESCRIPTION:Readings: Genesis 3:9-15\,20 · Psalm 98 · Ephesians 1:3-6\,
+ 11-12 · Luke 1:26-38\nhttps://dailywordptl.com/church-year/meditations/a
+ dvent/#d2026-12-08
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-08
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-c1bf158c34@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Immaculate Conception
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-d34d118722@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Advent: Wednesday\, 2nd week of Advent (St Juan Diego)
+DESCRIPTION:Readings: Isaiah 40:25-31 · Psalm 103 · Matthew 11:28-30\nh
+ ttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-09
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-09
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-04498d2166@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:St Juan Diego
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/juan-di
+ ego/
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-b237f7b704@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Advent: Thursday\, 2nd week of Advent
+DESCRIPTION:Readings: Isaiah 41:13-20 · Psalm 145 · Matthew 11:11-15\nh
+ ttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-10
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-3f3b9b03ca@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Advent: Friday\, 2nd week of Advent
+DESCRIPTION:Readings: Isaiah 48:17-19 · Psalm 1 · Matthew 11:16-19\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-12-11
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-99f7de478a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Advent: Our Lady of Guadalupe
+DESCRIPTION:Readings: Zechariah 2:14-17 · Judith 13 · Luke 1:39-47\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-12-12
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-12
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-24b649f64f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Our Lady of Guadalupe
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/juan-diego
+ /
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261213-3fcdd8dd6a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:3rd Sunday of Advent (Gaudete)
+DESCRIPTION:Readings: Isa 61:1-4\,8-11 · Ps 126 or Luke 1:46b-55 · 1 Th
+ ess 5:16-24 · John 1:6-8\,19-28\nhttps://dailywordptl.com/church-year/me
+ ditations/advent/#d2026-12-13
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-13
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261213-f3e89d6398@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:St Lucy
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/lucy/
+URL:https://dailywordptl.com/saints/lucy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-f71f804b61@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Advent: Monday\, 3rd week of Advent (St John of the Cross)
+DESCRIPTION:Readings: Numbers 24:2-7\,15-17a · Psalm 25 · Matthew 21:23
+ -27\nhttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-14
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-0c1cd61eca@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:St John of the Cross
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-of
+ -the-cross/
+URL:https://dailywordptl.com/saints/john-of-the-cross/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-b315be4633@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Advent: Tuesday\, 3rd week of Advent
+DESCRIPTION:Readings: Zephaniah 3:1-2\,9-13 · Psalm 34 · Matthew 21:28-
+ 32\nhttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-15
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-1adbebef40@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Advent: Wednesday\, 3rd week of Advent
+DESCRIPTION:Readings: Isaiah 45:6b-8\,18\,21b-25 · Psalm 85 · Luke 7:18
+ b-23\nhttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-1
+ 6
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-97d53ec103@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Advent: 17 December · O Sapientia
+DESCRIPTION:Readings: Genesis 49:2\,8-10 · Psalm 72 · Matthew 1:1-17\nh
+ ttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-17
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-591a8cc7b7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Advent: 18 December · O Adonai
+DESCRIPTION:Readings: Jeremiah 23:5-8 · Psalm 72 · Matthew 1:18-25\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-12-18
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-18
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-c7429c5d2a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Advent: 19 December · O Radix Jesse
+DESCRIPTION:Readings: Judges 13:2-7\,24-25a · Psalm 71 · Luke 1:5-25\nh
+ ttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-19
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220-9f7c38b139@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:4th Sunday of Advent
+DESCRIPTION:Readings: 2 Sam 7:1-11\,16 · Luke 1:46b-55 or Ps 89 · Rom 1
+ 6:25-27 · Luke 1:26-38\nhttps://dailywordptl.com/church-year/meditations
+ /advent/#d2026-12-20
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-20
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-e8b931c7f4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Advent: 21 December · O Oriens
+DESCRIPTION:Readings: Song of Songs 2:8-14 or Zephaniah 3:14-18a · Psalm
+  33 · Luke 1:39-45\nhttps://dailywordptl.com/church-year/meditations/adv
+ ent/#d2026-12-21
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222-3e35d16ed7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Advent: 22 December · O Rex Gentium
+DESCRIPTION:Readings: 1 Samuel 1:24-28 · 1 Samuel 2 · Luke 1:46-56\nhtt
+ ps://dailywordptl.com/church-year/meditations/advent/#d2026-12-22
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-22
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-8cdfaf8d84@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Advent: 23 December · O Emmanuel
+DESCRIPTION:Readings: Malachi 3:1-4\,23-24 · Psalm 25 · Luke 1:57-66\nh
+ ttps://dailywordptl.com/church-year/meditations/advent/#d2026-12-23
+URL:https://dailywordptl.com/church-year/meditations/advent/#d2026-12-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224-164161ad43@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Christmas Eve
+DESCRIPTION:Readings: Isa 9:2-7 · Ps 96 · Titus 2:11-14 · Luke 2:1-14(
+ 15-20)\nhttps://dailywordptl.com/church-year/meditations/christmas/#d2026
+ -12-24
+URL:https://dailywordptl.com/church-year/meditations/christmas/#d2026-12-
+ 24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-2f09ecc7e9@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas Day
+DESCRIPTION:Readings: Isa 52:7-10 · Ps 98 · Heb 1:1-4(5-12) · John 1:1
+ -14\nhttps://dailywordptl.com/church-year/meditations/christmas/#d2026-12
+ -25
+URL:https://dailywordptl.com/church-year/meditations/christmas/#d2026-12-
+ 25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-791799eb19@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Nativity of the Lord (Christmas)
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-29cde9c3e4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:⛪ Christmas season begins
+DESCRIPTION:Season: Christmas. Colour: White and gold\nhttps://dailywordp
+ tl.com/church-year/christmas/
+URL:https://dailywordptl.com/church-year/christmas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226-20a934b07d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:St Stephen\, First Martyr
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/stephen/
+URL:https://dailywordptl.com/saints/stephen/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227-63a6aa4b03@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:1st Sunday of Christmas (Catholic: Holy Family)
+DESCRIPTION:Readings: Isa 61:10-62:3 · Ps 148 · Gal 4:4-7 · Luke 2:22-
+ 40 | Catholic: Sir 3:2-6\,12-14 · Col 3:12-21 · Luke 2:22-40\nhttps://d
+ ailywordptl.com/church-year/meditations/christmas/#d2026-12-27
+URL:https://dailywordptl.com/church-year/meditations/christmas/#d2026-12-
+ 27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227-b93410f161@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:St John\, Apostle & Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/john-the-a
+ postle/
+URL:https://dailywordptl.com/saints/john-the-apostle/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228-a3ddafeeb6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Holy Innocents
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229-0d85cf59f3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:St Thomas Becket
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/thomas-
+ becket/
+URL:https://dailywordptl.com/saints/thomas-becket/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101-622c815160@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Mary\, Mother of God (Catholic) · Name of Jesus (Lutheran)
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270102-fd0d19927a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Sts Basil the Great & Gregory Nazianzen
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270103-82106baff7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:2nd Sunday of Christmas (US Catholic: Epiphany)
+DESCRIPTION:Readings: Jer 31:7-14 · Ps 147:12-20 · Eph 1:3-14 · John 1
+ :(1-9)10-18 | Catholic: Epiphany readings\nhttps://dailywordptl.com/churc
+ h-year/meditations/christmas/#d2027-01-03
+URL:https://dailywordptl.com/church-year/meditations/christmas/#d2027-01-
+ 03
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104-d8c907e7c3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:St Elizabeth Ann Seton (US)
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-ba356a718d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Epiphany of the Lord
+DESCRIPTION:Readings: Isa 60:1-6 · Ps 72:1-7\,10-14 · Eph 3:1-12 · Mat
+ t 2:1-12\nhttps://dailywordptl.com/church-year/meditations/epiphany/#d202
+ 7-01-06
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-01-0
+ 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-a86cd83fae@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:⛪ Epiphany
+DESCRIPTION:Season: Epiphany. Colour: White for the feast\; green for the
+  weeks after (Lutheran)\nhttps://dailywordptl.com/church-year/epiphany/
+URL:https://dailywordptl.com/church-year/epiphany/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110-ddfec6422f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Readings: Gen 1:1-5 · Ps 29 · Acts 19:1-7 · Mark 1:4-11 | 
+ Catholic: Isa 42:1-4\,6-7 · Acts 10:34-38 · Mark 1:7-11\nhttps://dailyw
+ ordptl.com/church-year/meditations/epiphany/#d2027-01-10
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-01-1
+ 0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270117-8c92f9eda6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:2nd Sunday after Epiphany (Catholic: 2nd Sunday in Ordinary Time)
+DESCRIPTION:Readings: 1 Sam 3:1-10(11-20) · Ps 139 · 1 Cor 6:12-20 · J
+ ohn 1:43-51 | Catholic: John 1:35-42\nhttps://dailywordptl.com/church-yea
+ r/meditations/epiphany/#d2027-01-17
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-01-1
+ 7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270117-556fca8473@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:St Anthony the Abbot
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/anthony
+ -the-abbot/
+URL:https://dailywordptl.com/saints/anthony-the-abbot/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-7f73683023@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:St Agnes
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/agnes/
+URL:https://dailywordptl.com/saints/agnes/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270124-367600602b@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:3rd Sunday after Epiphany (OT 3)
+DESCRIPTION:Readings: Jonah 3:1-5\,10 · Ps 62:5-12 · 1 Cor 7:29-31 · M
+ ark 1:14-20\nhttps://dailywordptl.com/church-year/meditations/epiphany/#d
+ 2027-01-24
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-01-2
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125-e28f27db12@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Conversion of St Paul
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/paul/
+URL:https://dailywordptl.com/saints/paul/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128-3f275f97e7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:St Thomas Aquinas
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/thomas-
+ aquinas/
+URL:https://dailywordptl.com/saints/thomas-aquinas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270131-1c88d722f0@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:4th Sunday after Epiphany (OT 4)
+DESCRIPTION:Readings: Deut 18:15-20 · Ps 111 · 1 Cor 8:1-13 · Mark 1:2
+ 1-28\nhttps://dailywordptl.com/church-year/meditations/epiphany/#d2027-01
+ -31
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-01-3
+ 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270131-bd11a1b555@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:St John Bosco
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-bo
+ sco/
+URL:https://dailywordptl.com/saints/john-bosco/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-dc286cdd9f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Presentation of the Lord (Candlemas)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270203-58cd54a8a7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:St Blaise
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/blaise/
+URL:https://dailywordptl.com/saints/blaise/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270205-8a77fadd6e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:St Agatha
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/agatha/
+URL:https://dailywordptl.com/saints/agatha/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270207-9d627d5bfa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Transfiguration Sunday (Catholic: OT 5)
+DESCRIPTION:Readings: 2 Kgs 2:1-12 · Ps 50:1-6 · 2 Cor 4:3-6 · Mark 9:
+ 2-9 | Catholic: Job 7:1-4\,6-7 · 1 Cor 9:16-19\,22-23 · Mark 1:29-39\nh
+ ttps://dailywordptl.com/church-year/meditations/epiphany/#d2027-02-07
+URL:https://dailywordptl.com/church-year/meditations/epiphany/#d2027-02-0
+ 7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210-c0f781eb38@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Ash Wednesday
+DESCRIPTION:Readings: Joel 2:1-2\,12-17 · Ps 51:1-17 · 2 Cor 5:20b-6:10
+  · Matt 6:1-6\,16-21\nhttps://dailywordptl.com/church-year/meditations/l
+ ent/#d2027-02-10
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-02-10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210-91291e3c2e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:⛪ Lent begins: Ash Wednesday
+DESCRIPTION:Season: Lent. Colour: Violet (unbleached linen or "Lenten arr
+ ay" in some churches)\nhttps://dailywordptl.com/church-year/lent/
+URL:https://dailywordptl.com/church-year/lent/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270214-482d1a0b4f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1st Sunday in Lent
+DESCRIPTION:Readings: Gen 9:8-17 · Ps 25:1-10 · 1 Pet 3:18-22 · Mark 1
+ :9-15\nhttps://dailywordptl.com/church-year/meditations/lent/#d2027-02-14
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-02-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270221-10f42aacb6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:2nd Sunday in Lent
+DESCRIPTION:Readings: Gen 17:1-7\,15-16 · Ps 22:23-31 · Rom 4:13-25 · 
+ Mark 8:31-38 | Catholic: Gen 22 · Rom 8:31b-34 · Mark 9:2-10\nhttps://d
+ ailywordptl.com/church-year/meditations/lent/#d2027-02-21
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-02-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270222-e884b9294e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Chair of St Peter
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/peter/
+URL:https://dailywordptl.com/saints/peter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270223-c3b917d76d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:St Polycarp
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/polycar
+ p/
+URL:https://dailywordptl.com/saints/polycarp/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270228-53f2a12e3c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:3rd Sunday in Lent
+DESCRIPTION:Readings: Exod 20:1-17 · Ps 19 · 1 Cor 1:18-25 · John 2:13
+ -22 | Catholic: Year A scrutiny readings optional (John 4)\nhttps://daily
+ wordptl.com/church-year/meditations/lent/#d2027-02-28
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-02-28
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270307-0403dd6999@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:4th Sunday in Lent (Laetare)
+DESCRIPTION:Readings: Num 21:4-9 · Ps 107:1-3\,17-22 · Eph 2:1-10 · Jo
+ hn 3:14-21\nhttps://dailywordptl.com/church-year/meditations/lent/#d2027-
+ 03-07
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-03-07
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270307-72cc107e8d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Sts Perpetua & Felicity
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/perpetu
+ a-and-felicity/
+URL:https://dailywordptl.com/saints/perpetua-and-felicity/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270314-bf9902bb35@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:5th Sunday in Lent
+DESCRIPTION:Readings: Jer 31:31-34 · Ps 51:1-12 · Heb 5:5-10 · John 12
+ :20-33\nhttps://dailywordptl.com/church-year/meditations/lent/#d2027-03-1
+ 4
+URL:https://dailywordptl.com/church-year/meditations/lent/#d2027-03-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270317-148f4fe4f7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:St Patrick
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/patrick
+ /
+URL:https://dailywordptl.com/saints/patrick/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270319-856f0b9cc3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:St Joseph
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/joseph
+ /
+URL:https://dailywordptl.com/saints/joseph/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270321-0a0e32b1a4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Palm / Passion Sunday
+DESCRIPTION:Readings: Mark 11:1-11 (palms) · Isa 50:4-9a · Ps 31:9-16 
+ · Phil 2:5-11 · Mark 14:1-15:47\nhttps://dailywordptl.com/church-year/m
+ editations/holy-week/#d2027-03-21
+URL:https://dailywordptl.com/church-year/meditations/holy-week/#d2027-03-
+ 21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270321-1910fbfac4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⛪ Holy Week begins: Palm Sunday
+DESCRIPTION:Season: Holy Week & Triduum. Colour: Red (Palm Sunday\, Good 
+ Friday)\, white (Holy Thursday\, Easter Vigil)\nhttps://dailywordptl.com/
+ church-year/holy-week/
+URL:https://dailywordptl.com/church-year/holy-week/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270325-07e5f9584e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Maundy (Holy) Thursday
+DESCRIPTION:Readings: Exod 12:1-4(5-10)11-14 · Ps 116 · 1 Cor 11:23-26 
+ · John 13:1-17\,31b-35\nhttps://dailywordptl.com/church-year/meditations
+ /holy-week/#d2027-03-25
+URL:https://dailywordptl.com/church-year/meditations/holy-week/#d2027-03-
+ 25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270325-d2ce5e1073@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Annunciation of the Lord
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270326-01ba358a7f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Good Friday
+DESCRIPTION:Readings: Isa 52:13-53:12 · Ps 22 · Heb 10:16-25 or 4:14-16
+ \;5:7-9 · John 18:1-19:42\nhttps://dailywordptl.com/church-year/meditati
+ ons/holy-week/#d2027-03-26
+URL:https://dailywordptl.com/church-year/meditations/holy-week/#d2027-03-
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270327-ffbf0cc93b@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday / Easter Vigil
+DESCRIPTION:Readings: Vigil readings (Gen 1 to Ezek 37) · Rom 6:3-11 · 
+ Mark 16:1-8\nhttps://dailywordptl.com/church-year/meditations/holy-week/#
+ d2027-03-27
+URL:https://dailywordptl.com/church-year/meditations/holy-week/#d2027-03-
+ 27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270328-867c4e1cc6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Easter Sunday
+DESCRIPTION:Readings: Acts 10:34-43 or Isa 25:6-9 · Ps 118 · 1 Cor 15:1
+ -11 · John 20:1-18 or Mark 16:1-8 | Catholic: Col 3:1-4 · John 20:1-9\n
+ https://dailywordptl.com/church-year/meditations/easter/#d2027-03-28
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-03-28
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270328-5fd944100a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:⛪ Easter Day
+DESCRIPTION:Season: Easter. Colour: White and gold\nhttps://dailywordptl.
+ com/church-year/easter/
+URL:https://dailywordptl.com/church-year/easter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270404-5e90e44e82@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:2nd Sunday of Easter (Divine Mercy)
+DESCRIPTION:Readings: Acts 4:32-35 · Ps 133 · 1 John 1:1-2:2 · John 20
+ :19-31\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-04
+ -04
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-04-04
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270405-74e77a7b77@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Annunciation (transferred from 25 March)
+DESCRIPTION:Readings: Isa 7:10-14 · Ps 40 · Heb 10:4-10 · Luke 1:26-38
+ \nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-04-05
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-04-05
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270411-2eeae69a4e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:3rd Sunday of Easter
+DESCRIPTION:Readings: Acts 3:12-19 · Ps 4 · 1 John 3:1-7 · Luke 24:36b
+ -48\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-04-11
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-04-11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270418-046446f564@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:4th Sunday of Easter (Good Shepherd)
+DESCRIPTION:Readings: Acts 4:5-12 · Ps 23 · 1 John 3:16-24 · John 10:1
+ 1-18\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-04-1
+ 8
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-04-18
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-17b07ea378@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:5th Sunday of Easter
+DESCRIPTION:Readings: Acts 8:26-40 · Ps 22:25-31 · 1 John 4:7-21 · Joh
+ n 15:1-8\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-
+ 04-25
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-04-25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-40dd9444fd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:St Mark\, Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mark/
+URL:https://dailywordptl.com/saints/mark/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270429-182617c92d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:St Catherine of Siena
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/catheri
+ ne-of-siena/
+URL:https://dailywordptl.com/saints/catherine-of-siena/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-1d4f82aebc@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Sts Philip & James (Lutheran)\; St Joseph the Worker (Catholic)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-e428165263@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:6th Sunday of Easter
+DESCRIPTION:Readings: Acts 10:44-48 · Ps 98 · 1 John 5:1-6 · John 15:9
+ -17\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027-05-02
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-05-02
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-7f6a3d8ae0@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:St Athanasius
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506-652708329c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Readings: Acts 1:1-11 · Ps 47 · Eph 1:15-23 · Luke 24:44-5
+ 3 | Catholic: Mark 16:15-20 (in most US dioceses moved to Sun 9 May)\nhtt
+ ps://dailywordptl.com/church-year/meditations/easter/#d2027-05-06
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-05-06
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270509-52218a6378@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:7th Sunday of Easter
+DESCRIPTION:Readings: Acts 1:15-17\,21-26 · Ps 1 · 1 John 5:9-13 · Joh
+ n 17:6-19\nhttps://dailywordptl.com/church-year/meditations/easter/#d2027
+ -05-09
+URL:https://dailywordptl.com/church-year/meditations/easter/#d2027-05-09
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270514-39c95a6768@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:St Matthias\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270516-130f13b1aa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Day of Pentecost
+DESCRIPTION:Readings: Acts 2:1-21 or Ezek 37:1-14 · Ps 104:24-34\,35b ·
+  Rom 8:22-27 · John 15:26-27\;16:4b-15 | Catholic: 1 Cor 12:3b-7\,12-13 
+ · John 20:19-23\nhttps://dailywordptl.com/church-year/meditations/pentec
+ ost/#d2027-05-16
+URL:https://dailywordptl.com/church-year/meditations/pentecost/#d2027-05-
+ 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270516-a86c45e3bd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⛪ Day of Pentecost
+DESCRIPTION:Season: Pentecost. Colour: Red\nhttps://dailywordptl.com/chur
+ ch-year/pentecost/
+URL:https://dailywordptl.com/church-year/pentecost/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270517-f0cae44bd8@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:⛪ Season after Pentecost / Ordinary Time
+DESCRIPTION:Season: Ordinary Time / Season after Pentecost. Colour: Green
+  (white for feasts\, red for martyrs)\nhttps://dailywordptl.com/church-ye
+ ar/ordinary-time/
+URL:https://dailywordptl.com/church-year/ordinary-time/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270522-b807adf835@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:St Rita of Cascia
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/rita-of
+ -cascia/
+URL:https://dailywordptl.com/saints/rita-of-cascia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270523-bf9d1405e8@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Holy Trinity
+DESCRIPTION:Readings: Isa 6:1-8 · Ps 29 · Rom 8:12-17 · John 3:1-17 | 
+ Catholic: Deut 4 · Rom 8:14-17 · Matt 28:16-20\nhttps://dailywordptl.co
+ m/church-year/meditations/ordinary-time/#d2027-05-23
+URL:https://dailywordptl.com/church-year/meditations/ordinary-time/#d2027
+ -05-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270530-35c09c4e40@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Corpus Christi (Catholic\, US)
+DESCRIPTION:Readings: (Lutheran: 2nd Sunday after Pentecost) | Catholic: 
+ Exod 24:3-8 · Heb 9:11-15 · Mark 14:12-16\,22-26\nhttps://dailywordptl.
+ com/church-year/meditations/ordinary-time/#d2027-05-30
+URL:https://dailywordptl.com/church-year/meditations/ordinary-time/#d2027
+ -05-30
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270531-88aa3430dd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Visitation of Mary
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270611-629af655f6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:St Barnabas\, Apostle
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270613-3798384610@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:St Anthony of Padua
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/anthony
+ -of-padua/
+URL:https://dailywordptl.com/saints/anthony-of-padua/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270624-4087f493c0@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Nativity of St John the Baptist
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/john-t
+ he-baptist/
+URL:https://dailywordptl.com/saints/john-the-baptist/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270629-0e31ce98c5@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Sts Peter & Paul
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/peter/
+URL:https://dailywordptl.com/saints/peter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270703-98c91cf236@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:St Thomas\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/thomas-apo
+ stle/
+URL:https://dailywordptl.com/saints/thomas-apostle/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270711-d4b362175f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:St Benedict
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/benedic
+ t/
+URL:https://dailywordptl.com/saints/benedict/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270722-23519e8c6c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:St Mary Magdalene
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary-magda
+ lene/
+URL:https://dailywordptl.com/saints/mary-magdalene/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270725-485f9c1d69@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:St James\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/james-the-
+ greater/
+URL:https://dailywordptl.com/saints/james-the-greater/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270726-6f42ec40f2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Sts Joachim & Anne
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270729-6535a22f42@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:St Martha
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/martha/
+URL:https://dailywordptl.com/saints/martha/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270731-b1f60512f2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:St Ignatius of Loyola
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ignatiu
+ s-of-loyola/
+URL:https://dailywordptl.com/saints/ignatius-of-loyola/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270806-e06a430802@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270808-12f2a1f220@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:St Dominic
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/dominic
+ /
+URL:https://dailywordptl.com/saints/dominic/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270810-b8ae7d5a75@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:St Lawrence
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/lawrence/
+URL:https://dailywordptl.com/saints/lawrence/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270811-884d681726@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:St Clare
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/clare/
+URL:https://dailywordptl.com/saints/clare/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270814-e7bfdc1ff9@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:St Maximilian Kolbe
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/maximil
+ ian-kolbe/
+URL:https://dailywordptl.com/saints/maximilian-kolbe/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270815-094ce2a67a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assumption of Mary
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270824-e5ecea208c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:St Bartholomew\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270827-576d4539d5@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:St Monica
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/monica/
+URL:https://dailywordptl.com/saints/monica/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270828-f9c170276d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:St Augustine
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/augusti
+ ne/
+URL:https://dailywordptl.com/saints/augustine/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270829-95e15a087c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Passion of St John the Baptist
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-th
+ e-baptist/
+URL:https://dailywordptl.com/saints/john-the-baptist/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270903-697b581e6c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:St Gregory the Great
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270913-c04ffb6303@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:St John Chrysostom
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270914-f6cd9545c7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Exaltation of the Holy Cross
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270921-2a0d073f98@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:St Matthew\, Apostle & Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/matthew/
+URL:https://dailywordptl.com/saints/matthew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270923-2a4ad53cb3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:St Pio of Pietrelcina
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/padre-p
+ io/
+URL:https://dailywordptl.com/saints/padre-pio/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270929-264fd96229@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Sts Michael\, Gabriel & Raphael
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/michael-th
+ e-archangel/
+URL:https://dailywordptl.com/saints/michael-the-archangel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270930-4434e82d51@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:St Jerome
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/jerome/
+URL:https://dailywordptl.com/saints/jerome/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-c0099afaaa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:St Thérèse of Lisieux
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/therese
+ -of-lisieux/
+URL:https://dailywordptl.com/saints/therese-of-lisieux/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271004-f2b47e5a4f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:St Francis of Assisi
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/francis
+ -of-assisi/
+URL:https://dailywordptl.com/saints/francis-of-assisi/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015-28ed5ffe5a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:St Teresa of Ávila
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/teresa-
+ of-avila/
+URL:https://dailywordptl.com/saints/teresa-of-avila/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271017-b2d9b1d126@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:St Ignatius of Antioch
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ignatiu
+ s-of-antioch/
+URL:https://dailywordptl.com/saints/ignatius-of-antioch/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271018-5a6e04ffce@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:St Luke\, Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/luke/
+URL:https://dailywordptl.com/saints/luke/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271028-f91f0f042f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:Sts Simon & Jude\, Apostles
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271031-ab049051e6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Reformation Day (Lutheran)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271101-383e403543@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:All Saints
+DESCRIPTION:Readings: Isa 25:6-9 · Ps 24 · Rev 21:1-6a · John 11:32-44
+  | Catholic: Rev 7:2-4\,9-14 · 1 John 3:1-3 · Matt 5:1-12a\nhttps://dai
+ lywordptl.com/church-year/meditations/ordinary-time/#d2027-11-01
+URL:https://dailywordptl.com/church-year/meditations/ordinary-time/#d2027
+ -11-01
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271102-4e4d705f15@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:All Souls
+DESCRIPTION:Feast day (commemoration)\nhttps://dailywordptl.com/church-ye
+ ar/feasts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271103-fee5fa961e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:St Martin de Porres
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/martin-
+ de-porres/
+URL:https://dailywordptl.com/saints/martin-de-porres/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271111-e4185c84d2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:St Martin of Tours
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271117-e449d22c14@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:St Elizabeth of Hungary
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/elizabe
+ th-of-hungary/
+URL:https://dailywordptl.com/saints/elizabeth-of-hungary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271121-d79d18fc10@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:Christ the King (Reign of Christ)
+DESCRIPTION:Readings: Dan 7:9-10\,13-14 · Ps 93 · Rev 1:4b-8 · John 18
+ :33-37\nhttps://dailywordptl.com/church-year/meditations/ordinary-time/#d
+ 2027-11-21
+URL:https://dailywordptl.com/church-year/meditations/ordinary-time/#d2027
+ -11-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271122-7ca75807aa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:St Cecilia
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/cecilia
+ /
+URL:https://dailywordptl.com/saints/cecilia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271128-bc7a26dc86@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:⛪ Advent begins
+DESCRIPTION:Season: Advent. Colour: Violet (Lutherans often use blue\; ro
+ se on the 3rd Sunday)\nhttps://dailywordptl.com/church-year/advent/
+URL:https://dailywordptl.com/church-year/advent/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271130-0e6d197225@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:St Andrew\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/andrew/
+URL:https://dailywordptl.com/saints/andrew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271203-48dcc97d25@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:St Francis Xavier
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/francis
+ -xavier/
+URL:https://dailywordptl.com/saints/francis-xavier/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271206-1958166e29@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:St Nicholas
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/nichola
+ s/
+URL:https://dailywordptl.com/saints/nicholas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271207-d6858a1434@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:St Ambrose
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ambrose
+ /
+URL:https://dailywordptl.com/saints/ambrose/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271208-c1bf158c34@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Immaculate Conception
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271209-04498d2166@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:St Juan Diego
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/juan-di
+ ego/
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271212-24b649f64f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:Our Lady of Guadalupe
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/juan-diego
+ /
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213-f3e89d6398@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:St Lucy
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/lucy/
+URL:https://dailywordptl.com/saints/lucy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271214-0c1cd61eca@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:St John of the Cross
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-of
+ -the-cross/
+URL:https://dailywordptl.com/saints/john-of-the-cross/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271225-791799eb19@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Nativity of the Lord (Christmas)
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271225-29cde9c3e4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:⛪ Christmas season begins
+DESCRIPTION:Season: Christmas. Colour: White and gold\nhttps://dailywordp
+ tl.com/church-year/christmas/
+URL:https://dailywordptl.com/church-year/christmas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271226-20a934b07d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:St Stephen\, First Martyr
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/stephen/
+URL:https://dailywordptl.com/saints/stephen/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227-b93410f161@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:St John\, Apostle & Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/john-the-a
+ postle/
+URL:https://dailywordptl.com/saints/john-the-apostle/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271228-a3ddafeeb6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:Holy Innocents
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271229-0d85cf59f3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+SUMMARY:St Thomas Becket
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/thomas-
+ becket/
+URL:https://dailywordptl.com/saints/thomas-becket/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280101-622c815160@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Mary\, Mother of God (Catholic) · Name of Jesus (Lutheran)
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280102-fd0d19927a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Sts Basil the Great & Gregory Nazianzen
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280104-d8c907e7c3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280104
+DTEND;VALUE=DATE:20280105
+SUMMARY:St Elizabeth Ann Seton (US)
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280106-ba356a718d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Epiphany of the Lord
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280106-a86cd83fae@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:⛪ Epiphany
+DESCRIPTION:Season: Epiphany. Colour: White for the feast\; green for the
+  weeks after (Lutheran)\nhttps://dailywordptl.com/church-year/epiphany/
+URL:https://dailywordptl.com/church-year/epiphany/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280117-556fca8473@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:St Anthony the Abbot
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/anthony
+ -the-abbot/
+URL:https://dailywordptl.com/saints/anthony-the-abbot/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280121-7f73683023@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:St Agnes
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/agnes/
+URL:https://dailywordptl.com/saints/agnes/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280125-e28f27db12@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:Conversion of St Paul
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/paul/
+URL:https://dailywordptl.com/saints/paul/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280128-3f275f97e7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:St Thomas Aquinas
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/thomas-
+ aquinas/
+URL:https://dailywordptl.com/saints/thomas-aquinas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280131-bd11a1b555@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:St John Bosco
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-bo
+ sco/
+URL:https://dailywordptl.com/saints/john-bosco/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280202-dc286cdd9f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:Presentation of the Lord (Candlemas)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280203-58cd54a8a7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:St Blaise
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/blaise/
+URL:https://dailywordptl.com/saints/blaise/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280205-8a77fadd6e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280205
+DTEND;VALUE=DATE:20280206
+SUMMARY:St Agatha
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/agatha/
+URL:https://dailywordptl.com/saints/agatha/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280222-e884b9294e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280222
+DTEND;VALUE=DATE:20280223
+SUMMARY:Chair of St Peter
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/peter/
+URL:https://dailywordptl.com/saints/peter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280223-c3b917d76d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:St Polycarp
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/polycar
+ p/
+URL:https://dailywordptl.com/saints/polycarp/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280301-91291e3c2e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:⛪ Lent begins: Ash Wednesday
+DESCRIPTION:Season: Lent. Colour: Violet (unbleached linen or "Lenten arr
+ ay" in some churches)\nhttps://dailywordptl.com/church-year/lent/
+URL:https://dailywordptl.com/church-year/lent/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280307-72cc107e8d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280308
+SUMMARY:Sts Perpetua & Felicity
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/perpetu
+ a-and-felicity/
+URL:https://dailywordptl.com/saints/perpetua-and-felicity/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280317-148f4fe4f7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+SUMMARY:St Patrick
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/patrick
+ /
+URL:https://dailywordptl.com/saints/patrick/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280319-856f0b9cc3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:St Joseph
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/joseph
+ /
+URL:https://dailywordptl.com/saints/joseph/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280325-d2ce5e1073@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280325
+DTEND;VALUE=DATE:20280326
+SUMMARY:Annunciation of the Lord
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280409-1910fbfac4@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:⛪ Holy Week begins: Palm Sunday
+DESCRIPTION:Season: Holy Week & Triduum. Colour: Red (Palm Sunday\, Good 
+ Friday)\, white (Holy Thursday\, Easter Vigil)\nhttps://dailywordptl.com/
+ church-year/holy-week/
+URL:https://dailywordptl.com/church-year/holy-week/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280416-5fd944100a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:⛪ Easter Day
+DESCRIPTION:Season: Easter. Colour: White and gold\nhttps://dailywordptl.
+ com/church-year/easter/
+URL:https://dailywordptl.com/church-year/easter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280425-40dd9444fd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:St Mark\, Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mark/
+URL:https://dailywordptl.com/saints/mark/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280429-182617c92d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280429
+DTEND;VALUE=DATE:20280430
+SUMMARY:St Catherine of Siena
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/catheri
+ ne-of-siena/
+URL:https://dailywordptl.com/saints/catherine-of-siena/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280501-1d4f82aebc@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Sts Philip & James (Lutheran)\; St Joseph the Worker (Catholic)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280502-7f6a3d8ae0@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280502
+DTEND;VALUE=DATE:20280503
+SUMMARY:St Athanasius
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280514-39c95a6768@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280514
+DTEND;VALUE=DATE:20280515
+SUMMARY:St Matthias\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280522-b807adf835@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280522
+DTEND;VALUE=DATE:20280523
+SUMMARY:St Rita of Cascia
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/rita-of
+ -cascia/
+URL:https://dailywordptl.com/saints/rita-of-cascia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280531-88aa3430dd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:Visitation of Mary
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280604-a86c45e3bd@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:⛪ Day of Pentecost
+DESCRIPTION:Season: Pentecost. Colour: Red\nhttps://dailywordptl.com/chur
+ ch-year/pentecost/
+URL:https://dailywordptl.com/church-year/pentecost/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280605-f0cae44bd8@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:⛪ Season after Pentecost / Ordinary Time
+DESCRIPTION:Season: Ordinary Time / Season after Pentecost. Colour: Green
+  (white for feasts\, red for martyrs)\nhttps://dailywordptl.com/church-ye
+ ar/ordinary-time/
+URL:https://dailywordptl.com/church-year/ordinary-time/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280611-629af655f6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:St Barnabas\, Apostle
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280613-3798384610@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280614
+SUMMARY:St Anthony of Padua
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/anthony
+ -of-padua/
+URL:https://dailywordptl.com/saints/anthony-of-padua/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280624-4087f493c0@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:Nativity of St John the Baptist
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/john-t
+ he-baptist/
+URL:https://dailywordptl.com/saints/john-the-baptist/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280629-0e31ce98c5@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280629
+DTEND;VALUE=DATE:20280630
+SUMMARY:Sts Peter & Paul
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/peter/
+URL:https://dailywordptl.com/saints/peter/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280703-98c91cf236@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280704
+SUMMARY:St Thomas\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/thomas-apo
+ stle/
+URL:https://dailywordptl.com/saints/thomas-apostle/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280711-d4b362175f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280711
+DTEND;VALUE=DATE:20280712
+SUMMARY:St Benedict
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/benedic
+ t/
+URL:https://dailywordptl.com/saints/benedict/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280722-23519e8c6c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:St Mary Magdalene
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/mary-magda
+ lene/
+URL:https://dailywordptl.com/saints/mary-magdalene/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280725-485f9c1d69@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:St James\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/james-the-
+ greater/
+URL:https://dailywordptl.com/saints/james-the-greater/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280726-6f42ec40f2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Sts Joachim & Anne
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280729-6535a22f42@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:St Martha
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/martha/
+URL:https://dailywordptl.com/saints/martha/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280731-b1f60512f2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:St Ignatius of Loyola
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ignatiu
+ s-of-loyola/
+URL:https://dailywordptl.com/saints/ignatius-of-loyola/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280806-e06a430802@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280806
+DTEND;VALUE=DATE:20280807
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280808-12f2a1f220@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280808
+DTEND;VALUE=DATE:20280809
+SUMMARY:St Dominic
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/dominic
+ /
+URL:https://dailywordptl.com/saints/dominic/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280810-b8ae7d5a75@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:St Lawrence
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/lawrence/
+URL:https://dailywordptl.com/saints/lawrence/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280811-884d681726@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280811
+DTEND;VALUE=DATE:20280812
+SUMMARY:St Clare
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/clare/
+URL:https://dailywordptl.com/saints/clare/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280814-e7bfdc1ff9@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:St Maximilian Kolbe
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/maximil
+ ian-kolbe/
+URL:https://dailywordptl.com/saints/maximilian-kolbe/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280815-094ce2a67a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assumption of Mary
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280824-e5ecea208c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280824
+DTEND;VALUE=DATE:20280825
+SUMMARY:St Bartholomew\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280827-576d4539d5@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280827
+DTEND;VALUE=DATE:20280828
+SUMMARY:St Monica
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/monica/
+URL:https://dailywordptl.com/saints/monica/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280828-f9c170276d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:St Augustine
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/augusti
+ ne/
+URL:https://dailywordptl.com/saints/augustine/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280829-95e15a087c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280829
+DTEND;VALUE=DATE:20280830
+SUMMARY:Passion of St John the Baptist
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-th
+ e-baptist/
+URL:https://dailywordptl.com/saints/john-the-baptist/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280903-697b581e6c@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:St Gregory the Great
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280913-c04ffb6303@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280913
+DTEND;VALUE=DATE:20280914
+SUMMARY:St John Chrysostom
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280914-f6cd9545c7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280914
+DTEND;VALUE=DATE:20280915
+SUMMARY:Exaltation of the Holy Cross
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280921-2a0d073f98@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280921
+DTEND;VALUE=DATE:20280922
+SUMMARY:St Matthew\, Apostle & Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/matthew/
+URL:https://dailywordptl.com/saints/matthew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280923-2a4ad53cb3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280923
+DTEND;VALUE=DATE:20280924
+SUMMARY:St Pio of Pietrelcina
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/padre-p
+ io/
+URL:https://dailywordptl.com/saints/padre-pio/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280929-264fd96229@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+SUMMARY:Sts Michael\, Gabriel & Raphael
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/michael-th
+ e-archangel/
+URL:https://dailywordptl.com/saints/michael-the-archangel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280930-4434e82d51@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:St Jerome
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/jerome/
+URL:https://dailywordptl.com/saints/jerome/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281001-c0099afaaa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:St Thérèse of Lisieux
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/therese
+ -of-lisieux/
+URL:https://dailywordptl.com/saints/therese-of-lisieux/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281004-f2b47e5a4f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:St Francis of Assisi
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/francis
+ -of-assisi/
+URL:https://dailywordptl.com/saints/francis-of-assisi/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281015-28ed5ffe5a@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281015
+DTEND;VALUE=DATE:20281016
+SUMMARY:St Teresa of Ávila
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/teresa-
+ of-avila/
+URL:https://dailywordptl.com/saints/teresa-of-avila/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281017-b2d9b1d126@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281017
+DTEND;VALUE=DATE:20281018
+SUMMARY:St Ignatius of Antioch
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ignatiu
+ s-of-antioch/
+URL:https://dailywordptl.com/saints/ignatius-of-antioch/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281018-5a6e04ffce@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:St Luke\, Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/luke/
+URL:https://dailywordptl.com/saints/luke/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281028-f91f0f042f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281028
+DTEND;VALUE=DATE:20281029
+SUMMARY:Sts Simon & Jude\, Apostles
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281031-ab049051e6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Reformation Day (Lutheran)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281101-383e403543@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:All Saints
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281102-4e4d705f15@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:All Souls
+DESCRIPTION:Feast day (commemoration)\nhttps://dailywordptl.com/church-ye
+ ar/feasts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281103-fee5fa961e@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281103
+DTEND;VALUE=DATE:20281104
+SUMMARY:St Martin de Porres
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/martin-
+ de-porres/
+URL:https://dailywordptl.com/saints/martin-de-porres/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281111-e4185c84d2@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:St Martin of Tours
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
+ asts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281117-e449d22c14@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281117
+DTEND;VALUE=DATE:20281118
+SUMMARY:St Elizabeth of Hungary
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/elizabe
+ th-of-hungary/
+URL:https://dailywordptl.com/saints/elizabeth-of-hungary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281122-7ca75807aa@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+SUMMARY:St Cecilia
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/cecilia
+ /
+URL:https://dailywordptl.com/saints/cecilia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281130-0e6d197225@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:St Andrew\, Apostle
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/andrew/
+URL:https://dailywordptl.com/saints/andrew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281203-48dcc97d25@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281203
+DTEND;VALUE=DATE:20281204
+SUMMARY:St Francis Xavier
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/francis
+ -xavier/
+URL:https://dailywordptl.com/saints/francis-xavier/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281206-1958166e29@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281206
+DTEND;VALUE=DATE:20281207
+SUMMARY:St Nicholas
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/nichola
+ s/
+URL:https://dailywordptl.com/saints/nicholas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281207-d6858a1434@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281207
+DTEND;VALUE=DATE:20281208
+SUMMARY:St Ambrose
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/ambrose
+ /
+URL:https://dailywordptl.com/saints/ambrose/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281208-c1bf158c34@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:Immaculate Conception
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/saints/mary/
+URL:https://dailywordptl.com/saints/mary/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281209-04498d2166@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281209
+DTEND;VALUE=DATE:20281210
+SUMMARY:St Juan Diego
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/juan-di
+ ego/
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281212-24b649f64f@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281212
+DTEND;VALUE=DATE:20281213
+SUMMARY:Our Lady of Guadalupe
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/juan-diego
+ /
+URL:https://dailywordptl.com/saints/juan-diego/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281213-f3e89d6398@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:St Lucy
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/lucy/
+URL:https://dailywordptl.com/saints/lucy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281214-0c1cd61eca@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:St John of the Cross
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-of
+ -the-cross/
+URL:https://dailywordptl.com/saints/john-of-the-cross/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281225-791799eb19@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Nativity of the Lord (Christmas)
+DESCRIPTION:Feast day (solemnity)\nhttps://dailywordptl.com/church-year/f
+ easts/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281226-20a934b07d@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:St Stephen\, First Martyr
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/stephen/
+URL:https://dailywordptl.com/saints/stephen/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281227-b93410f161@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281227
+DTEND;VALUE=DATE:20281228
+SUMMARY:St John\, Apostle & Evangelist
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/john-the-a
+ postle/
+URL:https://dailywordptl.com/saints/john-the-apostle/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281228-a3ddafeeb6@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281228
+DTEND;VALUE=DATE:20281229
+SUMMARY:Holy Innocents
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
+ s/
+URL:https://dailywordptl.com/church-year/feasts/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20281229-0d85cf59f3@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20281229
+DTEND;VALUE=DATE:20281230
+SUMMARY:St Thomas Becket
+DESCRIPTION:Feast day (optional)\nhttps://dailywordptl.com/saints/thomas-
+ becket/
+URL:https://dailywordptl.com/saints/thomas-becket/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
