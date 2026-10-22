@@ -32,8 +32,22 @@ def ogimg(rel):
     for pre,img in OGMAP:
         if r==pre or r.startswith(pre+'/'): return img
     return 'og-home'
+LBL={'church-year':'Church Year','meditations':'Meditations','verses':'Verses','pilgrimage':'Pilgrimage','saints':'Saints','music':'Music'}
+def homecrumb(r,h):
+    m=re.search(r'<main>(\s*)(<div class=crumb>)?',h)
+    if not m: return h
+    if m.group(2):
+        i=m.end()
+        if h[i:i+20].startswith('<a href="/">Home'): return h
+        return h[:i]+'<a href="/">Home</a> › '+h[i:]
+    segs=[s for s in r.split('/') if s][:-1]; parts=['<a href="/">Home</a>']
+    for k in range(len(segs)):
+        parts.append(f'<a href="/{"/".join(segs[:k+1])}/">{LBL.get(segs[k],segs[k].replace("-"," ").title())}</a>')
+    return h[:m.end()]+'<div class=crumb>'+' › '.join(parts)+'</div>'+h[m.end():]
 def write(rel,h):
-    r=rel.strip('/'); url=SITE+'/'+(r+'/' if r else '')
+    r=rel.strip('/')
+    if r: h=homecrumb(r,h)
+    url=SITE+'/'+(r+'/' if r else '')
     t=re.search(r'<title>(.*?)</title>',h,re.S); title=html.unescape(t.group(1)) if t else 'The Daily Word'
     d=re.search(r'<meta name=description content="(.*?)">',h); desc=html.unescape(d.group(1)) if d and d.group(1) else 'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides and the lives of the saints.'
     img=f"{SITE}/static/og/{ogimg(rel)}.jpg"; e=html.escape
@@ -159,7 +173,7 @@ def build():
     json.dump(MISSING,open(os.path.join(ROOT,'cy','missing_saints.json'),'w'),indent=1)
     json.dump(INDEX,open(os.path.join(OUT,'search-index.json'),'w',encoding='utf-8'),ensure_ascii=False,separators=(',',':'))
     open(os.path.join(OUT,'CNAME'),'w').write('dailywordptl.com\n')
-    open(os.path.join(OUT,'404.html'),'w').write(re.sub(r'<a (?![^>]*target=)([^>]*href="https?://(?!dailywordptl\.com)[^"]*"[^>]*)>',r'<a \1 target="_blank" rel="noopener noreferrer">',page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>')))
+    open(os.path.join(OUT,'404.html'),'w').write(homecrumb('404',re.sub(r'<a (?![^>]*target=)([^>]*href="https?://(?!dailywordptl\.com)[^"]*"[^>]*)>',r'<a \1 target="_blank" rel="noopener noreferrer">',page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>'))))
     import cy.gen as G; print('listen: specific',len(G.STATS['specific']),'search',len(G.STATS['search']),sorted(G.STATS['search']))
     print(f'built {len(vs)} verses; ESV verses quoted: {esv}/500')
     if esv>=450: print('WARNING: approaching Crossway 500-verse limit; plan the switch to NRSV/BSB/WEB')
