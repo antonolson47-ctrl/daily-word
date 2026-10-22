@@ -3,6 +3,15 @@ from .seasons import SEASONS
 from .music import A, M, CLASSICAL, LINEAGE, APPAL
 from .advent import SUNDAYS, DAILY
 from .cal import FIXED, YB, easter, advent1
+from .songs import S as SONGS, SIG
+YT=json.load(open(os.path.join(os.path.dirname(__file__),'yt_links.json')))
+STATS={'specific':set(),'search':set()}
+def listen(song,who):
+    k=f'{song}|{who}'; r=YT.get(k,{})
+    if r.get('url'): STATS['specific'].add(k); u=r['url']
+    elif r.get('vid'): STATS['specific'].add(k); u='https://www.youtube.com/watch?v='+r['vid']
+    else: STATS['search'].add(k); u='https://www.youtube.com/results?search_query='+urllib.parse.quote_plus(song+' '+who)
+    return f'<a class=listen href="{u}">🎧 {E(song)}</a>'
 E=html.escape
 SITE='https://dailywordptl.com'
 ICS_URL=SITE+'/church-year.ics'
@@ -33,13 +42,14 @@ def photo(k,cred):
     return '<div class=ph aria-label="No free photo available">♪</div>','<div class=cap>No freely licensed photo found yet.</div>'
 def profile(k,cred):
     a=A[k]; img,cap=photo(k,cred)
-    return f'<div class="card prof" id="{k}">{img}<div><h3>{E(a[0])}</h3><span class=badge>{E(a[2])}</span> <span class=src>{E(a[1])}</span><div>{a[3]}</div><p class=src>Source: <a href="{a[4][1]}">{E(a[4][0])}</a></p></div>{cap}</div>'
+    return f'<div class="card prof" id="{k}">{img}<div><h3>{E(a[0])}</h3><span class=badge>{E(a[2])}</span> <span class=src>{E(a[1])}</span><div>{a[3]}</div><p class=lrow>Listen: {' '.join(listen(x,y) for x,y in SIG[k])}</p><p class=src>Source: <a href="{a[4][1]}">{E(a[4][0])}</a></p></div>{cap}</div>'
 def musicblock(slug,md):
     rows=''
     for t,k,note,links in M[slug]:
         who=f' · <a href="/music/#{k}">{E(A[k][0])}</a>' if k else ''
         ls=' · '.join(f'<a href="{u}">{E(l)}</a>' for l,u in links)
-        rows+=f'<li><b>{md(t)[3:-4]}</b>{who}<br><span class=src>{md(note)[3:-4]} Listen: {ls}</span></li>'
+        lis=' '.join(listen(a,b) for a,b in SONGS[t])
+        rows+=f'<li><b>{md(t)[3:-4]}</b>{who}<br><span class=src>{md(note)[3:-4]}</span><br><span class=lrow>Listen: {lis}</span><br><span class=src>Also: {ls}</span></li>'
     return f'<h2>🎵 Music for the season</h2><ul>{rows}</ul><p class=src>More history and the full gospel, blues and Appalachian lineage on the <a href="/music/">Music page</a>.</p>'
 def build(B,vs):
     md,page,write,hero=B.md,B.page,B.write,B.hero

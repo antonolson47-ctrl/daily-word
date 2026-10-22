@@ -49,6 +49,7 @@ def write(rel,h):
         sec=r.split('/')[0].capitalize() if '/' in r or r in ('verses','saints','pilgrimage') else 'Page'
         if r.startswith('pilgrimage/'): sec='Pilgrimage'
         INDEX.append({'t':title.replace(' · The Daily Word',''),'u':'/'+r+'/','s':sec,'d':desc[:160],'x':txt[:1500]})
+    h=re.sub(r'<a (?![^>]*target=)([^>]*href="https?://(?!dailywordptl\.com)[^"]*"[^>]*)>',r'<a \1 target="_blank" rel="noopener noreferrer">',h)
     p=os.path.join(OUT,r,'index.html'); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w',encoding='utf-8').write(h)
 def art(name):
     n=name.rsplit('.',1)[0] if name else None
@@ -158,7 +159,8 @@ def build():
     json.dump(MISSING,open(os.path.join(ROOT,'cy','missing_saints.json'),'w'),indent=1)
     json.dump(INDEX,open(os.path.join(OUT,'search-index.json'),'w',encoding='utf-8'),ensure_ascii=False,separators=(',',':'))
     open(os.path.join(OUT,'CNAME'),'w').write('dailywordptl.com\n')
-    open(os.path.join(OUT,'404.html'),'w').write(page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>'))
+    open(os.path.join(OUT,'404.html'),'w').write(re.sub(r'<a (?![^>]*target=)([^>]*href="https?://(?!dailywordptl\.com)[^"]*"[^>]*)>',r'<a \1 target="_blank" rel="noopener noreferrer">',page('Not found','<h1>Page not found</h1><p><a href="/">Home</a></p>')))
+    import cy.gen as G; print('listen: specific',len(G.STATS['specific']),'search',len(G.STATS['search']),sorted(G.STATS['search']))
     print(f'built {len(vs)} verses; ESV verses quoted: {esv}/500')
     if esv>=450: print('WARNING: approaching Crossway 500-verse limit; plan the switch to NRSV/BSB/WEB')
 if __name__=='__main__': build()
