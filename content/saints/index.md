@@ -2,11 +2,11 @@
 title: Saints
 subtitle: Lives, miracles, feast days and the long road to sainthood
 hero: pieta
-last_verified: October 16, 2026
+last_verified: November 2, 2026
 ---
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
-There are now 123 saints here, and more are added in batches. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
+There are now 147 saints here, and more are added in batches. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
 <!--list-->
 
 ## Saints by Place
@@ -76,6 +76,13 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Margaret of Cortona](/saints/margaret-of-cortona/) | Cortona | Basilica of Santa Margherita, Cortona (her tomb) |
 | [St Erasmus (St Elmo)](/saints/erasmus/) | Formia / Gaeta | Gaeta Cathedral (relics); Formia |
 | [St Ignatius of Antioch](/saints/ignatius-of-antioch/) | Rome / Antioch | Basilica of San Clemente, Rome (relics claimed) |
+| [St Gregory the Great](/saints/gregory-the-great/) | Rome | San Gregorio al Celio, his monastery on the Caelian Hill; his tomb in St Peter's |
+| [St Scholastica](/saints/scholastica/) | Monte Cassino | Abbey of Monte Cassino, where tradition places her tomb with St Benedict's |
+| [St Bartholomew](/saints/bartholomew/) | Rome | San Bartolomeo all'Isola, on the Tiber island (relics brought from Benevento) |
+| [St Jude](/saints/jude/) | Rome | Altar of St Simon and St Jude in St Peter's Basilica |
+| [St Longinus](/saints/longinus/) | Rome | Bernini's statue of Longinus under the dome of St Peter's; a lance claimed as his is kept in the basilica |
+| [St Pantaleon](/saints/pantaleon/) | Ravello | Ravello Cathedral, where an ampoule of his blood is said to liquefy on 27 July; Nicomedia (İzmit, Turkey), where he was martyred |
+| [St Josephine Bakhita](/saints/josephine-bakhita/) | Schio | The Canossian convent church in Schio (Vicenza), where her body rests |
 
 ### Mexico
 
@@ -98,6 +105,10 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Fiacre](/saints/fiacre/) | Saint-Fiacre (Seine-et-Marne) / Meaux | Church of Saint-Fiacre; Chapelle Saint-Fiacre, Le Faouët (Brittany) |
 | [St Leonard of Noblac](/saints/leonard-of-noblac/) | Saint-Léonard-de-Noblat | Collegiate church and tomb |
 | [St Martha](/saints/martha/) | Tarascon | Collegiate Church of Sainte-Marthe, Tarascon (tomb tradition) |
+| [St Genevieve](/saints/genevieve/) | Paris | Church of Saint-Étienne-du-Mont (her relics); the Panthéon, built as the abbey church of Sainte-Geneviève |
+| [St Louis IX](/saints/louis-ix/) | Paris | Sainte-Chapelle, built for the Crown of Thorns; the Basilica of Saint-Denis |
+| [St Roch](/saints/roch/) | Montpellier | His traditional birthplace; the great cult and claimed relics are at San Rocco and the Scuola Grande di San Rocco, Venice |
+| [St John Vianney](/saints/john-vianney/) | Ars-sur-Formans | Basilica of Ars (his body); the presbytery and the old parish church |
 
 ### Ireland & Britain
 
@@ -112,6 +123,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Thomas Becket](/saints/thomas-becket/) | Canterbury (England) | Canterbury Cathedral (the Martyrdom and Trinity Chapel); see [Via Francigena: Canterbury](/pilgrimage/via-francigena/canterbury/) |
 | [St Edmund](/saints/edmund/) | Bury St Edmunds (England) | St Edmundsbury Cathedral; the abbey ruins |
 | [St Rumwold](/saints/rumwold/) | Buckingham / King's Sutton (England) | Churches and wells dedicated to him; St Rumwold's, Bonnington (Kent) |
+| [St Edward the Confessor](/saints/edward-the-confessor/) | Westminster (London) | Westminster Abbey: his shrine behind the high altar, and the abbey he rebuilt |
 
 ### Rest of Europe
 
@@ -129,6 +141,10 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Sunniva](/saints/sunniva/) | Selja (Norway) | Selja Abbey ruins and cave church; Bergen |
 | [St Wilgefortis](/saints/wilgefortis/) *(legend)* | Lucca / Tyrol | Volto Santo, Lucca Cathedral; Kümmernis images in Austrian and Bavarian churches |
 | [St Juliana of Nicomedia](/saints/juliana-of-nicomedia/) | Naples / Santillana del Mar | Collegiate church of Santillana del Mar, Cantabria (her tomb tradition) |
+| [St Dymphna](/saints/dymphna/) | Geel (Belgium) | Church of St Dymphna, Geel, and the town's centuries-old family care of people with mental illness |
+| [St Ursula](/saints/ursula/) *(legend)* | Cologne (Germany) | Basilica of St Ursula and its Golden Chamber of relics |
+| [St Faustina](/saints/faustina/) | Kraków-Łagiewniki (Poland) | Shrine of Divine Mercy, Łagiewniki (her tomb and the convent) |
+| [St Edith Stein](/saints/edith-stein/) | Cologne / Auschwitz | The Carmel of Cologne; Auschwitz-Birkenau, where she was killed |
 
 ### Middle East & Africa
 
@@ -145,6 +161,11 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [Sts Perpetua and Felicity](/saints/perpetua-and-felicity/) | Carthage (Tunisia) | The Roman amphitheatre of Carthage; ruins of the Basilica Maiorum |
 | [St Apollonia](/saints/apollonia/) | Alexandria (Egypt) | Honoured across Europe; relics claimed in many churches |
 | [St Onuphrius](/saints/onuphrius/) | Egyptian desert | Sant'Onofrio al Gianicolo, Rome; Monastery of St Onuphrius, Jerusalem |
+| [St Helena](/saints/helena/) | Jerusalem / Rome | Church of the Holy Sepulchre and the basilicas at Bethlehem and the Mount of Olives; Santa Croce in Gerusalemme, Rome |
+| [St Veronica](/saints/veronica/) *(legend)* | Jerusalem | The Sixth Station on the Via Dolorosa; a cloth called the Veronica was long shown at St Peter's, Rome |
+| [St Catherine of Alexandria](/saints/catherine-of-alexandria/) | Sinai (Egypt) | Monastery of St Catherine, at the foot of Mount Sinai |
+| [St John Chrysostom](/saints/john-chrysostom/) | Istanbul / Rome | Church of St George in the Phanar, Istanbul (relics returned in 2004); also St Peter's, Rome |
+| [St Charbel](/saints/charbel/) | Annaya (Lebanon) | Monastery of St Maron and the hermitage of Sts Peter and Paul, Annaya |
 
 ### Americas & Pacific
 
@@ -153,6 +174,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Martin de Porres](/saints/martin-de-porres/) | Lima (Peru) | Basilica and Convent of Santo Domingo, Lima (his tomb, beside St Rose) |
 | [St Rose of Lima](/saints/rose-of-lima/) | Lima (Peru) | Sanctuary of Santa Rosa (her house, garden and well), Lima; Basilica of Santo Domingo (her tomb) |
 | [St Damien of Molokai](/saints/damien/) | Kalaupapa, Molokai (Hawaii) | St Philomena Church and his grave, Kalaupapa National Historical Park; Cathedral Basilica of Our Lady of Peace, Honolulu; St Anthony's Church, Leuven (tomb) |
+| [St Óscar Romero](/saints/oscar-romero/) | San Salvador (El Salvador) | Metropolitan Cathedral crypt (his tomb); the chapel of the Hospital Divina Providencia, where he was shot |
 
 
 <div class=warn markdown=1>Dates for ancient saints are often approximate, and those are marked "c." (circa). Where sources disagree we say so with ⚠.</div>

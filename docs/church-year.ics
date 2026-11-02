@@ -1125,9 +1125,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:St Athanasius
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/athanas
+ ius/
+URL:https://dailywordptl.com/saints/athanasius/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1437,9 +1437,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:St Bartholomew\, Apostle
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/bartholome
+ w/
+URL:https://dailywordptl.com/saints/bartholomew/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1480,9 +1480,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:St Gregory the Great
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/gregory
+ -the-great/
+URL:https://dailywordptl.com/saints/gregory-the-great/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,9 +1491,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
 SUMMARY:St John Chrysostom
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-ch
+ rysostom/
+URL:https://dailywordptl.com/saints/john-chrysostom/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1609,9 +1609,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:Sts Simon & Jude\, Apostles
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/jude/
+URL:https://dailywordptl.com/saints/jude/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,9 +2150,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280502
 DTEND;VALUE=DATE:20280503
 SUMMARY:St Athanasius
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/athanas
+ ius/
+URL:https://dailywordptl.com/saints/athanasius/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2399,9 +2398,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280824
 DTEND;VALUE=DATE:20280825
 SUMMARY:St Bartholomew\, Apostle
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/bartholome
+ w/
+URL:https://dailywordptl.com/saints/bartholomew/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2442,9 +2441,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280903
 DTEND;VALUE=DATE:20280904
 SUMMARY:St Gregory the Great
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/gregory
+ -the-great/
+URL:https://dailywordptl.com/saints/gregory-the-great/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2453,9 +2452,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280913
 DTEND;VALUE=DATE:20280914
 SUMMARY:St John Chrysostom
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/john-ch
+ rysostom/
+URL:https://dailywordptl.com/saints/john-chrysostom/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2571,9 +2570,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20281028
 DTEND;VALUE=DATE:20281029
 SUMMARY:Sts Simon & Jude\, Apostles
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/jude/
+URL:https://dailywordptl.com/saints/jude/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
