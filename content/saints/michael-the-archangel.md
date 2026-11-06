@@ -4,7 +4,7 @@ subtitle: Prince of the heavenly host
 group: Angels & Apostles
 order: 1
 hero: saint-michael-the-archangel.jpg
-hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Guido_Reni_031.jpg">The Archangel Michael Defeating Satan (1636)</a>, Guido Reni · public domain, via Wikimedia Commons
+hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Guido_Reni_031.jpg">The Archangel Michael Defeating Satan (about 1635–36)</a>, Guido Reni · public domain, via Wikimedia Commons
 facts: {"Lived":"An angel: not a human life","Feast day":"29 September (Michaelmas)","Recognised":"Scripture & ancient tradition"}
 last_verified: November 6, 2026
 ---
@@ -96,7 +96,7 @@ One more place belongs with his feast, though it is not one of the seven. At [La
 
 <h2 id=art>How artists have seen him</h2>
 
-The picture at the head of this page is **Guido Reni**. About 1636 he painted *The Archangel Michael Defeating Satan* for the Capuchin church of **Santa Maria della Concezione** in Rome, and it is still there. Michael stands in rose and blue, one foot on the enemy, the sword lifted. Rome has looked at that calm face for nearly four centuries.
+The picture at the head of this page is **Guido Reni**. He painted *The Archangel Michael Defeating Satan* for the Capuchin church of **Santa Maria della Concezione** in Rome, and it is still there. Stephen Pepper dates the painting to 1635; the Roman press of the de' Rossi engraved it in 1636, so the work is kept as about 1635–36. Michael stands in rose and blue, one foot on the enemy, the sword lifted. Rome has looked at that calm face for nearly four centuries.
 
 Three other works carry the same story into other centuries.
 
@@ -109,10 +109,10 @@ Raphael had painted a smaller Michael and the dragon about 1504 or 1505, also no
 
 <figure class=photo>
 <picture><source srcset="/static/art/michael-santangelo-600.webp 600w,/static/art/michael-santangelo.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/michael-santangelo.jpg" alt="The bronze angel on Castel Sant'Angelo, wings spread, one arm raised with a sword, standing against a grey sky." width="1280" height="1225" loading="lazy"></picture>
-<figcaption>Peter Anton von Verschaffelt, bronze angel, 1753, crowning Castel Sant'Angelo in Rome. The castle took Michael's name from the story of the plague of 590. Photo: <a href="https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_-_angel.jpg">Flanker</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+<figcaption>Peter Anton von Verschaffelt's angel, cast in bronze by Francesco Giardoni in 1751 and set on Castel Sant'Angelo on 28 June 1752, after Benedict XIV had blessed it. The castle took Michael's name from the story of the plague of 590. Photo: <a href="https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_-_angel.jpg">Flanker</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-During the plague of 590, [Gregory the Great](/saints/gregory-the-great/) ordered processions through Rome. A telling famous by the thirteenth century says that as the procession passed Hadrian's mausoleum, Michael appeared on the summit and sheathed a bloody sword, and the plague ceased. The building has been the Castle of the Angel ever since. Verschaffelt's bronze of 1753 is the angel pilgrims see there now. It replaced an earlier statue. The sheathing of the sword is the story the castle keeps, the same story told on Gregory's page.
+During the plague of 590, [Gregory the Great](/saints/gregory-the-great/) ordered processions through Rome. A telling famous by the thirteenth century says that as the procession passed Hadrian's mausoleum, Michael appeared on the summit and sheathed a bloody sword, and the plague ceased. The building has been the Castle of the Angel ever since. The angel pilgrims see there now is Verschaffelt's. Benedict XIV had wanted a new figure for the Jubilee of 1750. Francesco Giardoni cast the bronze on Verschaffelt's model in 1751. On 28 June 1752 the pope blessed it, and that day it was set on the castle, in place of the earlier statue. The year 1753, sometimes printed instead, is a later report that the sculptor, already away from Rome, first saw the finished statue then. The foundry's dates are the casting in 1751 and the installation on 28 June 1752. The sheathing of the sword is the story the castle keeps, the same story told on Gregory's page.
 
 <h2 id=prayer>The prayer, and Michaelmas</h2>
 
@@ -133,6 +133,10 @@ Soldiers, police officers, paramedics, the sick, grocers in some old lists, and 
 - [Britannica: Michael](https://www.britannica.com/topic/Michael-archangel)
 - [Wikipedia: Prayer to Saint Michael (history & sources)](https://en.wikipedia.org/wiki/Prayer_to_Saint_Michael)
 - Staatsbibliothek Bamberg, Msc.Bibl.140 (the Bamberg Apocalypse). Raphael's *Saint Michael Vanquishing Satan* of 1518 is the painting in the Louvre known as the Grand Saint Michel; the photograph here is the C2RMF record of that work.
+- [Treccani, Dizionario Biografico degli Italiani: Francesco Giardoni](https://www.treccani.it/enciclopedia/francesco-giardoni_(Dizionario-Biografico)/) (the bronze cast in 1751; set on the castle on 28 June 1752, after the papal blessing)
+- [Treccani, Dizionario Biografico degli Italiani: Nicola Forti](https://www.treccani.it/enciclopedia/nicola-forti_(Dizionario-Biografico)/) (the blessing of 28 June 1752, prepared at Giardoni's foundry; cites the *Diario ordinario*, 1752, n. 5439)
+- [Vatican News, 8 March 2023](https://www.vaticannews.va/it/chiesa/news/2023-03/il-ponte-sant-angelo-dove-gli-angeli-cantano-radente-la-terra.html) (the statue inaugurated in 1752, two years after the Jubilee competition of 1750)
+- [Italian Ministry of the Interior, on Reni's St Michael](https://www1.interno.gov.it/mininterno/export/sites/default/it/sezioni/sala_stampa/speciali/100_anni_Viminale/San_Michele.html) (Pepper's date of 1635; engraved at the de' Rossi press in 1636)
 - [St Michael's Line](/pilgrimage/st-michael/), with a page for each sanctuary
 
 <p class=src>Expanded November 6, 2026. Scripture is quoted briefly from the public-domain King James Version, except the sentence of Revelation 12:7, which the pilgrimage pages already give from the ESV. The Leo XIII prayer is dated from the sources above. The vision sometimes attached to that prayer is a later telling, and the page says so. Feast days follow the General Roman Calendar unless an Eastern date is named.</p>
