@@ -20,6 +20,8 @@ map_caption: Sacra di San Michele above the Val di Susa, west of Turin.
 </div>
 
 
+The Archangel's own story, in Scripture and in the Church's prayer, is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## The Sacra in depth
 
 ### Founding stories: legend and history

@@ -22,6 +22,8 @@ map_caption: Panormitis on Symi, near Rhodes in the Dodecanese.
 <div class=warn markdown=1>Note: Panormitis is an Orthodox monastery. Visitors should dress modestly (covered shoulders and knees).</div>
 
 
+The Archangel's own story, in Scripture and in the Church's prayer, is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## Panormitis in depth
 
 ### Founding stories: legend and history

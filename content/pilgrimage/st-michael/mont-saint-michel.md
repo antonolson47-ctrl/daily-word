@@ -19,6 +19,8 @@ map_caption: Mont-Saint-Michel on the Normandy–Brittany border.
 </div>
 
 
+The Archangel's own story, in Scripture and in the Church's prayer, is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## The Mont in depth
 
 ### Founding stories: legend and history
