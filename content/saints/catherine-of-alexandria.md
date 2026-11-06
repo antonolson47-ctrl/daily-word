@@ -13,11 +13,12 @@ Catherine of Alexandria is one of the most painted saints in Europe, and one of 
 
 What the medieval West and the Christian East actually knew was her **passion**, a legend that grew between the fifth century and the *Golden Legend*. She was a young scholar, daughter of a king in the telling, who went to the emperor Maxentius and argued him down. He called fifty philosophers. She converted them, and he had the philosophers burned. He wanted to marry her, or to break her. She refused. He built a machine of four spiked wheels turning against each other. At her prayer the wheel shattered and the pieces killed the executioners. She was beheaded. From the wound, the legend says, milk flowed instead of blood. Angels carried her body to **Mount Sinai**.
 
-<div class=legend markdown=1>
+**Justinian** built a fortified monastery at the foot of Sinai in the sixth century, the monastery of the Burning Bush, later called the **Monastery of St Catherine**. It still stands, with one of the oldest working libraries in the world, and it keeps what it holds as her relics. Pilgrims have climbed to it for centuries. Her passion is why the house bears her name.
 
-**Legend and the monastery.** Historians do not have a reliable life of Catherine. The debate, the wheel and the angelic burial are the passion-story, not a fourth-century record. What is solid is the cult, and the place. **Justinian** built a fortified monastery at the foot of Sinai in the sixth century, the monastery of the Burning Bush, later called the **Monastery of St Catherine**. It still stands, with one of the oldest working libraries in the world, and it claims her relics. Pilgrims have climbed to it for centuries. The monastery is history. The legend is why it bears her name.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/catherine-sinai-600.webp 600w,/static/art/catherine-sinai.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/catherine-sinai.jpg" alt="Saint Catherine's Monastery at the foot of Mount Sinai, a walled complex of stone buildings and tiled roofs in a rocky desert, with mountains behind." width="1280" height="857" loading="lazy"></picture>
+<figcaption>The Monastery of St Catherine at the foot of Mount Sinai. Photo: <a href="https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg">Berthold Werner</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 She was one of the **Fourteen Holy Helpers**. Joan of Arc said Catherine's was one of the voices that sent her to Orléans. Universities, especially Paris, took a woman who had out-argued fifty philosophers as a patron of students. Painters gave her a wheel, a book and a sword. Caravaggio's Catherine leans on the broken wheel in a white shirt, the sword across her lap, looking nothing like a person who has just won an argument and everything like a person who knows what the argument will cost.
 
@@ -38,4 +39,4 @@ Students, philosophers, librarians, preachers, young women, wheelwrights, and an
 - [Vatican News: saints of 25 November (St Catherine of Alexandria)](https://www.vaticannews.va/en/saints/11/25.html)
 - [Catholic Encyclopedia: St Catherine of Alexandria](https://www.newadvent.org/cathen/03445a.htm)
 
-<p class=src>Fact-checked on November 2, 2026 against Vatican News and New Advent (Catholic Encyclopedia). Her passion is legend, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against Vatican News and New Advent (Catholic Encyclopedia). The Sinai photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

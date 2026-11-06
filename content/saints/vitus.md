@@ -9,17 +9,20 @@ facts: {"Lived": "c. 290\u2013303, Sicily / Lucania (Italy) (traditional)", "Fea
 last_verified: October 19, 2026
 ---
 ## The story
-Almost nothing can be verified about Vitus beyond an early cult in Sicily and southern Italy and a name in early martyrologies. The medieval *Passio* made him a child of seven (or twelve), son of a pagan Sicilian senator, converted by his nurse Crescentia and her husband Modestus.
+An early cult in Sicily and southern Italy, and a name in the old martyrologies, is where Vitus enters the Church's memory. The medieval *Passio* tells him as a child of seven (or twelve), son of a pagan Sicilian senator, converted by his nurse Crescentia and her husband Modestus.
 
 ## The full story
 
 ### Oil, lions and exile
-The legend piles torture on torture under Diocletian: beaten by his father, fled to Lucania, summoned to Rome to heal Diocletian's son, then — refusing sacrifice — thrown into boiling oil (from which he stepped unharmed), set before a lion that licked his feet, and racked with his companions until an earthquake freed them. Angels carried them home to die in peace.
+The passion sets trial upon trial under Diocletian: beaten by his father, fled to Lucania, summoned to Rome to heal Diocletian's son, then — refusing sacrifice — thrown into boiling oil (from which he stepped unharmed), set before a lion that licked his feet, and racked with his companions until an earthquake freed them. Angels carried them home to die in peace.
 
 ### St Vitus' dance
-In the later Middle Ages crowds danced for days before his shrines in outbreaks now linked to ergot poisoning and mass hysteria; his name attached both to that 'dancing mania' and to Sydenham's chorea, 'St Vitus' dance'. His relics at Prague — brought to St Vitus Cathedral — made him a national patron of Bohemia.
+In the later Middle Ages crowds danced for days before his shrines, outbreaks later writers have connected with ergot and with mass hysteria. His name stayed on that 'dancing mania', and on Sydenham's chorea, 'St Vitus' dance'. His relics at Prague — brought to St Vitus Cathedral — made him a national patron of Bohemia. The same devotion kept him at Corvey, and among the Fourteen Holy Helpers.
 
-<div class=legend markdown=1>**Legend.** Vitus is almost certainly a real early martyr whose acts are lost; the surviving *Passio* is a romance. Treat the oil, lion and earthquake as medieval devotion. The cult — Corvey, Prague, the Holy Helpers — is very historical indeed.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/vitus-prague-600.webp 600w,/static/art/vitus-prague.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/vitus-prague.jpg" alt="Gothic roof and pinnacles of St Vitus Cathedral in Prague, green tiles patterned with gold, against a blue sky." width="1280" height="901" loading="lazy"></picture>
+<figcaption>St Vitus Cathedral in Prague Castle, the church that holds his arm and carries his name over Bohemia. Photo: <a href="https://commons.wikimedia.org/wiki/File:Exterior_of_St._Vitus_Cathedral_Prague_8.JPG">Serafita</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation; numbered among the Fourteen Holy Helpers invoked against disease in late medieval Germany.
@@ -35,4 +38,4 @@ Epilepsy and chorea, dancers and actors, Bohemia/Prague, protection from lightni
 - [Wikipedia: Vitus (overview with scholarly references)](https://en.wikipedia.org/wiki/Vitus)
 - [Prague Castle (official): St Vitus Cathedral](https://www.hrad.cz/en/prague-castle-for-visitors)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above, with the cathedral photograph added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
