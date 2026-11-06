@@ -8,8 +8,14 @@ def explore(ROOT,C,nverses):
     def card(img,icon,grad,tag,title,blurb,count,btn,href,extra=''):
         top=(f'<picture><source srcset="/static/art/{img}-600.webp" type=image/webp><img src="/static/art/{img}.jpg" alt="" loading=lazy width=600 height=338></picture>' if img else f'<div class=fx-icon style="background:{grad}">{icon}</div>')
         return f'<article class=fx>{top}<div class=fx-b>{f"<span class=fx-tag>{tag}</span>" if tag else ""}<h3>{title}</h3><p>{blurb}</p>{extra}{f"<div class=fx-n>{count}</div>" if count else ""}<a class=fx-btn href="{href}">{btn} →</a></div></article>'
+    def song():
+        cover='''<a class=song-link href="https://www.youtube.com/watch?v=jiMXK9eDrMY"><img class=song-cover src="/static/art/american-iv-cover.jpg" alt="Album cover of American IV: The Man Comes Around. Large white letters spell CASH above a shadowed profile of Johnny Cash in glasses." width="360" height="359"></a>'''
+        credit='<p class=song-credit>Johnny Cash, <i>American IV: The Man Comes Around</i> (American Recordings / Universal, 5 November 2002). Cover photograph by Martyn Atkins; art direction by Christine Cano. © American Recordings, LLC. Shown small, from the <a href="https://coverartarchive.org/release/9d145b95-0bb0-4337-a078-5c48913026eb">Cover Art Archive</a> copy of that release, for identification. Not freely licensed.</p>'
+        btn='<a class=fx-btn href="https://www.youtube.com/watch?v=jiMXK9eDrMY">Listen on YouTube <span class=ext>(opens in a new tab)</span></a>'
+        return f'<article class="fx song">{cover}<div class=fx-b><h3>Song of the Day</h3><p>Johnny Cash, “The Man Comes Around,” from <i>American IV</i>. A standing choice for this page, not a rotation.</p>{credit}{btn}</div></article>'
     cards=[
      card('sermon-on-the-mount','','', '', 'Verse of the Day','One New Testament verse each morning in Greek, Latin and English, with the scene, key words, a story and Dig Deeper notes.',f'{nverses} verses so far','Browse the archive','/verses/'),
+     song(),
      card(None,'⛪','conic-gradient(#5b3f8c 0 8%,#e9d9a6 0 12%,#3f7d4a 0 22%,#4a2f6e 0 34%,#9b1c1c 0 36%,#f3e7b4 0 50%,#c4291c 0 52%,#2f6b3a 0)','New','The Church Year','Advent to Pentecost: the history and meaning of every season, its colours, and its Sunday readings for Catholics and Lutherans.','8 seasons · Year B','Open the Church Year','/church-year/','<div class="cybox fx-cy" data-cy></div>'),
      card('st-mary','','','Advent starts Nov 29','Advent Meditations','A meditation for each of the four Sundays and every weekday from Nov 29 to Dec 24, with the day\'s readings.','27 meditations','Start Advent','/church-year/meditations/advent/'),
      card('pieta','','','','Saints','Lives, miracles, feast days and trivia, sourced and fact-checked, with legend clearly marked as legend.',f'{nsaints} saints','Meet the saints','/saints/'),
