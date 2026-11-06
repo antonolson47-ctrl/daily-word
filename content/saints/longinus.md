@@ -6,7 +6,7 @@ order: 21
 hero: saint-longinus.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:LonginusFyodorZubov.jpg">Saint Longinus (1680)</a>, Fyodor Zubov · public domain, via Wikimedia Commons
 facts: {"Lived": "1st century (the soldier); name later", "Feast day": "16 October (Roman Martyrology)", "Recognised": "Pre-Congregation; name and martyrdom are tradition", "Place": "Jerusalem / Rome"}
-last_verified: November 2, 2026
+last_verified: November 6, 2026
 ---
 ## His story
 John's Gospel is precise and unnamed. After Jesus had died, the soldiers came to break the legs of the men crucified with him. Finding him already dead, "one of the soldiers pierced his side with a spear, and at once there came out blood and water" (John 19:33–34). John says he saw it, and that he tells it so that the reader may believe. The soldier has no name.
@@ -20,6 +20,11 @@ The name **Longinus** comes later, from the apocryphal *Acts of Pilate* (the Gos
 </div>
 
 Under the dome of **St Peter's**, Bernini's marble Longinus (about 1639) stands as one of the four giant statues over the relics of the basilica, the lance held up in his hand. It is the image most pilgrims meet.
+
+<figure class=photo>
+<picture><source srcset="/static/art/bernini-longinus-stpeters-600.webp 600w,/static/art/bernini-longinus-stpeters.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/bernini-longinus-stpeters.jpg" alt="Bernini's white marble Saint Longinus in a niche of St Peter's Basilica, right arm raised with a long lance, left arm open, heavy drapery, and the Latin inscription about Longinus's lance carved above the arch." width="1280" height="1709" loading="lazy"></picture>
+<figcaption>Gian Lorenzo Bernini, <em>Saint Longinus</em>, marble, carved about 1629–1638 and in place under the dome of St Peter's Basilica, Vatican, by about 1639. One of the four colossal statues in the crossing; the lance is raised in his right hand. The inscription above the niche records the lance kept in the basilica. Photo: <a href="https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini,_san_longino_(1639)_01.JPG">Sailko</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation. The Roman Martyrology remembers him on **16 October**. He is not on the General Roman Calendar.
@@ -37,4 +42,4 @@ Soldiers, and people who come to faith late. Mantua long claimed his body and ke
 - [Wikipedia: Saint Longinus](https://en.wikipedia.org/wiki/Saint_Longinus) (with the ancient and medieval sources)
 - [Wikipedia: Holy Lance](https://en.wikipedia.org/wiki/Holy_Lance)
 
-<p class=src>Fact-checked on November 2, 2026 against the Gospel of John and the later tradition summarised in standard references. The name, conversion and relics are tradition, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against the Gospel of John and the later tradition summarised in standard references. The Bernini photograph was checked on November 6, 2026 against the statue in St Peter's. The name, conversion and relics are tradition, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
