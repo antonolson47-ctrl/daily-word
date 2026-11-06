@@ -15,11 +15,12 @@ At the feeding of the five thousand Jesus turns to Philip, who thinks in denarii
 
 He is not Philip the deacon, one of the seven in Acts 6, who preached in Samaria and baptized the Ethiopian official (Acts 8). That Philip has a house in Caesarea and four daughters who prophesy (Acts 21:8–9). Later readers mixed the two. Luke does not.
 
-<div class=legend markdown=1>
+Eusebius, writing in the fourth century, says the apostle Philip was buried at Hierapolis in Phrygia. The later Acts of Philip tell a long martyrdom: preaching, a struggle with a serpent-cult, and a death on a cross or bound to a pillar. Van Dyck's painting gives him a cross for that reason. The cross is the sign of that telling, not a portrait from life. Hierapolis, as the place of burial, is the older memory.
 
-**After the Gospels.** Eusebius, writing in the fourth century, says the apostle Philip was buried at Hierapolis in Phrygia. The apocryphal Acts of Philip, much later, add a long martyrdom: preaching, a fight with a serpent-cult, and a death on a cross or bound to a pillar. Van Dyck's painting gives him a cross for that reason. The cross is an attribute from the legend, not a portrait from life, and the Acts of Philip are not a history. Hierapolis as a tomb tradition is older and soberer than the romance around it.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/philip-hierapolis-600.webp 600w,/static/art/philip-hierapolis.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/philip-hierapolis.jpg" alt="Stone ruins of the martyrium of St Philip at Hierapolis, with a flight of steps and broken walls on a green hillside." width="1280" height="852" loading="lazy"></picture>
+<figcaption>The martyrium of St Philip at Hierapolis, the place Eusebius names for his burial, as it stood in 2011. Photo: <a href="https://commons.wikimedia.org/wiki/File:St._Philip_Martyrium_in_Hierapolis_4914.jpg">Dosseman</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## The two calendars
 For many centuries the West kept Philip and [James the Less](/saints/james-the-less/) on **1 May**, tied to the dedication of the basilica of the Holy Apostles in Rome, which claimed their relics. In 1955 Pius XII put [St Joseph the Worker](/saints/joseph/#worker) on 1 May and moved the apostles to 11 May. The Roman calendar of 1969 moved them again, to **3 May**, where Catholics keep them now. Lutheran calendars, and the Church of England, still keep Philip and James on **1 May**. The Daily Word's feast table follows that split: Lutheran on the first, Catholic Joseph the Worker on the first, and the apostles on the third in the current Roman book.
@@ -40,4 +41,4 @@ Hatters and pastry cooks have claimed him in places, on thin medieval puns. More
 - [Catholic Encyclopedia: St Philip the Apostle](https://www.newadvent.org/cathen/11799a.htm)
 - Eusebius, *Church History* 3.31 and 5.24, on Hierapolis
 
-<p class=src>Fact-checked on November 6, 2026 against the New Testament, Eusebius, and New Advent. The Acts of Philip are marked as legend. Calendar dates follow the current Roman calendar and the Lutheran 1 May.</p>
+<p class=src>Fact-checked on November 6, 2026 against the New Testament, Eusebius, and New Advent. The Acts of Philip are the later telling. The Hierapolis photograph was added November 6, 2026. Calendar dates follow the current Roman calendar and the Lutheran 1 May.</p>

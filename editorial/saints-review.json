@@ -343,88 +343,88 @@
       "note": "Light touch. The sickle, the shrine, and New Advent stay. Photo: the church at Eben am Achensee."
     },
     "onuphrius": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/onuphrius/",
       "title": "St Onuphrius",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Paphnutius, the icons, Palermo, and the Wikipedia link stay. No new picture; the Tzanes icon remains."
     },
     "perpetua-and-felicity": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/perpetua-and-felicity/",
       "title": "Sts Perpetua and Felicity",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The diary, Tertullian as a possible editor, the 1907 inscription, and New Advent stay. Photo: the amphitheatre at Carthage."
     },
     "philip-apostle": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/philip-apostle/",
       "title": "St Philip the Apostle",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. John's scenes, the two Philips, the calendars, and Eusebius stay. Photo: the martyrium at Hierapolis in 2011."
     },
     "philip-neri": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/philip-neri/",
       "title": "St Philip Neri",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Oratory, the jokes, Newman, and the Vatican and New Advent links stay. Photo: the Chiesa Nuova facade of 1605."
     },
     "polycarp": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/polycarp/",
       "title": "St Polycarp",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The eighty-six years, the Martyrdom, the dove in some copies, and the Vatican link stay. No new picture."
     },
     "rose-of-lima": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/rose-of-lima/",
       "title": "St Rose of Lima",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The garden, the pirates, the penances not as a pattern to copy, and New Advent stay. Photo: the church of St Rose in Lima."
     },
     "rumwold": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/rumwold/",
       "title": "St Rumwold",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Vita, Penda, the wells, and Love's edition stay. The Bonnington church remains the hero. No new picture."
     },
     "simeon-stylites": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/simeon-stylites/",
       "title": "St Simeon Stylites",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Theodoret, Qal'at Sim'an, the stylites, and New Advent stay. Photo: the worn pillar."
     },
     "sunniva": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/sunniva/",
       "title": "St Sunniva",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The acts, the sagas, Bergen 1170, Albanus, and the encyclopedia links stay. Photo: her cave at Selja."
     },
     "thomas-apostle": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/thomas-apostle/",
       "title": "St Thomas the Apostle",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. John, the Acts of Thomas, Ephrem, and the Vatican link stay. Photo: San Thome Basilica, captioned as the nineteenth-century church."
     },
     "thomas-becket": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/thomas-becket/",
       "title": "St Thomas Becket",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Grim, the uncertain words, Chaucer, and the Vatican link stay. Photo: the candle in Trinity Chapel."
     },
     "ursula": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 5,
       "url": "/saints/ursula/",
       "title": "St Ursula",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Clematius, the number, Caravaggio, Memling, and New Advent stay. Photo: the Golden Chamber of 1643."
     },
     "veronica": {
       "status": "deferred",
@@ -1034,24 +1034,24 @@
   },
   "counts": {
     "model": 1,
-    "enhanced": 47,
-    "deferred": 35,
+    "enhanced": 59,
+    "deferred": 23,
     "meets_goal": 74,
     "collection": 157
   },
   "next_batch_slugs": [
-    "onuphrius",
-    "perpetua-and-felicity",
-    "philip-apostle",
-    "philip-neri",
-    "polycarp",
-    "rose-of-lima",
-    "rumwold",
-    "simeon-stylites",
-    "sunniva",
-    "thomas-apostle",
-    "thomas-becket",
-    "ursula"
+    "veronica",
+    "wilgefortis",
+    "zita",
+    "agnes",
+    "blaise",
+    "brendan",
+    "brigid",
+    "catherine-of-siena",
+    "cecilia",
+    "columba",
+    "cuthbert",
+    "denis"
   ],
   "batch_2_slugs": [
     "anthony-the-abbot",
@@ -1094,5 +1094,19 @@
     "matthias",
     "moses-the-black",
     "notburga"
+  ],
+  "batch_5_slugs": [
+    "onuphrius",
+    "perpetua-and-felicity",
+    "philip-apostle",
+    "philip-neri",
+    "polycarp",
+    "rose-of-lima",
+    "rumwold",
+    "simeon-stylites",
+    "sunniva",
+    "thomas-apostle",
+    "thomas-becket",
+    "ursula"
   ]
 }

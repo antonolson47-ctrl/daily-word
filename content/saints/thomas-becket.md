@@ -17,9 +17,12 @@ Thomas Becket, son of a London merchant, became chancellor and close friend of *
 After six years of exile in France, Thomas returned in December 1170 and excommunicated bishops who had sided with the king. Henry, in Normandy, is said to have exclaimed in anger something like "Will no one rid me of this turbulent priest?" Four knights took him at his word. On **29 December 1170** they found Thomas in **Canterbury Cathedral** at Vespers and killed him with their swords near the altar. His last words: "For the name of Jesus and the protection of the Church, I am ready to embrace death."
 
 ### The pilgrimage
-Miracles were reported almost at once. He was canonised in 1173, and in 1174 Henry did public penance at his tomb, walking barefoot and being whipped by the monks. Canterbury became one of the great pilgrimage sites of Europe, the goal of Chaucer's *Canterbury Tales*. Henry VIII destroyed the shrine in 1538. (See our [Via Francigena](/pilgrimage/via-francigena/canterbury/) page.)
+Miracles were reported almost at once. He was canonised in 1173, and in 1174 Henry did public penance at his tomb, walking barefoot and being whipped by the monks. Canterbury became one of the great pilgrimage sites of Europe, the goal of Chaucer's *Canterbury Tales*. Henry VIII destroyed the shrine in 1538. (See our [Via Francigena](/pilgrimage/via-francigena/canterbury/) page.) Edward Grim, a monk wounded while trying to shield him, saw the killing and wrote it down. The afternoon in the cathedral is closely known. The king's exact words are not.
 
-<div class=history markdown=1>**History.** His murder was witnessed by Edward Grim, a monk who was wounded trying to protect him, and is very well documented. The king's exact words are uncertain.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/becket-trinity-600.webp 600w,/static/art/becket-trinity.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/becket-trinity.jpg" alt="Trinity Chapel in Canterbury Cathedral, a stone hall of columns and arches, with a single candle burning on the floor." width="1280" height="853" loading="lazy"></picture>
+<figcaption>Trinity Chapel in Canterbury Cathedral, looking west. The candle marks where his shrine stood until 1538. Photo: <a href="https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral_interior%2C_Trinity_chapel_(32625518638).jpg">Jules &amp; Jenny</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Canonised 21 February 1173 by Alexander III, just over two years after his death.
@@ -35,4 +38,4 @@ Clergy, Portsmouth, the secular clergy of England.
 - [Vatican News: St Thomas Becket](https://www.vaticannews.va/en/saints/12/29/st--thomas--becket--bishop-of--canterbury--martyr.html)
 - [Catholic Encyclopedia: St Thomas Becket](https://www.newadvent.org/cathen/14676a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Canterbury photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

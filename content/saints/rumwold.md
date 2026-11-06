@@ -9,17 +9,15 @@ facts: {"Lived": "662 (traditional), King's Sutton (England)", "Feast day": "3 N
 last_verified: October 19, 2026
 ---
 ## The story
-Rumwold is England's strangest local saint: in his medieval *Vita*, the newborn son of a (possibly historical) Mercian king and a Christian princess spoke at birth, asked for baptism, preached a little sermon on the Trinity and mortality, prophesied his death in three days — and died on schedule, asking burial first at King's Sutton, then Buckingham.
+Rumwold is a saint of three days. In his medieval *Vita*, the newborn son of a Mercian king, so the life says, and a Christian princess spoke at birth, asked for baptism, preached a little sermon on the Trinity and mortality, prophesied his death in three days — and died on the third day, asking burial first at King's Sutton, then Buckingham.
 
 ## The full story
 
 ### Three days, three places
-The 11th-century *Vita* makes him the grandson of King Penda of Mercia, a claim historians cannot check; behind it may lie a real royal infant death and a cult at Buckingham, Brackley and King's Sutton, where churches keep his dedication and a 'St Rumbold's Well'. Saints' wells and tiny stone coffins fed the cult for centuries.
+The 11th-century *Vita* makes him the grandson of King Penda of Mercia, a claim the life makes and that we cannot now check. A royal infant's death may sit behind the cult at Buckingham, Brackley and King's Sutton, where churches keep his dedication and a 'St Rumbold's Well'. Saints' wells and tiny stone coffins fed the devotion for centuries.
 
-### Why keep such a story?
-Because medieval Christians meant something by it: grace is not earned by length of days. A three-day saint preaching predestination-era theology is obviously literature — and Buckingham cherished him anyway, which tells us about them, if not about 662.
-
-<div class=legend markdown=1>**Legend.** Almost entirely. A royal child cult in 7th-century Mercia may have a historical kernel, but the speaking newborn is hagiographic fiction. Included — clearly labelled — as a window into early English devotion.</div>
+### Not measured by length of days
+The church that kept him meant something by the three days: grace is not earned by a long life. The sermon from the cradle is the 11th-century telling. The churches and the well are still there.
 
 ## Path to sainthood
 Pre-Congregation local cult in Buckinghamshire and Northamptonshire; never widely calendared.
@@ -35,4 +33,4 @@ Buckingham (local), infants (popular).
 - [Wikipedia: Rumwold (overview with scholarly references)](https://en.wikipedia.org/wiki/Rumwold)
 - *Vita S. Rumwoldi* (11th century), ed. R. C. Love, *Three Eleventh-Century Anglo-Latin Saints' Lives* (Oxford, 1996)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>

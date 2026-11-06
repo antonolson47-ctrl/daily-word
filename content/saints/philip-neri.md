@@ -17,9 +17,12 @@ Philip Neri was a Florentine who gave up a business career and came to Rome arou
 Ordained in 1551, he gathered young men for conversation, prayer, music and charity in a room (*oratorio*) at San Girolamo; the music sung there gave its name to the **oratorio** as a musical form. He founded the **Congregation of the Oratory** in 1575, centred at the **Chiesa Nuova**. He also began the walking pilgrimage to Rome's **Seven Churches**, a kind of joyful picnic-procession.
 
 ### Holy humour
-Philip used jokes to keep people (and himself) humble. He wore his clothes inside out, shaved half his beard, read joke books before cardinals, and made a proud young nobleman walk through Rome with a fox tail pinned to his back. To a gossip he gave a famous penance: to pluck a chicken in the street, then go back and gather every feather, which is impossible, like taking back gossip. "A joyful heart is more easily made perfect than a downcast one."
+Philip used jokes to keep people (and himself) humble. He wore his clothes inside out, shaved half his beard, read joke books before cardinals, and made a proud young nobleman walk through Rome with a fox tail pinned to his back. To a gossip he gave a famous penance: to pluck a chicken in the street, then go back and gather every feather, which is impossible, like taking back gossip. "A joyful heart is more easily made perfect than a downcast one." The canonisation process and the early biographies are full of him. Many of the jokes come from people who were there.
 
-<div class=history markdown=1>**History.** Philip's life is very well documented by his canonisation process and early biographies; many funny stories come from eyewitnesses.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/philip-neri-chiesa-600.webp 600w,/static/art/philip-neri-chiesa.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/philip-neri-chiesa.jpg" alt="The pale stone facade of Santa Maria in Vallicella, the Chiesa Nuova, in Rome, with a triangular pediment, a cross, and three green doors." width="1280" height="1697" loading="lazy"></picture>
+<figcaption>The Chiesa Nuova, Santa Maria in Vallicella, the Oratory's church in Rome. This facade dates from 1605, after his death. His rooms are still inside. Photo: <a href="https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Vallicella_Facade_a_Roma.jpg">Wolfgang Moroder</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Canonised 12 March 1622 by Gregory XV, together with Ignatius of Loyola, Francis Xavier, Teresa of Ávila and Isidore the Farmer.
@@ -35,4 +38,4 @@ Rome, joy, humorists.
 - [Vatican News: St Philip Neri](https://www.vaticannews.va/en/saints/05/26/st--philip-neri--priest--founder-of-the--congregation-of-the-ora.html)
 - [Catholic Encyclopedia: St Philip Romolo Neri](https://www.newadvent.org/cathen/12018b.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Rome photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
