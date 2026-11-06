@@ -2,11 +2,11 @@
 title: Saints
 subtitle: Lives, miracles, feast days and the long road to sainthood
 hero: pieta
-last_verified: November 2, 2026
+last_verified: November 6, 2026
 ---
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
-There are now 147 saints here, and more are added in batches. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
+There are now 157 entries here, and more are added in batches. The Holy Innocents are one feast, not a list of named children. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
 <!--list-->
 
 ## Saints by Place
@@ -109,6 +109,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Louis IX](/saints/louis-ix/) | Paris | Sainte-Chapelle, built for the Crown of Thorns; the Basilica of Saint-Denis |
 | [St Roch](/saints/roch/) | Montpellier | His traditional birthplace; the great cult and claimed relics are at San Rocco and the Scuola Grande di San Rocco, Venice |
 | [St John Vianney](/saints/john-vianney/) | Ars-sur-Formans | Basilica of Ars (his body); the presbytery and the old parish church |
+| [St Martin of Tours](/saints/martin-of-tours/) | Tours / Szombathely | Basilica of St Martin, Tours; Ligugé and Marmoutier; his birthplace at Szombathely, Hungary |
 
 ### Ireland & Britain
 
@@ -145,6 +146,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Ursula](/saints/ursula/) *(legend)* | Cologne (Germany) | Basilica of St Ursula and its Golden Chamber of relics |
 | [St Faustina](/saints/faustina/) | Kraków-Łagiewniki (Poland) | Shrine of Divine Mercy, Łagiewniki (her tomb and the convent) |
 | [St Edith Stein](/saints/edith-stein/) | Cologne / Auschwitz | The Carmel of Cologne; Auschwitz-Birkenau, where she was killed |
+| [St Matthias](/saints/matthias/) | Jerusalem / Trier | Chosen there (Acts 1); the abbey church of St Matthias, Trier, claims his relics |
 
 ### Middle East & Africa
 
@@ -166,6 +168,13 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Catherine of Alexandria](/saints/catherine-of-alexandria/) | Sinai (Egypt) | Monastery of St Catherine, at the foot of Mount Sinai |
 | [St John Chrysostom](/saints/john-chrysostom/) | Istanbul / Rome | Church of St George in the Phanar, Istanbul (relics returned in 2004); also St Peter's, Rome |
 | [St Charbel](/saints/charbel/) | Annaya (Lebanon) | Monastery of St Maron and the hermitage of Sts Peter and Paul, Annaya |
+| [St Basil the Great](/saints/basil-the-great/) | Caesarea (Kayseri, Turkey) | The city of his see; the monastic life he shaped is still kept across the East |
+| [St Gregory Nazianzen](/saints/gregory-nazianzen/) | Nazianzus / Istanbul | His own country in Cappadocia; the church of St George at the Phanar, where relics returned in 2004 are kept |
+| [St Philip the Apostle](/saints/philip-apostle/) | Bethsaida / Hierapolis | Bethsaida on the lake; Hierapolis in Phrygia, the old tomb tradition |
+| [St James the Less](/saints/james-the-less/) | Jerusalem | The Jerusalem church, if he is James the Lord's brother; not the Camino's James |
+| [St Barnabas](/saints/barnabas/) | Salamis (Cyprus) | The Monastery of St Barnabas near Salamis (check travel advice); Antioch, where he taught with Paul |
+| [Sts Joachim and Anne](/saints/joachim-and-anne/) *(tradition)* | Jerusalem | The Golden Gate, in the legend Giotto painted; Ste-Anne-d'Auray (a later devotion); Apt, which claims Anne's relics |
+| [The Holy Innocents](/saints/holy-innocents/) | Bethlehem | The Church of the Nativity. The Gospel names no child |
 
 ### Americas & Pacific
 
@@ -175,6 +184,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Rose of Lima](/saints/rose-of-lima/) | Lima (Peru) | Sanctuary of Santa Rosa (her house, garden and well), Lima; Basilica of Santo Domingo (her tomb) |
 | [St Damien of Molokai](/saints/damien/) | Kalaupapa, Molokai (Hawaii) | St Philomena Church and his grave, Kalaupapa National Historical Park; Cathedral Basilica of Our Lady of Peace, Honolulu; St Anthony's Church, Leuven (tomb) |
 | [St Óscar Romero](/saints/oscar-romero/) | San Salvador (El Salvador) | Metropolitan Cathedral crypt (his tomb); the chapel of the Hospital Divina Providencia, where he was shot |
+| [St Elizabeth Ann Seton](/saints/elizabeth-ann-seton/) | Emmitsburg, Maryland (USA) | National Shrine of St Elizabeth Ann Seton (her tomb); St Peter's, Barclay Street, New York, where she was received |
 
 
 <div class=warn markdown=1>Dates for ancient saints are often approximate, and those are marked "c." (circa). Where sources disagree we say so with ⚠.</div>

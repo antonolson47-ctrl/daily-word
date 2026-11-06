@@ -11,8 +11,11 @@ last_verified: October 15, 2026
 ## His story
 Everything we know about Joseph comes from the Gospels of Matthew and Luke. A descendant of David, he was betrothed to Mary; when she was found to be with child, he resolved to divorce her quietly until an angel told him in a dream to take her as his wife (Matthew 1:18–24). He led the family to Bethlehem, fled with them to Egypt to escape Herod, and settled in Nazareth. The Gospels call him a *tektōn*, a craftsman or builder, usually translated "carpenter". He never speaks a word in the Gospels, and he is last mentioned when the twelve-year-old Jesus is found in the Temple (Luke 2:41–51).
 
+<h2 id=worker>St Joseph the Worker</h2>
+On **1 May 1955** Pope Pius XII placed this title on the Roman calendar. It is the same Joseph, not a second saint. He had been a *tektōn*, a craftsman, and the pope set his patronage of workers on the day the labour movement kept as its own. To make room, the apostles [Philip](/saints/philip-apostle/) and [James the Less](/saints/james-the-less/) were moved off 1 May. Catholics now keep Joseph the Worker on 1 May and the apostles on 3 May. Lutheran calendars, and the Church of England, still keep Philip and James on 1 May. Joseph's older solemnity remains **19 March**.
+
 ## Path to sainthood
-Venerated from early times, though his liturgical cult grew mainly from the Middle Ages. **Pope Pius IX** declared him **Patron of the Universal Church** on 8 December 1870, and **Pope Pius XII** added the feast of St Joseph the Worker on 1 May (1955). No formal canonisation (pre-Congregation).
+Venerated from early times, though his liturgical cult grew mainly from the Middle Ages. **Pope Pius IX** declared him **Patron of the Universal Church** on 8 December 1870. No formal canonisation (pre-Congregation).
 
 ## Patronages
 The universal Church, fathers, workers, a happy death.
