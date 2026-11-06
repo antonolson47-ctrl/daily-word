@@ -15,11 +15,7 @@ Luke is the only Gospel that gives the two thieves a conversation. All four say 
 
 That is the whole canonical story. No name, no past, no town. The Church has always read it as the shortest path in the New Testament from a confession to a promise: a man who admits what he has done, and is answered before the day is over.
 
-<div class=legend markdown=1>
-
-**The name.** **Dismas** (or Dysmas) is not in Luke. It comes from the apocryphal Gospel of Nicodemus, which also names the other man **Gestas**. Painters put Dismas on Christ's right, often with a small cross of his own, and Gestas on the left, twisting away. Jacques Callot's print labels the sheet *S. Latro Dimas*, "St Dismas the thief", beside the three crosses. The names are legend. The dialogue is Luke's.
-
-</div>
+**Dismas** (or Dysmas) is not a name in Luke. It comes from the apocryphal Gospel of Nicodemus, which also names the other man **Gestas**. Painters put Dismas on Christ's right, often with a small cross of his own, and Gestas on the left, twisting away. Jacques Callot's print labels the sheet *S. Latro Dimas*, "St Dismas the thief", beside the three crosses. The words he spoke are Luke's.
 
 A traditional saying calls him the one saint canonised by Christ himself, because the words "today you will be with me" needed no later pope. It is a saying, not a decree. The Roman Martyrology enters him on **25 March**, the old traditional date of the Crucifixion, as the Good Thief.
 
@@ -39,4 +35,4 @@ Prisoners, repentant thieves, funeral directors, and people who come to faith at
 - [Vatican News: saints of 25 March (St Dismas)](https://www.vaticannews.va/en/saints/03/25.html)
 - [Wikipedia: Penitent thief](https://en.wikipedia.org/wiki/Penitent_thief)
 
-<p class=src>Fact-checked on November 2, 2026 against Luke and Vatican News. The name Dismas is later tradition, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against Luke and Vatican News. The name Dismas comes from later tradition. The words are Luke's. Feast days follow the General Roman Calendar unless noted.</p>

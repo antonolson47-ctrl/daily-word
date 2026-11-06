@@ -17,9 +17,7 @@ Beatriz, of Portuguese noble blood, went to Castile in the train of Isabella of 
 In the darkness, tradition says, the Virgin appeared to her in a white habit and sky-blue mantle and scapular, promising an order in her honour. Beatriz emerged unharmed, left court, and lived nearly forty years as a lay resident (not a nun) in the Dominican convent of Santo Domingo el Real in Toledo, face veiled, preparing in obscurity.
 
 ### Order of the Immaculate Conception
-In 1484, with Queen Isabella the Catholic's support, she founded the monastery of Santa Fe in Toledo; Pope Innocent VIII approved the Order of the Immaculate Conception (Conceptionists) in 1489, in that white-and-blue habit. She died in 1492, days after taking the habit herself as the first sisters professed.
-
-<div class=history markdown=1>**History vs legend.** Her Portuguese origin, Toledo foundation, 1489 papal approval and 1492 death are documented. The chest imprisonment and apparition come from early order tradition — plausible court danger retold as providence; the habit colours and foundation are fact.</div>
+In 1484, with Queen Isabella the Catholic's support, she founded the monastery of Santa Fe in Toledo; Pope Innocent VIII approved the Order of the Immaculate Conception (Conceptionists) in 1489, in that white-and-blue habit. She died in 1492, days after taking the habit herself as the first sisters professed. Her Portuguese birth, the house at Toledo, the approval of 1489, and her death are on the record. The chest and the Virgin's visit are the story her daughters have told from the beginning.
 
 ## Path to sainthood
 Beatified 1926 (Pius XI); canonised by Paul VI on 3 October 1976.
@@ -35,4 +33,4 @@ Conceptionist nuns; Toledo; prisoners (popular, from the chest story).
 - [Wikipedia: Beatrice of Silva (overview with scholarly references)](https://en.wikipedia.org/wiki/Beatrice_of_Silva)
 - Paul VI, canonisation of Beatriz da Silva, 3 October 1976 (*Acta Apostolicae Sedis* 68, 1976)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>
