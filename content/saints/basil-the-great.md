@@ -15,17 +15,7 @@ What he brought home was a rule for living together. At Annesi, on the river Iri
 
 In 370 he became bishop of Caesarea. The emperor Valens favoured the Arians, who denied that the Son is of one being with the Father. Basil spent the decade arguing, in letters, in *Against Eunomius*, and in *On the Holy Spirit*, that the Spirit too is to be worshipped and glorified with the Father and the Son. He was not a comfortable court bishop. Outside the city he built the Basiliad, a whole settlement of care: hospital, hospice, and workshops for the sick and the strangers. Gregory of Nazianzus, preaching after Basil's death, described it as a new city. Basil died on **1 January 379**, worn out, not yet fifty.
 
-<div class=history markdown=1>
-
-**History.** The letters, the rules, and the treatise on the Holy Spirit are his own books, and they are why he is called Great. The friendship with Gregory, the quarrel over the little see of Sasima, and the long fight with Valens are told by people who knew him. The Basiliad is not a later romance. It is what his city remembered him for.
-
-</div>
-
-<div class=legend markdown=1>
-
-**Tradition, told carefully.** The Liturgy of St Basil, still used in the East on some great feasts, bears his name. The prayers grew over centuries. Scholars do not treat every line as his dictation. Herrera's painting, above, shows the idea his admirers loved: the bishop speaking doctrine while a scribe writes. It is a seventeenth-century picture, not a portrait from life.
-
-</div>
+The letters, the rules, and the treatise on the Holy Spirit are his own books, and they are why he is called Great. The friendship with Gregory, the quarrel over the little see of Sasima, and the long fight with Valens are told by people who knew him. The Basiliad is what his city remembered him for. The Liturgy of St Basil, still used in the East on some great feasts, bears his name. The prayers grew over the centuries around his teaching. Herrera's painting, above, is how his admirers pictured him: the bishop speaking doctrine while a scribe writes.
 
 ## Path to sainthood
 Pre-Congregation. Honoured in East and West from his own century. He is a Doctor of the Church. The East keeps his feast on **1 January**, the day he died, and remembers him again on **30 January** with Gregory and [John Chrysostom](/saints/john-chrysostom/) as the Three Holy Hierarchs. The Roman calendar since 1969 remembers Basil and Gregory together on **2 January**. Older Western books kept Basil on 14 June.

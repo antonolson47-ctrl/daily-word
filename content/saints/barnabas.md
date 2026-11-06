@@ -17,17 +17,12 @@ Then the Holy Spirit said, "Separate me Barnabas and Saul for the work whereunto
 
 At the council in Jerusalem both men told what God had done among the Gentiles (Acts 15). Afterwards they planned another journey. Barnabas wanted to take John Mark, his cousin (Colossians 4:10), who had left them once. Paul refused. "The contention was so sharp between them, that they departed asunder" (Acts 15:39). Barnabas took Mark and sailed to Cyprus. Paul took Silas. Luke follows Paul. He does not say the friendship was finished. Paul still speaks of Barnabas as a fellow worker (1 Corinthians 9:6; Galatians 2:1, 9), and Mark is back with Paul in the later letters.
 
-<div class=history markdown=1>
+Luke calls him an apostle alongside Paul (Acts 14:14), though he was not one of the Twelve. The quarrel is told in full. The so-called Epistle of Barnabas is not his. It is a second-century treatise, probably from Alexandria, which borrows his famous name. A fifth-century story, long loved in Cyprus, says the bishop Anthemius of Salamis found Barnabas's body, with a copy of Matthew on his chest, and that the find helped the Church of Cyprus claim its independence. The Monastery of St Barnabas near Salamis still marks the tomb the island keeps for him. It stands in the north of Cyprus. Check current travel advice before planning a visit.
 
-**History, from Acts.** A Cypriot Levite, a bridge between Saul and the apostles, a leader at Antioch, a missionary, and a man who would not drop John Mark. Luke calls him an apostle alongside Paul (Acts 14:14), though he was not one of the Twelve. The quarrel is told without varnish. That is as historical as Acts gets.
-
-</div>
-
-<div class=legend markdown=1>
-
-**Later tradition.** The so-called Epistle of Barnabas is not his. It is a second-century treatise, probably from Alexandria, which uses his famous name. A fifth-century story says the bishop Anthemius of Salamis found Barnabas's body, with a copy of Matthew on his chest, and that the find helped the Church of Cyprus claim its independence. It is a foundation legend of that church, not a report from Barnabas's lifetime. The Monastery of St Barnabas near Salamis still marks the traditional tomb. It stands in the north of Cyprus. Check current travel advice before planning a visit.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/barnabas-monastery-600.webp 600w,/static/art/barnabas-monastery.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/barnabas-monastery.jpg" alt="The stone church of the Monastery of St Barnabas near Salamis, with a dome, a round window, and a separate bell tower topped by a cross, in a garden." width="1280" height="857" loading="lazy"></picture>
+<figcaption>The Monastery of St Barnabas near Salamis. Later buildings stand on the place Cyprus has long kept as his tomb. Photo: <a href="https://commons.wikimedia.org/wiki/File:St._Barnabas_Monastery,_Occupied_Cyprus_(5785273361).jpg">George M. Groutas</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation, from the apostolic age. Feast **11 June**.
@@ -45,4 +40,4 @@ Cyprus, and people who make peace between a newcomer and a suspicious community.
 - [Catholic Encyclopedia: St Barnabas](https://www.newadvent.org/cathen/02300a.htm)
 - [Vatican News: St Barnabas](https://www.vaticannews.va/en/saints/06/11/st-barnabas--apostle.html)
 
-<p class=src>Fact-checked on November 6, 2026 against Acts and the letters, New Advent, and Vatican News. The Epistle of Barnabas and the Salamis discovery are marked as later.</p>
+<p class=src>Fact-checked on November 6, 2026 against Acts and the letters, New Advent, and Vatican News. The monastery photograph was added in the same revision.</p>

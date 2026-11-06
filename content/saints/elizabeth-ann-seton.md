@@ -15,16 +15,15 @@ The business failed. William sickened with tuberculosis. In 1803 the family sail
 
 Bishop John Carroll invited her to Baltimore. In 1809 she moved to Emmitsburg, in the valley she called St Joseph's, and began the Sisters of Charity of St Joseph's. The rule was adapted from St Vincent de Paul, with Elizabeth's own American circumstances written into it: a widow with children still in the house, a school that took poor girls for nothing and others for a fee, and a community that was not yet tied to the French Daughters of Charity. That tie came later, in 1850, for part of the family of communities. She is the foundress. She is not the author of every later constitution.
 
-She is widely honoured as a founder of the Catholic parish-school tradition in the United States. Small Catholic schools had existed earlier, especially in Maryland. What began at Emmitsburg was a community whose work was the school, the sick, and the poor, and that pattern spread. She died of tuberculosis at Emmitsburg on **4 January 1821**. She was forty-six. A lithograph deposited at the Library of Congress in 1835 already calls her Mother Seton and quotes Proverbs: her children rose up and called her blessed.
+She is widely honoured as a founder of the Catholic parish-school tradition in the United States. Small Catholic schools had existed earlier, especially in Maryland. What began at Emmitsburg was a community whose work was the school, the sick, and the poor, and that pattern spread. She died of tuberculosis at Emmitsburg on **4 January 1821**. She was forty-six. A lithograph deposited at the Library of Congress in 1835 already calls her Mother Seton and quotes Proverbs: her children rose up and called her blessed. The Filicchi letters and the community's early records carry the dates of her birth, marriage, reception, foundation, and death.
 
-<div class=history markdown=1>
-
-**History.** The dates of birth, marriage, reception, foundation, and death are documented. The Filicchi correspondence and the community's early records are the reason we can tell the story without romance. Paul VI canonised her on **14 September 1975**. She was the first person born in the territory of the United States to be canonised. She is not the only one.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/seton-shrine-600.webp 600w,/static/art/seton-shrine.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/seton-shrine.jpg" alt="The brick basilica of the National Shrine of Saint Elizabeth Ann Seton at Emmitsburg, with a round dome, a statue on the lawn, and a sign reading Seton Shrine and Visitor Center." width="1280" height="884" loading="lazy"></picture>
+<figcaption>The basilica of the National Shrine of Saint Elizabeth Ann Seton at Emmitsburg, where her tomb is. The building is the shrine's, raised long after she died. Photo: <a href="https://commons.wikimedia.org/wiki/File:Seton_shrine_and_basilica_Emmitsburg_MD1.jpg">Acroterion</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
-The cause moved through the modern process. Beatified by John XXIII in 1963. Canonised by Paul VI in 1975, during the Holy Year. Her feast on **4 January** is on the calendar of the United States. It is not a universal memorial in every country. Her tomb is at the National Shrine of Saint Elizabeth Ann Seton in Emmitsburg, Maryland.
+The cause moved through the modern process. Beatified by John XXIII in 1963. Canonised by Paul VI on **14 September 1975**, during the Holy Year. She was the first person born in the territory of the United States to be canonised. Her feast on **4 January** is on the calendar of the United States. It is not a universal memorial in every country. Her tomb is at the National Shrine of Saint Elizabeth Ann Seton in Emmitsburg, Maryland.
 
 ## Patronages
 Catholic schools, widows, people whose faith has cost them a social world, and the diocese of her shrine. Seafarers have claimed her too, because of the crossing to Italy and the losses of that voyage.
