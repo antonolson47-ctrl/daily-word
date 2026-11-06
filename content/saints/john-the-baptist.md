@@ -11,11 +11,7 @@ country: Israel / Jordan
 last_verified: October 22, 2026
 ---
 ## His story
-<div class=history>
-
 John was the son of the priest **Zechariah** and **Elizabeth**, Mary's kinswoman, born when they were old (Luke 1). He lived in the Judean desert, dressed in camel hair and ate locusts and wild honey, and preached a baptism of repentance at the **Jordan**, quoting Isaiah 40: "Prepare ye the way of the Lord." He baptised Jesus and pointed him out: "Behold the Lamb of God" (John 1:29). He rebuked Herod Antipas for marrying his brother's wife Herodias, was imprisoned and beheaded at the request of her daughter (Mark 6:17-29).
-
-</div>
 
 The Jewish historian **Josephus** (*Antiquities* 18.5.2) independently records John as "a good man" executed by Herod at the fortress of **Machaerus**, east of the Dead Sea.
 
@@ -28,6 +24,11 @@ Baptism, Jordan and Puerto Rico (San Juan), Florence, Québec (Saint-Jean-Baptis
 ## Where to visit
 Bethany beyond the Jordan (Al-Maghtas, Jordan) and Qasr al-Yahud (West Bank), the baptism site; Ein Kerem, his birthplace; Machaerus; the Baptistery of Florence.
 
+<figure class=photo>
+<picture><source srcset="/static/art/john-qasr-600.webp 600w,/static/art/john-qasr.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/john-qasr.jpg" alt="The Jordan at Qasr al-Yahud, a muddy river with wooden steps and metal rails leading into the water, reeds on the banks, and a line of buoys across the stream." width="1200" height="1600" loading="lazy"></picture>
+<figcaption>Qasr al-Yahud, on the Jordan, one of the places pilgrims keep as John's baptism of Jesus. The line of buoys marks the other bank. Photo: <a href="https://commons.wikimedia.org/wiki/File:Qasr_Al-Yehud_Baptism_Site_-_Israel-Jordan_border.jpg">Danielrosehill</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
 ## Trivia
 - The names of the musical notes *ut, re, mi, fa, sol, la* come from a hymn to St John, *Ut queant laxis*, used by Guido of Arezzo around 1025.
 - Midsummer bonfires in Europe are "St John's fires".
@@ -36,4 +37,4 @@ Bethany beyond the Jordan (Al-Maghtas, Jordan) and Qasr al-Yahud (West Bank), th
 - [Catholic Encyclopedia: St John the Baptist](https://www.newadvent.org/cathen/08486b.htm)
 - Luke 1, 3; Mark 1, 6; John 1, 3; Josephus, *Antiquities of the Jews* 18.5.2
 
-<p class=src>Fact-checked on October 22, 2026 against Scripture, New Advent (Catholic Encyclopedia) and Josephus.</p>
+<p class=src>Fact-checked on October 22, 2026 against Scripture, New Advent (Catholic Encyclopedia) and Josephus. The Jordan photograph was added November 6, 2026.</p>

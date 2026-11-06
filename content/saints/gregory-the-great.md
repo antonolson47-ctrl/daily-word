@@ -17,11 +17,12 @@ As pope he fed the city from the farms of the Church, ransomed captives from the
 
 He also wrote the *Dialogues*, including the Life of **St Benedict** that is still the main early source for Benedict and for [Scholastica](/saints/scholastica/). He died on **12 March 604** and was buried in St Peter's.
 
-<div class=legend markdown=1>
+During the plague of 590 he ordered processions through the city. A telling famous by the thirteenth century says that as the procession passed the mausoleum of Hadrian, Michael the Archangel appeared on its summit and sheathed a bloody sword, and the plague stopped. The building has been **Castel Sant'Angelo**, the castle of the angel, ever since. The procession is Gregory's. The angel is the story the castle has kept. Painters also set a dove at his ear. **Gregorian chant** is named after him, and he did care how the Roman liturgy was sung. The repertoire that bears his name grew over later centuries.
 
-**The angel and the chant.** During the plague of 590 he ordered processions through the city. A later legend, famous by the thirteenth century, said that as the procession passed the mausoleum of Hadrian, Michael the Archangel appeared on its summit and sheathed a bloody sword, and the plague stopped. The building has been **Castel Sant'Angelo**, the castle of the angel, ever since. The procession is Gregory's. The angel is legend. So is the picture of a dove at his ear dictating the Church's chant. **Gregorian chant** is named after him, and he did care how the Roman liturgy was sung, but the repertoire that bears his name took shape over later centuries.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/gregory-castel-600.webp 600w,/static/art/gregory-castel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gregory-castel.jpg" alt="Castel Sant'Angelo in Rome, a round brick fortress on the Tiber with a bronze angel on the summit and a stone bridge in front." width="1280" height="720" loading="lazy"></picture>
+<figcaption>Castel Sant'Angelo, Hadrian's mausoleum, with the angel on its summit. The statue is later than Gregory. The name is the story of his procession. Photo: <a href="https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo,_Rome_-_panoramio.jpg">Colin W</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation. One of the four great Latin Doctors, with Ambrose, Augustine and Jerome. His memorial is **3 September**, the day of his election, because 12 March, the day he died, falls in Lent.
@@ -40,4 +41,4 @@ Musicians, singers, teachers, students, and the missions, especially the English
 - [Vatican News: St Gregory the Great](https://www.vaticannews.va/en/saints/09/03/st--gregory-the-great--pope-and-doctor-of-the-church.html)
 - [Catholic Encyclopedia: St Gregory the Great](https://www.newadvent.org/cathen/06780a.htm)
 
-<p class=src>Fact-checked on November 2, 2026 against Benedict XVI's audiences, Vatican News and New Advent (Catholic Encyclopedia). The angel over Hadrian's tomb and the dove of the chant are legend, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against Benedict XVI's audiences, Vatican News and New Advent (Catholic Encyclopedia). The Castel Sant'Angelo photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

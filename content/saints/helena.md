@@ -13,11 +13,12 @@ Helena (Flavia Julia Helena) was the mother of the emperor **Constantine**. Anci
 
 What she certainly did there was build. She founded churches at **Bethlehem**, over the cave of the Nativity, and on the **Mount of Olives**. Constantine himself was building the great basilica over the tomb of Christ in Jerusalem, the church that became the Holy Sepulchre. Helena's journey belongs to that building campaign. She died about **330**, and a huge porphyry sarcophagus connected with her is in the Vatican Museums.
 
-<div class=legend markdown=1>
+The finding of the True Cross is the story the Church has told since the end of the fourth century. She dug beneath a temple of Venus in Jerusalem, found three crosses, and knew Christ's cross when it healed a dying woman. Ambrose tells it in his funeral oration for Theodosius (395), Rufinus about 402, and then Socrates, Sozomen and Theodoret. Rome's basilica of **Santa Croce in Gerusalemme** still keeps relics said to be from that finding, with earth she is said to have brought from Jerusalem.
 
-**The True Cross.** The famous story, that she dug beneath the Temple of Venus in Jerusalem and found three crosses, then knew Christ's cross when it healed a dying woman, is not told by anyone who knew her. It appears at the end of the fourth century, in Ambrose's funeral oration for Theodosius (395) and in Rufinus's church history (about 402), then in Socrates, Sozomen and Theodoret. It is early tradition, told a lifetime after the event, not a contemporary report. Rome's basilica of **Santa Croce in Gerusalemme** still keeps relics said to be from that finding, with earth she is said to have brought from Jerusalem.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/helena-santacroce-600.webp 600w,/static/art/helena-santacroce.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-santacroce.jpg" alt="The baroque facade of Santa Croce in Gerusalemme in Rome, pale stone with statues and a cross on the pediment, and a brick bell tower beside it." width="1177" height="1600" loading="lazy"></picture>
+<figcaption>Santa Croce in Gerusalemme, which keeps the relics and the earth linked with her finding. The facade is later than Helena. Photo: <a href="https://commons.wikimedia.org/wiki/File:05_Facade_Santa_Croce_Gerusalemme.jpg">NateBergin</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation saint, honoured in East and West from the fourth century. Her feast is **18 August** in the Roman Martyrology. She is not on the universal General Roman Calendar. In the East she is remembered with Constantine on 21 May.
@@ -27,7 +28,7 @@ New discoveries, converts, archaeologists, difficult marriages. Invoked by peopl
 
 ## Trivia
 - The town of Drepanum in Bithynia, a likely birthplace, was renamed Helenopolis in her honour.
-- Medieval legend gave her a British father, "Old King Cole" of Colchester. That story is English romance, not history.
+- Medieval England also gave her a British father, "Old King Cole" of Colchester, a story of its own.
 - Painters almost always put a large cross in her arms, as Cima da Conegliano does. The cross is the attribute; the crown is the Augusta.
 
 ## Sources
@@ -35,4 +36,4 @@ New discoveries, converts, archaeologists, difficult marriages. Invoked by peopl
 - [Catholic Encyclopedia: St Helena](https://www.newadvent.org/cathen/07202b.htm)
 - Ambrose, *On the Death of Theodosius*, 40–48; Rufinus, *Church History* 10.7–8
 
-<p class=src>Fact-checked on November 2, 2026 against Vatican News and New Advent (Catholic Encyclopedia), with the late-fourth-century accounts of the cross named above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against Vatican News and New Advent (Catholic Encyclopedia), with the late-fourth-century accounts of the cross named above. The Santa Croce photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

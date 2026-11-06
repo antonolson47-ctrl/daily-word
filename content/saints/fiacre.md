@@ -14,12 +14,10 @@ Fiacre left Ireland in the great age of Irish monastic exile and settled near Br
 ## The full story
 
 ### A garden in a day
-Legend says Faro offered as much land as Fiacre could turn in a day; the saint walked dragging his spade (or staff) and a furrow — and cleared plot — opened behind him. A suspicious woman accused him of witchcraft; Fiacre, in the misogynist moral of the tale, thereafter barred women from the enclosure, a custom long kept at his chapel.
+The story says Faro offered as much land as Fiacre could turn in a day; the saint walked dragging his spade (or staff) and a furrow — and cleared plot — opened behind him. A suspicious woman accused him of witchcraft, and thereafter women were barred from the enclosure, a custom long kept at his chapel. The furrow and that closed gate are the story Meaux kept. The word *fiacre*, for a Paris cab, is on the record from the 1640s.
 
 ### From hermit to cabbies
 His Paris shrine stood by the Hôtel de Saint-Fiacre, where in the 1640s horse-drawn hire carriages first rented out — so Parisian cabs became *fiacres*, and the hermit became patron of taxi drivers. Gardeners had claimed him centuries earlier for the spade and the hospice garden.
-
-<div class=legend markdown=1>**Legend.** An Irish hermit at Breuil with an early cult is plausible history; the miraculous furrow and the ban on women are medieval storytelling. The taxi connection is documented Parisian history of the 17th century.</div>
 
 ## Path to sainthood
 Pre-Congregation local cult in France and Ireland; relics long venerated at Meaux Cathedral (destroyed in the Revolution).
@@ -31,7 +29,12 @@ Gardeners, taxi drivers, haemorrhoid sufferers (blunt popular patronage from the
 - The French word *fiacre* for a cab preserves a saint's name in transport history — like 'hansom' preserving a person, but holier.
 - His spade makes him one of the easiest saints to spot in church windows.
 
+<figure class=photo>
+<picture><source srcset="/static/art/fiacre-faouet-600.webp 600w,/static/art/fiacre-faouet.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/fiacre-faouet.jpg" alt="The grey stone west front of the Chapelle Saint-Fiacre at Le Faouët, with a tall openwork spire and two flanking pinnacles under a blue sky." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The chapel of Saint-Fiacre at Le Faouët, in Brittany, whose windows tell his story. His hermitage was near Meaux. Photo: <a href="https://commons.wikimedia.org/wiki/File:Le_Faou%C3%ABt_chapelle_Saint_Fiacre_ouest.jpg">Cadouf</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
 ## Sources
 - [Catholic Encyclopedia: St Fiacre, New Advent](https://www.newadvent.org/cathen/06067a.htm)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. The Le Faouët photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
