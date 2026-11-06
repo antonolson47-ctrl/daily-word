@@ -17,9 +17,7 @@ Giuseppe Desa was born in a shed in **Copertino**, near Lecce, in 1603, because 
 From the 1630s Joseph fell into ecstasies at the names of Jesus and Mary, at church music, or at the sight of a picture of the Virgin. Witnesses, including friars, cardinals, a Spanish ambassador and the Lutheran Duke of Brunswick (who became a Catholic afterwards), testified that he rose into the air and floated to the altar or into the branches of a tree. More than seventy such episodes are recorded in the process for his canonisation. Pope Urban VIII is said to have seen one himself.
 
 ### Hidden away
-The crowds became a problem. The Inquisition examined him at Naples in 1638 and found nothing wrong, but he was moved from friary to friary and finally kept almost in seclusion at **Osimo**, where he died on 18 September 1663. His body lies in the Basilica of San Giuseppe da Copertino in Osimo.
-
-<div class=warn markdown=1>**History or legend?** The flights are among the best documented "miracles" of the 17th century, in sworn testimony gathered within a few years of his death; the Church examined them in his cause. Historians differ on how to explain them. What is certain is the number and rank of the witnesses.</div>
+The crowds became a problem. The Inquisition examined him at Naples in 1638 and found nothing wrong, but he was moved from friary to friary and finally kept almost in seclusion at **Osimo**, where he died on 18 September 1663. His body lies in the Basilica of San Giuseppe da Copertino in Osimo. The flights are in sworn testimony gathered within a few years of his death, and the Church examined them in his cause. Historians still differ on how to explain what those witnesses described. The number and the rank of the witnesses are not in doubt.
 
 ## Path to sainthood
 Beatified 1753 by Benedict XIV (who as Prosper Lambertini had been the sceptical "devil's advocate" in his cause), canonised 1767 by Clement XIII.
@@ -34,4 +32,4 @@ Students and examinations, air travellers and pilots, astronauts.
 ## Sources
 - [Catholic Encyclopedia: St Joseph of Cupertino](https://www.newadvent.org/cathen/08520b.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>

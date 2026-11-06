@@ -17,9 +17,12 @@ Olav Haraldsson was a Viking raider in England, France and the Baltic who was ba
 A year later, in 1031, his body was dug up and found incorrupt, with hair and nails grown. Bishop Grimkell declared him a saint. Miracles were reported at his grave in **Nidaros** (Trondheim), where **Nidaros Cathedral** was built over it, and pilgrims came from all over the North along the routes now revived as St Olav's Ways (see our [St Olav's Way](/pilgrimage/st-olav/) pages).
 
 ### Legends
-Norwegian folklore is full of Olav: he is said to have fought trolls, made springs gush where he struck the ground, and carved paths through mountains. He is shown with an axe, the weapon of his death, standing on a dragon or troll.
+Norwegian folklore is full of Olav: he is said to have fought trolls, made springs gush where he struck the ground, and carved paths through mountains. He is shown with an axe, the weapon of his death, standing on a dragon or troll. His reign, his laws, and his death are known from skaldic poems and from Snorri Sturluson's sagas. The trolls are the folklore of the North.
 
-<div class=warn markdown=1>**History and legend.** His reign, conversion policy and death are historical, known from skaldic poems and Snorri Sturluson's sagas. The troll stories are folklore.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/olav-nidaros-600.webp 600w,/static/art/olav-nidaros.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/olav-nidaros.jpg" alt="The grey west front of Nidaros Cathedral in Trondheim, covered with statues, a rose window, and two towers." width="1280" height="853" loading="lazy"></picture>
+<figcaption>Nidaros Cathedral in Trondheim, built over his grave. The west front is the medieval church and the work of later centuries. Photo: <a href="https://commons.wikimedia.org/wiki/File:Catedral_de_Nidaros%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_126.jpg">Diego Delso</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Declared a saint by local bishop in 1031; venerated across Christendom; still honoured by the Lutheran Church of Norway.
@@ -34,4 +37,4 @@ Norway, the Faroe Islands, carvers.
 ## Sources
 - [Catholic Encyclopedia: St Olaf Haraldson](https://www.newadvent.org/cathen/11234a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Trondheim photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

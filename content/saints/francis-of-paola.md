@@ -17,9 +17,12 @@ Francis was born in **Paola**, Calabria, and named after St Francis of Assisi, t
 The best-known story says that in 1464 Francis wanted to cross to Sicily, but a boatman refused to take him because he could not pay. Francis spread his cloak on the water, tied one end to his staff as a sail, and sailed across the **Strait of Messina** with two companions. The scene is painted in many southern Italian churches, and Pius XII named him patron of Italian seafarers.
 
 ### The king's hermit
-His fame as a healer reached **Louis XI of France**, who was dying and begged the Pope to send him. Francis went reluctantly in 1483, did not cure the king but helped him die well, and stayed in France as adviser to Charles VIII and Louis XII. He died at **Plessis-lès-Tours** on Good Friday 1507, aged 91.
+His fame as a healer reached **Louis XI of France**, who was dying and begged the Pope to send him. Francis went reluctantly in 1483, did not cure the king but helped him die well, and stayed in France as adviser to Charles VIII and Louis XII. He died at **Plessis-lès-Tours** on Good Friday 1507, aged 91. His life, the Minims, and the years in France are in the canonisation process begun in 1512. The cloak on the water is the crossing the churches of the south still paint.
 
-<div class=warn markdown=1>**History and legend.** His life, his order and his time in France are historical, well documented in his canonisation process (begun 1512). The cloak crossing is legend and miracle tradition.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/francis-paola-600.webp 600w,/static/art/francis-paola.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/francis-paola.jpg" alt="The sanctuary of St Francis of Paola at dusk, a long convent and a lit church front against dark hills." width="1280" height="854" loading="lazy"></picture>
+<figcaption>The sanctuary of St Francis at Paola, the great pilgrimage of Calabria. Photo: <a href="https://commons.wikimedia.org/wiki/File:Santuario_di_San_Francesco_da_Paola_%283%29.jpg">Vittorio Martire</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Canonised 1519 by Leo X, only 12 years after his death.
@@ -35,4 +38,4 @@ Seafarers and navy, Calabria, boatmen.
 - [Vatican News: St Francis of Paola](https://www.vaticannews.va/en/saints/04/02/st---francis-of-paola---hermit--founder-of-the-order-of-minims.html)
 - [Catholic Encyclopedia: St Francis of Paula](https://www.newadvent.org/cathen/06231a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Paola photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
