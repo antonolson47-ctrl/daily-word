@@ -11,13 +11,9 @@ country: Israel
 last_verified: October 22, 2026
 ---
 ## Her story
-<div class=history>
-
 Mary of Nazareth was a young Jewish woman betrothed to Joseph, a carpenter of David's line, when the angel Gabriel announced that she would conceive a son by the Holy Spirit (Luke 1:26-38). Her answer, "be it unto me according to thy word", is remembered in every Angelus. She visited her cousin Elizabeth and sang the **Magnificat**, gave birth in Bethlehem, presented Jesus in the Temple, searched for him when he was twelve, prompted his first sign at **Cana** ("Whatsoever he saith unto you, do it", John 2:5), stood at the **Cross**, and prayed with the apostles before Pentecost (Acts 1:14).
 
-</div>
-
-**Tradition:** The 2nd-century *Protoevangelium of James* names her parents [Joachim and Anne](/saints/joachim-and-anne/). Ancient tradition places her last years either in Jerusalem or at **Ephesus** with St John, to whom Jesus entrusted her from the Cross.
+The 2nd-century *Protoevangelium of James* names her parents [Joachim and Anne](/saints/joachim-and-anne/). Ancient tradition places her last years either in Jerusalem or at **Ephesus** with St John, to whom Jesus entrusted her from the Cross.
 
 ## What the Church teaches
 - **Mother of God (*Theotokos*)**, defined at the Council of Ephesus (431): because Jesus is one divine Person, his mother is truly the Mother of God. Luther kept this title and preached on the Magnificat (1521).
@@ -33,6 +29,11 @@ Lutherans honour Mary as the mother of the Lord and the model of faith, keeping 
 ## Where to visit
 Basilica of the Annunciation, Nazareth; Church of the Visitation, Ein Kerem; House of the Virgin Mary near Ephesus; Santa Maria Maggiore, Rome; and the [Marian shrines](/pilgrimage/marian-shrines/) of Lourdes, Fátima and Guadalupe.
 
+<figure class=photo>
+<picture><source srcset="/static/art/mary-nazareth-600.webp 600w,/static/art/mary-nazareth.webp 1024w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/mary-nazareth.jpg" alt="A detail of the pale stone facade of the Basilica of the Annunciation in Nazareth, with a relief of the angel Gabriel and the Latin words ending in DOMINI." width="1024" height="768" loading="lazy"></picture>
+<figcaption>A detail of the Basilica of the Annunciation in Nazareth, the modern church over the traditional house of Mary. Photo: <a href="https://commons.wikimedia.org/wiki/File:Basilica_of_the_Annunciation_Exterior_-_panoramio.jpg">ekeidar</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
 ## Trivia
 - The *Hail Mary* joins Gabriel's greeting and Elizabeth's words (Luke 1:28, 42); the second half was fixed in the 16th century.
 - Mary speaks only seven times in the Gospels.
@@ -44,4 +45,4 @@ Basilica of the Annunciation, Nazareth; Church of the Visitation, Ein Kerem; Hou
 - [Catechism of the Catholic Church §§484–511, 963–975](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
 - Luke 1–2; John 2, 19; Acts 1:14
 
-<p class=src>Fact-checked on October 22, 2026 against the Catechism, New Advent (Catholic Encyclopedia) and Scripture. Where a story is tradition rather than Scripture, the text says so.</p>
+<p class=src>Fact-checked on October 22, 2026 against the Catechism, New Advent (Catholic Encyclopedia) and Scripture. The Nazareth photograph was added November 6, 2026.</p>

@@ -17,9 +17,12 @@ Margaret ran away at seventeen with a young nobleman of Montepulciano, lived nin
 The Franciscans took her in; after a probation she became a Franciscan tertiary, founded a hospital (Santa Maria della Misericordia) and a congregation of sisters, nursed the sick, and intervened to make peace in a violent commune. Her confessor Fra Giunta's *Legenda* records locutions in which Christ calls her 'my daughter' and spars with her like a second Magdalene — frank, intimate, sometimes scolding dialogues.
 
 ### Body in Cortona
-She died in 1297; Cortona petitioned for her canonisation almost at once, though it waited until 1728. Her body rests in the basilica named for her above the town; her son became a Franciscan friar.
+She died in 1297; Cortona petitioned for her canonisation almost at once, though it waited until 1728. Her body rests in the basilica named for her above the town; her son became a Franciscan friar. Fra Giunta's *Legenda*, written near her lifetime, and the town's records, carry the conversion, the hospital, and the cult. The dog that found the body is the early telling. The dialogues with Christ are the devotion Fra Giunta wrote down.
 
-<div class=history markdown=1>**History vs legend.** Fra Giunta's near-contemporary *Legenda* and Cortona's civic records ground the conversion, hospital and cult. The dog discovering the corpse is early tradition; the dialogues are mystical literature, to be read as devotion, not transcript.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/margaret-cortona-600.webp 600w,/static/art/margaret-cortona.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/margaret-cortona.jpg" alt="The stone facade of the Basilica of Santa Margherita in Cortona, with a rose window, three doorways, and a cross on the gable." width="1280" height="918" loading="lazy"></picture>
+<figcaption>The basilica of Santa Margherita above Cortona, where her body rests. Photo: <a href="https://commons.wikimedia.org/wiki/File:Cortona,_basilica_di_santa_margherita,_esterno_01.jpg">Sailko</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Cult confirmed over centuries; canonised by Benedict XIII in 1728.
@@ -34,4 +37,4 @@ Penitents, single mothers, the falsely accused, Cortona.
 ## Sources
 - [Catholic Encyclopedia: St Margaret of Cortona, New Advent](https://www.newadvent.org/cathen/09653b.htm)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. The Cortona photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
