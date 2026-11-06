@@ -17,9 +17,12 @@ Denis (Dionysius) was sent from Rome to Gaul around 250 and became the first **b
 The famous legend, written in the 9th century by Abbot Hilduin, says Denis was beheaded on **Montmartre** ("mount of the martyr"), then picked up his head and walked about **6 km** north, preaching a sermon all the way, to the place where he wished to be buried. A **cephalophore** ("head-carrier"), he is shown holding his own head; a statue on the portal of Notre-Dame de Paris shows him so.
 
 ### Saint-Denis
-The **Basilica of Saint-Denis** was built over his tomb. It became the burial place of the kings of France and, under Abbot **Suger** in the 1140s, the birthplace of **Gothic** architecture. "Montjoie Saint-Denis!" was the French royal battle cry.
+The **Basilica of Saint-Denis** was built over his tomb. It became the burial place of the kings of France and, under Abbot **Suger** in the 1140s, the birthplace of **Gothic** architecture. "Montjoie Saint-Denis!" was the French royal battle cry. Gregory of Tours records the martyrdom of the bishop. The walk with the head is Hilduin's ninth-century telling. Hilduin also joined this Denis to **Dionysius the Areopagite**, converted by St Paul in Athens (Acts 17:34), and to the fifth-century writer called Pseudo-Dionysius. Those are three men.
 
-<div class=warn markdown=1>**History and legend.** The martyrdom of a Bishop Denis of Paris in the 3rd century is historical. The walk with his head is legend. Hilduin also confused him with **Dionysius the Areopagite**, converted by St Paul in Athens (Acts 17:34), and with the 5th-century mystical writer "Pseudo-Dionysius"; these are three different men.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/denis-paris-600.webp 600w,/static/art/denis-paris.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/denis-paris.jpg" alt="The upper facade of the Basilica of Saint-Denis, with rose windows, pointed arches, and stone pinnacles." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The Basilica of Saint-Denis, built over his tomb and later the burial church of the kings of France. This Gothic building begins in the twelfth century. Photo: <a href="https://commons.wikimedia.org/wiki/File:Basilica_di_saint_Denis_esterno_04.JPG">Sailko</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation saint.
@@ -34,4 +37,4 @@ Paris, France; invoked against headaches.
 ## Sources
 - [Catholic Encyclopedia: St Denis](https://www.newadvent.org/cathen/04721a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Saint-Denis photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

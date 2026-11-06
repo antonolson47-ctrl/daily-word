@@ -17,9 +17,7 @@ Cecilia was a Roman martyr buried in the **Catacomb of St Callixtus**, and her n
 Her *Acts* say that as the wedding music played, "Cecilia sang in her heart to the Lord alone". From this line, misread as playing an organ, she became the patron of **music**. Condemned, she was shut in the steam bath of her house to suffocate, but survived. An executioner struck her neck three times and failed to cut off her head; she lived three days, giving her goods to the poor and asking that her house become a church.
 
 ### 1599
-Her body was moved to **Santa Cecilia in Trastevere** in the 9th century. When the tomb was opened in **1599**, it was reported to be incorrupt, lying on its side, with the face turned down. The sculptor **Stefano Maderno** carved the beautiful marble statue of her in exactly that position, now under the altar.
-
-<div class=warn markdown=1>**History or legend?** Her early cult and burial are historical. Her *Acts* are a later romance; the discovery of 1599 is well recorded, though no one now can verify its details.</div>
+Her body was moved to **Santa Cecilia in Trastevere** in the 9th century. When the tomb was opened in **1599**, it was reported to be incorrupt, lying on its side, with the face turned down. The sculptor **Stefano Maderno** carved the marble statue of her in exactly that position, now under the altar. Her early cult and her burial in the catacombs are the older memory. The *Acts* are a later telling. The opening of the tomb in 1599 is well recorded.
 
 ## Path to sainthood
 Pre-Congregation saint.
@@ -35,4 +33,4 @@ Musicians, singers, composers, poets.
 - [Vatican News: St Cecilia](https://www.vaticannews.va/en/saints/11/22/st--cecilia--virgin-and-martyr-in-the-cemitery-of--callistus.html)
 - [Catholic Encyclopedia: St Cecilia](https://www.newadvent.org/cathen/03471b.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>

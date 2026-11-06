@@ -17,9 +17,12 @@ Cuthbert was a shepherd boy who, one night in 651, saw a light in the sky like a
 **St Bede** tells that while staying at Coldingham, Cuthbert went down to the sea at night and stood in the cold water up to his neck, praying until dawn. A monk who followed him secretly saw that when he came out, two **otters** bounded up, warmed his feet with their breath and dried them with their fur, then slipped back into the sea. Cuthbert, guessing he had been seen, asked the monk to tell no one until after his death.
 
 ### The incorrupt body
-When his tomb was opened in **698**, eleven years after his death, his body was found incorrupt. Fleeing the Vikings, the monks carried it around the North for over a century, until it came to rest at **Durham** in 995, where the great cathedral was built over it. His coffin, pectoral cross and the *St Cuthbert Gospel* (now in the British Library) survive.
+When his tomb was opened in **698**, eleven years after his death, his body was found incorrupt. Fleeing the Vikings, the monks carried it around the North for over a century, until it came to rest at **Durham** in 995, where the great cathedral was built over it. His coffin, pectoral cross and the *St Cuthbert Gospel* (now in the British Library) survive. An anonymous Lindisfarne monk and Bede are why his life is so well known. Bede tells the otters, and says he had the story from a witness: a man at peace with the creation around him.
 
-<div class=warn markdown=1>**History and legend.** Cuthbert is well documented by an anonymous Lindisfarne monk and by Bede. The otter story is told by Bede, who said he had it from a witness, but it is best read as a miracle story showing harmony between the saint and creation.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/cuthbert-durham-600.webp 600w,/static/art/cuthbert-durham.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/cuthbert-durham.jpg" alt="The shrine of St Cuthbert in Durham Cathedral, a stone platform under a painted canopy, with candles and tall Gothic screenwork." width="1280" height="837" loading="lazy"></picture>
+<figcaption>The shrine of St Cuthbert in Durham Cathedral, behind the high altar. Photo: <a href="https://commons.wikimedia.org/wiki/File:St_Cuthbert%27s_Tomb_%28634-687%29%2C_Durham_Cathedral_-_geograph.org.uk_-_6973439.jpg">Brian Deegan</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation saint.
@@ -34,4 +37,4 @@ Northumbria, Durham, shepherds, sailors.
 ## Sources
 - [Catholic Encyclopedia: St Cuthbert](https://www.newadvent.org/cathen/04578a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Durham photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
