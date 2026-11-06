@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" role="img" aria-labelledby="glenTitle glenDesc" font-family="system-ui,Segoe UI,Arial,sans-serif">
+<title id="glenTitle">Schematic of Glendalough, not to scale</title>
+<desc id="glenDesc">A simplified west-to-east diagram of the valley of two lakes in County Wicklow. The upper lake is on the left, the lower lake and the monastic city to the east, Laragh further east. St Kevin's Bed and Temple-na-Skellig are marked as places to understand, not to climb.</desc>
+<rect width="880" height="620" fill="#efe6d2"/>
+<polygon points="40,70 250,150 400,130 520,90 700,40 840,80 840,40 40,40" fill="#d9c7a4"/>
+<polygon points="40,470 220,400 420,430 640,390 840,450 840,520 40,520" fill="#d9c7a4"/>
+<polygon points="70,250 200,210 360,230 470,250 620,240 760,270 800,320 740,360 560,350 430,370 280,340 150,360 70,320" fill="#e5efe0"/>
+<ellipse cx="230" cy="290" rx="130" ry="52" fill="#7ea8b8" stroke="#3d6270" stroke-width="2"/>
+<ellipse cx="455" cy="305" rx="62" ry="28" fill="#8eb6c4" stroke="#3d6270" stroke-width="2"/>
+<path d="M70 290 H100 M360 292 C400 292 400 305 393 305 M517 305 H620" fill="none" stroke="#5d8ea0" stroke-width="4" stroke-linecap="round"/>
+<path d="M620 250 C640 270 650 290 640 305" fill="none" stroke="#5d8ea0" stroke-width="3" stroke-linecap="round"/>
+<path d="M120 250 H340" fill="none" stroke="#7a4b22" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M250 360 C340 400 480 390 700 340" fill="none" stroke="#4e7b45" stroke-width="2" stroke-dasharray="6 5"/>
+<rect x="575" y="255" width="78" height="52" rx="6" fill="#fbf5e6" stroke="#3b2a1a" stroke-width="2"/>
+<circle cx="150" cy="318" r="7" fill="#9b2d20"/>
+<circle cx="200" cy="330" r="7" fill="#9b2d20"/>
+<circle cx="330" cy="345" r="7" fill="#3b2a1a"/>
+<circle cx="400" cy="345" r="7" fill="#3b2a1a"/>
+<circle cx="690" cy="300" r="7" fill="#3b2a1a"/>
+<circle cx="760" cy="310" r="7" fill="#7a4b22"/>
+<polygon points="70,78 82,108 58,108" fill="#3b2a1a"/>
+<text x="70" y="126" text-anchor="middle" font-size="13" font-weight="700" fill="#2b2118">N</text>
+<text x="230" y="294" text-anchor="middle" font-size="15" font-weight="700" fill="#1c3340">Upper Lake</text>
+<text x="455" y="309" text-anchor="middle" font-size="13" font-weight="700" fill="#1c3340">Lower Lake</text>
+<text x="614" y="278" text-anchor="middle" font-size="12" font-weight="700" fill="#2b2118">Monastic</text>
+<text x="614" y="294" text-anchor="middle" font-size="12" font-weight="700" fill="#2b2118">city</text>
+<text x="48" y="188" font-size="13" fill="#5a3a1e">Camaderry</text>
+<text x="500" y="500" font-size="13" fill="#5a3a1e">Lugduff</text>
+<text x="70" y="236" font-size="12" fill="#7a4b22">Miners' Road (purple)</text>
+<text x="430" y="420" font-size="12" fill="#2f6b3a">Green Road</text>
+<text x="90" y="430" font-size="12" fill="#5a3a1e">Poulanass</text>
+<text x="150" y="348" text-anchor="middle" font-size="12" font-weight="700" fill="#9b2d20">Bed</text>
+<text x="168" y="382" font-size="12" font-weight="700" fill="#9b2d20">Temple-na-Skellig</text>
+<text x="318" y="368" font-size="12" fill="#2b2118">Cell</text>
+<text x="400" y="368" font-size="12" fill="#2b2118">Reefert</text>
+<text x="668" y="286" font-size="12" fill="#2b2118">Deer Stone</text>
+<text x="748" y="292" font-size="13" font-weight="700" fill="#5a3a1e">Laragh</text>
+<text x="500" y="210" font-size="12" fill="#5a3a1e">Glendasan, from the Wicklow Gap</text>
+<text x="40" y="168" font-size="13" font-weight="700" fill="#3b2a1a">West, toward the miners' village</text>
+<text x="560" y="150" font-size="13" font-weight="700" fill="#3b2a1a">St Kevin's Way comes over the Wicklow Gap</text>
+<text x="560" y="168" font-size="12" fill="#5a3a1e">from Hollywood or Valleymount, to the north-west</text>
+<rect x="24" y="536" width="832" height="68" rx="8" fill="#fffd"/>
+<text x="40" y="558" font-size="13" font-weight="700" fill="#2b2118">Not to scale. West is left, east is right. Lakes, roads and buildings are simplified.</text>
+<text x="40" y="578" font-size="12.5" fill="#3b2a1a">Red marks are not walking destinations: see St Kevin's Bed from the Miners' Road, and do not try to reach Temple-na-Skellig.</text>
+<text x="40" y="596" font-size="12.5" fill="#5a3a1e">The monastic city holds the round tower, cathedral, St Kevin's Church, the cross and the gateway.</text>
+</svg>

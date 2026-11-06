@@ -5,6 +5,8 @@ import markdown
 ROOT=os.path.dirname(os.path.abspath(__file__)); C=os.path.join(ROOT,'content'); OUT=os.path.join(ROOT,'docs')
 BASE=''
 def md(t): return markdown.markdown(t,extensions=['tables','md_in_html'])
+def more(label):
+    return f'<span class=more>{html.escape(label)} <span aria-hidden=true>→</span></span>'
 def load(p):
     s=open(p,encoding='utf-8').read(); meta={}
     if s.startswith('---'):
@@ -118,7 +120,7 @@ def build():
 <img class=v style="margin-top:12px" src="{BASE}/static/img/verses/{m['image']}" alt="{m['ref']} in Greek, Latin and English">
 {md(m['body'].split('<!--texts-->')[0])}{band('calling-fishermen','The Calling of the Fishermen')}<h2>Four witnesses</h2>{rows}{md(m['body'].split('<!--texts-->')[1]) if '<!--texts-->' in m['body'] else ''}{band('pieta','Pietà, after Michelangelo')}<p class=src>{' &nbsp;·&nbsp; '.join(nav)}</p>'''+SUB
         write(f'verses/{m["slug"]}',page(m['ref'],body,m.get('title','')))
-    def vcard(m): return f'<a class=card href="{BASE}/verses/{m["slug"]}/" data-s="{html.escape((m["ref"]+" "+m.get("title","")+" "+m["book"]).lower())}">{m["date"][5:].replace("-","/")} · <b>{m["ref"]}</b> — {html.escape(m.get("title",""))} <span class=badge style=float:right>{html.escape(m.get("alignment","").split(".")[0].split(",")[0][:18])}</span></a>'
+    def vcard(m): return f'<a class=card href="{BASE}/verses/{m["slug"]}/" data-s="{html.escape((m["ref"]+" "+m.get("title","")+" "+m["book"]).lower())}">{m["date"][5:].replace("-","/")} · <b>{m["ref"]}</b> — {html.escape(m.get("title",""))} <span class=badge>{html.escape(m.get("alignment","").split(".")[0].split(",")[0][:18])}</span>{more("Read the verse")}</a>'
     books=sorted({m['book'] for m in vs})
     arch=f'''{hero({'hero':'sermon-on-the-mount'},'Verse Archive','One New Testament verse a day, in Greek, Latin and English')}<input id=q placeholder="Search verses (e.g. kingdom, John)" oninput="for(const c of document.querySelectorAll('.cards .card'))c.style.display=c.dataset.s.includes(this.value.toLowerCase())?'':'none'">
 <p class=src>Books: {' · '.join(books)}</p><div class=cards>{''.join(vcard(m) for m in reversed(vs))}</div>'''
@@ -140,11 +142,11 @@ def build():
             write(f'{url}/{m["slug"]}',page(m['title'],crumb+hero(m,m['title'],m.get('subtitle',''))+facts+md(addmap(m,b))+verified(m,m['slug']),m.get('subtitle','')))
         groups={}
         for m,b in subs: groups.setdefault(m.get('group','Pages'),[]).append(m)
-        lists=''.join(f'<h2>{g}</h2><div class=cards>'+''.join(f'<a class=card href="{BASE}/{url}/{m["slug"]}/"><b>{html.escape(m["title"])}</b><br><span class=src>{html.escape(m.get("subtitle",""))}</span></a>' for m in ms)+'</div>' for g,ms in groups.items())
+        lists=''.join(f'<h2>{g}</h2><div class=cards>'+''.join(f'<a class=card href="{BASE}/{url}/{m["slug"]}/"><b>{html.escape(m["title"])}</b><br><span class=src>{html.escape(m.get("subtitle",""))}</span>{more("Read more")}</a>' for m in ms)+'</div>' for g,ms in groups.items())
         m,b=idx; parts=addmap(m,b).split('<!--list-->')
         write(url,page(m['title'],f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a></div>'.replace('//"','/"')+hero(m,m['title'],m.get('subtitle',''))+md(parts[0])+lists+(md(parts[1]) if len(parts)>1 else '')+verified(m,sec),m.get('subtitle','')))
     m,b=load(os.path.join(C,'pilgrimage','index.md'))
-    cards=''.join(f'<a class="card{"" if r["status"]=="live" else " soon"}" href="{BASE}/pilgrimage/{r["id"]}/"><b>{r["name"]}</b><br><span class=src>{r["summary"]}</span></a>' if r['status']=='live' else f'<div class="card soon"><b>{r["name"]}</b> <span class=badge>Coming soon</span><br><span class=src>{r["summary"]}</span></div>' for r in roads)
+    cards=''.join(f'<a class=card href="{BASE}/pilgrimage/{r["id"]}/"><b>{r["name"]}</b><br><span class=src>{r["summary"]}</span>{more("Explore")}</a>' if r['status']=='live' else f'<div class="card soon"><b>{r["name"]}</b> <span class=badge>Coming soon</span><br><span class=src>{r["summary"]}</span></div>' for r in roads)
     write('pilgrimage',page('Pilgrimage Roads',hero(m,m['title'],m.get('subtitle',''))+md(b)+'<div class=cards>'+cards+'</div>'))
     g=''.join(f'<figure class=gal><picture><source srcset="{BASE}/static/art/{n}.webp" type=image/webp><img src="{BASE}/static/art/{n}.jpg" alt="{t}" loading=lazy></picture><figcaption><b>{t}</b><br><span class=src>{by}</span></figcaption></figure>' for n,t,by in GALLERY if art(n))
     write('gallery',page('Gallery','<h1>Gallery</h1><p>Original paintings made for The Daily Word. They are new adaptations inspired by the Old Masters (da Vinci, Michelangelo, Raphael, Guido Reni, Carl Bloch and Turner), not copies of their works.</p>'+g))
@@ -159,9 +161,9 @@ def build():
     from cy.explore import explore; EXP=explore(ROOT,C,len(vs))
     d=datetime.date.fromisoformat(t['date'])
     home=hero(hm,hm['title'],hm.get('subtitle',''),rotate=['last-supper','sermon-on-the-mount','calling-fishermen'])+CYB+f'''<div class=k>{d:%A, %B} {d.day} · Day {t['number']}</div><h1>{html.escape(t.get('title',''))}</h1><div class=it>{t['ref']}</div>
-<div class=card><a href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{t['ref']}"></a><p style="margin:.6em 0 0">{html.escape(ex)} <a href="{BASE}/verses/{t['slug']}/">Read today's verse →</a></p></div>
+<a class=card href="{BASE}/verses/{t['slug']}/"><img class=v src="{BASE}/static/img/verses/{t['image']}" alt="{html.escape(t['ref'])}"><p style="margin:.6em 0 0">{html.escape(ex)}</p>{more("Read today's verse")}</a>
 '''+EXP+SUB+f'''<h2>Recent verses</h2><div class=cards>{''.join(vcard(m) for m in list(reversed(vs))[1:4])}</div><p><a href="{BASE}/verses/">All verses →</a></p>
-<h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small></a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small></a><a class=door href="{BASE}/saints/">✨ Saints<small>Lives, miracles, feast days & trivia</small></a><a class=door href="{BASE}/church-year/">⛪ The Church Year<small>Seasons, meditations, calendar & music</small></a></div>'''+md(hb)
+<h2>Explore</h2><div class=doors><a class=door href="{BASE}/pilgrimage/">🥾 Pilgrimage Roads<small>Camino de Santiago & more</small>{more("Explore")}</a><a class=door href="{BASE}/pilgrimage/st-michael/">⚔ St Michael's Line<small>Seven sanctuaries, Ireland to Carmel</small>{more("Explore")}</a><a class=door href="{BASE}/saints/">✨ Saints<small>Lives, miracles, feast days & trivia</small>{more("Explore")}</a><a class=door href="{BASE}/church-year/">⛪ The Church Year<small>Seasons, meditations, calendar & music</small>{more("Explore")}</a></div>'''+md(hb)
     write('',page('Home',home,'A New Testament verse each day in Greek, Latin and English, plus pilgrimage guides.'))
     # ---- timeline
     m,b=load(os.path.join(C,'timeline.md'))
