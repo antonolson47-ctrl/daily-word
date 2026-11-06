@@ -427,88 +427,88 @@
       "note": "Light touch. Clematius, the number, Caravaggio, Memling, and New Advent stay. Photo: the Golden Chamber of 1643."
     },
     "veronica": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/veronica/",
       "title": "St Veronica",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Gospels, vera icon, Berenice, the Sixth Station, Dante, and New Advent stay. No new picture; Memling remains."
     },
     "wilgefortis": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/wilgefortis/",
       "title": "St Wilgefortis",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The princess story, the oats, the 1969 removal, and the sources stay. She was not canonised. Photo: the Volto Santo of Lucca."
     },
     "zita": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/zita/",
       "title": "St Zita",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The apron, Dante, Elizabeth of Hungary, and New Advent stay. No new picture; the San Frediano relic remains the hero."
     },
     "agnes": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/agnes/",
       "title": "St Agnes",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Ambrose, the lambs and pallia, and the Vatican link stay. Photo: Sant'Agnese fuori le mura."
     },
     "blaise": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/blaise/",
       "title": "St Blaise",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Acts, the throat blessing, Dubrovnik since 972, and New Advent stay. Photo: his statue on the city wall."
     },
     "brendan": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/brendan/",
       "title": "St Brendan the Navigator",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Clonfert, the Navigatio, the Faroes and Iceland, Severin, and New Advent stay. Photo: Clonfert Cathedral."
     },
     "brigid": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/brigid/",
       "title": "St Brigid of Kildare",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Cogitosus, the cloak, Imbolc, the 1993 flame, and New Advent stay. Photo: the cathedral at Kildare."
     },
     "catherine-of-siena": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/catherine-of-siena/",
       "title": "St Catherine of Siena",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The letters, Raymond, Avignon, the Doctors, and the Vatican links stay. The two paintings stay. No new picture."
     },
     "cecilia": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/cecilia/",
       "title": "St Cecilia",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Acts, 1599, Maderno, and the Vatican link stay. No new picture; the Maderno statue remains the hero."
     },
     "columba": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/columba/",
       "title": "St Columba",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Adomnán, the River Ness rather than the loch, Iona, and New Advent stay. Photo: Iona Abbey."
     },
     "cuthbert": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/cuthbert/",
       "title": "St Cuthbert",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Bede, the otters, the 698 opening, Durham, and New Advent stay. Photo: the shrine in Durham Cathedral."
     },
     "denis": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 6,
       "url": "/saints/denis/",
       "title": "St Denis",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Gregory of Tours, Hilduin, the three Dionysiuses, and New Advent stay. Photo: the Basilica of Saint-Denis."
     },
     "dunstan": {
       "status": "deferred",
@@ -1034,24 +1034,23 @@
   },
   "counts": {
     "model": 1,
-    "enhanced": 59,
-    "deferred": 23,
+    "enhanced": 71,
+    "deferred": 11,
     "meets_goal": 74,
     "collection": 157
   },
   "next_batch_slugs": [
-    "veronica",
-    "wilgefortis",
-    "zita",
-    "agnes",
-    "blaise",
-    "brendan",
-    "brigid",
-    "catherine-of-siena",
-    "cecilia",
-    "columba",
-    "cuthbert",
-    "denis"
+    "dunstan",
+    "elizabeth-of-hungary",
+    "francis-of-paola",
+    "john-bosco",
+    "joseph-of-cupertino",
+    "lawrence",
+    "lucy",
+    "martin-de-porres",
+    "mary-of-egypt",
+    "olav",
+    "sebastian"
   ],
   "batch_2_slugs": [
     "anthony-the-abbot",
@@ -1108,5 +1107,19 @@
     "thomas-apostle",
     "thomas-becket",
     "ursula"
+  ],
+  "batch_6_slugs": [
+    "veronica",
+    "wilgefortis",
+    "zita",
+    "agnes",
+    "blaise",
+    "brendan",
+    "brigid",
+    "catherine-of-siena",
+    "cecilia",
+    "columba",
+    "cuthbert",
+    "denis"
   ]
 }

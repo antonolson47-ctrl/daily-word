@@ -13,7 +13,7 @@ The 24th of 25 children of a Sienese dyer, Catherine refused marriage and became
 
 ## The full story: dyer's daughter, mystic and Doctor of the Church
 
-<div class=warn markdown=1>**History or legend?** Catherine is one of the best-documented women of the Middle Ages. We have **about 380 of her letters**, her book, the *Dialogue*, and her prayers, along with the detailed *Legenda Maior* written by her confessor, **Raymond of Capua**, and testimony collected after her death. Her public role (Avignon, Florence, the Schism) is solid history. Her **mystical experiences** (the espousal, the exchange of hearts, the stigmata) are known almost entirely from Raymond's hagiography and her own reports. We tell them as he tells them, and mark them as such.</div>
+Catherine is one of the best-documented women of the Middle Ages. We have **about 380 of her letters**, her book, the *Dialogue*, and her prayers, along with the detailed *Legenda Maior* written by her confessor, **Raymond of Capua**, and testimony collected after her death. Her public work, at Avignon, in Florence, and in the Schism, is the record of her life in the Church. The espousal, the exchange of hearts, and the stigmata are known from Raymond and from her own reports. The page tells them as they told them.
 
 ### The 24th child of a dyer
 Caterina Benincasa was born in 1347 in the Fontebranda district of **Siena**, the 24th of the 25 children of **Giacomo Benincasa**, a wool dyer, and his wife Lapa; she was a twin, but her sister Giovanna died in infancy. According to Raymond she had her first vision of Christ at about six, and at seven privately vowed her virginity to God. When her parents tried to arrange a marriage for her in her teens, she cut off her hair in protest. The family eventually gave in and let her have a small room of her own, where she lived in silence, prayer and severe fasting for about three years.
@@ -82,4 +82,4 @@ Italy (with Francis of Assisi), Europe, nurses.
 - [ISTC (CERL): Sixtus IV, bull Licet dum militans, 25 July 1475, forbidding images of Catherine with the stigmata](https://data.cerl.org/istc/is00538400)
 - [C. Warr, "Representing the Invisible: Saint Catherine of Siena's Stigmatization" (Amsterdam University Press)](https://doi.org/10.1017/9789048554621.003)
 
-<p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). The mystical scenes are told as Raymond and Catherine told them. Feast days follow the General Roman Calendar unless noted.</p>
