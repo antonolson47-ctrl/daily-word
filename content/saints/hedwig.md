@@ -17,9 +17,12 @@ Born at Andechs to Bavarian counts (and aunt of St Elizabeth of Hungary), Jadwig
 Her *Vita* describes a deliberate downward mobility: plain dress, barefoot walks even in Silesian winter (carrying shoes in her hand to satisfy critics, which rather misses — and makes — the point), a hairshirt late in life, and long prayer before a small ivory Madonna she carried everywhere. With Henry she founded the Cistercian convent at Trzebnica (1202), the first women's religious house in Silesia.
 
 ### Widow among ruins
-Henry died in 1238; their son Henry the Pious fell against the Mongols at Legnica in 1241, where Hedwig is said to have identified his body among the dead. She retired to Trzebnica among the nuns without taking vows, died in 1243, and pilgrims were at her tomb within weeks.
+Henry died in 1238; their son Henry the Pious fell against the Mongols at Legnica in 1241, where Hedwig is said to have identified his body among the dead. She retired to Trzebnica among the nuns without taking vows, died in 1243, and pilgrims were at her tomb within weeks. The *Vita maior* was written close to living memory, and the convent is in the charters. The barefoot walks are the life her people kept.
 
-<div class=history markdown=1>**History vs legend.** The 13th-century *Vita maior* is close to living memory and her foundations are documented in charters. Miracles at the tomb and prophecies were added in the devotional telling; the charity, foundations and barefoot austerity are the historical core.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/hedwig-trzebnica-600.webp 600w,/static/art/hedwig-trzebnica.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hedwig-trzebnica.jpg" alt="The basilica of St Hedwig at Trzebnica, a tall church tower with a green copper cupola and a yellow-and-white baroque front." width="945" height="1600" loading="lazy"></picture>
+<figcaption>The basilica of St Hedwig at Trzebnica, the Cistercian house she and Henry founded in 1202. The tower one sees is later work on that convent. Photo: <a href="https://commons.wikimedia.org/wiki/File:Bazylika_%C5%9Aw.Jadwigi_w_Trzebnicy.jpg">Tsun</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Canonised by Pope Clement IV in 1267; her relics at Trzebnica drew Silesian, Polish and German pilgrims for centuries.
@@ -34,4 +37,4 @@ Silesia, Poland and Germany, brides, widows, and those who have lost children.
 ## Sources
 - [Catholic Encyclopedia: St Hedwig, New Advent](https://www.newadvent.org/cathen/07189a.htm)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. The Trzebnica photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

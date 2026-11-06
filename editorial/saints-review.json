@@ -175,88 +175,88 @@
       "note": "Light touch. Emmitsburg, the 1850 distinction, the first US-born canonisation, and all four source links stay. Photo: the basilica of her shrine."
     },
     "erasmus": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/erasmus/",
       "title": "St Erasmus (St Elmo)",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The windlass, the harbours, Shakespeare, and the Wikipedia link stay. Photo: Castel Sant’Elmo, Naples."
     },
     "expeditus": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/expeditus/",
       "title": "St Expeditus",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Melitene, the crow, the packing-case tale, Delehaye, and the 1905 note stay. No new picture; the Palermo painting remains."
     },
     "fiacre": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/fiacre/",
       "title": "St Fiacre",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The furrow, the closed chapel, the 1640s cabs, and New Advent stay. Photo: chapel of Saint-Fiacre at Le Faouët."
     },
     "genesius": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/genesius/",
       "title": "St Genesius",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The stage conversion, the two Roman churches, Arles, and New Advent stay. No new picture; the site illustration remains, labelled as not a likeness."
     },
     "gregory-nazianzen": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/gregory-nazianzen/",
       "title": "St Gregory Nazianzen",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Sasima, the orations, the 381 creed, the 2004 relic return, and the Vatican links stay. Photo: St George at the Phanar."
     },
     "gregory-the-great": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/gregory-the-great/",
       "title": "St Gregory the Great",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The letters, the English mission, the Angles pun, and the Vatican links stay. Photo: Castel Sant’Angelo."
     },
     "hedwig": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/hedwig/",
       "title": "St Hedwig of Silesia",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The Vita, the charters, Legnica, and New Advent stay. Photo: the basilica at Trzebnica."
     },
     "helena": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/helena/",
       "title": "St Helena",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Bethlehem, the Olives, Ambrose and Rufinus, and the sources stay. Photo: Santa Croce in Gerusalemme."
     },
     "hildegard": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/hildegard/",
       "title": "St Hildegard of Bingen",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Scivias, the chants, the medicine caution, and the Vatican letter stay. Photo: the abbey above Rüdesheim, captioned as twentieth-century."
     },
     "ignatius-of-antioch": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/ignatius-of-antioch/",
       "title": "St Ignatius of Antioch",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. The seven letters, the wheat sentence, Eusebius, and the three source links stay. Broken hero credit cleaned. Photo: San Clemente, Rome."
     },
     "james-the-less": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/james-the-less/",
       "title": "St James the Less",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Both namings, Josephus, Hegesippus, the calendars, and New Advent stay. No new picture; Rubens remains."
     },
     "john-the-baptist": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/john-the-baptist/",
       "title": "St John the Baptist",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 3,
+      "note": "Light touch. Luke, Josephus, the feasts, and the places to visit stay. The story is no longer inside a colored box. Photo: the Jordan at Qasr al-Yahud."
     },
     "juliana-of-nicomedia": {
       "status": "deferred",
@@ -1034,24 +1034,24 @@
   },
   "counts": {
     "model": 1,
-    "enhanced": 23,
-    "deferred": 59,
+    "enhanced": 35,
+    "deferred": 47,
     "meets_goal": 74,
     "collection": 157
   },
   "next_batch_slugs": [
-    "erasmus",
-    "expeditus",
-    "fiacre",
-    "genesius",
-    "gregory-nazianzen",
-    "gregory-the-great",
-    "hedwig",
-    "helena",
-    "hildegard",
-    "ignatius-of-antioch",
-    "james-the-less",
-    "john-the-baptist"
+    "juliana-of-nicomedia",
+    "leonard-of-noblac",
+    "longinus",
+    "luke",
+    "margaret-of-cortona",
+    "maria-goretti",
+    "martha",
+    "mary",
+    "matthew",
+    "matthias",
+    "moses-the-black",
+    "notburga"
   ],
   "batch_2_slugs": [
     "anthony-the-abbot",
@@ -1066,5 +1066,19 @@
     "dismas",
     "drogo",
     "elizabeth-ann-seton"
+  ],
+  "batch_3_slugs": [
+    "erasmus",
+    "expeditus",
+    "fiacre",
+    "genesius",
+    "gregory-nazianzen",
+    "gregory-the-great",
+    "hedwig",
+    "helena",
+    "hildegard",
+    "ignatius-of-antioch",
+    "james-the-less",
+    "john-the-baptist"
   ]
 }

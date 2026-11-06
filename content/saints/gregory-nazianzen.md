@@ -17,17 +17,12 @@ He helped his ageing father at Nazianzus. Then, in 379, the small Nicene congreg
 
 He governed Nazianzus only until a successor could be found, then retired to Arianzum. He wrote poems, letters, and the oration on Basil's death. He died there around **390**. The East calls him Gregory the Theologian, a title it shares with almost no one else but the apostle John.
 
-<div class=history markdown=1>
+The orations, letters, and poems are his. He tells the Sasima episode himself, and so does the record of the council of 381. The creed of that council, what Christians now call the Nicene Creed in its fuller form, was finished in the months around his resignation. He had already preached the faith those clauses defend. Rubens's painting shows him trampling heresy, a Baroque picture of the preacher. His own account of himself is full of reluctance, illness, and second thoughts. In November 2004 John Paul II returned relics of Gregory and of [John Chrysostom](/saints/john-chrysostom/) to Patriarch Bartholomew. They are in the church of St George at the Phanar in Istanbul.
 
-**History.** The orations, letters, and poems are his. The Sasima episode is not a later smear. He tells it. So does the record of the council of 381. The creed associated with that council, what Christians now call the Nicene Creed in its fuller form, was finished in the months around his resignation. He did not write every clause. He had already preached the faith those clauses defend.
-
-</div>
-
-<div class=legend markdown=1>
-
-**How he was pictured.** Rubens's painting shows him trampling heresy, a Baroque allegory. It is not a portrait from life, and it is smoother than Gregory's own account of himself, which is full of reluctance, illness, and second thoughts. In November 2004 John Paul II returned relics of Gregory and of [John Chrysostom](/saints/john-chrysostom/) to Patriarch Bartholomew; they are in the church of St George at the Phanar in Istanbul. Older translations of Gregory's body are harder to trace, and this page does not invent a full itinerary for them.
-
-</div>
+<figure class=photo>
+<picture><source srcset="/static/art/gregory-phanar-600.webp 600w,/static/art/gregory-phanar.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/gregory-phanar.jpg" alt="The pale stone facade of the Church of St George at the Phanar in Istanbul, with a row of arched windows and a cross in the pediment." width="1280" height="853" loading="lazy"></picture>
+<figcaption>The church of St George at the Phanar, seat of the Patriarch of Constantinople, where the relics returned in 2004 are kept. Photo: <a href="https://commons.wikimedia.org/wiki/File:Church_of_St._George,_Istanbul_(August_2010).jpg">Klearchos Kapoutsis</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation. A Doctor of the Church. With Basil and [John Chrysostom](/saints/john-chrysostom/) he is one of the Three Holy Hierarchs (30 January in the East). The Roman calendar keeps him with Basil on **2 January**. Older Western books kept him on 9 May.
@@ -45,4 +40,4 @@ Poets, theologians, and people who have been given an office they did not seek. 
 - Gregory, *Orations* 27–31 (the Theological Orations) and *Oration 43* on Basil
 - [Benedict XVI, General Audience on St Gregory Nazianzen (8 and 22 August 2007), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070808.html)
 
-<p class=src>Fact-checked on November 6, 2026 against Gregory's orations, New Advent, and the Vatican audiences above. Where a relic story is uncertain, the text says so.</p>
+<p class=src>Fact-checked on November 6, 2026 against Gregory's orations, New Advent, and the Vatican audiences above. The Phanar photograph was added in the same revision. The 2004 return of the relics is the translation this page dates.</p>
