@@ -17,9 +17,7 @@ Onuphrius (Humphrey in English mouths) is known from one text: Paphnutius' accou
 Onuphrius told Paphnutius he had left a monastery for the utter desert, where an angel guided him, a date palm and spring sustained him, and an angel brought him Communion on Sundays. Paphnutius stayed; the old man died as they prayed, lions (in the beloved iconography) helped dig his grave with their paws.
 
 ### Icon of the desert
-No saint looks like Onuphrius: Orthodox and Coptic icons show the white torrent of beard and hair, the leaf skirt, the palm. He became the type of the solitary — venerated from Egypt to Sicily (where Palermo honours Sant'Onofrio) to the hermitages of Spain.
-
-<div class=legend markdown=1>**Legend.** The Paphnutius narrative is edifying desert literature, possibly built around a real solitary. Read it as the tradition read it: a parable of total dependence on God, with lions for emphasis.</div>
+No saint looks like Onuphrius: Orthodox and Coptic icons show the white torrent of beard and hair, the leaf skirt, the palm. He became the type of the solitary — venerated from Egypt to Sicily (where Palermo honours Sant'Onofrio) to the hermitages of Spain. Paphnutius wrote the journey into the deep desert. The Church has kept it as a life that depends on God for bread, for Sunday Communion, and at the last for a grave. The lions in the icons belong to that telling.
 
 ## Path to sainthood
 Pre-Congregation; cult East and West, strong in Coptic, Byzantine and Sicilian devotion.
@@ -34,4 +32,4 @@ Hermits, weavers (in some lists), Palermo devotion as Sant'Onofrio; invoked for 
 ## Sources
 - [Wikipedia: Onuphrius (overview with scholarly references)](https://en.wikipedia.org/wiki/Onuphrius)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>

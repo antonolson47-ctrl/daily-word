@@ -17,9 +17,12 @@ Isabel Flores de Oliva was born in Lima in 1586. A family servant said her face 
 She grew flowers and did embroidery to support her family, and turned a room in the house into an infirmary for the poor, the sick, Native people and enslaved Africans. Her penances were extreme, including a silver crown with spikes hidden under a wreath of roses. She died on **24 August 1617**, aged 31, and the whole city came to her funeral.
 
 ### The pirates
-In 1615 the Dutch pirate fleet of Joris van Spilbergen appeared off Callao. Rose gathered the women in church to pray before the Blessed Sacrament, ready to defend it with her life. The fleet sailed away, and Lima credited her prayers.
+In 1615 the Dutch pirate fleet of Joris van Spilbergen appeared off Callao. Rose gathered the women in church to pray before the Blessed Sacrament, ready to defend it with her life. The fleet sailed away, and Lima credited her prayers. The testimony gathered for her beatification carries her life. The penances, including the spiked crown under the roses, were admired in her own time. They are not held up as a pattern to copy.
 
-<div class=history markdown=1>**History.** Rose's life is well documented in the testimony for her beatification. Her penances, admired in her time, were extreme and were not offered as an example to copy.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/rose-lima-600.webp 600w,/static/art/rose-lima.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/rose-lima.jpg" alt="The red-and-white facade of the church of St Rose in Lima, with two bell towers, crosses, and palm trees." width="1280" height="969" loading="lazy"></picture>
+<figcaption>The church of St Rose in Lima. Photo: <a href="https://commons.wikimedia.org/wiki/File:Iglesia_Santa_Rosa%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_08.JPG">Diego Delso</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Beatified 1668 by Clement IX; canonised 1671 by Clement X, the first saint born in the Americas.
@@ -34,4 +37,4 @@ The Americas, the Philippines, Peru, gardeners, florists, embroiderers.
 ## Sources
 - [Catholic Encyclopedia: St Rose of Lima](https://www.newadvent.org/cathen/13192c.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Lima photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
