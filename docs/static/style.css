@@ -64,3 +64,29 @@ td,th{vertical-align:top}.tbl{overflow-x:auto}
 @media(min-width:700px){main:has(.explore){max-width:1000px}.fx-grid{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:560px) and (max-width:699px){.fx-grid{grid-template-columns:1fr 1fr}}
 .lrow{font:13px system-ui}.listen{display:inline-block;background:#e9d8ae;color:#5a3a1e!important;text-decoration:none;border-radius:14px;padding:2px 10px;margin:3px 4px 3px 0;font:600 13px system-ui}.listen:hover{background:#d9c59a}
+/* Navigational cards and doors. Static div.card boxes stay the quieter cream panel. */
+a.card{display:block;text-decoration:none;color:inherit;border:2px solid #7a4b22;background:#fffaf0;box-shadow:0 1px 0 #fff8 inset,0 2px 8px #3b2a1a14;transition:background-color .15s ease,border-color .15s ease,box-shadow .15s ease}
+a.card>b{color:#6a3010;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.16em}
+.more{display:flex;align-items:center;gap:.35em;clear:both;margin-top:10px;font:600 14.5px/1.2 system-ui,sans-serif;color:#6a3010}
+.more span[aria-hidden]{display:inline-block;transition:transform .15s ease}
+a.card:hover{background:#fff;border-color:#3b2a1a;box-shadow:0 6px 16px #3b2a1a24}
+a.card:hover .more span[aria-hidden],a.card:focus-visible .more span[aria-hidden],a.door:hover .more span[aria-hidden],a.door:focus-visible .more span[aria-hidden]{transform:translateX(3px)}
+a.card:focus-visible{outline:3px solid #3b2a1a;outline-offset:3px}
+a.card:active{background:#f4e6c8}
+.card.soon{border-style:dashed}
+a.door{border:2px solid #c4a46a;transition:background-color .15s ease,border-color .15s ease}
+a.door .more{color:#f3e2c0}
+a.door:hover{background:#4a3424;border-color:#e9d8ae}
+a.door:focus-visible,.fx-btn:focus-visible,.subbtn:focus-visible,.btns a:focus-visible{outline:3px solid #f4ead2;outline-offset:3px}
+.wheel a:focus-visible path{stroke:#2b2118;stroke-width:4}
+.photo{margin:18px 0 22px}.photo img{width:100%;height:auto;display:block;border-radius:10px;border:1px solid #d9c59a;background:#e7dcc4}
+.photo figcaption{font:12.5px/1.45 system-ui,sans-serif;color:#6b5236;padding:6px 2px 0}
+.toc{background:#fbf5e6;border:1px solid #d9c59a;border-radius:12px;padding:12px 16px 14px;margin:8px 0 18px}
+.toc ol{margin:8px 0 0;padding-left:1.3em}.toc li{margin:3px 0;break-inside:avoid}
+.toc a{text-decoration:underline;text-underline-offset:2px}
+@media(min-width:640px){.toc ol{columns:2;column-gap:28px}}
+.knot{display:block;width:120px;height:28px;margin:8px auto 4px;color:#8a5a2b}
+@media (prefers-reduced-motion:reduce){
+a.card,a.door,.more span[aria-hidden],.fx-btn,.wheel a path{transition:none}
+a.card:hover .more span[aria-hidden],a.card:focus-visible .more span[aria-hidden],a.door:hover .more span[aria-hidden],a.door:focus-visible .more span[aria-hidden]{transform:none}
+}

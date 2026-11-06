@@ -117,7 +117,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Brendan the Navigator](/saints/brendan/) | Clonfert / Tralee (Ireland) | Clonfert Cathedral, Co. Galway (his traditional grave); Brandon Mountain, Co. Kerry; the *Brendan* boat at Craggaunowen |
 | [St Columba](/saints/columba/) | Iona (Scotland) / Derry | Iona Abbey; Gartan, Co. Donegal (birthplace); St Columb's Park and Long Tower Church, Derry |
 | [St Brigid of Kildare](/saints/brigid/) | Kildare (Ireland) | St Brigid's Cathedral and fire temple, Kildare; St Brigid's Well; Faughart, Co. Louth |
-| [St Kevin of Glendalough](/saints/kevin/) | Glendalough (Ireland) | Glendalough monastic site, Co. Wicklow; St Kevin's Way pilgrim path from Hollywood |
+| [St Kevin of Glendalough](/saints/kevin/) | Glendalough (Ireland) | Monastic city and the two lakes, Co. Wicklow. See St Kevin's Bed from the Miners' Road; do not climb the cliff. St Kevin's Way starts at Hollywood |
 | [St Cuthbert](/saints/cuthbert/) | Durham / Lindisfarne (England) | Durham Cathedral (his shrine); Lindisfarne Priory; Inner Farne; see [St Cuthbert's Way](/pilgrimage/st-cuthbert/) |
 | [St Dunstan](/saints/dunstan/) | Glastonbury / Canterbury (England) | Glastonbury Abbey ruins; Canterbury Cathedral; the Convent of the Holy Child, Mayfield (his tongs) |
 | [St Thomas Becket](/saints/thomas-becket/) | Canterbury (England) | Canterbury Cathedral (the Martyrdom and Trinity Chapel); see [Via Francigena: Canterbury](/pilgrimage/via-francigena/canterbury/) |
