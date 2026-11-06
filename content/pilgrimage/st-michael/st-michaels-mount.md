@@ -20,6 +20,8 @@ map_caption: St Michael's Mount in Mount's Bay, Cornwall.
 </div>
 
 
+The Archangel's own story, in Scripture and in the Church's prayer, is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## The Mount in depth
 
 ### Founding stories: legend and history

@@ -24,6 +24,8 @@ map_caption: Stella Maris on Mount Carmel above Haifa.
 </div>
 
 
+This house is kept for Our Lady and Elijah. The Archangel's own story is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## Stella Maris in depth
 
 ### Founding stories: legend and history

@@ -19,6 +19,8 @@ map_caption: Skellig Michael off the Kerry coast.
 </div>
 
 
+The Archangel's own story, in Scripture and in the Church's prayer, is on [St Michael the Archangel](/saints/michael-the-archangel/).
+
 ## The rock in depth
 
 ### Founding stories: legend and history

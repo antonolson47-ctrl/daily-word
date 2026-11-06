@@ -7,6 +7,8 @@ last_verified: November 6, 2026
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
 There are now 157 entries here, and more are added in batches. The Holy Innocents are one feast, not a list of named children. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
+
+**[St Michael the Archangel](/saints/michael-the-archangel/)**, prince of the heavenly host, is told at length: what Scripture names, what the Church has loved to add, the art made for him, and every sanctuary on [St Michael's Line](/pilgrimage/st-michael/).
 <!--list-->
 
 ## Saints by Place
