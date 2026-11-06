@@ -47,9 +47,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:St Martin of Tours
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/martin-
+ of-tours/
+URL:https://dailywordptl.com/saints/martin-of-tours/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -552,9 +552,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Holy Innocents
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/holy-innoc
+ ents/
+URL:https://dailywordptl.com/saints/holy-innocents/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -584,9 +584,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Sts Basil the Great & Gregory Nazianzen
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/basil-t
+ he-great/
+URL:https://dailywordptl.com/saints/basil-the-great/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -608,9 +608,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:St Elizabeth Ann Seton (US)
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/elizabe
+ th-ann-seton/
+URL:https://dailywordptl.com/saints/elizabeth-ann-seton/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1103,9 +1103,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Sts Philip & James (Lutheran)\; St Joseph the Worker (Catholic)
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/philip-apo
+ stle/
+URL:https://dailywordptl.com/saints/philip-apostle/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1160,9 +1160,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:St Matthias\, Apostle
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/matthias/
+URL:https://dailywordptl.com/saints/matthias/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,9 +1254,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:St Barnabas\, Apostle
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/barnaba
+ s/
+URL:https://dailywordptl.com/saints/barnabas/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1342,9 +1341,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 SUMMARY:Sts Joachim & Anne
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/joachim
+ -and-anne/
+URL:https://dailywordptl.com/saints/joachim-and-anne/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1665,9 +1664,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
 SUMMARY:St Martin of Tours
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/martin-
+ of-tours/
+URL:https://dailywordptl.com/saints/martin-of-tours/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1861,9 +1860,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
 SUMMARY:Holy Innocents
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/holy-innoc
+ ents/
+URL:https://dailywordptl.com/saints/holy-innocents/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1893,9 +1892,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280102
 DTEND;VALUE=DATE:20280103
 SUMMARY:Sts Basil the Great & Gregory Nazianzen
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/basil-t
+ he-great/
+URL:https://dailywordptl.com/saints/basil-the-great/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1904,9 +1903,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280104
 DTEND;VALUE=DATE:20280105
 SUMMARY:St Elizabeth Ann Seton (US)
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/elizabe
+ th-ann-seton/
+URL:https://dailywordptl.com/saints/elizabeth-ann-seton/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2139,9 +2138,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Sts Philip & James (Lutheran)\; St Joseph the Worker (Catholic)
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/philip-apo
+ stle/
+URL:https://dailywordptl.com/saints/philip-apostle/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2161,9 +2160,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280514
 DTEND;VALUE=DATE:20280515
 SUMMARY:St Matthias\, Apostle
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/matthias/
+URL:https://dailywordptl.com/saints/matthias/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2216,9 +2214,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280611
 DTEND;VALUE=DATE:20280612
 SUMMARY:St Barnabas\, Apostle
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/barnaba
+ s/
+URL:https://dailywordptl.com/saints/barnabas/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2303,9 +2301,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280726
 DTEND;VALUE=DATE:20280727
 SUMMARY:Sts Joachim & Anne
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/joachim
+ -and-anne/
+URL:https://dailywordptl.com/saints/joachim-and-anne/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2624,9 +2622,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20281111
 DTEND;VALUE=DATE:20281112
 SUMMARY:St Martin of Tours
-DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/church-year/fe
- asts/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (memorial)\nhttps://dailywordptl.com/saints/martin-
+ of-tours/
+URL:https://dailywordptl.com/saints/martin-of-tours/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2785,9 +2783,9 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20281228
 DTEND;VALUE=DATE:20281229
 SUMMARY:Holy Innocents
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/holy-innoc
+ ents/
+URL:https://dailywordptl.com/saints/holy-innocents/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

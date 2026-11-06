@@ -35,8 +35,25 @@ def wheel():
         a=b
     return f'<svg class=wheel viewBox="0 0 420 420" role=img aria-label="The Church Year wheel">{"".join(out)}<circle cx=210 cy=210 r=92 fill="#fbf5e6"/><text x=210 y=196 text-anchor=middle class=dk style="font-size:15px">The Church Year</text><text x=210 y=218 text-anchor=middle class=dk style="font-size:12px;font-weight:400">Advent 2026 → 2027</text><text x=210 y=238 text-anchor=middle class=dk style="font-size:12px;font-weight:400">Lectionary Year B</text></svg>'
 CYBOX='<div class=cybox data-cy><div class=k>This week in the Church Year</div><p>Loading…</p></div>'
+def _slugbase(slug):
+    return slug.split('#',1)[0] if slug else ''
+def _sainthref(slug):
+    base,frag=slug.split('#',1) if '#' in slug else (slug,'')
+    return f'/saints/{base}/'+(f'#{frag}' if frag else '')
 def saintlink(slug,name,have):
+    if isinstance(slug,(list,tuple)) and slug and isinstance(slug[0],(list,tuple)):
+        bits=[]
+        for label,s in slug:
+            if s and _slugbase(s) in have: bits.append(f'<a href="{_sainthref(s)}">{E(label)}</a>')
+            else: bits.append(E(label))
+        return ''.join(bits)
     return f'<a href="/saints/{slug}/">{E(name)}</a>' if slug and slug in have else E(name)
+def feasturl(slug,have):
+    if isinstance(slug,(list,tuple)) and slug and isinstance(slug[0],(list,tuple)):
+        for label,s in slug:
+            if s and _slugbase(s) in have: return SITE+_sainthref(s)
+        return f'{SITE}/church-year/feasts/'
+    return f'{SITE}/saints/{slug}/' if slug and slug in have else f'{SITE}/church-year/feasts/'
 def photo(k,cred):
     a=A[k]
     if k in cred:
@@ -137,7 +154,7 @@ def build(B,vs):
     for y in (2026,2027,2028):
         for m,d,n,sl,miss,kind in FIXED:
             day=dt.date(y,m,d)
-            if dt.date(2026,11,1)<=day<=dt.date(2028,12,31): add(day,n,'Feast day ('+kind+')',f'{SITE}/saints/{sl}/' if sl and sl in have else f'{SITE}/church-year/feasts/')
+            if dt.date(2026,11,1)<=day<=dt.date(2028,12,31): add(day,n,'Feast day ('+kind+')',feasturl(sl,have))
     # seasons start markers across 2026-2028
     for y in (2026,2027):
         a1=advent1(y);E2=easter(y+1)

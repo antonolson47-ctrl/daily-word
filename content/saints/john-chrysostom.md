@@ -23,7 +23,7 @@ In 438 his body was brought back to Constantinople in honour. Most of the relics
 Pre-Congregation. Doctor of the Church. His memorial on **13 September** is on the General Roman Calendar. The East keeps 13 November, and 27 January for the translation of his relics.
 
 ## Patronages
-Preachers, orators, lecturers, and epileptics. Constantinople claimed him as one of its three holy hierarchs, with Basil and Gregory Nazianzen.
+Preachers, orators, lecturers, and epileptics. Constantinople claimed him as one of its three holy hierarchs, with [Basil the Great](/saints/basil-the-great/) and [Gregory Nazianzen](/saints/gregory-nazianzen/).
 
 ## Trivia
 - "Golden mouth" was a compliment paid after his death. In life his enemies found the mouth the problem.

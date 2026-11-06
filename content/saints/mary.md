@@ -17,7 +17,7 @@ Mary of Nazareth was a young Jewish woman betrothed to Joseph, a carpenter of Da
 
 </div>
 
-**Tradition:** The 2nd-century *Protoevangelium of James* names her parents Joachim and Anne. Ancient tradition places her last years either in Jerusalem or at **Ephesus** with St John, to whom Jesus entrusted her from the Cross.
+**Tradition:** The 2nd-century *Protoevangelium of James* names her parents [Joachim and Anne](/saints/joachim-and-anne/). Ancient tradition places her last years either in Jerusalem or at **Ephesus** with St John, to whom Jesus entrusted her from the Cross.
 
 ## What the Church teaches
 - **Mother of God (*Theotokos*)**, defined at the Council of Ephesus (431): because Jesus is one divine Person, his mother is truly the Mother of God. Luther kept this title and preached on the Magnificat (1521).
