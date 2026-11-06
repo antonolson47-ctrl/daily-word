@@ -17,9 +17,12 @@ Elizabeth was the daughter of King Andrew II of Hungary. At four she was sent to
 The best-known legend says Elizabeth was carrying bread in her cloak to the poor when she met her husband (or her disapproving in-laws), who asked what she was hiding. When she opened her cloak, there were only **roses**, in the middle of winter. The same story is told of her great-niece, [St Elizabeth of Portugal](/saints/elizabeth-of-portugal/).
 
 ### Widowhood
-Ludwig died on crusade in 1227. Elizabeth, at 20, left the Wartburg with her children, became a Franciscan tertiary, and gave her dowry to found a hospital at **Marburg**, where she nursed the sick, including lepers, with her own hands, under the harsh direction of her confessor, Conrad of Marburg. She died on 17 November 1231, aged 24.
+Ludwig died on crusade in 1227. Elizabeth, at 20, left the Wartburg with her children, became a Franciscan tertiary, and gave her dowry to found a hospital at **Marburg**, where she nursed the sick, including lepers, with her own hands, under the harsh direction of her confessor, Conrad of Marburg. She died on 17 November 1231, aged 24. Her handmaids' testimony for the canonisation carries that life. The roses are a later telling.
 
-<div class=warn markdown=1>**History and legend.** Her life is well documented in the testimony of her handmaids for her canonisation. The miracle of the roses is a later legend.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/elizabeth-marburg-600.webp 600w,/static/art/elizabeth-marburg.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/elizabeth-marburg.jpg" alt="The sandstone towers of the Elisabethkirche in Marburg, seen from below against a blue sky." width="1280" height="1933" loading="lazy"></picture>
+<figcaption>The Elisabethkirche in Marburg, built over her tomb, one of the early Gothic churches of Germany. Photo: <a href="https://commons.wikimedia.org/wiki/File:Elisabethkirche_(Marburg)_T%C3%BCrme_aus_SW.jpg">Hydro</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Canonised 1235 by Gregory IX, four years after her death.
@@ -34,4 +37,4 @@ Bakers, the homeless, nurses, Franciscan tertiaries, Catholic charities.
 ## Sources
 - [Catholic Encyclopedia: St Elizabeth of Hungary](https://www.newadvent.org/cathen/05389a.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Marburg photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

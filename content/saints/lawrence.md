@@ -17,9 +17,12 @@ Lawrence was one of the seven deacons of Rome under Pope **Sixtus II**, in charg
 St Ambrose tells the best-known story. The prefect of Rome demanded the Church's treasures. Lawrence asked for three days, gave everything away to the poor, then brought the city's sick, blind, lame and destitute before the prefect: "These are the treasures of the Church."
 
 ### The gridiron
-Ambrose and the poet Prudentius say he was roasted alive on a gridiron, and that halfway through he told his executioners, "I'm done on this side. Turn me over." His humour under torture made him patron of cooks and, half-jokingly, of comedians.
+Ambrose and the poet Prudentius say he was roasted alive on a gridiron, and that halfway through he told his executioners, "I'm done on this side. Turn me over." His humour under torture made him patron of cooks and, half-jokingly, of comedians. His martyrdom in 258 and his burial on the Via Tiburtina are sure. Ambrose, about a hundred years later, already tells the gridiron. Some historians think he was beheaded, like Sixtus, and that the gridiron grew from reading *passus est* ("he suffered") as *assus est* ("he was roasted").
 
-<div class=warn markdown=1>**History or legend?** His martyrdom in 258 and his burial on the Via Tiburtina are certain. Many historians think he was in fact beheaded, like Sixtus, and that the gridiron story came from a misreading of the Latin *passus est* ("he suffered") as *assus est* ("he was roasted"). The story was already told by Ambrose about 100 years later.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/lawrence-rome-600.webp 600w,/static/art/lawrence-rome.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/lawrence-rome.jpg" alt="The columned porch of San Lorenzo fuori le mura in Rome, with a brick church and a clock tower behind it." width="1280" height="817" loading="lazy"></picture>
+<figcaption>San Lorenzo fuori le Mura, the basilica over his tomb on the Via Tiburtina. The porch is later than the fourth century. Photo: <a href="https://commons.wikimedia.org/wiki/File:Basilica_of_Saint_Lawrence_outside_the_Walls.jpg">Livioandronico2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation saint.
@@ -35,4 +38,4 @@ Cooks, the poor, firefighters, librarians, comedians (popular), Rome.
 ## Sources
 - [Vatican News: St Lawrence, deacon and martyr](https://www.vaticannews.va/en/saints/08/10/st--lawrence-deacon--and-martyr.html)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Rome photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

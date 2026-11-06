@@ -17,9 +17,12 @@ John Bosco was born to a poor farming family at Becchi, near Turin. At nine he h
 Ordained in 1841, he found Turin full of homeless boys working in factories, sleeping rough or in prison. He gathered them in an **oratory** in Valdocco, gave them food, schooling and trades, and played with them. In 1859 he founded the **Salesians** (named after St Francis de Sales) and, with St Mary Mazzarello, the Salesian Sisters. His "preventive system" of education rested on reason, religion and loving kindness.
 
 ### Grigio
-Don Bosco had enemies, and was attacked several times on the dark roads near Valdocco. From about 1852, a large grey dog, which he called **Grigio** ("Greyish"), appeared out of nowhere when he was in danger, drove off attackers, would not let him leave the house when danger waited outside, and then vanished. It never ate, and no one knew where it came from. Bosco wrote about it in his *Memoirs* and said it was strange, but true.
+Don Bosco had enemies, and was attacked several times on the dark roads near Valdocco. From about 1852, a large grey dog, which he called **Grigio** ("Greyish"), appeared out of nowhere when he was in danger, drove off attackers, would not let him leave the house when danger waited outside, and then vanished. It never ate, and no one knew where it came from. Bosco wrote about it in his *Memoirs* and said it was strange, but true. The oratory and the Salesians are the work of his life. Grigio is told by Bosco himself and by people who were there. Many read the dog as a guardian sent by Providence.
 
-<div class=warn markdown=1>**History and legend.** His work and the Salesians are fully historical. The Grigio stories come from Bosco himself and early witnesses; many believers read the dog as a guardian sent by Providence.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/bosco-turin-600.webp 600w,/static/art/bosco-turin.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/bosco-turin.jpg" alt="The facade of the Basilica of Mary Help of Christians in Turin, with a rose window, a red door, and the Latin prayer to Mary Help of Christians." width="1280" height="957" loading="lazy"></picture>
+<figcaption>The Basilica of Mary Help of Christians in Turin, where his body lies. Photo: <a href="https://commons.wikimedia.org/wiki/File:Torino_Basilica_di_Santa_Maria_Ausiliatrice_Esterno_Facciata_5.jpg">Zairon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Beatified 1929; canonised on Easter Sunday 1934 by Pius XI, who had met him.
@@ -34,4 +37,4 @@ Young people, students, schoolchildren, editors, magicians and stage illusionist
 ## Sources
 - [Catholic Encyclopedia: St John Bosco](https://www.newadvent.org/cathen/02689d.htm)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. The Turin photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

@@ -13,7 +13,7 @@ Lucy was a young Christian woman martyred at Syracuse during the persecution of 
 
 ## The full story: from Syracuse to the Lucia crown
 
-<div class=warn markdown=1>**History or legend?** What we can rely on: Lucy was a real virgin martyr of **Syracuse** who died around **304**, during Diocletian's persecution. Her cult is very early. A 4th/5th-century Greek inscription found in the catacomb of San Giovanni in Syracuse names her feast, and her name was added to the **Roman Canon** of the Mass, where it is still read today. The story told below comes from her ***Acts*** (*Passio*), written in Greek and Latin probably in the 5th–6th century. Vatican News describes it as "a collection of traditions, popular tales and legends". The famous **eyes** story is later still, from the Middle Ages.</div>
+Lucy was a virgin martyr of **Syracuse** who died around **304**, in Diocletian's persecution. Her cult is very early. A Greek inscription of the 4th or 5th century, found in the catacomb of San Giovanni in Syracuse, names her feast, and her name is in the **Roman Canon** of the Mass, where it is still read. The story below is her ***Acts***, written in Greek and Latin probably in the 5th or 6th century. Vatican News calls that text "a collection of traditions, popular tales and legends". The famous story of the **eyes** is later still, from the Middle Ages.
 
 ### A daughter of Syracuse
 In the Acts, Lucy is born in the late 3rd century to a rich and noble Christian family in Syracuse, the old Greek city on Sicily's east coast. Her father dies when she is small, and her mother **Eutychia** brings her up. Lucy has secretly resolved to give her life to Christ and remain a virgin. Not knowing this, Eutychia promises her in marriage to a young pagan nobleman. Lucy keeps finding reasons to put the wedding off.
@@ -81,4 +81,4 @@ The blind, eye disease, Syracuse.
 - [Nordiska museet: Lucia, history and timeline](https://www.nordiskamuseet.se/en/traditions-celebrations/lucia/)
 - [Skansen: Om Lucia (Swedish)](https://www.skansen.se/se-och-gora/hogtider-traditioner/jul/lucia/)
 
-<p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). Feast days follow the General Roman Calendar unless noted.</p>

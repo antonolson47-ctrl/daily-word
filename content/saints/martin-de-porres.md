@@ -17,9 +17,7 @@ Martin was born in Lima in 1579, the son of a Spanish nobleman and **Ana Velázq
 Martin swept, cooked, cut hair and ran the infirmary. He cared for the sick of the whole city, whatever their race, founded an orphanage and gave out food to the poor every day. He called himself "a poor mulatto" and carried his broom as a sign of humility.
 
 ### Mice, dogs and bilocation
-Many stories gathered round him. He is said to have made peace between a dog, a cat and a mouse who ate from the same bowl, and to have talked the convent's mice into leaving for the garden, where he fed them. Witnesses in his process said he was seen in Mexico, Africa, China and Japan while never leaving Lima, and that he passed through locked doors to reach the sick.
-
-<div class=warn markdown=1>**History and legend.** His life of service is well documented in testimony gathered from 1660. The animal stories and bilocations are pious tradition, though they come from that testimony. He was a close friend of [St Rose of Lima](/saints/rose-of-lima/) and St John Macías.</div>
+Many stories gathered round him. He is said to have made peace between a dog, a cat and a mouse who ate from the same bowl, and to have talked the convent's mice into leaving for the garden, where he fed them. Witnesses in his process said he was seen in Mexico, Africa, China and Japan while never leaving Lima, and that he passed through locked doors to reach the sick. The life of service is in testimony gathered from 1660. The animals and the journeys come from that same testimony. He was a close friend of [St Rose of Lima](/saints/rose-of-lima/) and St John Macías.
 
 ## Path to sainthood
 Beatified 1837 by Gregory XVI; canonised 6 May 1962 by John XXIII, who called him "Martin of Charity".
@@ -34,4 +32,4 @@ People of mixed race, barbers, hairdressers, public health workers, social justi
 ## Sources
 - [Vatican News: St Martin de Porres](https://www.vaticannews.va/en/saints/11/03/st--martin-de-porres--dominican.html)
 
-<p class=src>Written October 16, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 16, 2026 from the sources above. Feast days follow the General Roman Calendar unless noted.</p>

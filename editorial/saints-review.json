@@ -511,81 +511,81 @@
       "note": "Light touch. Gregory of Tours, Hilduin, the three Dionysiuses, and New Advent stay. Photo: the Basilica of Saint-Denis."
     },
     "dunstan": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/dunstan/",
       "title": "St Dunstan",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The reform, the coronation order, the tongs, and New Advent stay. Photo: the ruins of Glastonbury Abbey."
     },
     "elizabeth-of-hungary": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/elizabeth-of-hungary/",
       "title": "St Elizabeth of Hungary",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The handmaids' testimony, the roses, Marburg, and New Advent stay. Photo: the Elisabethkirche."
     },
     "francis-of-paola": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/francis-of-paola/",
       "title": "St Francis of Paola",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Minims, France, the cloak, and the Vatican link stay. Photo: the sanctuary at Paola."
     },
     "john-bosco": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/john-bosco/",
       "title": "St John Bosco",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The oratory, the Salesians, Grigio from his Memoirs, and New Advent stay. Photo: Mary Help of Christians, Turin."
     },
     "joseph-of-cupertino": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/joseph-of-cupertino/",
       "title": "St Joseph of Cupertino",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The sworn testimony, Osimo, Benedict XIV, and New Advent stay. No new picture."
     },
     "lawrence": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/lawrence/",
       "title": "St Lawrence",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. 258, the Via Tiburtina, Ambrose, the passus/assus note, and Vatican News stay. Photo: San Lorenzo fuori le Mura."
     },
     "lucy": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/lucy/",
       "title": "St Lucy",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The inscription, the Roman Canon, the Acts, the eyes, Sweden, and the Vatican links stay. The two Lucia pictures stay. No new picture."
     },
     "martin-de-porres": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/martin-de-porres/",
       "title": "St Martin de Porres",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The 1660 testimony, Rose of Lima, John Macías, and Vatican News stay. No new picture."
     },
     "mary-of-egypt": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/mary-of-egypt/",
       "title": "St Mary of Egypt",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. Sophronius, the Lent reading, and New Advent stay. No new picture."
     },
     "olav": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/olav/",
       "title": "St Olav",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The skalds, Snorri, Stiklestad, the trolls as folklore, and New Advent stay. Photo: Nidaros Cathedral."
     },
     "sebastian": {
-      "status": "deferred",
-      "priority": 2,
+      "status": "enhanced",
+      "batch": 7,
       "url": "/saints/sebastian/",
       "title": "St Sebastian",
-      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "note": "Light touch. The Depositio, Ambrose, the Passio, the encyclopedia's judgment, and the Vatican links stay. The two paintings stay. Photo: San Sebastiano fuori le mura."
     },
     "agatha": {
       "status": "meets_goal",
@@ -1034,24 +1034,12 @@
   },
   "counts": {
     "model": 1,
-    "enhanced": 71,
-    "deferred": 11,
+    "enhanced": 82,
+    "deferred": 0,
     "meets_goal": 74,
     "collection": 157
   },
-  "next_batch_slugs": [
-    "dunstan",
-    "elizabeth-of-hungary",
-    "francis-of-paola",
-    "john-bosco",
-    "joseph-of-cupertino",
-    "lawrence",
-    "lucy",
-    "martin-de-porres",
-    "mary-of-egypt",
-    "olav",
-    "sebastian"
-  ],
+  "next_batch_slugs": [],
   "batch_2_slugs": [
     "anthony-the-abbot",
     "apollonia",
@@ -1121,5 +1109,19 @@
     "columba",
     "cuthbert",
     "denis"
-  ]
+  ],
+  "batch_7_slugs": [
+    "dunstan",
+    "elizabeth-of-hungary",
+    "francis-of-paola",
+    "john-bosco",
+    "joseph-of-cupertino",
+    "lawrence",
+    "lucy",
+    "martin-de-porres",
+    "mary-of-egypt",
+    "olav",
+    "sebastian"
+  ],
+  "review_complete": true
 }
