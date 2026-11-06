@@ -1,0 +1,1056 @@
+{
+  "project": "Daily Word saints editorial",
+  "approach": "light-touch",
+  "model_page": "kevin",
+  "model_commit": "ad103ec5631f44b2a06d18f990e1acb8cafba3a1",
+  "updated": "2026-11-06",
+  "collection_pages": 157,
+  "rule": "Light touch only. Do not rewrite pages that already tell the story. Keep inline links, sources, and useful context; do not move them all into a bibliography. Remove skeptical boxes and harsh asides, and keep the facts those boxes carried. Add a picture only where the page already points to a place or a work and a verified reusable image exists. meets_goal means leave the writing alone. Kevin is the voice model and is not to be churned. The Longinus photograph stays.",
+  "pages": {
+    "kevin": {
+      "status": "model",
+      "url": "/saints/kevin/",
+      "title": "St Kevin of Glendalough",
+      "note": "Merged PR 5. Safety warning on the cliff stays. Do not churn."
+    },
+    "barbara": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/barbara/",
+      "title": "St Barbara",
+      "note": "Light touch. Tower, lightning, Barbarazweige, and New Advent stay. Martyrology and the East kept in prose. Photo: van Eyck, Saint Barbara, 1437."
+    },
+    "catherine-of-alexandria": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/catherine-of-alexandria/",
+      "title": "St Catherine of Alexandria",
+      "note": "Light touch. Passion, Joan, 1969/2002, and the Sinai library note stay, with Vatican and New Advent links. Photo: Monastery of St Catherine."
+    },
+    "dymphna": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/dymphna/",
+      "title": "St Dymphna",
+      "note": "Light touch. The 1240s Life, Geel’s family care, and the Vatican and New Advent links stay. Photo: Sint-Dimpnakerk."
+    },
+    "edmund": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/edmund/",
+      "title": "St Edmund, King and Martyr",
+      "note": "Light touch. Chronicle and Abbo stay attributed in the existing sections. Removed the history-vs-legend box. Photo: Bury St Edmunds abbey ruins."
+    },
+    "holy-innocents": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/holy-innocents/",
+      "title": "The Holy Innocents",
+      "note": "Light touch. Matthew, the refusal to name children, the later numbers, Childermas, and the source links stay. Photo: Church of the Nativity, Bethlehem."
+    },
+    "joachim-and-anne": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/joachim-and-anne/",
+      "title": "Sts Joachim and Anne",
+      "note": "Light touch. Kept the Protoevangelium telling, Apt, Auray, and the source links. Folded the calendar note into the story. Photo: Gherardi, St Anne teaching the Virgin to read."
+    },
+    "margaret-of-antioch": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/margaret-of-antioch/",
+      "title": "St Margaret of Antioch",
+      "note": "Light touch. Dragon, Joan, and the church count stay. Golden Legend caution kept in one sentence; 1969 note kept. Hero credit cleaned. Photo: St Margaret’s, Westminster."
+    },
+    "martin-of-tours": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/martin-of-tours/",
+      "title": "St Martin of Tours",
+      "note": "Light touch. Kept Sulpicius, the Priscillian grief, Martinmas, and the source links. Removed the two colored boxes. Cloak etymology stays in the story. Photos: Marmoutier cliff; 19th-century basilica choir at Tours."
+    },
+    "roch": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/roch/",
+      "title": "St Roch",
+      "note": "Light touch. Dog, dates, brotherhoods, 16 August, Tintoretto, and New Advent stay. Photo: Scuola and church of San Rocco, Venice."
+    },
+    "vitus": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/vitus/",
+      "title": "St Vitus",
+      "note": "Light touch. Passio, dance, and Prague stay, with the Wikipedia and Prague Castle links. Corvey kept in prose. Photo: St Vitus Cathedral."
+    },
+    "wenceslaus": {
+      "status": "enhanced",
+      "batch": 1,
+      "url": "/saints/wenceslaus/",
+      "title": "St Wenceslaus",
+      "note": "Light touch. Duke, murder, carol, Blaník, and the square stay. Otto’s title kept in one sentence. Photo: Myslbek monument, Wenceslas Square."
+    },
+    "anthony-the-abbot": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/anthony-the-abbot/",
+      "title": "St Anthony the Abbot",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "apollonia": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/apollonia/",
+      "title": "St Apollonia",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "barnabas": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/barnabas/",
+      "title": "St Barnabas",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "basil-the-great": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/basil-the-great/",
+      "title": "St Basil the Great",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "beatriz-da-silva": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/beatriz-da-silva/",
+      "title": "St Beatriz da Silva",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "benedict-joseph-labre": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/benedict-joseph-labre/",
+      "title": "St Benedict Joseph Labre",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "bernadette": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/bernadette/",
+      "title": "St Bernadette Soubirous",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "christina-the-astonishing": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/christina-the-astonishing/",
+      "title": "St Christina the Astonishing",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "damien": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/damien/",
+      "title": "St Damien of Molokai",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "dismas": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/dismas/",
+      "title": "St Dismas",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "drogo": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/drogo/",
+      "title": "St Drogo",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "elizabeth-ann-seton": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/elizabeth-ann-seton/",
+      "title": "St Elizabeth Ann Seton",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "erasmus": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/erasmus/",
+      "title": "St Erasmus (St Elmo)",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "expeditus": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/expeditus/",
+      "title": "St Expeditus",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "fiacre": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/fiacre/",
+      "title": "St Fiacre",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "genesius": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/genesius/",
+      "title": "St Genesius",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "gregory-nazianzen": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/gregory-nazianzen/",
+      "title": "St Gregory Nazianzen",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "gregory-the-great": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/gregory-the-great/",
+      "title": "St Gregory the Great",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "hedwig": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/hedwig/",
+      "title": "St Hedwig of Silesia",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "helena": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/helena/",
+      "title": "St Helena",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "hildegard": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/hildegard/",
+      "title": "St Hildegard of Bingen",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "ignatius-of-antioch": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/ignatius-of-antioch/",
+      "title": "St Ignatius of Antioch",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "james-the-less": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/james-the-less/",
+      "title": "St James the Less",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "john-the-baptist": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/john-the-baptist/",
+      "title": "St John the Baptist",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "juliana-of-nicomedia": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/juliana-of-nicomedia/",
+      "title": "St Juliana of Nicomedia",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "leonard-of-noblac": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/leonard-of-noblac/",
+      "title": "St Leonard of Noblac",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "longinus": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/longinus/",
+      "title": "St Longinus",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "luke": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/luke/",
+      "title": "St Luke",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "margaret-of-cortona": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/margaret-of-cortona/",
+      "title": "St Margaret of Cortona",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "maria-goretti": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/maria-goretti/",
+      "title": "St Maria Goretti",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "martha": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/martha/",
+      "title": "St Martha",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "mary": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/mary/",
+      "title": "The Blessed Virgin Mary",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "matthew": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/matthew/",
+      "title": "St Matthew",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "matthias": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/matthias/",
+      "title": "St Matthias",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "moses-the-black": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/moses-the-black/",
+      "title": "St Moses the Black",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "notburga": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/notburga/",
+      "title": "St Notburga",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "onuphrius": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/onuphrius/",
+      "title": "St Onuphrius",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "perpetua-and-felicity": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/perpetua-and-felicity/",
+      "title": "Sts Perpetua and Felicity",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "philip-apostle": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/philip-apostle/",
+      "title": "St Philip the Apostle",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "philip-neri": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/philip-neri/",
+      "title": "St Philip Neri",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "polycarp": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/polycarp/",
+      "title": "St Polycarp",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "rose-of-lima": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/rose-of-lima/",
+      "title": "St Rose of Lima",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "rumwold": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/rumwold/",
+      "title": "St Rumwold",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "simeon-stylites": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/simeon-stylites/",
+      "title": "St Simeon Stylites",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "sunniva": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/sunniva/",
+      "title": "St Sunniva",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "thomas-apostle": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/thomas-apostle/",
+      "title": "St Thomas the Apostle",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "thomas-becket": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/thomas-becket/",
+      "title": "St Thomas Becket",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "ursula": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/ursula/",
+      "title": "St Ursula",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "veronica": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/veronica/",
+      "title": "St Veronica",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "wilgefortis": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/wilgefortis/",
+      "title": "St Wilgefortis",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "zita": {
+      "status": "deferred",
+      "priority": 1,
+      "url": "/saints/zita/",
+      "title": "St Zita",
+      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "agnes": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/agnes/",
+      "title": "St Agnes",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "blaise": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/blaise/",
+      "title": "St Blaise",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "brendan": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/brendan/",
+      "title": "St Brendan the Navigator",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "brigid": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/brigid/",
+      "title": "St Brigid of Kildare",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "catherine-of-siena": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/catherine-of-siena/",
+      "title": "St Catherine of Siena",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "cecilia": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/cecilia/",
+      "title": "St Cecilia",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "columba": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/columba/",
+      "title": "St Columba",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "cuthbert": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/cuthbert/",
+      "title": "St Cuthbert",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "denis": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/denis/",
+      "title": "St Denis",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "dunstan": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/dunstan/",
+      "title": "St Dunstan",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "elizabeth-of-hungary": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/elizabeth-of-hungary/",
+      "title": "St Elizabeth of Hungary",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "francis-of-paola": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/francis-of-paola/",
+      "title": "St Francis of Paola",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "john-bosco": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/john-bosco/",
+      "title": "St John Bosco",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "joseph-of-cupertino": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/joseph-of-cupertino/",
+      "title": "St Joseph of Cupertino",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "lawrence": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/lawrence/",
+      "title": "St Lawrence",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "lucy": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/lucy/",
+      "title": "St Lucy",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "martin-de-porres": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/martin-de-porres/",
+      "title": "St Martin de Porres",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "mary-of-egypt": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/mary-of-egypt/",
+      "title": "St Mary of Egypt",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "olav": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/olav/",
+      "title": "St Olav",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "sebastian": {
+      "status": "deferred",
+      "priority": 2,
+      "url": "/saints/sebastian/",
+      "title": "St Sebastian",
+      "reason": "Still has a history/legend warning. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+    },
+    "agatha": {
+      "status": "meets_goal",
+      "url": "/saints/agatha/",
+      "title": "St Agatha",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "ambrose": {
+      "status": "meets_goal",
+      "url": "/saints/ambrose/",
+      "title": "St Ambrose",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "andrew": {
+      "status": "meets_goal",
+      "url": "/saints/andrew/",
+      "title": "St Andrew",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "anthony-of-padua": {
+      "status": "meets_goal",
+      "url": "/saints/anthony-of-padua/",
+      "title": "St Anthony of Padua",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "athanasius": {
+      "status": "meets_goal",
+      "url": "/saints/athanasius/",
+      "title": "St Athanasius",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "augustine": {
+      "status": "meets_goal",
+      "url": "/saints/augustine/",
+      "title": "St Augustine of Hippo",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "bartholomew": {
+      "status": "meets_goal",
+      "url": "/saints/bartholomew/",
+      "title": "St Bartholomew",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "benedict": {
+      "status": "meets_goal",
+      "url": "/saints/benedict/",
+      "title": "St Benedict",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "carlo-acutis": {
+      "status": "meets_goal",
+      "url": "/saints/carlo-acutis/",
+      "title": "St Carlo Acutis",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "charbel": {
+      "status": "meets_goal",
+      "url": "/saints/charbel/",
+      "title": "St Charbel",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "christopher": {
+      "status": "meets_goal",
+      "url": "/saints/christopher/",
+      "title": "St Christopher",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "clare": {
+      "status": "meets_goal",
+      "url": "/saints/clare/",
+      "title": "St Clare of Assisi",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "cristobal-magallanes": {
+      "status": "meets_goal",
+      "url": "/saints/cristobal-magallanes/",
+      "title": "St Cristóbal Magallanes and Companions",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "dominic": {
+      "status": "meets_goal",
+      "url": "/saints/dominic/",
+      "title": "St Dominic",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "edith-stein": {
+      "status": "meets_goal",
+      "url": "/saints/edith-stein/",
+      "title": "St Edith Stein",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "edward-the-confessor": {
+      "status": "meets_goal",
+      "url": "/saints/edward-the-confessor/",
+      "title": "St Edward the Confessor",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "elizabeth-of-portugal": {
+      "status": "meets_goal",
+      "url": "/saints/elizabeth-of-portugal/",
+      "title": "St Elizabeth of Portugal",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "eulalia": {
+      "status": "meets_goal",
+      "url": "/saints/eulalia/",
+      "title": "St Eulalia",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "faustina": {
+      "status": "meets_goal",
+      "url": "/saints/faustina/",
+      "title": "St Faustina",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "felipe-de-jesus": {
+      "status": "meets_goal",
+      "url": "/saints/felipe-de-jesus/",
+      "title": "St Felipe de Jesús",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "fermin": {
+      "status": "meets_goal",
+      "url": "/saints/fermin/",
+      "title": "St Fermín",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "francis-of-assisi": {
+      "status": "meets_goal",
+      "url": "/saints/francis-of-assisi/",
+      "title": "St Francis of Assisi",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "francis-xavier": {
+      "status": "meets_goal",
+      "url": "/saints/francis-xavier/",
+      "title": "St Francis Xavier",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "francisco-and-jacinta-marto": {
+      "status": "meets_goal",
+      "url": "/saints/francisco-and-jacinta-marto/",
+      "title": "Sts Francisco and Jacinta Marto",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "gemma-galgani": {
+      "status": "meets_goal",
+      "url": "/saints/gemma-galgani/",
+      "title": "St Gemma Galgani",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "genevieve": {
+      "status": "meets_goal",
+      "url": "/saints/genevieve/",
+      "title": "St Genevieve",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "george": {
+      "status": "meets_goal",
+      "url": "/saints/george/",
+      "title": "St George",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "ignatius-of-loyola": {
+      "status": "meets_goal",
+      "url": "/saints/ignatius-of-loyola/",
+      "title": "St Ignatius of Loyola",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "isidore-of-seville": {
+      "status": "meets_goal",
+      "url": "/saints/isidore-of-seville/",
+      "title": "St Isidore of Seville",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "isidore-the-farmer": {
+      "status": "meets_goal",
+      "url": "/saints/isidore-the-farmer/",
+      "title": "St Isidore the Farmer",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "james-the-greater": {
+      "status": "meets_goal",
+      "url": "/saints/james-the-greater/",
+      "title": "St James the Greater (Santiago)",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "januarius": {
+      "status": "meets_goal",
+      "url": "/saints/januarius/",
+      "title": "St Januarius (San Gennaro)",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "jerome": {
+      "status": "meets_goal",
+      "url": "/saints/jerome/",
+      "title": "St Jerome",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "joan-of-arc": {
+      "status": "meets_goal",
+      "url": "/saints/joan-of-arc/",
+      "title": "St Joan of Arc",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-chrysostom": {
+      "status": "meets_goal",
+      "url": "/saints/john-chrysostom/",
+      "title": "St John Chrysostom",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-of-god": {
+      "status": "meets_goal",
+      "url": "/saints/john-of-god/",
+      "title": "St John of God",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-of-the-cross": {
+      "status": "meets_goal",
+      "url": "/saints/john-of-the-cross/",
+      "title": "St John of the Cross",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-paul-ii": {
+      "status": "meets_goal",
+      "url": "/saints/john-paul-ii/",
+      "title": "St John Paul II",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-the-apostle": {
+      "status": "meets_goal",
+      "url": "/saints/john-the-apostle/",
+      "title": "St John the Apostle",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "john-vianney": {
+      "status": "meets_goal",
+      "url": "/saints/john-vianney/",
+      "title": "St John Vianney",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "jose-sanchez-del-rio": {
+      "status": "meets_goal",
+      "url": "/saints/jose-sanchez-del-rio/",
+      "title": "St José Sánchez del Río",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "josemaria-escriva": {
+      "status": "meets_goal",
+      "url": "/saints/josemaria-escriva/",
+      "title": "St Josemaría Escrivá",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "joseph": {
+      "status": "meets_goal",
+      "url": "/saints/joseph/",
+      "title": "St Joseph",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "josephine-bakhita": {
+      "status": "meets_goal",
+      "url": "/saints/josephine-bakhita/",
+      "title": "St Josephine Bakhita",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "juan-diego": {
+      "status": "meets_goal",
+      "url": "/saints/juan-diego/",
+      "title": "St Juan Diego",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "jude": {
+      "status": "meets_goal",
+      "url": "/saints/jude/",
+      "title": "St Jude",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "kateri-tekakwitha": {
+      "status": "meets_goal",
+      "url": "/saints/kateri-tekakwitha/",
+      "title": "St Kateri Tekakwitha",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "louis-ix": {
+      "status": "meets_goal",
+      "url": "/saints/louis-ix/",
+      "title": "St Louis IX",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "mark": {
+      "status": "meets_goal",
+      "url": "/saints/mark/",
+      "title": "St Mark the Evangelist",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "mary-magdalene": {
+      "status": "meets_goal",
+      "url": "/saints/mary-magdalene/",
+      "title": "St Mary Magdalene",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "maximilian-kolbe": {
+      "status": "meets_goal",
+      "url": "/saints/maximilian-kolbe/",
+      "title": "St Maximilian Kolbe",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "michael-the-archangel": {
+      "status": "meets_goal",
+      "url": "/saints/michael-the-archangel/",
+      "title": "St Michael the Archangel",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "monica": {
+      "status": "meets_goal",
+      "url": "/saints/monica/",
+      "title": "St Monica",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "nicholas": {
+      "status": "meets_goal",
+      "url": "/saints/nicholas/",
+      "title": "St Nicholas",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "nuno-alvares-pereira": {
+      "status": "meets_goal",
+      "url": "/saints/nuno-alvares-pereira/",
+      "title": "St Nuno Álvares Pereira",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "oscar-romero": {
+      "status": "meets_goal",
+      "url": "/saints/oscar-romero/",
+      "title": "St Óscar Romero",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "padre-pio": {
+      "status": "meets_goal",
+      "url": "/saints/padre-pio/",
+      "title": "St Pio of Pietrelcina (Padre Pio)",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "pantaleon": {
+      "status": "meets_goal",
+      "url": "/saints/pantaleon/",
+      "title": "St Pantaleon",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "patrick": {
+      "status": "meets_goal",
+      "url": "/saints/patrick/",
+      "title": "St Patrick",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "paul": {
+      "status": "meets_goal",
+      "url": "/saints/paul/",
+      "title": "St Paul",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "peter": {
+      "status": "meets_goal",
+      "url": "/saints/peter/",
+      "title": "St Peter",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "peter-claver": {
+      "status": "meets_goal",
+      "url": "/saints/peter-claver/",
+      "title": "St Peter Claver",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "rafael-guizar": {
+      "status": "meets_goal",
+      "url": "/saints/rafael-guizar/",
+      "title": "St Rafael Guízar y Valencia",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "rita-of-cascia": {
+      "status": "meets_goal",
+      "url": "/saints/rita-of-cascia/",
+      "title": "St Rita of Cascia",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "rosalia": {
+      "status": "meets_goal",
+      "url": "/saints/rosalia/",
+      "title": "St Rosalia",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "scholastica": {
+      "status": "meets_goal",
+      "url": "/saints/scholastica/",
+      "title": "St Scholastica",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "stephen": {
+      "status": "meets_goal",
+      "url": "/saints/stephen/",
+      "title": "St Stephen",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "teresa-of-avila": {
+      "status": "meets_goal",
+      "url": "/saints/teresa-of-avila/",
+      "title": "St Teresa of Ávila",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "teresa-of-calcutta": {
+      "status": "meets_goal",
+      "url": "/saints/teresa-of-calcutta/",
+      "title": "St Teresa of Calcutta",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "therese-of-lisieux": {
+      "status": "meets_goal",
+      "url": "/saints/therese-of-lisieux/",
+      "title": "St Thérèse of Lisieux",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "thomas-aquinas": {
+      "status": "meets_goal",
+      "url": "/saints/thomas-aquinas/",
+      "title": "St Thomas Aquinas",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "thomas-more": {
+      "status": "meets_goal",
+      "url": "/saints/thomas-more/",
+      "title": "St Thomas More",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "valentine": {
+      "status": "meets_goal",
+      "url": "/saints/valentine/",
+      "title": "St Valentine",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    },
+    "vincent-of-saragossa": {
+      "status": "meets_goal",
+      "url": "/saints/vincent-of-saragossa/",
+      "title": "St Vincent of Saragossa",
+      "reason": "Reviewed against the light-touch rule. No history-versus-legend box. Existing story, links, and sources left unchanged."
+    }
+  },
+  "counts": {
+    "model": 1,
+    "enhanced": 11,
+    "deferred": 71,
+    "meets_goal": 74,
+    "collection": 157
+  },
+  "next_batch_slugs": [
+    "anthony-the-abbot",
+    "apollonia",
+    "barnabas",
+    "basil-the-great",
+    "beatriz-da-silva",
+    "benedict-joseph-labre",
+    "bernadette",
+    "christina-the-astonishing",
+    "damien",
+    "dismas",
+    "drogo",
+    "elizabeth-ann-seton"
+  ]
+}

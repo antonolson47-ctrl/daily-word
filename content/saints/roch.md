@@ -13,13 +13,14 @@ The story told of Roch (Rocco, Rock) is the same in its outline wherever the pla
 
 A dog found him. Every day the dog came with a loaf of bread taken from its master's table, and licked the sore. The master, a nobleman usually named Gottardo, followed the dog, found the sick pilgrim, and took him in. Roch recovered. He went home to Montpellier and was not recognised. He was taken for a spy and put in prison. He died there, and only afterwards, by a birthmark or by a paper he carried, did the city learn who it had locked up.
 
-<div class=legend markdown=1>
-
-**History or legend?** The dates will not settle. Some lives put him around 1295–1327, others a generation later, in the plague years after 1348. No contemporary document names him. His cult is real from the fifteenth century, when plague brotherhoods spread across Italy, France, Germany and Spain and wanted a saint who had been sick himself and had not run. In **1969** his feast was dropped from the universal calendar for lack of history. He stays in the Roman Martyrology on **16 August**. The dog and the loaf are how you know him in a painting. Treat the biography as the story the brotherhoods told.
-
-</div>
+The lives do not agree on his years. Some put him around 1295–1327, others a generation later, in the plague years after 1348. His cult is clear from the fifteenth century, when plague brotherhoods spread across Italy, France, Germany and Spain and wanted a saint who had been sick himself and had not run. In **1969** his feast was left off the universal calendar. He stays in the Roman Martyrology on **16 August**. The dog and the loaf are how you know him in a painting.
 
 Venice made the most of him. His body, the city claimed, was brought from Germany in 1485. The church of **San Rocco** and the **Scuola Grande di San Rocco**, with Tintoretto's cycle inside, became one of the great plague-shrines of Europe. Montpellier still claims him as a son.
+
+<figure class=photo>
+<picture><source srcset="/static/art/roch-venice-600.webp 600w,/static/art/roch-venice.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/roch-venice.jpg" alt="The Scuola Grande di San Rocco and the church of San Rocco in Venice: a large stone building with columns beside a church facade topped by a statue, with people in the square." width="1280" height="953" loading="lazy"></picture>
+<figcaption>The Scuola Grande di San Rocco, on the left, and the church of San Rocco beside it. Photo: <a href="https://commons.wikimedia.org/wiki/File:Venezia_Scuola_Grande_di_San_Rocco_%26_Chiesa_di_San_Rocco_1.jpg">Zairon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Venerated by popular devotion from the fifteenth century, before the modern canonisation process. Not on the General Roman Calendar since 1969.
@@ -36,4 +37,4 @@ Against the plague, and then against cholera and epidemic disease; dogs, pilgrim
 - [Catholic Encyclopedia: St Roch](https://www.newadvent.org/cathen/13100c.htm)
 - [Wikipedia: Saint Roch](https://en.wikipedia.org/wiki/Saint_Roch)
 
-<p class=src>Fact-checked on November 2, 2026 against New Advent (Catholic Encyclopedia). His Life is traditional and his historical existence is disputed, and the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 2, 2026 against New Advent (Catholic Encyclopedia). The Venice photograph was added November 6, 2026. The lives give his years differently. Feast days follow the General Roman Calendar unless noted.</p>
