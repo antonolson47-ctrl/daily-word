@@ -17,9 +17,12 @@ Leonard, in his 11th-century *Vita* (the first written life, centuries after him
 His special charism in the *Vita*: prisoners who called on his name saw their chains fall and came to hang them in his church — a forest of iron offerings. Crusaders carried the cult home; Bohemond of Antioch credited Leonard for release from Muslim captivity (1103) and left gifts, turbo-charging a pilgrimage that drew the chained, the pregnant (for safe delivery) and cattle-owners across France, England and Germany.
 
 ### Hundreds of churches
-The scale is the story: hundreds of dedications in England alone, hospitals and leper houses under his name (he shares their patronage in places), and a Limousin shrine on a Santiago side-road. A hermit nobody can date precisely became infrastructure for mercy.
+The scale is the story: hundreds of dedications in England alone, hospitals and leper houses under his name (he shares their patronage in places), and a Limousin shrine on a Santiago side-road. The life we have was written around 1030. The chains hung in his churches, and the dedications across Europe, are the mercy his name kept.
 
-<div class=legend markdown=1>**Legend.** Leonard probably lived in 6th-century Limousin; everything narrative comes from a *Vita* written c. 1030. The prisoner miracles are cult history — the chains hung, the dedications are real even where the biography is not recoverable.</div>
+<figure class=photo>
+<picture><source srcset="/static/art/leonard-noblat-600.webp 600w,/static/art/leonard-noblat.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/leonard-noblat.jpg" alt="The stone collegiate church of Saint-Léonard-de-Noblat, with rounded apses, red tile roofs, and a tower at the right." width="1280" height="853" loading="lazy"></picture>
+<figcaption>The collegiate church at Saint-Léonard-de-Noblat, the town that grew from his hermitage near Limoges. Photo: <a href="https://commons.wikimedia.org/wiki/File:Saint-L%C3%A9onard-de-Noblat_Coll%C3%A9giale_3953.jpg">Reinhardhauke</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
 Pre-Congregation; one of the most widely diffused cults of the medieval West.
@@ -34,4 +37,4 @@ Prisoners and captives, pregnant women, grooms and cattle (regional).
 ## Sources
 - [Catholic Encyclopedia: St Leonard of Limousin, New Advent](https://www.newadvent.org/cathen/09178b.htm)
 
-<p class=src>Written October 19, 2026 from the sources above. Where a story is legend rather than history, the text says so. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Written October 19, 2026 from the sources above. The Noblat photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>

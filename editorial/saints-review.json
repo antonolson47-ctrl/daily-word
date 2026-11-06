@@ -259,88 +259,88 @@
       "note": "Light touch. Luke, Josephus, the feasts, and the places to visit stay. The story is no longer inside a colored box. Photo: the Jordan at Qasr al-Yahud."
     },
     "juliana-of-nicomedia": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/juliana-of-nicomedia/",
       "title": "St Juliana of Nicomedia",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The Passio, Cynewulf, and New Advent stay. No new picture; the Menologion image remains."
     },
     "leonard-of-noblac": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/leonard-of-noblac/",
       "title": "St Leonard of Noblac",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The 1030 Vita, Bohemond, and New Advent stay. Photo: the collegiate church at Saint-Léonard-de-Noblat."
     },
     "longinus": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/longinus/",
       "title": "St Longinus",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Wording only. Bernini photograph and caption left byte-for-byte. Gospel, name, and the lances stay."
     },
     "luke": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/luke/",
       "title": "St Luke",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. Paul, the canticles, and New Advent stay. The story is no longer inside a colored box. Photo: Santa Giustina, Padua."
     },
     "margaret-of-cortona": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/margaret-of-cortona/",
       "title": "St Margaret of Cortona",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. Fra Giunta, the hospital, and New Advent stay. Photo: the basilica above Cortona."
     },
     "maria-goretti": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/maria-goretti/",
       "title": "St Maria Goretti",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The trial, Serenelli’s account, and Vatican News stay. No new picture; the sanctuary photograph remains the hero."
     },
     "martha": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/martha/",
       "title": "St Martha",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The Gospels, the 2021 decree, the Tarasque, and the links stay. Photo: the Tarasque effigy at Tarascon."
     },
     "mary": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/mary/",
       "title": "The Blessed Virgin Mary",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. Scripture, the councils, the Lutheran note, and the shrine links stay. Photo: a detail of the Basilica of the Annunciation, Nazareth."
     },
     "matthew": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/matthew/",
       "title": "St Matthew",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The call, Papias, and the verse links stay. Photo: the synagogue at Capernaum, captioned as later than his booth."
     },
     "matthias": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/matthias/",
       "title": "St Matthias",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. Acts, the later lists, and Van Dyck stay. The Vatican News link now points at the live page. No new picture."
     },
     "moses-the-black": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/moses-the-black/",
       "title": "St Moses the Black",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The Sayings, Palladius, and the sources stay. Photo: the Monastery of Paromeos, Wadi Natrun."
     },
     "notburga": {
-      "status": "deferred",
-      "priority": 1,
+      "status": "enhanced",
       "url": "/saints/notburga/",
       "title": "St Notburga",
-      "reason": "Still has a history/legend box. Later pass should be light-touch only: keep the facts, links, and story; soften the label. Do not rewrite the page."
+      "batch": 4,
+      "note": "Light touch. The sickle, the shrine, and New Advent stay. Photo: the church at Eben am Achensee."
     },
     "onuphrius": {
       "status": "deferred",
@@ -1034,24 +1034,24 @@
   },
   "counts": {
     "model": 1,
-    "enhanced": 35,
-    "deferred": 47,
+    "enhanced": 47,
+    "deferred": 35,
     "meets_goal": 74,
     "collection": 157
   },
   "next_batch_slugs": [
-    "juliana-of-nicomedia",
-    "leonard-of-noblac",
-    "longinus",
-    "luke",
-    "margaret-of-cortona",
-    "maria-goretti",
-    "martha",
-    "mary",
-    "matthew",
-    "matthias",
-    "moses-the-black",
-    "notburga"
+    "onuphrius",
+    "perpetua-and-felicity",
+    "philip-apostle",
+    "philip-neri",
+    "polycarp",
+    "rose-of-lima",
+    "rumwold",
+    "simeon-stylites",
+    "sunniva",
+    "thomas-apostle",
+    "thomas-becket",
+    "ursula"
   ],
   "batch_2_slugs": [
     "anthony-the-abbot",
@@ -1080,5 +1080,19 @@
     "ignatius-of-antioch",
     "james-the-less",
     "john-the-baptist"
+  ],
+  "batch_4_slugs": [
+    "juliana-of-nicomedia",
+    "leonard-of-noblac",
+    "longinus",
+    "luke",
+    "margaret-of-cortona",
+    "maria-goretti",
+    "martha",
+    "mary",
+    "matthew",
+    "matthias",
+    "moses-the-black",
+    "notburga"
   ]
 }
