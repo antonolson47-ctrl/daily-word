@@ -22,6 +22,9 @@ Deacons, stonemasons, headaches.
 - According to a 5th-century account, a priest named Lucian reported finding Stephen's relics in 415 after a dream; much of this story is tradition.
 - His name in Greek, *Stephanos*, means "crown", a play on words early writers loved: the first martyr received the first crown.
 
+## How to recognise him in art
+Stephen is almost always painted **young**, with no beard, because Acts remembers a face "as it had been the face of an angel" (Acts 6:15). He wears the **dalmatic**, the wide-sleeved tunic of a deacon, often in red, the colour of martyrs. He holds **stones**, in his hands, on a book, or resting on his head and shoulders, and the **martyr's palm**. Sometimes he carries a **censer** or a **Gospel book**, the things a deacon carries at the altar. When you see a young deacon with stones, it is the protomartyr. In scenes of his death, look for the young man holding the cloaks at the side: that is Saul, the future [St Paul](/saints/paul/).
+
 ## Songs & music
 Stephen's feast is **26 December**, the second day of Christmas, and in Britain and Ireland it is also **Boxing Day**. Sitting inside the Christmas season, the day gathered carols and folk customs of its own. See the [Feast of Saint Stephen](https://en.wikipedia.org/wiki/Feast_of_Saint_Stephen).
 
