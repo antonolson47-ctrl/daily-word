@@ -2,7 +2,7 @@
 title: St Philip the Apostle
 subtitle: From Bethsaida, who brought people to Jesus
 group: Angels & Apostles
-order: 16
+order: 10
 hero: saint-philip-apostle
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Saint_Philip_l20034-bj4js-01.jpg">St Philip</a>, Anthony van Dyck · public domain, via Wikimedia Commons
 facts: {"Lived": "1st century, Bethsaida and, by tradition, Hierapolis", "Feast day": "3 May (Roman); 1 May (Lutheran)", "Recognised": "Pre-Congregation (biblical)"}

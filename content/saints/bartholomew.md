@@ -2,7 +2,7 @@
 title: St Bartholomew
 subtitle: Apostle, flayed in the tradition, holding his skin in the Sistine
 group: Angels & Apostles
-order: 18
+order: 12
 hero: saint-bartholomew.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Jusepe_de_Ribera,_The_Martyrdom_of_Saint_Bartholomew,_1634,_NGA_72037.jpg">The Martyrdom of Saint Bartholomew (1634)</a>, Jusepe de Ribera · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, National Gallery of Art, via Wikimedia Commons
 facts: {"Lived": "1st century; d. in Armenia (tradition)", "Feast day": "24 August", "Recognised": "Pre-Congregation (apostle)", "Place": "Rome; Armenia"}

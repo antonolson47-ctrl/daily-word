@@ -2,7 +2,7 @@
 title: St Jude
 subtitle: Apostle of desperate causes, not Iscariot
 group: Angels & Apostles
-order: 19
+order: 14
 hero: saint-jude.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:El_Greco_-_St._Jude_Thaddeus_-_Google_Art_Project.jpg">St Jude Thaddeus (c. 1610–14)</a>, El Greco · public domain, via Wikimedia Commons
 facts: {"Lived": "1st century", "Feast day": "28 October (with St Simon)", "Recognised": "Pre-Congregation (apostle)", "Place": "Rome"}

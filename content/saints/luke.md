@@ -2,7 +2,7 @@
 title: St Luke
 subtitle: Evangelist, physician and historian of the early Church
 group: Angels & Apostles
-order: 22
+order: 6
 hero: st-luke
 hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Luke painting the Madonna (a medieval legend), with the winged ox, his symbol.
 facts: {"Lived": "1st century, Antioch (tradition)", "Feast day": "18 October", "Recognised": "Pre-Congregation (evangelist)", "Place": "Antioch; Padua, Italy"}

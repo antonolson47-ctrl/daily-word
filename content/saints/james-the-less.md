@@ -2,7 +2,7 @@
 title: St James the Less
 subtitle: Son of Alphaeus, and a name shared with James of Jerusalem
 group: Angels & Apostles
-order: 17
+order: 11
 hero: saint-james-the-less
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Rubens_apostel_jakobus_mindere_grt.jpg">James the Less</a>, Peter Paul Rubens · public domain, via Wikimedia Commons
 facts: {"Lived": "1st century", "Feast day": "3 May (Roman); 1 May (Lutheran)", "Recognised": "Pre-Congregation (biblical)"}

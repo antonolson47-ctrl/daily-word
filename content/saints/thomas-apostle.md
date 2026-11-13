@@ -2,7 +2,7 @@
 title: St Thomas the Apostle
 subtitle: "My Lord and my God", apostle to India
 group: Angels & Apostles
-order: 20
+order: 15
 hero: st-thomas-apostle
 hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. The Risen Christ invites Thomas to touch his wounds.
 facts: {"Lived": "d. AD 72 (tradition), Mylapore, India", "Feast day": "3 July (Lutheran: 21 December)", "Recognised": "Pre-Congregation (apostle)", "Place": "Galilee; Kerala and Chennai, India"}
