@@ -133,7 +133,7 @@ def build():
         for f in sorted(os.listdir(d)):
             if not f.endswith('.md'): continue
             m,b=load(os.path.join(d,f)); slug=f[:-3]; m['slug']=slug; items.append((m,b))
-        idx=[x for x in items if x[0]['slug']=='index'][0]; subs=sorted([x for x in items if x[0]['slug']!='index'],key=lambda x:int(x[0].get('order',99)))
+        idx=[x for x in items if x[0]['slug']=='index'][0]; subs=sorted([x for x in items if x[0]['slug']!='index'],key=lambda x:float(x[0].get('order',99)))
         secname=idx[0]['title']
         for m,b in subs:
             crumb=f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a> › <a href="{BASE}/{url}/">{secname}</a></div>'.replace('//"','/"')
@@ -142,7 +142,13 @@ def build():
             write(f'{url}/{m["slug"]}',page(m['title'],crumb+hero(m,m['title'],m.get('subtitle',''))+facts+md(addmap(m,b))+verified(m,m['slug']),m.get('subtitle','')))
         groups={}
         for m,b in subs: groups.setdefault(m.get('group','Pages'),[]).append(m)
-        lists=''.join(f'<h2>{g}</h2><div class=cards>'+''.join(f'<a class=card href="{BASE}/{url}/{m["slug"]}/"><b>{html.escape(m["title"])}</b><br><span class=src>{html.escape(m.get("subtitle",""))}</span>{more("Read more")}</a>' for m in ms)+'</div>' for g,ms in groups.items())
+        notes=idx[0].get('group_notes') or {}
+        def glist(g,ms):
+            cards=''.join(f'<a class=card href="{BASE}/{url}/{m["slug"]}/"><b>{html.escape(m["title"])}</b><br><span class=src>{html.escape(m.get("subtitle",""))}</span>{more("Read more")}</a>' for m in ms)
+            note=notes.get(g,'')
+            extra=md(note).replace('<p>','<p class=src>',1) if note else ''
+            return f'<h2>{g}</h2><div class=cards>{cards}</div>'+extra
+        lists=''.join(glist(g,ms) for g,ms in groups.items())
         m,b=idx; parts=addmap(m,b).split('<!--list-->')
         write(url,page(m['title'],f'<div class=crumb><a href="{BASE}/{top[1]}/">{top[0]}</a></div>'.replace('//"','/"')+hero(m,m['title'],m.get('subtitle',''))+md(parts[0])+lists+(md(parts[1]) if len(parts)>1 else '')+verified(m,sec),m.get('subtitle','')))
     m,b=load(os.path.join(C,'pilgrimage','index.md'))

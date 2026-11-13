@@ -2,7 +2,8 @@
 title: Saints
 subtitle: Lives, miracles, feast days and the long road to sainthood
 hero: pieta
-last_verified: November 6, 2026
+last_verified: November 12, 2026
+group_notes: {"Saints of Italy": "[St Mark the Evangelist](/saints/mark/), patron of Venice — see Angels & Apostles."}
 ---
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
@@ -49,7 +50,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Januarius (San Gennaro)](/saints/januarius/) | Naples | Naples Cathedral: the Chapel of the Treasure of San Gennaro; the Catacombs of San Gennaro; the Solfatara at Pozzuoli |
 | [St Rita of Cascia](/saints/rita-of-cascia/) | Cascia / Roccaporena | Basilica of Santa Rita and her convent, Cascia (Umbria); her birthplace and the Scoglio (rock) at Roccaporena |
 | [St Ambrose](/saints/ambrose/) | Milan | Basilica di Sant'Ambrogio, Milan (crypt with his remains) |
-| [St Mark the Evangelist](/saints/mark/) | Venice | St Mark's Basilica, Venice (his tomb under the high altar) |
+| [St Mark the Evangelist](/saints/mark/), patron of Venice — see Angels & Apostles | Venice | St Mark's Basilica, Venice (his tomb under the high altar) |
 | [St Rosalia](/saints/rosalia/) | Palermo | Sanctuary of Santa Rosalia in her cave on Monte Pellegrino; Palermo Cathedral (her silver urn) |
 | [St Agatha](/saints/agatha/) | Catania | Catania Cathedral (Badia di Sant'Agata and her relics); the Festa di Sant'Agata, 3–5 February |
 | [St Gemma Galgani](/saints/gemma-galgani/) | Lucca | Santuario di Santa Gemma (Passionist monastery), Lucca, where her body rests; Casa Giannini, where she lived |
