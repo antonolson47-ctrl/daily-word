@@ -2,7 +2,7 @@
 title: St Andrew
 subtitle: The first-called apostle, brother of Peter
 group: Angels & Apostles
-order: 16
+order: 9
 hero: saint-andrew.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:El_martirio_de_san_Andr%C3%A9s.jpg">The Martyrdom of St Andrew (c. 1675–82)</a>, Bartolomé Esteban Murillo · public domain, via Wikimedia Commons
 facts: {"Lived": "d. c. AD 60 (tradition), Patras", "Feast day": "30 November", "Recognised": "Pre-Congregation (apostle)"}

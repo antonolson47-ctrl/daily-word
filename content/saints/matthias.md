@@ -2,7 +2,7 @@
 title: St Matthias
 subtitle: Chosen by lot to take Judas's place
 group: Angels & Apostles
-order: 18
+order: 13
 hero: saint-matthias
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Saint_Matthias_-_1959.45_-_Yale_University_Art_Gallery.jpg">St Matthias</a>, Anthony van Dyck · public domain, Yale University Art Gallery, via Wikimedia Commons
 facts: {"Lived": "1st century, Jerusalem", "Feast day": "14 May", "Recognised": "Pre-Congregation (biblical)"}

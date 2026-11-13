@@ -2,7 +2,7 @@
 title: St John the Apostle
 subtitle: Son of Zebedee, apostle and evangelist
 group: Angels & Apostles
-order: 17
+order: 7
 hero: saint-john-the-apostle.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_018_(John_the_Evangelist_from_Patmos).jpg">St John the Evangelist on Patmos (c. 1618)</a>, Diego Velázquez · public domain, via Wikimedia Commons
 facts: {"Lived": "d. c. AD 100 (tradition), Ephesus", "Feast day": "27 December", "Recognised": "Pre-Congregation (apostle)"}

@@ -2,7 +2,7 @@
 title: St Matthew
 subtitle: Apostle and Evangelist, the tax collector who followed
 group: Angels & Apostles
-order: 21
+order: 4
 hero: st-matthew
 hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Matthew writing his Gospel, guided by an angel (his symbol).
 facts: {"Lived": "1st century, Capernaum", "Feast day": "21 September", "Recognised": "Pre-Congregation (apostle)", "Place": "Capernaum; Salerno, Italy"}

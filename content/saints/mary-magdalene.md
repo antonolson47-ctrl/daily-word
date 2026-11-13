@@ -2,7 +2,7 @@
 title: St Mary Magdalene
 subtitle: Apostle to the Apostles
 group: Angels & Apostles
-order: 4
+order: 8
 hero: saint-mary-magdalene.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Penitent_Magdalene-Caravaggio_(1594-6).jpg">Penitent Magdalene (c. 1594–96)</a>, Caravaggio · public domain, via Wikimedia Commons
 facts: {"Lived":"1st century AD","Feast day":"22 July (Feast since 2016)","Recognised":"Pre-Congregation"}
