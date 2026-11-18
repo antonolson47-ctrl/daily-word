@@ -9,7 +9,7 @@ facts: {"Lived": "c. 331–387, Thagaste–Ostia", "Feast day": "27 August", "Re
 last_verified: October 15, 2026
 ---
 ## Her story
-We know Monica almost entirely through the *Confessions* of her son, **St Augustine of Hippo**. A Christian from Thagaste in North Africa, married to a pagan with a hot temper, she prayed and wept for years for her brilliant, wayward son. A bishop reassured her that "the son of these tears" would not be lost. She followed Augustine to Italy and saw him baptised in Milan in 387. On the way home, at the port of Ostia, mother and son shared a famous moment of contemplation at a window; she died there days later.
+We know Monica almost entirely through the *Confessions* of her son, [**St Augustine of Hippo**](/saints/augustine/). A Christian from Thagaste in North Africa, married to a pagan with a hot temper, she prayed and wept for years for her brilliant, wayward son. A bishop reassured her that "the son of these tears" would not be lost. She followed Augustine to Italy and saw him baptised in Milan in 387. On the way home, at the port of Ostia, mother and son shared a famous moment of contemplation at a window; she died there days later. His own page now tells that story more fully, and has photographs of Santa Aurea at Ostia and of her tomb in Sant'Agostino in Rome: [St Augustine of Hippo](/saints/augustine/#conversion).
 
 ## Path to sainthood
 Pre-Congregation saint, venerated especially from the Middle Ages.

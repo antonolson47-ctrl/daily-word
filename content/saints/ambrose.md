@@ -13,7 +13,7 @@ last_verified: October 16, 2026
 ## His story
 Ambrose was born in **Trier**, the son of a high Roman official, trained as a lawyer and became governor of the province based at **Milan**. In 374, when the city's bishop died, Arian and Catholic factions fought over the succession. Ambrose came to the cathedral to keep order, and the crowd began to shout "**Ambrose for bishop!**" He was still only a catechumen. Within about a week he was baptised, ordained and consecrated.
 
-He became one of the great bishops of history: a brilliant preacher, a writer of hymns still sung today, and a defender of the Church against the Arians and imperial power. In 386 he and his people occupied a basilica the empress wanted for the Arians, singing hymns night and day. In 390 he made **Emperor Theodosius** do public penance for the massacre at Thessalonica. His preaching helped convert **St Augustine**, whom he baptised at the Easter Vigil of 387.
+He became one of the great bishops of history: a brilliant preacher, a writer of hymns still sung today, and a defender of the Church against the Arians and imperial power. In 386 he and his people occupied a basilica the empress wanted for the Arians, singing hymns night and day. In 390 he made **Emperor Theodosius** do public penance for the massacre at Thessalonica. His preaching helped convert [**St Augustine**](/saints/augustine/#conversion), whom he baptised at the Easter Vigil of 387.
 
 His life was written by his secretary Paulinus soon after his death, so it is well documented. **Legend:** a swarm of bees settled on his face as a baby, a sign of his honeyed eloquence. Another tradition says that at his election a child's voice first cried "Ambrose bishop!"
 
@@ -24,7 +24,7 @@ Pre-Congregation saint; one of the four original Latin **Doctors of the Church**
 Milan, beekeepers, candlemakers, learners.
 
 ## Where to visit
-Basilica di Sant'Ambrogio, Milan (crypt with his remains)
+[Basilica di Sant'Ambrogio](/saints/augustine/#sant-ambrogio), Milan (crypt with his remains). Photographs of the atrium, and of the baptistery under the Duomo where Augustine's baptism is remembered, are on [Augustine's page](/saints/augustine/#places).
 
 ## Trivia
 - The Milanese still use the **Ambrosian Rite**, their own form of the Latin liturgy.
