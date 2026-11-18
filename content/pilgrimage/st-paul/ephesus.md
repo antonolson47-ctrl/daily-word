@@ -52,6 +52,8 @@ Then came the **riot**. The silversmith **Demetrius**, who made silver shrines o
 
 <figure class=photo><picture><source srcset="/static/art/paul-ephesus-mary-600.webp 600w,/static/art/paul-ephesus-mary.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/paul-ephesus-mary.jpg" alt="The House of the Virgin Mary (Meryem Ana Evi) above Ephesus" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The House of the Virgin Mary (Meryem Ana Evi) above Ephesus · Photo: <a href="https://commons.wikimedia.org/wiki/File:House_of_the_Virgin_Mary.jpg">House of the Virgin Mary</a> by No machine-readable author provided. Mfryc assumed (based on copyright, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons</figcaption></figure>
 
+The house on Nightingale Mountain belongs to Mary's own story as well. Her life in Scripture, and the other holy places of her memory, are on [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [UNESCO: Ephesus](https://whc.unesco.org/en/list/1018)
 - [Türkiye museums: Ephesus Archaeological Site](https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS)

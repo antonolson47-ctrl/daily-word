@@ -37,6 +37,8 @@ The message of each is simple and evangelical: **prayer** (above all the Rosary)
 
 <figure class=photo><picture><source srcset="/static/art/ms-cz-chapel-600.webp 600w,/static/art/ms-cz-chapel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/ms-cz-chapel.jpg" alt="The Chapel of the Miraculous Image, Jasna Góra" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Chapel of the Miraculous Image, Jasna Góra · Photo: <a href="https://commons.wikimedia.org/wiki/File:Jasna_G%C3%B3ra_-_Chapel_of_Our_Lady_of_Cz%C4%99stochowa_(8294051574).jpg">Jasna Góra - Chapel of Our Lady of Częstochowa (8294051574)</a> by Motorrad-Presse.com from Berlin, Deutschland, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption></figure>
 <!--list-->
+The Mother of the Lord has her own page, with Scripture, these shrines and the older holy places of her story: [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Shrine of Fátima (official)](https://www.fatima.pt/en)
 - [Sanctuary of Our Lady of Lourdes (official)](https://www.lourdes-france.org/en/)

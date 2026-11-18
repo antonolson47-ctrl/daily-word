@@ -53,6 +53,11 @@ S={
 'Aretha Franklin: Amazing Grace (1972)':[('Amazing Grace','Aretha Franklin')],
 'Dixie Hummingbirds and Soul Stirrers: quartet Sundays':[('Loves Me Like a Rock','The Dixie Hummingbirds'),('Nearer My God to Thee','The Soul Stirrers')],
 'Golden Gate Quartet: Joshua Fit the Battle of Jericho':[('Joshua Fit the Battle of Jericho','Golden Gate Quartet')],
+'Ave Maria (Schubert, 1825)':[('Ave Maria','Schubert')],
+'Bach: Magnificat, BWV 243':[('Magnificat BWV 243','Bach')],
+'Salve Regina (Gregorian chant)':[('Salve Regina','Gregorian chant')],
+'Ave Maris Stella (Gregorian chant)':[('Ave Maris Stella','Gregorian chant')],
+'Hymn: Immaculate Mary (the Lourdes hymn)':[('Immaculate Mary','Lourdes hymn')],
 }
 # artist signature songs (profile Listen links)
 SIG={'handel':[('Hallelujah Chorus','Handel Messiah')],'bach':[('Erbarme dich St Matthew Passion','Bach')],'mozart':[('Ave verum corpus K 618','Mozart')],'faure':[('Requiem Pie Jesu','Fauré')],
