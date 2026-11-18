@@ -97,3 +97,14 @@ M={
  ('Dixie Hummingbirds and Soul Stirrers: quartet Sundays','dixie','Gospel quartets were the Sunday-afternoon music of Black churches across the South.',[('Internet Archive',ia('78_nearer-to-thee_the-soul-stirrers-s.-cook_gbia0004483b')),('Spotify',sp('Dixie Hummingbirds gospel'))]),
  ('Golden Gate Quartet: Joshua Fit the Battle of Jericho',None,'Jubilee quartet harmony of the 1930s–40s.',[('Internet Archive',ia('78_11525-Joshua-fit-the-battle-of-Jericho'))])],
 }
+
+# Songs about Mary (Music page section #mary)
+MARY=[
+ ('Ave Maria (Schubert, 1825)',None,'Franz Schubert set Sir Walter Scott\'s *Ellen\'s Prayer* in 1825; the Latin Ave Maria is often sung to the same melody, and it has become one of the most loved Marian songs in the world.',[('YouTube',yt('Schubert Ave Maria')),('Spotify',sp('Schubert Ave Maria'))]),
+ ('Bach: Magnificat, BWV 243',None,'Mary\'s own song, *Magnificat anima mea Dominum*, in Bach\'s great setting, first heard in Leipzig at Christmas 1723 and later revised.',[('YouTube',yt('Bach Magnificat BWV 243')),('Spotify',sp('Bach Magnificat BWV 243'))]),
+ ('Salve Regina (Gregorian chant)',None,'One of the four Marian antiphons; it closes Compline in much of the year, and ends *O clemens, O pia, O dulcis Virgo Maria*.',[('YouTube',yt('Salve Regina Gregorian chant')),('Spotify',sp('Salve Regina Gregorian chant'))]),
+ ('Stabat Mater (Pergolesi, 1736)',None,'The 13th-century sequence of Mary at the Cross, set by Giovanni Battista Pergolesi weeks before his death at 26.',[('Internet Archive',ia('lp_stabat-mater_giovanni-battista-pergolesi-teresa-stich-r_0'))]),
+ ('Ave Maris Stella (Gregorian chant)',None,'"Hail, star of the sea": a medieval hymn to Mary as guide of travellers, still sung at vespers of many Marian feasts.',[('YouTube',yt('Ave Maris Stella Gregorian chant')),('Spotify',sp('Ave Maris Stella gregorian'))]),
+ ('Hymn: Immaculate Mary (the Lourdes hymn)',None,'The hymn of the Lourdes torchlight procession: "Immaculate Mary, your praises we sing," with the refrain *Ave, ave, ave Maria*.',[('YouTube',yt('Immaculate Mary Lourdes hymn')),('Spotify',sp('Immaculate Mary Lourdes'))]),
+ ('Spiritual: Mary Had a Baby / Go Tell It on the Mountain','fisk','Spirituals of waiting and announcement, collected by John Wesley Work Jr. of Fisk University.',[('YouTube',yt('Fisk Jubilee Singers Go Tell It on the Mountain')),('Library of Congress',loc('fisk jubilee singers'))]),
+]

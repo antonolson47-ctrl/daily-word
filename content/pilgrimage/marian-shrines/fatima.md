@@ -73,6 +73,8 @@ A walk through olive groves leads to **Valinhos**, site of the August 1917 appar
 <figure class=photo><picture><source srcset="/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr-600.webp 600w,/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-fatima-valinhos-and-the-way-of-the-cr.jpg" alt="Valinhos and the Way of the Cross" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Valinhos and the Way of the Cross · Photo: <a href="https://commons.wikimedia.org/wiki/File%3ACalv%C3%A1rio_H%C3%BAngaro_-_Cabe%C3%A7o_dos_Valinhos%2C_F%C3%A1tima_-_39.jpg">Calvário Húngaro - Cabeço dos Valinhos, Fátima - 39</a> · Reis Quarteu · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
 
 
+Our Lady of the Rosary, and the other holy places of Mary's story, are gathered on [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Shrine of Fátima (official)](https://www.fatima.pt/en)
 - [Shrine of Fátima: narrative of the apparitions](https://www.fatima.pt/en/pages/narrative-of-the-apparitions-)

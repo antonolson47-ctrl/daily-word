@@ -68,6 +68,8 @@ A reconstructed 1st-century farm with olive press, terraces and synagogue, staff
 
 
 
+The mother of the Lord, whose house this basilica remembers, has her own page: [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Custody of the Holy Land: Nazareth, Basilica of the Annunciation](https://www.custodia.org/en/sanctuaries/nazareth)
 - [Christian Information Centre: current opening hours](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)

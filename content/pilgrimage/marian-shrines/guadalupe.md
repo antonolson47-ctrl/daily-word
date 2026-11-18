@@ -69,6 +69,8 @@ On the feast, millions of pilgrims, many on foot or on their knees, arrive overn
 
 <figure class=photo><picture><source srcset="/static/art/st2-ma-guadal-12-december-600.webp 600w,/static/art/st2-ma-guadal-12-december.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ma-guadal-12-december.jpg" alt="Pilgrims walking to the Basilica of Guadalupe" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Pilgrims walking to the Basilica of Guadalupe · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APeregrinos_caminando_hacia_la_Bas%C3%ADlica_de_Guadalupe.jpg">Peregrinos caminando hacia la Basílica de Guadalupe</a> · ProtoplasmaKid · CC BY 4.0, via Wikimedia Commons</figcaption></figure>
 
+Our Lady of Guadalupe, and the other holy places of Mary's story, are gathered on [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Basilica of Our Lady of Guadalupe (official)](https://virgendeguadalupe.org.mx/)
 - [Basilica of Guadalupe: timetable](https://virgendeguadalupe.org.mx/horarios/)

@@ -53,6 +53,8 @@ The walk ends with Mary. **Santa Maria Maggiore**, on the top of the Esquiline H
 ### The end of the walk
 Philip Neri's pilgrims ended their day here, before Mary, with thanksgiving. If you started at dawn at the Chiesa Nuova, it is a short bus ride or a 2.5 km walk back. Many walkers end with Vespers.
 
+Mary's life in Scripture, and the other holy places of her memory, are on [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Vatican: Basilica di Santa Maria Maggiore](https://www.vatican.va/various/basiliche/sm_maggiore/index_it.html)
 - [Vatican News: The Seven Churches Pilgrimage, Saint Mary Major](https://www.vaticannews.va/en/church/news/2022-10/seven-churches-pilgrimage-series-basilica-st-mary-major.html)

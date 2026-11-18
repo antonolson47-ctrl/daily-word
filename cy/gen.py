@@ -1,6 +1,6 @@
 import os, json, html, math, datetime as dt, urllib.parse
 from .seasons import SEASONS
-from .music import A, M, CLASSICAL, LINEAGE, APPAL
+from .music import A, M, CLASSICAL, LINEAGE, APPAL, MARY
 from .advent import SUNDAYS, DAILY
 from .cal import FIXED, YB, easter, advent1
 from .songs import S as SONGS, SIG
@@ -62,6 +62,14 @@ def photo(k,cred):
 def profile(k,cred):
     a=A[k]; img,cap=photo(k,cred)
     return f'<div class="card prof" id="{k}">{img}<div><h3>{E(a[0])}</h3><span class=badge>{E(a[2])}</span> <span class=src>{E(a[1])}</span><div>{a[3]}</div><p class=lrow>Listen: {' '.join(listen(x,y) for x,y in SIG[k])}</p><p class=src>Source: <a href="{a[4][1]}">{E(a[4][0])}</a></p></div>{cap}</div>'
+def musicblock_list(items,md):
+    rows=''
+    for t,k,note,links in items:
+        who=f' · <a href="/music/#{k}">{E(A[k][0])}</a>' if k else ''
+        ls=' · '.join(f'<a href="{u}">{E(l)}</a>' for l,u in links)
+        lis=' '.join(listen(a,b) for a,b in SONGS[t])
+        rows+=f'<li><b>{md(t)[3:-4]}</b>{who}<br><span class=src>{md(note)[3:-4]}</span><br><span class=lrow>Listen: {lis}</span><br><span class=src>Also: {ls}</span></li>'
+    return f'<ul>{rows}</ul>'
 def musicblock(slug,md):
     rows=''
     for t,k,note,links in M[slug]:
@@ -203,7 +211,7 @@ The events then appear in your TimeTree view alongside the family calendar.
     pair=''.join(f'<h3><span class=dot style="background:{s["color"]}"></span><a href="/church-year/{s["slug"]}/">{E(s["name"])}</a></h3>'+musicblock(s['slug'],md).split('</h2>',1)[1].rsplit('<p class=src>',1)[0] for s in SEASONS)
     mus=(hero({'hero':'calling-fishermen'},'Music of the Church Year','Bach and Handel, spirituals, holy blues, gospel and mountain hymns')
         +md('''Every season of the Church year has its music, and Christian music in America has come down several streams that keep meeting. Handel and Bach wrote for the liturgy of their own churches. African Americans made the **spirituals** from the Bible stories they heard, hiding hope of freedom inside the Exodus and the Cross. From the spirituals and the work songs came both the **blues** and **gospel**: the same flattened "blue" notes, the same call and response, the same moan, one sung on Saturday night and one on Sunday morning. Many blues singers were preachers' sons or preachers themselves, and the father of gospel, Thomas A. Dorsey, had been a blues pianist. Meanwhile, in the Appalachian hills, **shape-note** singing and mountain hymns became **country gospel** and **bluegrass**, and these streams crossed again and again, as when a Black guitarist named Lesley Riddle taught the Carter Family his songs. All of it, from Leipzig to Clarksdale to Clinch Mountain, sings the same Scriptures.''')
-        +'<p class=src>Jump to: <a href="#season">By season</a> · <a href="#classical">Classical</a> · <a href="#lineage">Spirituals → blues → gospel</a> · <a href="#appalachia">Appalachian &amp; country gospel</a> · <a href="#roots">Why gospel and blues share roots</a></p>'
+        +'<p class=src>Jump to: <a href="#season">By season</a> · <a href="#classical">Classical</a> · <a href="#lineage">Spirituals → blues → gospel</a> · <a href="#appalachia">Appalachian &amp; country gospel</a> · <a href="#roots">Why gospel and blues share roots</a> · <a href="#mary">Songs about Mary</a></p>'
         +f'<h2 id=season>Listening by season</h2>{pair}'
         +'<h2 id=classical>The classical masters</h2>'+lin(CLASSICAL)
         +'<h2 id=lineage>From the spirituals to gospel</h2><div class=lin>'+md('''**1. Spirituals (18th–19th centuries).** Sung in slavery and carried to the world by the Fisk Jubilee Singers from 1871. Songs like *Go Down, Moses* and *Steal Away* were prayers and, sometimes, coded escape plans.''')+lin(['fisk','anderson'])
@@ -220,6 +228,7 @@ The events then appear in your TimeTree view alongside the family calendar.
 - **Same Scriptures.** The Psalms of lament (Psalm 22, 88, 130) sit in the Bible alongside the Psalms of praise. Lent and Holy Week give the Church its "blues"; Easter its gospel.
 
 Mahalia Jackson put it plainly: "Blues are the songs of despair, but gospel songs are the songs of hope." Both are honest prayer.''')
+        +'<h2 id=mary>Songs about Mary</h2>'+md('''The Church has sung of the Mother of the Lord from the beginning. The **Magnificat** is the canticle of Evening Prayer; the Marian antiphons close Compline through the year; later came Schubert\'s *Ave Maria*, the Lourdes hymn, Pergolesi\'s *Stabat Mater*, and spirituals such as *Mary Had a Baby*. A longer telling of her story is on [The Blessed Virgin Mary](/saints/mary/#songs).''')+musicblock_list(MARY,md)
         +md('''## Sources and listening
 - Library of Congress, [National Jukebox](https://www.loc.gov/collections/national-jukebox/) and [audio collections](https://www.loc.gov/audio/)
 - [Internet Archive, 78rpm and LP collections](https://archive.org/details/georgeblood)

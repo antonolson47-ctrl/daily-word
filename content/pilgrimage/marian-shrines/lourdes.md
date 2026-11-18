@@ -75,6 +75,8 @@ The tiny former jail where Bernadette's destitute family lived in one room in 18
 Please credit this with : © Peter P · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
 
 
+Bernadette's Lady is honoured more fully, with the other holy places of her story, on [The Blessed Virgin Mary](/saints/mary/#places).
+
 ## Sources
 - [Sanctuary of Our Lady of Lourdes (official)](https://www.lourdes-france.org/en/)
 - [Lourdes: a place of prayer (sanctuary)](https://www.lourdes-france.org/en/lourdes-a-place-of-prayer/)
