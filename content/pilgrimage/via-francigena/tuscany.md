@@ -50,7 +50,7 @@ Siena's **Duomo**, with its striped marble, inlaid floor and Pisano pulpit, was 
 
 ### Stop by stop
 #### Pavia
-In the basilica of **San Pietro in Ciel d'Oro** lies **St Augustine**, in a marble Gothic tomb (the *Arca*), his relics brought from Sardinia in the 8th century. Boethius is buried in the crypt. Pavia was the Lombard capital, a key stop for Sigeric.
+In the basilica of **San Pietro in Ciel d'Oro** lies [**St Augustine of Hippo**](/saints/augustine/#places), in a marble Gothic tomb (the *Arca*), his relics brought from Sardinia in the 8th century. Boethius is buried in the crypt. Pavia was the Lombard capital, a key stop for Sigeric. His conversion, his writings and the other churches of his memory are on [his own page](/saints/augustine/).
 
 <figure class=photo><picture><source srcset="/static/art/st2-vi-tuscan-pavia-600.webp 600w,/static/art/st2-vi-tuscan-pavia.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-vi-tuscan-pavia.jpg" alt="Pavia" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>Pavia · Photo: <a href="https://commons.wikimedia.org/wiki/File%3APavia_-_Basilica_di_San_Pietro_in_Ciel_d%27Oro_-_2025-09-11_17-58-43_001.jpg">Pavia - Basilica di San Pietro in Ciel d'Oro - 2025-09-11 17-58-43 001</a> · Bubici · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
 

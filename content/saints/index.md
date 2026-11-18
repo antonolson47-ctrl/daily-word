@@ -50,6 +50,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Januarius (San Gennaro)](/saints/januarius/) | Naples | Naples Cathedral: the Chapel of the Treasure of San Gennaro; the Catacombs of San Gennaro; the Solfatara at Pozzuoli |
 | [St Rita of Cascia](/saints/rita-of-cascia/) | Cascia / Roccaporena | Basilica of Santa Rita and her convent, Cascia (Umbria); her birthplace and the Scoglio (rock) at Roccaporena |
 | [St Ambrose](/saints/ambrose/) | Milan | Basilica di Sant'Ambrogio, Milan (crypt with his remains) |
+| [St Augustine of Hippo](/saints/augustine/) | Pavia / Rome | San Pietro in Ciel d'Oro, Pavia (his tomb); Sant'Agostino, Rome (tomb of St Monica) |
 | [St Mark the Evangelist](/saints/mark/), patron of Venice — see Angels & Apostles | Venice | St Mark's Basilica, Venice (his tomb under the high altar) |
 | [St Rosalia](/saints/rosalia/) | Palermo | Sanctuary of Santa Rosalia in her cave on Monte Pellegrino; Palermo Cathedral (her silver urn) |
 | [St Agatha](/saints/agatha/) | Catania | Catania Cathedral (Badia di Sant'Agata and her relics); the Festa di Sant'Agata, 3–5 February |
@@ -155,6 +156,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 
 | Saint | Town | Places to visit |
 |---|---|---|
+| [St Augustine of Hippo](/saints/augustine/) | Thagaste / Hippo (Annaba, Algeria) | Basilica of St Augustine, Annaba, overlooking the ruins of Hippo Regius |
 | [St Simeon Stylites](/saints/simeon-stylites/) | Qal'at Sim'an (Syria) | The ruins of the Church of St Simeon Stylites, northern Syria (check travel advice) |
 | [St Expeditus](/saints/expeditus/) | Melitene (Malatya, Turkey) | Chiesa di San Sebastiano, Acireale (Sicily), a centre of his cult |
 | [St Moses the Black](/saints/moses-the-black/) | Wadi Natrun (Egypt) | Monastery of the Virgin Mary (Paromeos), Wadi Natrun (his relics) |
