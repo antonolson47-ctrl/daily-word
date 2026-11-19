@@ -48,6 +48,9 @@ The Holy Land is not a museum. There are Arab Christian parishes in Bethlehem, B
 
 <figure class=photo><picture><source srcset="/static/art/hl-jordan-600.webp 600w,/static/art/hl-jordan.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hl-jordan.jpg" alt="A pilgrim at the baptism site of Qasr al-Yahud on the Jordan" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>A pilgrim at the baptism site of Qasr al-Yahud on the Jordan · Photo: <a href="https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Christian_Pilgrim_in_Baptism_Ceremony_in_Qasr_Al-Yahud_for_Upcoming_Easter_Holiday.jpg">Flickr - Israel Defense Forces - Christian Pilgrim in Baptism Ceremony in Qasr A</a> by Israel Defense Forces, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption></figure>
 <!--list-->
+
+The emperor who built in the Holy Land, and who is honoured with Helena in the East, is [St Constantine the Great](/saints/constantine/).
+
 ## Sources
 - [Custody of the Holy Land (official)](https://www.custodia.org/en/)
 - [Christian Information Centre, Jerusalem: opening hours of the holy places](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)

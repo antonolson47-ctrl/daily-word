@@ -52,6 +52,9 @@ map_caption: San Lorenzo on the Via Tiburtina, beside the Verano cemetery.
 ### Next on the walk
 West along Via Tiburtina and past Termini station, it's 2.5 km to the last station, [Santa Maria Maggiore](/pilgrimage/rome/santa-maria-maggiore/).
 
+
+The first great church near Lawrence's tomb was a funerary basilica of [St Constantine](/saints/constantine/#churches).
+
 ## Sources
 - [Basilica di San Lorenzo fuori le Mura (official)](https://www.basilicasanlorenzofuorilemura.it/)
 - [Vatican News: The Seven Churches Pilgrimage, St Lawrence Outside the Walls](https://www.vaticannews.va/en/church/news/2022-10/seven-churches-pilgrimage-series-st-lawrence-outside-walls.html)

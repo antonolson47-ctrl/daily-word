@@ -63,7 +63,7 @@ In Catholic teaching an **indulgence** is a remission before God of the temporal
 </div>
 
 ### Saints and stories along the way
-The walk is also a tour of the saints: [St Peter](/saints/peter/) and [St Paul](/saints/paul/), [St Sebastian](/saints/sebastian/) on the Appian Way, St Lawrence and [St Stephen](/saints/stephen/) sharing a tomb, St Helena and the Cross, and Mary as protector of Rome. Off the seven-church route, the Greek Catholic church of Sant'Atanasio dei Greci on Via del Babuino is dedicated to [St Athanasius](/saints/athanasius/#churches), and in St Peter's his statue is one of the four Doctors who hold up Bernini's [Cathedra Petri](/saints/athanasius/#cathedra).
+The walk is also a tour of the saints: [St Peter](/saints/peter/) and [St Paul](/saints/paul/), [St Sebastian](/saints/sebastian/) on the Appian Way, St Lawrence and [St Stephen](/saints/stephen/) sharing a tomb, St Helena and the Cross, [St Constantine](/saints/constantine/) who gave the Church the Lateran and the first St Peter's, and Mary as protector of Rome. Off the seven-church route, the Greek Catholic church of Sant'Atanasio dei Greci on Via del Babuino is dedicated to [St Athanasius](/saints/athanasius/#churches), and in St Peter's his statue is one of the four Doctors who hold up Bernini's [Cathedra Petri](/saints/athanasius/#cathedra).
 <!--list-->
 ## Sources
 - [Vatican News: The Seven Churches Pilgrimage (series, 2022), part 1: St Peter's, with Philip Neri's 1553 itinerary](https://www.vaticannews.va/en/church/news/2022-09/seven-churches-pilgrimage-series-st-peters-baslilica.html)

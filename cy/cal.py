@@ -31,6 +31,7 @@ FIXED=[
 (5,1,'Sts Philip & James (Lutheran); St Joseph the Worker (Catholic)',[('St Philip','philip-apostle'),(' & ',None),('St James','james-the-less'),(' (Lutheran); ',None),('St Joseph the Worker','joseph#worker'),(' (Catholic)',None)],None,'feast'),
 (5,2,'St Athanasius','athanasius',None,'memorial'),
 (5,14,'St Matthias, Apostle','matthias',None,'feast'),
+(5,21,'Sts Constantine & Helena (Eastern Churches)',[('St Constantine','constantine'),(' & ',None),('St Helena','helena')],None,'feast'),
 (5,22,'St Rita of Cascia','rita-of-cascia',None,'optional'),
 (5,31,'Visitation of Mary','mary',None,'feast'),
 (6,11,'St Barnabas, Apostle','barnabas',None,'memorial'),

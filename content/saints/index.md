@@ -134,6 +134,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 
 | Saint | Town | Places to visit |
 |---|---|---|
+| [St Constantine the Great](/saints/constantine/) | York / Constantinople / Rome | York Minster (the bronze of his proclamation); St John Lateran, Old St Peter's legacy, the Holy Sepulchre and the Nativity; Trier's Aula Palatina; Hagia Irene, Istanbul |
 | [St Christina the Astonishing](/saints/christina-the-astonishing/) | Sint-Truiden (Belgium) | Redemptorist church, Sint-Truiden (relics); Brustem |
 | [St Wenceslaus](/saints/wenceslaus/) | Prague (Czech Republic) | St Wenceslas Chapel, St Vitus Cathedral (his tomb); Wenceslas Square statue; Basilica of St Wenceslas, Stará Boleslav |
 | [St Hildegard of Bingen](/saints/hildegard/) | Bingen / Eibingen (Germany) | Abbey of St Hildegard, Eibingen; parish church of Eibingen (her relics); the Hildegard museum and trail, Bingen |

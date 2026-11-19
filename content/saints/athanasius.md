@@ -38,7 +38,7 @@ The most poisonous charge was murder.
 
 His enemies said he had killed a Melitian bishop named **Arsenius**, and had cut off the man's hand for sorcery. They produced a wooden box, and in the box a human hand. The story, as the church historians tell it, turns at the Council of **Tyre** in **335**. Athanasius's friends had already found Arsenius alive, hidden away. When the severed hand was brought out before the bishops as proof, Athanasius had Arsenius led in, and drew back the cloak from both his living hands. Let no one, the later accounts have him say in so many words, look for a third.
 
-The hand in the box could not make a dead man of a man who stood there breathing. So they tried a charge that would move an emperor. They said Athanasius had threatened to hold back the grain fleet from Egypt — the ships that fed Constantinople. **Constantine**, who had given the Church peace and had sat among the bishops at Nicaea, sent the bishop of Alexandria into exile at Trier, in **335** or **336**. It was the first of five.
+The hand in the box could not make a dead man of a man who stood there breathing. So they tried a charge that would move an emperor. They said Athanasius had threatened to hold back the grain fleet from Egypt — the ships that fed Constantinople. **[Constantine](/saints/constantine/)**, who had given the Church peace and had sat among the bishops at Nicaea, sent the bishop of Alexandria into exile at Trier, in **335** or **336**. It was the first of five.
 
 <h2 id=exiles>Five times into exile</h2>
 
@@ -58,7 +58,7 @@ He would not sign, through all five exiles, any creed that made the Son a creatu
 
 <h2 id=nicaea>The Council of Nicaea</h2>
 
-In the summer of **325**, bishops came in from across the empire to the lakeside city of Nicaea in Bithynia. Some still bore the scars of the Great Persecution: missing eyes, maimed hands, the marks of men who had already refused to deny Christ, and had lived to see a Christian emperor. **Constantine**, not yet baptized, took his seat among them. At Alexander of Alexandria's side stood his young deacon, Athanasius, taking notes, already sharper than his years.
+In the summer of **325**, bishops came in from across the empire to the lakeside city of Nicaea in Bithynia. Some still bore the scars of the Great Persecution: missing eyes, maimed hands, the marks of men who had already refused to deny Christ, and had lived to see a Christian emperor. **[Constantine](/saints/constantine/)**, not yet baptized, took his seat among them. At Alexander of Alexandria's side stood his young deacon, Athanasius, taking notes, already sharper than his years.
 
 Arius's slogan was on the table: "there was when he was not." Against it the council set down lines that Christians still stand to say:
 

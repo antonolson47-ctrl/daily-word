@@ -19,7 +19,7 @@ last_verified: November 19, 2026
 </nav>
 
 ## Her story
-Helena (Flavia Julia Helena) was the mother of the emperor **Constantine**. Ancient writers agree she was of humble birth. **[St Ambrose](/saints/ambrose/)**, preaching decades after her death, called her a *stabularia*, a stable-girl or innkeeper. Constantine rose, and she rose with him: he gave her the title Augusta, and coins were struck in her name. Around **326–328**, already an old woman, she travelled to the Holy Land.
+Helena (Flavia Julia Helena) was the mother of the emperor **[St Constantine](/saints/constantine/)**. Ancient writers agree she was of humble birth. **[St Ambrose](/saints/ambrose/)**, preaching decades after her death, called her a *stabularia*, a stable-girl or innkeeper. Constantine rose, and she rose with him: he gave her the title Augusta, and coins were struck in her name. Around **326–328**, already an old woman, she travelled to the Holy Land.
 
 What she certainly did there was build. She founded churches at **[Bethlehem](/pilgrimage/holy-land/bethlehem/)**, over the cave of the Nativity, and on the **[Mount of Olives](/pilgrimage/holy-land/jerusalem/)**. Constantine himself was building the great basilica over the tomb of Christ in Jerusalem, the church that became the [Holy Sepulchre](/pilgrimage/holy-land/jerusalem/). Helena's journey belongs to that building campaign. She died about **330**, and a huge porphyry sarcophagus connected with her is in the Vatican Museums.
 
@@ -152,7 +152,7 @@ Santa Croce is a **stational church** of Rome. On **Laetare Sunday**, the Fourth
 </figure>
 
 ## Path to sainthood
-Pre-Congregation saint, honoured in East and West from the fourth century. Her feast is **18 August** in the Roman Martyrology. She is not on the universal General Roman Calendar. In the East she is remembered with Constantine on 21 May. The finding itself is kept, as above, on the [Exaltation of the Holy Cross](/church-year/feasts/) (14 September), and in older use on 3 May.
+Pre-Congregation saint, honoured in East and West from the fourth century. Her feast is **18 August** in the Roman Martyrology. She is not on the universal General Roman Calendar. In the East she is remembered with [Constantine](/saints/constantine/) on 21 May. The finding itself is kept, as above, on the [Exaltation of the Holy Cross](/church-year/feasts/) (14 September), and in older use on 3 May.
 
 ## Patronages
 New discoveries, converts, archaeologists, difficult marriages. Invoked by people looking for what has been lost.

@@ -72,6 +72,9 @@ East of town, Franciscan and Orthodox sites remember the angels' announcement (L
 
 The empress who raised the first church over this cave, and the story of her pilgrimage, are told on [St Helena](/saints/helena/#holy-land).
 
+
+The first basilica over this cave was raised by [St Constantine](/saints/constantine/#churches) and [St Helena](/saints/helena/#holy-land).
+
 ## Sources
 - [Custody of the Holy Land: Bethlehem, Basilica of the Nativity](https://www.custodia.org/en/sanctuaries/bethlehem)
 - [Christian Information Centre: current opening hours](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)
