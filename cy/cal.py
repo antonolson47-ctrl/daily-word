@@ -56,7 +56,7 @@ FIXED=[
 (8,29,'Passion of St John the Baptist','john-the-baptist',None,'memorial'),
 (9,3,'St Gregory the Great','gregory-the-great',None,'memorial'),
 (9,13,'St John Chrysostom','john-chrysostom',None,'memorial'),
-(9,14,'Exaltation of the Holy Cross',None,None,'feast'),
+(9,14,'Exaltation of the Holy Cross','helena',None,'feast'),
 (9,21,'St Matthew, Apostle & Evangelist','matthew',None,'feast'),
 (9,23,'St Pio of Pietrelcina','padre-pio',None,'memorial'),
 (9,29,'Sts Michael, Gabriel & Raphael','michael-the-archangel',None,'feast'),

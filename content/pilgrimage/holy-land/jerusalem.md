@@ -82,6 +82,8 @@ The retaining wall of Herod's Temple platform. Just south, the **Davidson Center
 <figure class=photo><picture><source srcset="/static/art/st2-ho-jerusa-the-western-wall-and-the-david-600.webp 600w,/static/art/st2-ho-jerusa-the-western-wall-and-the-david.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-jerusa-the-western-wall-and-the-david.jpg" alt="The Western Wall and the Davidson Center" loading="lazy" style="width:100%;height:auto;border-radius:10px"></picture><figcaption class=src>The Western Wall and the Davidson Center · Photo: <a href="https://commons.wikimedia.org/wiki/File%3AWestern_Wall_in_Passover_2022.jpg">Western Wall in Passover 2022</a> · DGtal · CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure>
 
 
+The finding of the True Cross, the Chapel of St Helena beneath the Holy Sepulchre, and the Eleona on the Mount of Olives are told more fully on [St Helena](/saints/helena/#true-cross).
+
 ## Sources
 - [Christian Information Centre: opening hours of the holy places (15 September 2026)](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)
 - [Custody of the Holy Land: Gethsemane](https://www.custodia.org/en/sanctuaries/gethsemane)
