@@ -167,6 +167,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Polycarp](/saints/polycarp/) | Smyrna (İzmir, Turkey) | Church of St Polycarp, İzmir |
 | [Sts Perpetua and Felicity](/saints/perpetua-and-felicity/) | Carthage (Tunisia) | The Roman amphitheatre of Carthage; ruins of the Basilica Maiorum |
 | [St Apollonia](/saints/apollonia/) | Alexandria (Egypt) | Honoured across Europe; relics claimed in many churches |
+| [St Athanasius](/saints/athanasius/) | Alexandria (Egypt) | St Mark's Coptic Cathedral, Cairo (relic returned in 1973); San Zaccaria, Venice; Sant'Atanasio dei Greci and the Cathedra Petri, Rome |
 | [St Onuphrius](/saints/onuphrius/) | Egyptian desert | Sant'Onofrio al Gianicolo, Rome; Monastery of St Onuphrius, Jerusalem |
 | [St Helena](/saints/helena/) | Jerusalem / Rome | Church of the Holy Sepulchre and the basilicas at Bethlehem and the Mount of Olives; Santa Croce in Gerusalemme, Rome |
 | [St Veronica](/saints/veronica/) *(legend)* | Jerusalem | The Sixth Station on the Via Dolorosa; a cloth called the Veronica was long shown at St Peter's, Rome |
