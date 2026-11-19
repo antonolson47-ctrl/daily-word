@@ -38,7 +38,7 @@ Excavations under the basilica in **1939–1949** found the necropolis and the t
 ### Altars and architecture
 - **The papal altar and baldacchino**: Bernini's twisting bronze canopy, nearly 29 m high, rises over the altar where only the Pope (or a cardinal he delegates) celebrates. Tradition says bronze was stripped from the Pantheon portico for it; the documents show bronze from the Pantheon was used for the basilica works, hence the Roman quip "what the barbarians did not do, the Barberini did."
 - **The Confessio**: the sunken chapel in front of the altar, lit by 99 oil lamps, leading down to the level of the tomb.
-- **The Cathedra Petri** (1657–66): Bernini's gilded bronze throne held up by four Doctors of the Church, enclosing an old wooden chair long venerated as Peter's (in fact largely a 9th-century throne given by Charles the Bald), under the alabaster window of the **Holy Spirit as a dove**.
+- **The Cathedra Petri** (1657–66): Bernini's gilded bronze throne held up by four Doctors of the Church — [Ambrose](/saints/ambrose/) and [Augustine](/saints/augustine/) of the West, [Athanasius](/saints/athanasius/#cathedra) and [John Chrysostom](/saints/john-chrysostom/) of the East — enclosing an old wooden chair long venerated as Peter's (in fact largely a 9th-century throne given by Charles the Bald), under the alabaster window of the **Holy Spirit as a dove**.
 - **The dome**: 136.6 m to the top of the cross; the drum's mosaic inscription reads *TV ES PETRVS ET SVPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM*, "You are Peter, and on this rock I will build my church" (Matthew 16:18, in Latin).
 - **The Holy Door**: the farthest right of the five doors, opened only in Jubilee years.
 

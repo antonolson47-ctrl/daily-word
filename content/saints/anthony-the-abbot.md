@@ -19,10 +19,10 @@ Anthony was born to a wealthy Christian family in Upper Egypt. At about 20 he he
 ## The full story
 
 ### The temptations
-His *Life* by **St Athanasius**, written just after his death, was a bestseller of the ancient world and helped spread monasticism everywhere. It tells how demons attacked Anthony with visions of wealth and lust, beat him and appeared as wild beasts, while he answered with prayer. St Augustine wrote that reading this Life helped bring about his own conversion. These temptations inspired painters from **Bosch** and **Grünewald** to Dalí.
+His *Life* by **[St Athanasius](/saints/athanasius/)**, written just after his death, was a bestseller of the ancient world and helped spread monasticism everywhere. It tells how demons attacked Anthony with visions of wealth and lust, beat him and appeared as wild beasts, while he answered with prayer. St Augustine wrote that reading this Life helped bring about his own conversion. These temptations inspired painters from **Bosch** and **Grünewald** to Dalí.
 
 ### The pig and the fire
-In the Middle Ages the Hospitallers of St Anthony cared for victims of "St Anthony's fire" (ergotism, a poisoning from mouldy rye). Their pigs were allowed to roam the streets with bells, which is why Anthony is shown with a pig and a bell, and why animals are blessed on his feast. Athanasius knew him. The demons in the Life are the spiritual combat his monks have prayed with ever since.
+In the Middle Ages the Hospitallers of St Anthony cared for victims of "St Anthony's fire" (ergotism, a poisoning from mouldy rye). Their pigs were allowed to roam the streets with bells, which is why Anthony is shown with a pig and a bell, and why animals are blessed on his feast. Athanasius knew him; his own long fight for the faith, and the writing of the *Life* while he was in hiding, are told on [St Athanasius](/saints/athanasius/#exiles). The demons in the Life are the spiritual combat his monks have prayed with ever since.
 
 ## Path to sainthood
 Pre-Congregation saint.
