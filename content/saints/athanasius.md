@@ -30,6 +30,8 @@ Nicaea answered with a word Arius would not say. The Son is *homoousios*, of one
 
 He became bishop of Alexandria in **328**, still a young man, chosen by the people of his city when Alexander died. He would hold that see for some forty-five years, and be driven from it five times. Emperors would send him north to Trier and west to Rome, soldiers would surround his church at night, and for years he would live as a hunted man among the monks of the Egyptian desert. When a visitor told him the world was against him, later tradition put a Latin sentence on the answer he had already lived: *Athanasius contra mundum* — Athanasius against the world. He did not coin the slogan. He lived the fact.
 
+In those same years the desert beyond the city already had a father. A generation earlier, around **270**, a young Egyptian named **[Anthony](/saints/anthony-the-abbot/)** had heard in church the words of the Gospel: "If you would be perfect, go, sell what you possess and give to the poor" (Matthew 19:21). He did exactly that. He gave away his inheritance and went into the wilderness, and the monks who gathered around him would come to call him the father of monasticism. Athanasius knew him, and honoured him. The bond would matter more than either man could yet see. In about **338**, when the faith of Nicaea was under pressure, Anthony himself came into Alexandria to stand with it.
+
 <h2 id=tyre>The hand in the box</h2>
 
 He was not a comfortable man, and he made enemies who were not comfortable either. The **Melitians**, a hard party that had split from the Alexandrian church over how to treat Christians who had lapsed in the Great Persecution, would not accept his election. They found allies at court in the **Eusebian** party — men around Eusebius of Nicomedia who wanted a softer creed, and a quieter bishop in Egypt. The charges came in a drumbeat: violence, the breaking of a chalice (a priest of Athanasius named Macarius was said to have smashed the cup of a Melitian named Ischyras), even magic.
@@ -42,15 +44,40 @@ The hand in the box could not make a dead man of a man who stood there breathing
 
 <h2 id=exiles>Five times into exile</h2>
 
-**Trier**, the northern capital on the Moselle, was the first: **335/336–337**. Athanasius was still there when Constantine died. Constantine's son Constantine II sent him home.
+**Trier**, the northern capital on the Moselle, was the first: **335/336–337**. Athanasius was still there when Constantine died.
 
-He was not home for long. In **339** a rival bishop, Gregory, was installed in Alexandria. Athanasius fled to **Rome**, where **Pope Julius I** received him as a brother. For years the West stood with him. He came back in **346** to a jubilant city, and had a golden decade of preaching and writing in his own church.
+When Constantine died in **337**, the empire was divided among his three sons. **Constantine II** held the far West, and it was he who sent Athanasius home from Trier. **Constans** soon held Italy and the rest of the West; he favoured the faith of Nicaea, and would prove the bishop's shield. **Constantius II** held the East. He favoured the Arian and Homoian parties, who wanted a softer word than *homoousios*, and a quieter man in Alexandria. The five exiles of Athanasius would turn on that family quarrel.
 
-Then the night of **8 February 356**. Soldiers under the general Syrianus surrounded the church of Theonas in Alexandria, where Athanasius was keeping a vigil with his people. He waited until they could get out, then slipped away in the confusion and the dark. For six years he lived as a hunted man among the monks of the Egyptian desert — the friends he had from his bond with **[St Anthony the Abbot](/saints/anthony-the-abbot/)**. A rival named George of Cappadocia sat in his chair. The pagan emperor **Julian**, who had briefly allowed exiles home in **362**, soon ordered him out again. Later writers say Julian called him "hardly a man, only a little fellow," and still could not break him. Athanasius went back into hiding; Julian was dead within the year.
+<div class=timeline markdown=1>
 
-The last expulsion came in **365**, under the emperor Valens. Tradition holds that Athanasius hid for some months in his father's tomb. The city would not accept his absence. He was restored in **366**, and the last seven years of his life were spent, at last, in peace, in his own see.
+### 335/336–337 · First exile, to Trier
+Under **[Constantine](/saints/constantine/)**. Recalled by Constantine II after his father's death.
 
-Through all of this he had one friendship that outlasted emperors. He had known the great hermit of the desert, Anthony. After Anthony's death in **356**, while Athanasius himself was in hiding, he wrote the *Life of Antony*. The book did what no imperial edict could do. It carried the monastic life out of Egypt and into the Latin world. A generation later, in a garden in Milan, **[St Augustine](/saints/augustine/)** would hear of men who had read that Life and given up everything — and it helped to turn him too.
+### 339–346 · Second exile, in Rome
+Under Constantius II. Constans, in the West, pressed for his return.
+
+### 356–362 · Third exile, in the desert
+Under Constantius II, now sole emperor.
+
+### 362–363 · Fourth exile
+**Julian** recalled the exiles, then banished him again.
+
+### 365–366 · Fifth exile
+**Jovian** had restored him in 363. **Valens**, who favoured the Arians, drove him out once more. He was home for good in 366.
+
+</div>
+
+He was not home for long. In **339**, under Constantius, a rival bishop, Gregory, was installed in Alexandria. Athanasius fled to **Rome**, where **Pope Julius I** received him as a brother. For years the West stood with him — and Constans made that stand felt. He came back in **346**, after Constans's pressure on his brother, to a jubilant city, and had a golden decade of preaching and writing in his own church.
+
+The shield did not last. In **350** Constans was killed, and a usurper named **Magnentius** seized the West. Constantius defeated him in **353**, and was at last sole emperor. The court that had been held in check now moved against the bishop of Alexandria. Synods at **Arles** in **353** and **Milan** in **355** were pressed to condemn him. In the years of those synods, bishops who would not join the condemnation — among them **Liberius of Rome**, the aged **Hosius of Cordoba** who had sat at Nicaea, **Hilary of Poitiers**, **Eusebius of Vercelli**, and **Lucifer of Cagliari** — were exiled or held under imperial pressure. The charges brought against Athanasius were the kind that move an emperor: that he had set Constans against Constantius; that he had written to the usurper Magnentius; that he had used the new church in the Caesareum before it was dedicated; that he had again interfered with the grain. Some of this he denied in writing, and the worst of it was never proved. It did not matter. Constantius wanted him gone, and a man named **George of Cappadocia** was waiting for the chair. (George would be installed in **357**.)
+
+Then the night of **8 February 356**. Soldiers under the general Syrianus surrounded the church of Theonas in Alexandria, where Athanasius was keeping a vigil with his people. The general had come with an imperial order to seize him. Athanasius waited until his people could get out, then slipped away in the confusion and the dark. For six years he lived as a hunted man among the monks of the Egyptian desert — the friends he had from his bond with **[St Anthony the Abbot](/saints/anthony-the-abbot/)**. George of Cappadocia sat in his chair.
+
+The pagan emperor **Julian**, who had briefly allowed exiles home in **362**, soon ordered him out again. Later writers say Julian called him "hardly a man, only a little fellow," and still could not break him. Athanasius went back into hiding; Julian was dead within the year.
+
+After Julian's death, the emperor **Jovian** (**363–364**) restored him. The last expulsion came in **365**, under the emperor **Valens**, who favoured the Arians. Tradition holds that Athanasius hid for some months in his father's tomb. The city would not accept his absence. He was restored in **366**, and the last seven years of his life were spent, at last, in peace, in his own see.
+
+The friendship with Anthony outlasted emperors. Anthony died in **356**, the same year the soldiers came. While Athanasius himself was in hiding among Anthony's monks, he wrote the *Life of Antony*. The book did what no imperial edict could do. It carried the monastic life out of Egypt and into the Latin world. A generation later, in a garden in Milan, **[St Augustine](/saints/augustine/)** would hear of men who had read that Life and given up everything — and it helped to turn him too.
 
 He died in Alexandria, in peace, on **2 May 373**. Gregory Nazianzen, preaching not long after, called him the pillar of the Church.
 
