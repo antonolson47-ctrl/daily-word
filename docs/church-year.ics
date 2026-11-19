@@ -1202,6 +1202,17 @@ URL:https://dailywordptl.com/church-year/ordinary-time/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:20270521-3744f8d3f7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Sts Constantine & Helena (Eastern Churches)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/constantin
+ e/
+URL:https://dailywordptl.com/saints/constantine/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:20270522-b807adf835@dailywordptl.com
 DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270522
@@ -2161,6 +2172,17 @@ DTEND;VALUE=DATE:20280515
 SUMMARY:St Matthias\, Apostle
 DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/matthias/
 URL:https://dailywordptl.com/saints/matthias/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280521-3744f8d3f7@dailywordptl.com
+DTSTAMP:20261022T150000Z
+DTSTART;VALUE=DATE:20280521
+DTEND;VALUE=DATE:20280522
+SUMMARY:Sts Constantine & Helena (Eastern Churches)
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/constantin
+ e/
+URL:https://dailywordptl.com/saints/constantine/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

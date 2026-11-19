@@ -60,6 +60,9 @@ Along the Aurelian Walls, it's a 1 km walk east to [Santa Croce in Gerusalemme](
 
 The tradition that St Helena brought the Holy Stairs from Jerusalem is told with her other relics on [St Helena](/saints/helena/#relics).
 
+
+The emperor who gave this palace to the Church, and the other basilicas of his reign, are told on [St Constantine the Great](/saints/constantine/#churches).
+
 ## Sources
 - [Vatican: Arcibasilica di San Giovanni in Laterano](https://www.vatican.va/various/basiliche/san_giovanni/index_it.html)
 - [Vatican News: The Seven Churches Pilgrimage, St John Lateran](https://www.vaticannews.va/en/church/news/2022-09/seven-churches-pilgrimage-series-st-john-lateran-basilica.html)

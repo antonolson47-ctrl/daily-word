@@ -52,6 +52,9 @@ Under the papal altar lies a large marble **sarcophagus**, never opened in moder
 ### Next on the walk
 From San Paolo the pilgrims climbed east along the **Via delle Sette Chiese**, about 3 km through quiet streets, to [San Sebastiano](/pilgrimage/rome/san-sebastiano/) on the Appian Way.
 
+
+The first basilica over Paul's tomb was a foundation of [St Constantine](/saints/constantine/#churches), who also built at the Lateran, the Vatican, San Lorenzo and Sant'Agnese.
+
 ## Sources
 - [Vatican: Basilica di San Paolo fuori le Mura](https://www.vatican.va/various/basiliche/san_paolo/index_it.html)
 - [Benedict XVI, Homily closing the Pauline Year, 28 June 2009 (the tomb findings)](https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090628_chius-anno-paolino.html)

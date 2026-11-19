@@ -84,6 +84,9 @@ The retaining wall of Herod's Temple platform. Just south, the **Davidson Center
 
 The finding of the True Cross, the Chapel of St Helena beneath the Holy Sepulchre, and the Eleona on the Mount of Olives are told more fully on [St Helena](/saints/helena/#true-cross).
 
+
+The emperor who ordered the Holy Sepulchre built, and the story of his vision, his churches and his baptism, are told on [St Constantine the Great](/saints/constantine/#churches).
+
 ## Sources
 - [Christian Information Centre: opening hours of the holy places (15 September 2026)](https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land)
 - [Custody of the Holy Land: Gethsemane](https://www.custodia.org/en/sanctuaries/gethsemane)

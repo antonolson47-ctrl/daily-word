@@ -65,6 +65,9 @@ Excavations under the basilica in **1939–1949** found the necropolis and the t
 ### Next on the walk
 From St Peter's, Philip's pilgrims crossed the city to [St Paul Outside the Walls](/pilgrimage/rome/st-paul-outside-the-walls/), about 7 km south along the Tiber.
 
+
+Old St Peter's, the Constantinian basilica that first covered this tomb, and its afterlife in the church we see, are told on [St Constantine the Great](/saints/constantine/#churches).
+
 ## Sources
 - [St Peter's Basilica (official site of the Fabbrica di San Pietro)](https://www.basilicasanpietro.va/en.html)
 - [Excavations Office (Scavi) under St Peter's](https://www.scavi.va/)
