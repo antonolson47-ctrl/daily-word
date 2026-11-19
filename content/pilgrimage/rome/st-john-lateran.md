@@ -58,6 +58,8 @@ The octagonal **Lateran Baptistery**, founded under Constantine and rebuilt by *
 ### Next on the walk
 Along the Aurelian Walls, it's a 1 km walk east to [Santa Croce in Gerusalemme](/pilgrimage/rome/santa-croce/).
 
+The tradition that St Helena brought the Holy Stairs from Jerusalem is told with her other relics on [St Helena](/saints/helena/#relics).
+
 ## Sources
 - [Vatican: Arcibasilica di San Giovanni in Laterano](https://www.vatican.va/various/basiliche/san_giovanni/index_it.html)
 - [Vatican News: The Seven Churches Pilgrimage, St John Lateran](https://www.vaticannews.va/en/church/news/2022-09/seven-churches-pilgrimage-series-st-john-lateran-basilica.html)

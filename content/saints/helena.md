@@ -6,22 +6,153 @@ order: 22
 hero: saint-helena.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano,_Saint_Helena,_c._1495,_NGA_46111.jpg">Saint Helena (c. 1495)</a>, Cima da Conegliano · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, National Gallery of Art, via Wikimedia Commons
 facts: {"Lived": "c. 248–330, Bithynia–Holy Land", "Feast day": "18 August (Roman Martyrology)", "Recognised": "Pre-Congregation", "Place": "Jerusalem / Rome"}
-last_verified: November 2, 2026
+last_verified: November 19, 2026
 ---
+<nav class=toc aria-label="On this page">
+<div class=k>On this page</div>
+<ol>
+<li><a href="#holy-land">Churches in the Holy Land</a></li>
+<li><a href="#true-cross">The finding of the True Cross</a></li>
+<li><a href="#relics">Other relics</a></li>
+<li><a href="#santa-croce">Santa Croce in Gerusalemme</a></li>
+</ol>
+</nav>
+
 ## Her story
-Helena (Flavia Julia Helena) was the mother of the emperor **Constantine**. Ancient writers agree she was of humble birth. **St Ambrose**, preaching decades after her death, called her a *stabularia*, a stable-girl or innkeeper. Constantine rose, and she rose with him: he gave her the title Augusta, and coins were struck in her name. Around **326–328**, already an old woman, she travelled to the Holy Land.
+Helena (Flavia Julia Helena) was the mother of the emperor **Constantine**. Ancient writers agree she was of humble birth. **[St Ambrose](/saints/ambrose/)**, preaching decades after her death, called her a *stabularia*, a stable-girl or innkeeper. Constantine rose, and she rose with him: he gave her the title Augusta, and coins were struck in her name. Around **326–328**, already an old woman, she travelled to the Holy Land.
 
-What she certainly did there was build. She founded churches at **Bethlehem**, over the cave of the Nativity, and on the **Mount of Olives**. Constantine himself was building the great basilica over the tomb of Christ in Jerusalem, the church that became the Holy Sepulchre. Helena's journey belongs to that building campaign. She died about **330**, and a huge porphyry sarcophagus connected with her is in the Vatican Museums.
+What she certainly did there was build. She founded churches at **[Bethlehem](/pilgrimage/holy-land/bethlehem/)**, over the cave of the Nativity, and on the **[Mount of Olives](/pilgrimage/holy-land/jerusalem/)**. Constantine himself was building the great basilica over the tomb of Christ in Jerusalem, the church that became the [Holy Sepulchre](/pilgrimage/holy-land/jerusalem/). Helena's journey belongs to that building campaign. She died about **330**, and a huge porphyry sarcophagus connected with her is in the Vatican Museums.
 
-The finding of the True Cross is the story the Church has told since the end of the fourth century. She dug beneath a temple of Venus in Jerusalem, found three crosses, and knew Christ's cross when it healed a dying woman. Ambrose tells it in his funeral oration for Theodosius (395), Rufinus about 402, and then Socrates, Sozomen and Theodoret. Rome's basilica of **Santa Croce in Gerusalemme** still keeps relics said to be from that finding, with earth she is said to have brought from Jerusalem.
+The finding of the True Cross is the story the Church has told since the end of the fourth century, and it is told more fully below. Rome's basilica of **[Santa Croce in Gerusalemme](/pilgrimage/rome/santa-croce/)** still keeps relics said to be from that finding, with earth she is said to have brought from Jerusalem.
+
+<h2 id=holy-land>Churches in the Holy Land</h2>
+
+Helena's pilgrimage left two great churches standing in the land of the Gospel, besides the Holy Sepulchre that her son was raising in Jerusalem. One marks the place of the Lord's birth; the other, the Mount of Olives, where he taught and from which he ascended. Both can be visited today, and both have their own pages in our [Holy Land](/pilgrimage/holy-land/) pilgrimage guides.
+
+### The Church of the Nativity, Bethlehem
+
+Over the cave where Christians have honoured the birth of Christ since the second century, Helena and Constantine raised a basilica. **St Justin Martyr**, writing around 150, already spoke of a cave near Bethlehem; **Origen**, about 248, says the cave was shown to visitors. The first church was dedicated in **339**. When that Constantinian basilica was lost, **Justinian** rebuilt it in the sixth century, and it is largely his church that pilgrims still enter.
+
+Everyone comes in by the **Door of Humility**, a low entrance cut down, tradition says, so that no one should ride in on horseback. You have to bow to pass through. Inside, the long nave of Justinian's columns leads toward the grotto. On the walls, gold **mosaics** of the Crusader centuries — a procession of angels between the windows, scenes and inscriptions below — were carefully restored in **2013–2019**. In **2012** the church and the pilgrimage route became Palestine's first **UNESCO World Heritage** site.
+
+Down the steps, in the **Grotto of the Nativity**, a fourteen-point silver star is set in the marble floor. Around it the Latin still reads *Hic de Virgine Maria Jesus Christus natus est*: "Here Jesus Christ was born of the Virgin Mary." Lamps burn over the place, and pilgrims kneel to touch the star.
+
+The basilica is shared, under the old Status Quo, by the **Greek Orthodox**, who keep the main church, the **Catholics**, whose church of **St Catherine** stands next door (the midnight Mass of Christmas is broadcast from there), and the **Armenian Apostolic** Church. St Jerome's cave, where he translated the Scriptures into Latin, lies beneath St Catherine's. The whole sanctuary, and how to visit it, is on the pilgrimage page for [Bethlehem](/pilgrimage/holy-land/bethlehem/).
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-nativity-exterior-600.webp 600w,/static/art/helena-nativity-exterior.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-nativity-exterior.jpg" alt="The Church of the Nativity in Bethlehem, a long pale stone basilica with a small bell-cote, seen across the paved open space of Manger Square on a bright day, with people walking in the square." width="1280" height="713" loading="lazy"></picture>
+<figcaption>The Church of the Nativity on Manger Square, Bethlehem. Helena and Constantine raised the first basilica over the cave; the walls we see are largely Justinian's sixth-century rebuilding. Photo: <a href="https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity,_2019_(01).jpg">Church of the Nativity, 2019 (01)</a> by Bahnfrend, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/hl-door-600.webp 600w,/static/art/hl-door.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/hl-door.jpg" alt="The Door of Humility, the low stone entrance to the Church of the Nativity, with people stooping to go in." width="1280" height="2274" loading="lazy"></picture>
+<figcaption>The Door of Humility, the low door by which everyone enters the basilica. Photo: <a href="https://commons.wikimedia.org/wiki/File:Door_of_Humility_(Church_of_the_Nativity,_Bethlehem),_2019_(01).jpg">Door of Humility (Church of the Nativity, Bethlehem), 2019 (01)</a> by Bahnfrend, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-nativity-mosaic-600.webp 600w,/static/art/helena-nativity-mosaic.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-nativity-mosaic.jpg" alt="Gold Crusader-era wall mosaics in the Church of the Nativity: a row of angels between the upper windows, and a long restored panel of cities, inscriptions and ornament on the wall below." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The restored wall mosaics of the basilica, with a procession of angels between the windows. They belong to the Crusader centuries and were carefully brought back to light in 2013–2019. Photo: <a href="https://commons.wikimedia.org/wiki/File:Holy_Land_2022_(1)_P083_Bethlehem_Church_of_the_Nativity_mosaic.jpg">Holy Land 2022 (1) P083 Bethlehem Church of the Nativity mosaic</a> by Fallaner, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/st2-ho-bethle-the-grotto-of-the-nativity-600.webp 600w,/static/art/st2-ho-bethle-the-grotto-of-the-nativity.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/st2-ho-bethle-the-grotto-of-the-nativity.jpg" alt="The silver fourteen-point star set in the marble floor of the Grotto of the Nativity, with two small glass lamps burning above it and a cloth of purple and gold hanging around the alcove." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The silver star in the Grotto of the Nativity, over the place the Church has honoured as the birth of Christ. The Latin around it reads <em>Hic de Virgine Maria Jesus Christus natus est</em> — "Here Jesus Christ was born of the Virgin Mary." Photo: <a href="https://commons.wikimedia.org/wiki/File:Nativity_Grotto_Star.jpg">Nativity Grotto Star</a> by Mark87 at English Wikipedia. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+### The Eleona and the Pater Noster, Mount of Olives
+
+On the Mount of Olives Helena founded a second basilica, called the **Eleona**, from the Greek for an olive grove. She built it over a cave where tradition says Jesus taught the disciples — the teaching that includes the Lord's Prayer. The Eleona did not survive the centuries intact. It was destroyed, most likely in the Persian invasion of 614 or in the troubles that followed, and later churches on the same ground were lost in their turn.
+
+What stands there now is the **Church of the Pater Noster**, a Carmelite sanctuary of the nineteenth century, with a cloister raised by the Princess de la Tour d'Auvergne on the ruins of the older holy place. The new church itself was begun and left unfinished; you can still see the stepped walls in the courtyard. All around the cloister, the **Lord's Prayer** is set on ceramic tiles in more than a hundred languages, a quiet chorus of "Our Father" in the tongues of the world. The cave of the Eleona remains, down a few steps, and pilgrims still go in to pray where tradition holds that the Lord taught his own how to pray.
+
+A little farther up the mount, near the summit, is the **Chapel of the Ascension**, a small octagonal shrine in a courtyard, on the site of a fourth-century commemorative church. Tradition holds that Jesus ascended from there. The walk down the mount, from the Pater Noster and [Dominus Flevit](/pilgrimage/holy-land/jerusalem/) toward Gethsemane, is still the way of Palm Sunday, and is described on the pilgrimage page for [Jerusalem](/pilgrimage/holy-land/jerusalem/).
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-pater-cloister-600.webp 600w,/static/art/helena-pater-cloister.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-pater-cloister.jpg" alt="A vaulted stone cloister at the Church of the Pater Noster, with pointed arches opening to a courtyard on the left and framed ceramic plaques of the Lord's Prayer hanging on the wall to the right." width="1280" height="720" loading="lazy"></picture>
+<figcaption>The cloister of the Pater Noster church, where the Lord's Prayer is set on tiles in many languages. Photo: <a href="https://commons.wikimedia.org/wiki/File:116321_jerusalem_pater_noster_church_PikiWiki_Israel.jpg">Jerusalem Pater Noster Church</a> by israel zeller, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via PikiWiki and Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-pater-courtyard-600.webp 600w,/static/art/helena-pater-courtyard.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-pater-courtyard.jpg" alt="The cloister courtyard of the Pater Noster church on the Mount of Olives, seen through pointed stone arches, with a pine tree and the unfinished walls of the church beyond." width="1280" height="720" loading="lazy"></picture>
+<figcaption>The courtyard of the Pater Noster, on the ground of Helena's Eleona. The stepped walls belong to a later church that was begun and left unfinished. Photo: <a href="https://commons.wikimedia.org/wiki/File:116329_jerusalem_pater_noster_church_PikiWiki_Israel.jpg">Jerusalem Pater Noster Church</a> by israel zeller, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via PikiWiki and Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-pater-grotto-600.webp 600w,/static/art/helena-pater-grotto.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-pater-grotto.jpg" alt="The rock-cut cave beneath the Pater Noster church, with a low stone arch in the foreground and a sunlit opening in the rock beyond." width="1280" height="853" loading="lazy"></picture>
+<figcaption>The cave under the Pater Noster, on the site of Helena's Eleona basilica. Tradition holds that Jesus taught the disciples here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Holy_Land_2016_P0632_Pater_Noster_Church_Grotto.jpg">Holy Land 2016 P0632 Pater Noster Church Grotto</a> by Fallaner, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=true-cross>The finding of the True Cross</h2>
+
+The Church has told this story since the end of the fourth century, with love and with wonder, and it has never tired of telling it.
+
+Around **326–328** Helena came to Jerusalem as a pilgrim, already an old woman, in the years when Constantine's builders were clearing a pagan temple that had stood over Golgotha and the tomb. Beneath that ground, tradition holds, she sought the Cross of the Lord. Three crosses were found. The question was how to know which was Christ's.
+
+**[St Ambrose](/saints/ambrose/)**, preaching the funeral oration for the emperor Theodosius in 395 (*De obitu Theodosii*, 40–48), says she knew the Cross by the *titulus*, the title board that had been nailed above the Lord's head. **Rufinus**, writing about 402, tells the story as the Church has most often remembered it: **Bishop Macarius** of Jerusalem proposed a test, and a dying woman was healed when the third cross was laid upon her. **Socrates** and **Sozomen**, in the next generation, tell the same miracle of healing, and speak also of the nails. The Cross was recognised not by argument but by a work of mercy. Part of it, tradition says, was left in Jerusalem; part was sent to Constantinople; part Helena brought home to Rome.
+
+In the [Church of the Holy Sepulchre](/pilgrimage/holy-land/jerusalem/) the memory of that finding is still kept in the crypt. Down a flight of steps is the **Chapel of St Helena**, an Armenian sanctuary of hanging lamps and worn stone, on the way to the place itself. Farther down, in a cistern-like chapel, is the **Chapel of the Finding of the Cross**, where pilgrims light candles in the dark.
+
+The Church keeps the memory of the Cross in her calendar. The **Exaltation of the Holy Cross**, on **14 September**, is a feast of the universal Church; it remembers the dedication of the Holy Sepulchre in 335, and later the recovery of the Cross by the emperor Heraclius. It is listed among the [feast days](/church-year/feasts/) of the year. The **Invention of the Holy Cross**, on **3 May**, was for many centuries the Western feast of the finding itself. It was removed from the General Roman Calendar in 1960, but it is still remembered in some places, and in the older books of the Church.
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-sepulchre-chapel-600.webp 600w,/static/art/helena-sepulchre-chapel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-sepulchre-chapel.jpg" alt="The Chapel of St Helena in the crypt of the Church of the Holy Sepulchre: a dim, vaulted Armenian church with hanging lamps, a chandelier, stone columns, and a mosaic floor, looking toward the altar." width="1280" height="853" loading="lazy"></picture>
+<figcaption>The Chapel of St Helena, in the crypt of the Holy Sepulchre. The Armenian Church keeps this sanctuary; farther down, a second chapel marks the traditional place of the finding. Photo: <a href="https://commons.wikimedia.org/wiki/File:Jerusalem-Church_of_the_Holy_Sepulcher-The_Chapel_of_St._Helen.jpg">The Chapel of St. Helen</a> by zvonimir atletic, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=relics>Other relics</h2>
+
+The Cross was not the only holy thing tradition credits to Helena's pilgrimage. Beside the wood itself, the Church has long honoured a cluster of relics of the Passion, and a few others that later ages placed in her care.
+
+The ***Titulus Crucis***, the title board of the Cross, is kept at [Santa Croce in Gerusalemme](/pilgrimage/rome/santa-croce/). Tradition holds it is the board Ambrose said helped Helena know the Cross; a portion of a wooden title, with the charge against Jesus in Hebrew, Greek and Latin, was found walled up in the church in 1492. **Nails** of the Crucifixion are also among the relics of Santa Croce. One nail, a further tradition says, was set into the **Iron Crown of Lombardy**, the ancient crown kept in the Cathedral of **Monza**. **Thorns** from the Crown of Thorns, and a large fragment of **the cross of the Good Thief**, are shown with them in the Chapel of the Relics.
+
+In Rome, across the square from [St John Lateran](/pilgrimage/rome/st-john-lateran/), stand the **Scala Sancta**, the Holy Stairs. Pilgrims climb the twenty-eight marble steps on their knees. Tradition holds that these are the stairs of Pontius Pilate's praetorium in Jerusalem, which Jesus climbed on the day of his Passion, and that Helena brought them to Rome.
+
+A later tradition also honours her in the story of the **relics of the Magi**. It says that Helena found them and took them to Constantinople; they were later at Milan, and in 1164 they were brought to **Cologne**, where the Shrine of the Three Kings still stands in the cathedral.
+
+<figure class=photo>
+<picture><source srcset="/static/art/rome-lateran-scala-600.webp 600w,/static/art/rome-lateran-scala.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/rome-lateran-scala.jpg" alt="Pilgrims climbing the Scala Santa in Rome on their knees, in a tall, frescoed stairwell with a crucifix at the top." width="1280" height="1711" loading="lazy"></picture>
+<figcaption>Pilgrims climbing the Scala Santa, the Holy Stairs, on their knees, across the square from St John Lateran. Tradition holds that Helena brought these steps from Jerusalem. Photo: <a href="https://commons.wikimedia.org/wiki/File:Scala_Santa_Roma_Laterano.jpg">Scala Santa Roma Laterano</a> by Canaan, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=santa-croce>Santa Croce in Gerusalemme, Rome</h2>
+
+The name is not a mistake. This church was meant to be a piece of Jerusalem in Rome. It was built in Helena's **Sessorian Palace**, an imperial residence against the Aurelian Walls, and consecrated around **325**. Soil from Calvary was laid, so the story goes, under the floor of the chapel that bears her name, so that those who could not go to Jerusalem might still pray on that earth. The relics she brought from the Holy Land were kept here, and they are kept here still.
+
+The church has been rebuilt more than once. **Lucius II** rebuilt it in **1144**, and the Romanesque bell tower of that century still stands beside the later façade. In the **1740s**, **Benedict XIV** gave it its present curving Baroque front and oval atrium, the work of **Domenico Gregorini** and **Pietro Passalacqua**. The visitor who stands in the piazza sees that later face; the older palace-church is within.
+
+Inside, the apse holds the fresco of the ***Legend of the True Cross***, painted about **1492** and attributed to **Antoniazzo Romano** and his workshop. Helena finds the Cross; Heraclius brings it back to Jerusalem; Christ is seated in glory in a blue mandorla above. Below the apse is the **Chapel of St Helena**, whose vault mosaic — designed around 1484 and attributed to the circle of **Melozzo da Forlì**, and later restored — shows Christ and the Evangelists in gold. Under that floor, tradition holds, is the earth of Calvary.
+
+The **Chapel of the Relics**, reached by a corridor of the Stations of the Cross, holds the *Titulus*, a nail, thorns, and fragments of the Cross, with a fragment of the Good Thief's cross. (As of 2026 the chapel has been closed for urgent building works; the basilica is open. The pilgrimage page for [Santa Croce](/pilgrimage/rome/santa-croce/) has the current notice.)
+
+Santa Croce is a **stational church** of Rome. On **Laetare Sunday**, the Fourth Sunday of Lent, and on **Good Friday**, the Church in Rome has long come here to keep the liturgy of the Cross, close to the relics and to the earth of Calvary. For the walk of the seven churches, and for hours and practical notes, see the pilgrimage page for [Santa Croce in Gerusalemme](/pilgrimage/rome/santa-croce/).
 
 <figure class=photo>
 <picture><source srcset="/static/art/helena-santacroce-600.webp 600w,/static/art/helena-santacroce.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-santacroce.jpg" alt="The baroque facade of Santa Croce in Gerusalemme in Rome, pale stone with statues and a cross on the pediment, and a brick bell tower beside it." width="1177" height="1600" loading="lazy"></picture>
-<figcaption>Santa Croce in Gerusalemme, which keeps the relics and the earth linked with her finding. The facade is later than Helena. Photo: <a href="https://commons.wikimedia.org/wiki/File:05_Facade_Santa_Croce_Gerusalemme.jpg">NateBergin</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+<figcaption>Santa Croce in Gerusalemme, which keeps the relics and the earth linked with her finding. The façade is later than Helena. Photo: <a href="https://commons.wikimedia.org/wiki/File:05_Facade_Santa_Croce_Gerusalemme.jpg">NateBergin</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/rome-croce-interior-600.webp 600w,/static/art/rome-croce-interior.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/rome-croce-interior.jpg" alt="The nave of Santa Croce in Gerusalemme, looking toward the apse: tall granite columns, rows of chairs, a Cosmatesque floor, and the fresco of the Legend of the True Cross in the apse beyond the baldachin." width="1280" height="912" loading="lazy"></picture>
+<figcaption>The nave of Santa Croce, looking toward the apse. The present interior belongs to the eighteenth-century rebuilding, under the older walls of Helena's palace-church. Photo: <a href="https://commons.wikimedia.org/wiki/File:Santa_Croce_in_Gerusalemme_(Rome)_-_interior.jpg">Santa Croce in Gerusalemme (Rome) - interior</a> by Livioandronico2013, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-santacroce-apse-600.webp 600w,/static/art/helena-santacroce-apse.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-santacroce-apse.jpg" alt="The apse of Santa Croce in Gerusalemme: a fresco of Christ in a blue mandorla above scenes of the finding of the True Cross, with the church's marble baldachin in the foreground." width="1280" height="1728" loading="lazy"></picture>
+<figcaption>The apse fresco of the <em>Legend of the True Cross</em>, about 1492, attributed to Antoniazzo Romano and his workshop: Helena finding the Cross, and Heraclius bringing it back to Jerusalem, with Christ in glory above. Photo: <a href="https://commons.wikimedia.org/wiki/File:Santa_Croce_gerusalemme_Rom_Apsis_2009.jpg">Santa Croce gerusalemme Rom Apsis 2009</a> by Manfred Heyde, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/rome-croce-relics-600.webp 600w,/static/art/rome-croce-relics.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/rome-croce-relics.jpg" alt="The Chapel of the Relics at Santa Croce in Gerusalemme: a marble canopy and, behind glass, gold reliquaries holding fragments of the Passion." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The Chapel of the Relics, where the <em>Titulus</em>, a nail, thorns and fragments of the Cross are kept. As of 2026 the chapel has been closed for building works; the basilica itself remains open. Check the pilgrimage page before you go. Photo: <a href="https://commons.wikimedia.org/wiki/File:Chapelle_des_reliques_de_Santa_Croce_in_Gerusalemme.JPG">Chapelle des reliques de Santa Croce in Gerusalemme</a> by LPLT, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/helena-santacroce-mosaic-600.webp 600w,/static/art/helena-santacroce-mosaic.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/helena-santacroce-mosaic.jpg" alt="The vault of the Chapel of St Helena in Santa Croce in Gerusalemme, a gold mosaic of Christ at the centre with the four Evangelists, seen looking straight up toward a window at the far end." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The vault mosaic of the Chapel of St Helena, designed around 1484 and attributed to the circle of Melozzo da Forlì. Christ is at the centre, with the Evangelists around him; beneath this floor, tradition holds, lies earth from Calvary. Photo: <a href="https://commons.wikimedia.org/wiki/File:Santa_Croce_Gerusalemme_St_Helen_Chapel_ceiling_1.jpg">Santa Croce Gerusalemme St Helen Chapel ceiling 1</a> by NateBergin, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 ## Path to sainthood
-Pre-Congregation saint, honoured in East and West from the fourth century. Her feast is **18 August** in the Roman Martyrology. She is not on the universal General Roman Calendar. In the East she is remembered with Constantine on 21 May.
+Pre-Congregation saint, honoured in East and West from the fourth century. Her feast is **18 August** in the Roman Martyrology. She is not on the universal General Roman Calendar. In the East she is remembered with Constantine on 21 May. The finding itself is kept, as above, on the [Exaltation of the Holy Cross](/church-year/feasts/) (14 September), and in older use on 3 May.
 
 ## Patronages
 New discoveries, converts, archaeologists, difficult marriages. Invoked by people looking for what has been lost.
@@ -34,6 +165,14 @@ New discoveries, converts, archaeologists, difficult marriages. Invoked by peopl
 ## Sources
 - [Vatican News: saints of 18 August (St Helena)](https://www.vaticannews.va/en/saints/08/18.html)
 - [Catholic Encyclopedia: St Helena](https://www.newadvent.org/cathen/07202b.htm)
-- Ambrose, *On the Death of Theodosius*, 40–48; Rufinus, *Church History* 10.7–8
+- [Catholic Encyclopedia: The True Cross](https://www.newadvent.org/cathen/04529a.htm)
+- [Catholic Encyclopedia: Holy Sepulchre](https://www.newadvent.org/cathen/07425a.htm)
+- Ambrose, *On the Death of Theodosius*, 40–48; Rufinus, *Church History* 10.7–8; Socrates, *Church History* 1.17; Sozomen, *Church History* 2.1
+- [Bethlehem, the Church of the Nativity](/pilgrimage/holy-land/bethlehem/) · [Jerusalem and the Holy Sepulchre](/pilgrimage/holy-land/jerusalem/) · [The Holy Land](/pilgrimage/holy-land/)
+- [Santa Croce in Gerusalemme](/pilgrimage/rome/santa-croce/) · [St John Lateran and the Scala Santa](/pilgrimage/rome/st-john-lateran/)
+- [Feast days of the Church Year](/church-year/feasts/) (Exaltation of the Holy Cross, 14 September)
+- [UNESCO: Birthplace of Jesus, Church of the Nativity and the Pilgrimage Route](https://whc.unesco.org/en/list/1433)
+- [Santa Croce in Gerusalemme (official): relics](https://www.santacroceroma.it/en/features-3/reliquie.html)
+- [Custody of the Holy Land: Bethlehem](https://www.custodia.org/en/sanctuaries/bethlehem)
 
-<p class=src>Fact-checked on November 2, 2026 against Vatican News and New Advent (Catholic Encyclopedia), with the late-fourth-century accounts of the cross named above. The Santa Croce photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
+<p class=src>Fact-checked on November 19, 2026 against Vatican News and New Advent (Catholic Encyclopedia), with the late-fourth-century accounts of the Cross named above, and against the pilgrimage and sanctuary sources listed here. The photographs of Bethlehem, the Mount of Olives, the Chapel of St Helena and the interior of Santa Croce were added November 19, 2026. Feast days follow the General Roman Calendar unless noted.</p>

@@ -1501,9 +1501,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:Exaltation of the Holy Cross
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/helena/
+URL:https://dailywordptl.com/saints/helena/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2461,9 +2460,8 @@ DTSTAMP:20261022T150000Z
 DTSTART;VALUE=DATE:20280914
 DTEND;VALUE=DATE:20280915
 SUMMARY:Exaltation of the Holy Cross
-DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/church-year/feast
- s/
-URL:https://dailywordptl.com/church-year/feasts/
+DESCRIPTION:Feast day (feast)\nhttps://dailywordptl.com/saints/helena/
+URL:https://dailywordptl.com/saints/helena/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

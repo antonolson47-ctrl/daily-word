@@ -57,6 +57,8 @@ The present chapel (1930s), reached by a corridor with the Stations of the Cross
 ### Next on the walk
 North along the walls and through Porta Maggiore, then up Via Tiburtina, about 2 km to [San Lorenzo fuori le mura](/pilgrimage/rome/san-lorenzo/).
 
+Helena's life, her pilgrimage, and the relics she is honoured for bringing to this church are on [St Helena](/saints/helena/#santa-croce).
+
 ## Sources
 - [Santa Croce in Gerusalemme (official): relics](https://www.santacroceroma.it/en/features-3/reliquie.html)
 - [Santa Croce in Gerusalemme (official): opening hours](https://www.santacroceroma.it/en/opening-hours.html)

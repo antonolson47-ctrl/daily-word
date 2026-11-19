@@ -9,7 +9,7 @@ map: map-holy-land.svg
 map_alt: Map of the Holy Land showing Jerusalem, Bethlehem, Nazareth and the Sea of Galilee
 map_caption: The main pilgrim places, from Bethlehem and Jerusalem in Judea to Nazareth and the Sea of Galilee. The dashed line is the Jesus Trail.
 ---
-Every Christian pilgrimage points back here. In Bethlehem the Word became flesh; in Nazareth he grew up; by the Sea of Galilee he called his disciples, taught and healed; in Jerusalem he died and rose again. "The Word became flesh and dwelt among us" (John 1:14, ESV). Since at least the 4th century, when **St Helena** came and **Egeria** wrote her diary of the liturgy in Jerusalem, Christians have travelled to see and pray in the places of the Gospel. They call the land the **Fifth Gospel**.
+Every Christian pilgrimage points back here. In Bethlehem the Word became flesh; in Nazareth he grew up; by the Sea of Galilee he called his disciples, taught and healed; in Jerusalem he died and rose again. "The Word became flesh and dwelt among us" (John 1:14, ESV). Since at least the 4th century, when **[St Helena](/saints/helena/)** came and **Egeria** wrote her diary of the liturgy in Jerusalem, Christians have travelled to see and pray in the places of the Gospel. They call the land the **Fifth Gospel**.
 
 <div class=warn markdown=1>
 **Check the situation before you book.** As of 16 October 2026 the UK Foreign Office advises against **all travel to Gaza** and to parts of the north and of the West Bank, and against all but essential travel to the rest of the West Bank **except** East Jerusalem, the **Bethlehem** governorate, Ramallah and Jericho; the US State Department rates Israel and the West Bank Level 3, "Reconsider travel". Group pilgrimages are running, and the **Latin Patriarch** and the **Custos of the Holy Land** have asked pilgrims to return, since local Christians depend on them. Read your government's advice the week you travel, go with a recognised pilgrimage organiser or local Christian guide, and expect last-minute changes, including at Holy Week.
@@ -29,11 +29,11 @@ Every Christian pilgrimage points back here. In Bethlehem the Word became flesh;
 
 ### The first pilgrims
 <div class=history markdown=1>
-**History.** After Constantine legalized Christianity, his mother **Helena** visited the Holy Land around **326–28**, and imperial basilicas rose over the cave of the Nativity in Bethlehem, the tomb of Christ in Jerusalem and the Mount of Olives. **Eusebius of Caesarea** describes the work. The **Bordeaux Pilgrim** (333) left the first itinerary, and the nun **Egeria** (about 381–84) described the Holy Week liturgy in Jerusalem, the origin of the stations and processions still kept today. **St Jerome** settled in Bethlehem to translate the Bible.
+**History.** After Constantine legalized Christianity, his mother **[Helena](/saints/helena/)** visited the Holy Land around **326–28**, and imperial basilicas rose over the cave of the Nativity in Bethlehem, the tomb of Christ in Jerusalem and the Mount of Olives. **Eusebius of Caesarea** describes the work. The **Bordeaux Pilgrim** (333) left the first itinerary, and the nun **Egeria** (about 381–84) described the Holy Week liturgy in Jerusalem, the origin of the stations and processions still kept today. **St Jerome** settled in Bethlehem to translate the Bible.
 </div>
 
 <div class=legend markdown=1>
-**Legend.** Tradition says St Helena found the **True Cross** in a cistern near Calvary, identifying it by a miracle of healing. The story is told from the end of the 4th century by St Ambrose and others; the chapel of the Finding of the Cross is still shown beneath the Holy Sepulchre.
+**Legend.** Tradition says [St Helena](/saints/helena/#true-cross) found the **True Cross** in a cistern near Calvary, identifying it by a miracle of healing. The story is told from the end of the 4th century by St Ambrose and others; the chapel of the Finding of the Cross is still shown beneath the Holy Sepulchre.
 </div>
 
 ### Crusades, Franciscans and the Status Quo
