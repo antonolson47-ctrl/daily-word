@@ -24,7 +24,7 @@ def page(title,body,desc='',hero=None):
 <link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel=stylesheet>
 <link rel=stylesheet href="{BASE}/static/style.css"></head><body>
 <div class=bar><a href="{BASE}/"><b>✠ The Daily Word</b></a><button class=menu aria-label=Menu onclick="document.querySelector('.bar nav').classList.toggle('open')">☰</button>
-<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/church-year/">Church Year</a><a href="{BASE}/music/">Music</a><a href="{BASE}/timeline/">Timeline</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/search/" aria-label="Search">🔍 Search</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
+<nav><a href="{BASE}/verses/">Verses</a><a href="{BASE}/pilgrimage/">Pilgrimage</a><a href="{BASE}/pilgrimage/st-michael/">St Michael</a><a href="{BASE}/saints/">Saints</a><a href="{BASE}/church-year/">Church Year</a><a href="{BASE}/music/">Music</a><a href="{BASE}/timeline/">Timeline</a><a href="{BASE}/gallery/">Gallery</a><a href="{BASE}/intelligent-design/">Intelligent Design</a><a href="{BASE}/search/" aria-label="Search">🔍 Search</a><a href="{BASE}/about/">About</a><a class=subnav href="https://dailywordptl.substack.com/subscribe">Subscribe</a></nav></div>
 <main>{body}</main><script src="{BASE}/static/rotate.js"></script><script src="{BASE}/static/churchyear.js"></script><footer>The Daily Word · Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.<br>Greek: SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature and Logos Bible Software. KJV and Vulgate: public domain.<br>Travel facts change. Always confirm before you go.</footer></body></html>'''
 SITE='https://dailywordptl.com'
 INDEX=[]
@@ -108,6 +108,7 @@ def build():
     for dp,_,fs in os.walk(os.path.join(C,'pilgrimage')):
         for f in fs:
             if f.endswith('.md'): esv+=int(load(os.path.join(dp,f))[0].get('esv_verses',0))
+    if os.path.exists(os.path.join(C,'intelligent-design.md')): esv+=int(load(os.path.join(C,'intelligent-design.md'))[0].get('esv_verses',0))
     for i,m in enumerate(vs):
         rows=f'''<div class=card><div class=row><div class=k>Greek · SBLGNT</div><div class=gr>{html.escape(m['greek'])}</div><div class=it>{html.escape(m.get('translit',''))}</div></div>
 <div class=row><div class=k>Latin · Vulgate</div>{html.escape(m['latin'])}</div><div class=row><div class=k>KJV</div>{html.escape(m['kjv'])}</div><div class=row><div class=k>ESV</div>{html.escape(m['esv'])}</div></div>'''
@@ -173,6 +174,10 @@ def build():
     # ---- timeline
     m,b=load(os.path.join(C,'timeline.md'))
     write('timeline',page(m['title'],hero({'hero':'sermon-on-the-mount'},m['title'],m.get('subtitle',''))+md(b),m.get('subtitle','')))
+    # ---- intelligent design (standalone feature page)
+    if os.path.exists(os.path.join(C,'intelligent-design.md')):
+        m,b=load(os.path.join(C,'intelligent-design.md'))
+        write('intelligent-design',page(m['title'],hero(m,m['title'],m.get('subtitle',''))+md(b),m.get('subtitle','')))
     # ---- search
     sp='<h1>Search the Daily Word</h1><input id=q type=search autofocus placeholder="Search saints, pilgrimages, verses (e.g. Lourdes, Greek, dragon)" aria-label="Search the site"><p class=src id=cnt></p><div class=cards id=res></div><script src="/static/search.js"></script>'
     write('search',page('Search',sp,'Search every saint, pilgrimage road and verse on The Daily Word.'))
