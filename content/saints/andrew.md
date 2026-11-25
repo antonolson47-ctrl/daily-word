@@ -217,7 +217,7 @@ Then came a gesture of love between the Churches. In **1964**, in the spirit of 
 
 <figure class=photo>
 <picture><source srcset="/static/art/andrew-amalfi-crypt-600.webp 600w,/static/art/andrew-amalfi-crypt.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/andrew-amalfi-crypt.jpg" alt="A richly decorated baroque crypt with painted vaults and marble walls; above the altar stands a large, dark bronze statue of a bearded apostle holding a cross." width="1280" height="1921" loading="lazy"></picture>
-<figcaption>The crypt of <b>Amalfi Cathedral</b>, where the relics of St Andrew have rested since 8 May 1208. The great bronze statue over the altar is by <b>Michelangelo Naccherino</b>, from the early 17th century. Pilgrims come especially on his two feasts here, 30 November and 27 June, when Amalfi remembers the day he saved the town from a pirate fleet in 1544. Photo: <a href="https://commons.wikimedia.org/wiki/File:Duomo_di_Amalfi,_Cripta_03.jpg">Duomo di Amalfi, Cripta 03</a> by Luciano Tronati, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+<figcaption>The crypt of <b>Amalfi Cathedral</b>, where the relics of St Andrew have rested since 8 May 1208. The great bronze statue over the altar is by <b>Michelangelo Naccherino</b>, from the early 17th century. Pilgrims come especially on his two feasts here, 30 November and 27 June, when Amalfi remembers how, by tradition, a sudden storm scattered the fleet of the Ottoman admiral Barbarossa off the coast on the night of 26–27 June 1544, after the people had begged Andrew's protection. Photo: <a href="https://commons.wikimedia.org/wiki/File:Duomo_di_Amalfi,_Cripta_03.jpg">Duomo di Amalfi, Cripta 03</a> by Luciano Tronati, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 <h2 id=scotland>Scotland: St Rule, the saltire and Arbroath</h2>
@@ -282,11 +282,11 @@ The site of Andrew's hometown is not certain. Most archaeologists identify it wi
 
 ### The Basilica of St Andrew, Patras, Greece
 
-Patras has two churches of St Andrew side by side, near the sea at the south-west of the city. The **old church**, a gracious 19th-century building on the site of earlier churches, stands over the traditional place of his martyrdom; beside it is a spring which, tradition says, flowed there in his day. It keeps a small relic of his finger, a gift from Mount Athos in 1847. Next to it rises the vast **new basilica**, begun in 1908 and consecrated in 1974, one of the largest churches in the Balkans, with its central dome crowned by a gilded cross. Inside are the two treasures returned from the West: the reliquary of his head, given back in 1964, and the reliquary of his cross, returned in 1980. Every 30 November, the city carries his relics in procession through its streets.
+Patras has two churches of St Andrew side by side, near the sea at the south-west of the city. The **old church**, a gracious 19th-century building on the site of earlier churches, stands over the traditional place of his martyrdom; beside it is a spring which, tradition says, flowed there in his day. It keeps a small relic of his finger, a gift from Mount Athos in 1847. Next to it rises the vast **new basilica**, whose foundation stone was laid in 1908 in the presence of King George I and which was inaugurated on 26 September 1974, ten years after the head came home; it is the largest church in Greece, with its central dome crowned by a gilded cross. Inside are the two treasures returned from the West: the reliquary of his head, given back in 1964, and the reliquary of his cross, returned in 1980. Every 30 November, the city carries his relics in procession through its streets.
 
 <figure class=photo>
 <picture><source srcset="/static/art/andrew-patras-new-600.webp 600w,/static/art/andrew-patras-new.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/andrew-patras-new.jpg" alt="A huge cream-coloured Byzantine-style church with a large central dome topped by a gilded cross, smaller domes and arched porches, seen from a wide paved square under a blue sky." width="1280" height="854" loading="lazy"></picture>
-<figcaption>The <b>new Basilica of St Andrew</b> at Patras, begun in 1908 and consecrated in 1974, which houses the relics of the saint's head and cross. Photo: <a href="https://commons.wikimedia.org/wiki/File:Cathedral_Agios_Andreas,_Patra_-_1.jpg">Cathedral Agios Andreas, Patra - 1</a> by Annatsach, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+<figcaption>The <b>new Basilica of St Andrew</b> at Patras, begun in 1908 and inaugurated in 1974, which houses the relics of the saint's head and cross. Photo: <a href="https://commons.wikimedia.org/wiki/File:Cathedral_Agios_Andreas,_Patra_-_1.jpg">Cathedral Agios Andreas, Patra - 1</a> by Annatsach, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 <figure class=photo>
@@ -428,9 +428,9 @@ Scotland, Greece, Russia, Ukraine, Romania and Barbados; the Ecumenical Patriarc
 - The X-shaped **saltire** cross associated with him is a medieval tradition; earlier depictions show an ordinary cross.
 - The saltire on Scotland's flag, and the town of **St Andrews**, come from the tradition that some of his relics were brought there.
 - Most of his relics are venerated in the Cathedral of **Amalfi**, Italy, where they were brought from Constantinople in 1208.
-- St Andrew's Day is Scotland's national day, and an official bank holiday there since 2007.
+- St Andrew's Day is Scotland's national day, and since the St Andrew's Day Bank Holiday (Scotland) Act 2007 it has also been a bank holiday there.
 - **Barbados** became independent on St Andrew's Day, 30 November 1966, and became a republic on the same day in 2021.
-- The white flag with a blue saltire is the ensign of the Russian Navy, and the **Order of St Andrew the First-Called**, founded by Peter the Great in 1698, was Russia's highest honour.
+- The white flag with a blue saltire, St Andrew's flag, has been the ensign of the Russian Navy since Peter the Great's time, and again since 1992. The **Order of St Andrew the First-Called**, founded by Peter the Great in 1698–99, abolished in 1918 and restored in 1998, is Russia's highest state decoration.
 - The first Sunday of Advent is always the Sunday nearest to St Andrew's Day.
 - The **St Andrew Christmas Novena** is said fifteen times a day from his feast until Christmas.
 - Andrew is named in every list of the Twelve, always among the first four.
@@ -453,5 +453,12 @@ Scotland, Greece, Russia, Ukraine, Romania and Barbados; the Ecumenical Patriarc
 - [Museo del Prado: Murillo, *The Martyrdom of Saint Andrew*](https://www.museodelprado.es/en/the-collection/art-work/the-martyrdom-of-saint-andrew/4e16dcf0-f952-45f6-ae7d-b9cab4748cdd)
 - [Walters Art Museum: *Saint Andrew*, Greek icon, 14th century](https://art.thewalters.org/object/37.559/)
 - [Art Gallery of South Australia: Mattia Preti, *The crucifixion of St Andrew*](https://www.agsa.sa.gov.au/collection-publications/collection/works/the-crucifixion-of-st-andrew/27539/)
+- [Museo Diocesano di Amalfi: the Cathedral (the 1544 storm and the 27 June feast)](http://museodiocesanoamalfi.it/app/en/the-cathedral/)
+- [Visit Greece: Holy Church of Saint Andrew, Patras](https://www.visitgreece.gr/en/experiences/religious-tourism/churches/holy-church-of-saint-andrew-patras)
+- [St Andrew's Day Bank Holiday (Scotland) Act 2007, legislation.gov.uk](https://www.legislation.gov.uk/asp/2007/2)
+- [BBC News: Barbados becomes a republic (30 Nov 2021)](https://www.bbc.com/news/world-latin-america-59470843)
+- [Britannica: History of Barbados, independence on 30 November 1966](https://www.britannica.com/place/Barbados/History)
+- [President of Russia: Order of St Andrew the Apostle](http://www.en.kremlin.ru/catalog/glossary/69)
+- [Flags of the World: Russian Navy flags, St Andrew's ensign](https://crwflags.com/Fotw/FLAGS/ru~xviii.html)
 
 <p class=src>Fact-checked on October 15, 2026 against Vatican documents, Vatican News and New Advent (Catholic Encyclopedia). Expanded November 25, 2026 with the story of his life told from the Gospels and the Acts of the Apostles, with the traditions of the early Fathers (Origen and Eusebius), the <i>Acts</i> and <i>Passion of Andrew</i>, the <i>Russian Primary Chronicle</i> and the Scottish legends labelled as such; the history of his relics from the Church of Patras and Historic Environment Scotland; the places and churches connected with him; and his portrayal in art, using museum records and Wikimedia Commons. Scripture quotations follow the Revised Standard Version; the "Hail, O Cross" prayer follows the translation in Benedict XVI's audience. The map was drawn for this page from Natural Earth data (public domain). Feast days follow the General Roman Calendar.</p>
