@@ -5,27 +5,707 @@ group: Missionaries & Mystics
 order: 9
 hero: saint-joan-of-arc.jpg
 hero_credit: <a href="https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg">Joan of Arc at the Coronation of Charles VII (1854)</a>, Jean-Auguste-Dominique Ingres · public domain, via Wikimedia Commons
-facts: {"Lived":"c. 1412 – 30 May 1431","Feast day":"30 May","Recognised":"Beatified 1909 (Pius X); canonised 16 May 1920 (Benedict XV)"}
-last_verified: October 15, 2026
+facts: {"Lived": "c. 1412 – 30 May 1431", "Feast day": "30 May", "Recognised": "Beatified 18 April 1909 (St Pius X); canonised 16 May 1920 (Benedict XV)", "Place": "Born at Domrémy; burned in the Old Market at Rouen, where her ashes were thrown into the Seine"}
+place: Rouen
+country: France
+last_verified: November 25, 2026
 ---
+<nav class=toc aria-label="On this page">
+<div class=k>On this page</div>
+<ol>
+<li><a href="#why">Why the Church honours her</a></li>
+<li><a href="#domremy">Jeannette of Domrémy</a></li>
+<li><a href="#voices">The voices: St Michael, St Catherine and St Margaret</a></li>
+<li><a href="#vaucouleurs">Vaucouleurs: "I must go into France"</a></li>
+<li><a href="#chinon">Chinon: she knows the Dauphin</a></li>
+<li><a href="#poitiers">Examined at Poitiers</a></li>
+<li><a href="#sword">The sword of Fierbois and the white banner</a></li>
+<li><a href="#orleans">The relief of Orléans</a></li>
+<li><a href="#patay">The Loire campaign and Patay</a></li>
+<li><a href="#reims">The crowning at Reims</a></li>
+<li><a href="#paris">Paris and the hard months</a></li>
+<li><a href="#compiegne">Captured at Compiègne</a></li>
+<li><a href="#beaurevoir">The tower of Beaurevoir</a></li>
+<li><a href="#trial">The trial at Rouen</a></li>
+<li><a href="#death">"Jesus!": her death in the Old Market</a></li>
+<li><a href="#rehabilitation">Rehabilitation, 1456</a></li>
+<li><a href="#saint">Blessed, Saint and patroness of France</a></li>
+<li><a href="#places">Her places and churches</a></li>
+<li><a href="#art">Joan in art</a></li>
+</ol>
+</nav>
+
 ## Her story
-A peasant girl from Domrémy who, guided by the voices of St Michael, St Catherine and St Margaret, convinced the future Charles VII to send her with the army to relieve the siege of **Orléans** in 1429. She succeeded, and Charles was crowned at Reims. She was captured, tried for heresy by a pro-English church court, and **burned at the stake in Rouen at about 19**.
+
+A peasant girl of about thirteen is standing in her father's garden at noon on a summer's day when she hears a voice, near the village church, and sees a great light. She is frightened. Later she will say that it was St Michael the Archangel, surrounded by the angels of heaven, and that afterwards St Catherine and St Margaret came to her, too, again and again, telling her to be good, to go often to church, and at last to do something impossible: to go to the uncrowned King of France and save his kingdom. She cannot read or write. She knows how to spin and sew, and her mother has taught her the Our Father, the Hail Mary and the Creed.
+
+Within a year of leaving home, that girl had ridden across France, convinced the Dauphin and his theologians, raised the siege of Orléans and stood beside Charles VII at his crowning in Reims Cathedral. A year after that she was a prisoner, sold to the English, and tried for heresy at Rouen by a court determined to condemn her. On 30 May 1431, aged about nineteen, she was burned in the Old Market of Rouen, with a cross held up before her eyes and the name of Jesus on her lips. Twenty-five years later the Church declared that trial null and void; in 1920 Pope Benedict XV declared her a saint.
+
+What makes Joan so close to us is that we can still hear her. The notaries at Rouen wrote down her answers, and in 1455–56 the witnesses at her rehabilitation, from her godmother to the priests who stood by her at the stake, told what they had seen. All the quotations on this page come from T. Douglas Murray's English translation of those two trials, published in 1902. When a learned judge tried to trap her by asking whether she knew she was in the grace of God, she answered with words the Church has never forgotten: "If I am not, may God place me there; if I am, may God so keep me."
+
+<div class=timeline markdown=1>
+
+### c. 1412 · Domrémy, on the Meuse
+Jeanne is born to Jacques d'Arc and Isabelle, a farming family, and baptised in the church of Saint-Rémy next door to the family house.
+
+### c. 1425 · Her father's garden
+Aged about thirteen, she first hears her "Voice", which she comes to know as St Michael, and then St Catherine and St Margaret.
+
+### May 1428 · Vaucouleurs
+Her uncle takes her to Robert de Baudricourt, captain of Vaucouleurs, who sends her home.
+
+### February 1429 · Vaucouleurs to Chinon
+At her third visit Baudricourt gives her an escort. She rides across France in men's clothes, hearing Mass at Auxerre and three Masses in one day at Sainte-Catherine-de-Fierbois.
+
+### Late February or early March 1429 · Chinon
+She recognises the Dauphin Charles among his courtiers and speaks with him privately.
+
+### March–April 1429 · Poitiers and Tours
+Theologians question her for three weeks and find nothing but good in her. The sword is found at Fierbois, and her white banner is made.
+
+### Late April 1429 · Blois
+The relief army gathers. On 29 April Joan enters Orléans.
+
+### 7–8 May 1429 · Orléans
+She is wounded by an arrow at the fort of the Tourelles. The next day the English withdraw and the siege is raised.
+
+### June 1429 · The Loire
+Jargeau, Meung and Beaugency fall, and on 18 June the English army is routed at Patay.
+
+### 17 July 1429 · Reims
+Charles VII is consecrated and crowned in Reims Cathedral, with Joan and her banner beside the altar.
+
+### 8 September 1429 · Paris
+The assault on Paris fails, and Joan is wounded in the leg by a crossbow bolt.
+
+### 23 May 1430 · Compiègne
+Leading a sortie, she is captured by the Burgundians.
+
+### Summer–autumn 1430 · Beaurevoir
+A prisoner of Jean de Luxembourg, she leaps from the tower and is hurt. She is sold to the English and taken to Rouen.
+
+### 9 January – 30 May 1431 · Rouen
+Her trial for heresy before Bishop Pierre Cauchon. The public examinations begin on 21 February.
+
+### 30 May 1431 · The Old Market, Rouen
+She is burned at the stake, calling on Jesus to the end. Her ashes are thrown into the Seine.
+
+### 7 July 1456 · Rouen
+After a new inquiry ordered by Pope Callixtus III, the sentence against her is declared null and void.
+
+### 1909, 1920 and 1922 · Rome
+She is beatified by St Pius X (18 April 1909) and canonised by Benedict XV (16 May 1920). In 1922 Pius XI names her a patron of France.
+
+</div>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-fauquembergue-600.webp 600w,/static/art/joan-fauquembergue.webp 503w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-fauquembergue.jpg" alt="A quick ink sketch in the margin of an old register: a young woman in profile with long hair, holding a sword and a small banner, beside lines of handwriting" width="503" height="756" loading="lazy"></picture>
+<figcaption>The only picture of Joan made in her lifetime: a sketch drawn on 10 May 1429 in the margin of the register of the Parlement of Paris by its clerk, <b>Clément de Fauquembergue</b>, when news came of the relief of Orléans. He had never seen her, so it is imagined, not a portrait; he gives her long hair, a sword and a banner (French National Archives). Image: <a href="https://commons.wikimedia.org/wiki/File:Contemporaine_afb_jeanne_d_arc.png">Contemporaine afb jeanne d arc</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=why>Why the Church honours her</h2>
+
+- **A heart given to God from childhood.** The people of Domrémy remembered a girl who loved to go to church, confessed often, gave to the poor and nursed the sick. When the bell-ringer forgot to ring for Compline, she scolded him and promised him wool from her flock if he would do better.
+- **Obedience to a call she did not choose.** "I replied that I was but a poor girl, who knew nothing of riding or fighting," she said. Yet she went, because "my Lord wills that I should do it."
+- **Courage with clean hands.** She carried her banner into battle so that she would not have to kill anyone, reproved her soldiers for blasphemy and violence, and called on the English to go home in peace before she fought them.
+- **Faith that never bent before her judges.** Sick, chained and alone, without counsel, she answered the doctors of the University of Paris with a simplicity and wisdom that astonished them.
+- **A death fixed on the Crucified.** She asked for a cross and kept it before her eyes; she forgave her enemies, asked for their prayers, and died calling on the name of Jesus.
+- **Vindicated by the Church.** The trial that condemned her was quashed in 1456, and in 1920 she was raised to the altars as a virgin and saint.
+
+<h2 id=domremy>Jeannette of Domrémy</h2>
+
+Domrémy is a small village in the valley of the Meuse, on the borders of Champagne and Lorraine. Joan was born there around 1412, the daughter of Jacques d'Arc, a farmer of some standing in the village, and Isabelle, sometimes called Romée. "In my own country they call me Jeannette," she told her judges; "since I came into France I have been called Jeanne." She did not know her exact age, and thought she was about nineteen at her trial.
+
+Her family house stood right beside the church of Saint-Rémy, where she was baptised. She had many godparents, as country children often did. "From my mother I learned my Pater, my Ave Maria, and my Credo," she said. When the judges asked whether she had learned any trade, she answered with a flash of pride: "Yes, I learnt to spin and to sew; in sewing and spinning I fear no woman in Rouen."
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-filant-600.webp 600w,/static/art/joan-vigiles-filant.webp 723w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-filant.jpg" alt="An old black-and-white woodcut: a young woman sits spinning with a distaff while a man guides a plough drawn by a horse, under trees" width="723" height="841" loading="lazy"></picture>
+<figcaption><b>Joan spinning beside her father at the plough</b>: a woodcut from an early sixteenth-century printed edition of Martial d'Auvergne's poem <i>Les Vigiles de Charles VII</i>. Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc_filant_-_Les_Vigiles_de_la_mort_de_Charles_VII.jpg">Jeanne d'Arc filant - Les Vigiles de la mort de Charles VII</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+Her neighbours never forgot her. At the rehabilitation in 1455, Perrin le Drapier, churchwarden and bell-ringer of Domrémy, said: "She loved to go to Church and confessed often." He remembered how "When I forgot to ring for Service, Jeanne scolded me, saying I had done wrong; and she promised to give me some of the wool of her flock if I would ring more diligently." She went on pilgrimage with her sister to the little hermitage of Our Lady of Bermont, and joined the other girls in making "garlands for Our Lady of Domremy" at the great beech tree outside the village.
+
+It was a hard time. The Hundred Years' War had torn France apart: the English held the north with their Burgundian allies, the heir to the throne, the Dauphin Charles, had never been crowned, and soldiers raided the Meuse valley. More than once the people of Domrémy had to flee with their animals, once to the island-castle in the river and once to the town of Neufchâteau.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-domremy-postcard-600.webp 600w,/static/art/joan-domremy-postcard.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-domremy-postcard.jpg" alt="An old sepia postcard of a village street with a small church, a low house beside it and tall trees, under a pale sky" width="1280" height="816" loading="lazy"></picture>
+<figcaption><b>Domrémy</b>, the church of Saint-Rémy and Joan's birthplace side by side, on an old French postcard. Image: <a href="https://commons.wikimedia.org/wiki/File:Domr%C3%A9my,_%C3%89glise_et_Maison_natale_de_Jeanne_d%27Arc_CP_5482_PR.jpg">Domrémy, Église et Maison natale de Jeanne d'Arc CP 5482 PR</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=voices>The voices: St Michael, St Catherine and St Margaret</h2>
+
+Joan herself told her judges how it began, and her words are best left as she spoke them:
+
+> I was thirteen when I had a Voice from God for my help and guidance. The first time that I heard this Voice, I was very much frightened; it was mid-day, in the summer, in my father's garden.
+
+The voice came from the right, from the direction of the church, and "rarely do I hear it without its being accompanied also by a light." She came to know it as the voice of an angel: "This Voice has always guarded me well, and I have always understood it; it instructed me to be good and to go often to Church; it told me it was necessary for me to come into France."
+
+The first to come, she said, was St Michael, the prince of the heavenly host, long honoured as a protector of France:
+
+> It was Saint Michael: I saw him before my eyes; he was not alone, but quite surrounded by the Angels of Heaven.
+
+"I saw them with my bodily eyes as well as I see you," she said; "when they went from me, I wept. I should have liked to be taken away with them." Then came two virgin martyrs much loved in the Middle Ages, St Catherine of Alexandria and St Margaret of Antioch. "It is the Voice of Saint Catherine and of Saint Margaret. Their faces are adorned with beautiful crowns, very rich and precious." She could tell them apart "by the greeting they give me," and for seven years they guided her. Their message was simple and steady: be good, go to church, and, in time, go to the help of the King.
+
+She spoke of them with deep reverence, and kept many things back as secrets between herself, her saints and her King. "I would that every one could hear the Voice as I hear it," she said. Asked whether her voices had promised her anything, she replied that "they told me also that they would lead me to Paradise: I begged it of them, indeed."
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-lenepveu-voices-600.webp 600w,/static/art/joan-lenepveu-voices.webp 915w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-lenepveu-voices.jpg" alt="A mural: a girl in a red dress stands at the edge of a wood with her sheep, her hand raised, looking up as if listening" width="915" height="1523" loading="lazy"></picture>
+<figcaption><b>Joan hears her voices</b>, the first scene of Jules-Eugène Lenepveu's murals of her life in the Panthéon, Paris (1886–1890). Photo: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc_-_Panth%C3%A9on_I.jpg">Jeanne d'Arc - Panthéon I</a> by Tijmen Stam, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-thirion-600.webp 600w,/static/art/joan-thirion.webp 907w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-thirion.jpg" alt="A painting: a young woman in a red skirt and dark bodice sits on a rock, wide-eyed, while a winged angel in armour swoops above her, pointing" width="907" height="1280" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Eugène Thirion (1876): an angel, like St Michael in her story, rouses Joan to her mission. Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27_Arc_(Eugene_Thirion).jpg">Jeanne d' Arc (Eugene Thirion)</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-vision-600.webp 600w,/static/art/joan-boutet-vision.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-vision.jpg" alt="A wide, pale painting: heavenly figures appear in a tall golden glow at the left, while a small girl kneels in a green field among her sheep" width="1280" height="565" loading="lazy"></picture>
+<figcaption><b>The Vision and Inspiration</b>, the first panel of Louis-Maurice Boutet de Monvel's Joan of Arc series (c. 1907–1909, National Gallery of Art, Washington). Image: <a href="https://commons.wikimedia.org/wiki/File:Louis_Maurice_Boutet_de_Monvel,_The_Vision_and_Inspiration_(Joan_of_Arc_series_-_I),_c._1907-early_1909,_NGA_195106.jpg">Louis Maurice Boutet de Monvel, The Vision and Inspiration (Joan of Arc series - I), c. 1907-early 1909, NGA 195106</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=vaucouleurs>Vaucouleurs: "I must go into France"</h2>
+
+By 1428 the voice was urging her "two or three times a week: 'You must go into France.'" It told her to raise the siege of Orléans, and to go first "to Robert de Baudricourt, Captain of Vaucouleurs: he will furnish you with an escort to accompany you." Joan, the farm girl, protested: "I replied that I was but a poor girl, who knew nothing of riding or fighting."
+
+She went to stay with her uncle, Durand Laxart, and persuaded him to take her to Vaucouleurs, a royal town on the Meuse that still held out for the Dauphin. She knew Baudricourt at once, she said, though she had never seen him. He was not impressed. "Twice Robert refused to hear me, and repulsed me. The third time, he received me, and furnished me with men."
+
+While she waited she lodged with a local family, prayed for long hours in the chapel of the castle, and won over two men-at-arms, Jean de Metz and Bertrand de Poulengy. Jean de Metz remembered meeting her "dressed in a red dress, poor and worn," and what she told him:
+
+> No one in the world—neither kings, nor dukes, nor the daughter of the King of Scotland, nor any others—can recover the kingdom of France; there is no succour to be expected save from me; but, nevertheless, I would rather spin with my poor mother—for this is not my proper estate: it is, however, necessary that I should go, and do this, because my Lord wills that I should do it.
+
+When he asked who her Lord was, "she told me it was God." Asked when she wanted to start, she said, "Sooner at once than to-morrow, and sooner to-morrow than later." The people of the town had a man's outfit made for her, for safety on the long road. In February 1429 she rode out through the gate of Vaucouleurs with Jean de Metz, Bertrand de Poulengy and four servants. Baudricourt's farewell was hardly a blessing: "Go! and let come what may!"
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vaucouleurs-600.webp 600w,/static/art/joan-vaucouleurs.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vaucouleurs.jpg" alt="A small stone gatehouse with a dark pointed roof and a round arch, standing on a lawn beside a ruined wall and a large tree" width="1280" height="1150" loading="lazy"></picture>
+<figcaption>The <b>Porte de France</b> at Vaucouleurs, the castle gate through which, by tradition, Joan rode out for Chinon in February 1429. Photo: <a href="https://commons.wikimedia.org/wiki/File:Chateau-Vaucouleurs-Porte.JPG">Chateau-Vaucouleurs-Porte</a> by Adidelot, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=chinon>Chinon: she knows the Dauphin</h2>
+
+The little company travelled for eleven days, much of it by night, through country held by the enemy. Joan longed to hear Mass and did so whenever she could, at Auxerre and then at the shrine of St Catherine at Fierbois, where "I heard there three Masses in one day." From there she sent word ahead to the Dauphin at Chinon, saying "that I had travelled a hundred and fifty leagues to come to his help, and that I knew many things good for him."
+
+The royal fortress of Chinon stands high above the River Vienne. Joan arrived around midday, lodged at an inn, and after dinner was brought into the great hall, which she remembered as full of light, with "more than three hundred Knights and more than fifty torches, without counting the spiritual light." The Dauphin, it is said, stood among his courtiers to test her. Joan went straight to him:
+
+> When I entered the room where he was I recognized him among many others by the counsel of my Voice, which revealed him to me.
+
+Her confessor, the Augustinian friar Jean Pasquerel, later recorded the words she told him she had spoken: "Gentle Dauphin," she said, "I am called Jeanne the Maid; and the King of Heaven sends you word by me that you will be consecrated and crowned at Rheims, and that you will be the lieutenant of the King of Heaven, who is King of France." Then she spoke with Charles apart. What passed between them she would never reveal to her judges, but he came away comforted. Pasquerel said she had assured him that he was the true heir of France.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-chinon-600.webp 600w,/static/art/joan-vigiles-chinon.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-chinon.jpg" alt="A page of a medieval manuscript: above columns of French verse, a small painting shows a young woman in a long white gown led by men towards a group of courtiers" width="1280" height="2462" loading="lazy"></picture>
+<figcaption><b>Joan is brought to Chinon</b>, from the <i>Vigiles de Charles VII</i> by Martial d'Auvergne, illuminated around 1484 (Bibliothèque nationale de France). Image: <a href="https://commons.wikimedia.org/wiki/File:Vigiles_de_Charles_VII,_fol._55v,_Jeanne_d%27Arc_conduite_%C3%A0_Chinon.jpg">Vigiles de Charles VII, fol. 55v, Jeanne d'Arc conduite à Chinon</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-dauphin-600.webp 600w,/static/art/joan-boutet-dauphin.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-dauphin.jpg" alt="A wide, richly patterned painting of a crowd of courtiers in brocades, furs and bright colours, standing in a long row" width="1280" height="560" loading="lazy"></picture>
+<figcaption><b>Her Appeal to the Dauphin</b>, Boutet de Monvel's panel of the Chinon meeting (1906, National Gallery of Art, Washington). Image: <a href="https://commons.wikimedia.org/wiki/File:Louis_Maurice_Boutet_de_Monvel,_Her_Appeal_to_the_Dauphin_(Joan_of_Arc_series_-_II),_1906,_NGA_178348.jpg">Louis Maurice Boutet de Monvel, Her Appeal to the Dauphin (Joan of Arc series - II), 1906, NGA 178348</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-window-chinon-600.webp 600w,/static/art/joan-orleans-window-chinon.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-window-chinon.jpg" alt="A tall four-light gothic stained glass window in reds, greens and blues, with a crowd of courtiers in bright robes and a kneeling figure, beneath a rose of coloured glass" width="1280" height="2352" loading="lazy"></picture>
+<figcaption><b>At Chinon, Joan recognises Charles VII</b>, the third of the ten Joan of Arc windows in Orléans Cathedral, made by Galland and Gibelin (1893–1897). Photo: <a href="https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_(Loiret)_-_Cath%C3%A9drale_Sainte-Croix_-_Verri%C3%A8res_de_Jeanne_d%27Arc_3_A_Chinon,_Jeanne_reconnait_Charles_VII.jpg">Orléans (Loiret) - Cathédrale Sainte-Croix - Verrières de Jeanne d'Arc 3 A Chinon, Jeanne reconnait Charles VII</a> by Patrick, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=poitiers>Examined at Poitiers</h2>
+
+Charles needed to be sure, and so did his council. A girl claiming to come from God might be a saint, but she might also be deluded, or worse. Joan was sent to Poitiers, the loyal city where the King's Parlement now sat, and there a commission of bishops and theologians questioned her closely.
+
+"During three weeks I was questioned by the clergy at Chinon and at Poitiers," Joan said. The record of their findings, which she called "the Register at Poitiers", is now lost, and at Rouen she often told her judges to send for it. But its conclusion is known: "the clergy of my party were of opinion that there was nothing but good in my mission." One of her examiners, the Dominican Séguin de Séguin, described her at the rehabilitation as "a simple shepherd-maiden, who confessed often". When they asked her for a sign, she told them: "The sign given to me from God is to raise the siege of Orleans."
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-poitiers-600.webp 600w,/static/art/joan-poitiers.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-poitiers.jpg" alt="A great carved stone fireplace with three hearths, set in a wall beneath a gallery of delicate gothic tracery" width="1280" height="854" loading="lazy"></picture>
+<figcaption>The great hall of the <b>Palace of the Counts of Poitou and Dukes of Aquitaine</b> at Poitiers. The palace housed the royal court of justice in Joan's time, and local tradition places part of her examination here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Poitiers_-_Palais_des_ducs_d%27Aquitaine_-_2.jpg">Poitiers - Palais des ducs d'Aquitaine - 2</a> by Benjamin Smith, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=sword>The sword of Fierbois and the white banner</h2>
+
+At Tours the King had armour made for her, and there she sent for a sword that her voices had told her about. She explained it to her judges at Rouen in her own lively way:
+
+> I sent to seek for a sword which was in the Church of Saint Catherine de Fierbois, behind the altar; it was found there at once; the sword was in the ground, and rusty; upon it were five crosses; I knew by my Voice where it was.
+
+"As soon as it was found, the Priests of the Church rubbed it, and the rust fell off at once without effort." The priests of Fierbois gave her a scabbard, the people of Tours another, one of crimson velvet and one of cloth of gold. The sword was later lost, and its story belongs partly to tradition: the chroniclers say it was an old votive offering, perhaps left by a knight in thanksgiving. But Joan's own love for it is plain: "I cared very much for this sword, because it had been found in the Church of Saint Catherine, whom I love so much."
+
+Her banner she loved even more. It was made of white linen, "the field was sprinkled with lilies; the world was painted there, with an angel at each side," with the words *Jhesus Maria* beside it. Asked which she cared for more, her banner or her sword, she answered: "Better, forty times better, my banner than my sword!" And she told them why she carried it herself: "It was I, myself, who bore this banner, when I attacked the enemy, to save killing any one, for I have never killed any one."
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-fierbois-600.webp 600w,/static/art/joan-fierbois.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-fierbois.jpg" alt="A tall gothic church front of pale stone with a richly carved pointed doorway, a large window and a slate spire, with visitors gathered at its door" width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The church of <b>Sainte-Catherine-de-Fierbois</b>, built in the fifteenth century at the shrine where Joan heard three Masses and where her sword was found. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sainte-Catherine-de-Fierbois_-_%C3%89glise_Sainte-Catherine_-_1.jpg">Sainte-Catherine-de-Fierbois - Église Sainte-Catherine - 1</a> by Peter Potrowl, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=orleans>The relief of Orléans</h2>
+
+Orléans, the key to the Loire, had been besieged by the English since October 1428. If it fell, the road to the south lay open. Before setting out, Joan dictated a letter to the King of England and his captains, calling on them in the name of Jesus and Mary to go home in peace. Pope Benedict XVI called it "a true proposal of peace in justice between the two Christian peoples". It was refused.
+
+In the last week of April 1429 the relief army gathered at Blois. Joan would not let women of ill fame follow the army, and twice a day, Pasquerel remembered, she gathered the priests around a banner of the Crucifixion, where "they then sang anthems and hymns to the Blessed Mary", with the soldiers who had been to confession. On 29 April she slipped into Orléans with a supply convoy and met the city's commander, Jean, the Bastard of Orléans, later Count of Dunois.
+
+Within days the English forts began to fall: Saint-Loup, then the Augustins. On 7 May came the assault on the Tourelles, the fortress guarding the bridge. "I had said to them: 'Be fearless, and you will raise the siege.'" Joan was setting up a ladder against the wall when a crossbow bolt struck her between the neck and the shoulder. "I had great comfort from Saint Catherine, and was cured in less than a fortnight." When some soldiers offered to charm the wound, Pasquerel remembered her answer: "I would rather die than do a thing which I know to be a sin." She had it dressed with olive oil and soon returned to urge on the final assault. That evening the Tourelles fell. On Sunday 8 May the English withdrew from Orléans. The siege was over, and the city has kept the anniversary ever since.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-orleans-600.webp 600w,/static/art/joan-vigiles-orleans.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-orleans.jpg" alt="A medieval miniature of a siege: soldiers in red and blue fire a great cannon at a walled town with pink towers, and archers shoot from behind wooden barricades, with French verse below" width="1280" height="1147" loading="lazy"></picture>
+<figcaption><b>The siege of Orléans</b>, from the <i>Vigiles de Charles VII</i> (c. 1484, Bibliothèque nationale de France). Image: <a href="https://commons.wikimedia.org/wiki/File:SiegeOfOrleans1429.jpg">SiegeOfOrleans1429</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-lenepveu-orleans-600.webp 600w,/static/art/joan-lenepveu-orleans.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-lenepveu-orleans.jpg" alt="A crowded painting: a young woman in shining armour, her white banner raised, leads armed men forward through a breach beneath a castle wall, as soldiers fight and fall around her" width="1280" height="1738" loading="lazy"></picture>
+<figcaption><b>Joan at the siege of Orléans</b>, Lenepveu's mural in the Panthéon (1886–1890). Like most painters, he dressed her in full plate armour. Image: <a href="https://commons.wikimedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg">Lenepveu, Jeanne d'Arc au siège d'Orléans</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-tourelles-600.webp 600w,/static/art/joan-boutet-tourelles.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-tourelles.jpg" alt="A colourful picture-book illustration: in a press of armoured men with lances and banners, a girl with a white standard is helped back from the wall, with a page of French text beside it" width="1280" height="994" loading="lazy"></picture>
+<figcaption><b>Joan at the attack on the Tourelles, 7 May 1429</b>, from Boutet de Monvel's picture book <i>Jeanne d'Arc</i> (1896). Image: <a href="https://commons.wikimedia.org/wiki/File:L.-M._Boutet_de_Monvel_-_Joan_of_Arc_during_the_siege_of_Tournelles,_7_May_1429.png">L.-M. Boutet de Monvel - Joan of Arc during the siege of Tournelles, 7 May 1429</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-window-tourelles-600.webp 600w,/static/art/joan-orleans-window-tourelles.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-window-tourelles.jpg" alt="A tall four-light stained glass window filled with a battle: a figure in white armour with a banner among soldiers, lances and fallen men, in blues and reds" width="1280" height="2480" loading="lazy"></picture>
+<figcaption><b>The capture of the Tourelles and the deliverance of Orléans</b>, the fifth of the Joan windows in Orléans Cathedral (1893–1897). Photo: <a href="https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_(Loiret)_-_Cath%C3%A9drale_Sainte-Croix_-_Verri%C3%A8res_de_Jeanne_d%27Arc_5_Prise_du_Fort_des_Tourelles_et_lib%C3%A9ration_d%27Orl%C3%A9ans.jpg">Orléans (Loiret) - Cathédrale Sainte-Croix - Verrières de Jeanne d'Arc 5 Prise du Fort des Tourelles et libération d'Orléans</a> by Patrick, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-scherrer-600.webp 600w,/static/art/joan-scherrer.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-scherrer.jpg" alt="A painting of a crowded street of timbered houses: Joan in armour on a horse, with a white banner, rides through cheering townspeople who reach out to her" width="1280" height="1703" loading="lazy"></picture>
+<figcaption><b>Joan returns victorious to Orléans and is acclaimed by the people</b>, by Jean-Jacques Scherrer (1887). Image: <a href="https://commons.wikimedia.org/wiki/File:Jean-Jacques_Scherrer_-_Jeanne_d%27Arc,_victorieuse_des_anglais,_rentre_%C3%A0_Orl%C3%A9ans_et_est_acclam%C3%A9e_par_la_population.png">Jean-Jacques Scherrer - Jeanne d'Arc, victorieuse des anglais, rentre à Orléans et est acclamée par la population</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=patay>The Loire campaign and Patay</h2>
+
+Joan pressed the Dauphin not to lose a moment: the road to Reims had to be opened. In June 1429, with the young Duke of Alençon, whom she always called her "Beau Duc", her "fair duke", she helped take the English strongholds on the Loire: Jargeau, the bridge at Meung, and Beaugency, which surrendered on 18 June.
+
+That same day the French caught the retreating English army in open country near the village of Patay. When the Duke of Alençon asked her what was to be done, she answered: "Have all of you good spurs?" The captains asked if they were to turn their backs. "Nay," she replied, "it is the English who will not defend themselves, and will be beaten; and you must have good spurs to pursue them." The French vanguard fell upon the English before they were ready, and the army that had seemed unbeatable since Agincourt was routed. The great English captain John Talbot was taken prisoner.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-patay-600.webp 600w,/static/art/joan-boutet-patay.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-patay.jpg" alt="A picture-book illustration of a cavalry charge: a mass of knights in armour with lances and banners gallops across the page, with a block of French text below" width="1280" height="966" loading="lazy"></picture>
+<figcaption><b>The Battle of Patay</b>, 18 June 1429, from Boutet de Monvel's <i>Jeanne d'Arc</i> (1896). Image: <a href="https://commons.wikimedia.org/wiki/File:L.-M._Boutet_de_Monvel_-_Battle_of_Patay.png">L.-M. Boutet de Monvel - Battle of Patay</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=reims>The crowning at Reims</h2>
+
+French kings were consecrated at Reims, as Clovis had been baptised there by St Remigius, and Joan believed that only after this anointing would Charles be king in the eyes of God and his people. The road ran deep into enemy country, but town after town opened its gates, Troyes among them. Reims opened on 16 July, and the next morning, Sunday 17 July 1429, Charles VII was anointed with the holy oil and crowned in the cathedral.
+
+Joan stood near the altar with her banner. "My standard has been in the Church of Rheims; and it seems to me it was near the altar. I myself bore it for a space there." Her father and her brother Pierre had come to Reims for the coronation, a townsman later remembered. After four months of toil, the girl from Domrémy had kept her promise to the gentle Dauphin.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-sacre-600.webp 600w,/static/art/joan-vigiles-sacre.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-sacre.jpg" alt="A manuscript page with a small painting of a coronation: bishops crown a king in blue robes before an altar, as courtiers look on, framed by columns of verse" width="1280" height="2305" loading="lazy"></picture>
+<figcaption><b>The coronation of Charles VII at Reims</b>, from the <i>Vigiles de Charles VII</i> (c. 1484). Image: <a href="https://commons.wikimedia.org/wiki/File:Vigiles_de_Charles_VII,_fol._63v,_sacre_de_Charles_VII_%C3%A0_Reims.jpg">Vigiles de Charles VII, fol. 63v, sacre de Charles VII à Reims</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-pasquerel-600.webp 600w,/static/art/joan-pasquerel.webp 286w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-pasquerel.jpg" alt="A detail of a painting: a tonsured friar in a brown habit bends his head over a small red book in prayer" width="286" height="367" loading="lazy"></picture>
+<figcaption><b>Brother Jean Pasquerel</b>, Joan's confessor, kneeling in prayer: a detail of Ingres's <i>Joan of Arc at the Coronation of Charles VII</i> (1854, Louvre), the painting at the top of this page. Image: <a href="https://commons.wikimedia.org/wiki/File:Fr._Jean_Pasquerel_(d%C3%A9tail_d%27Ingres,_Jeanne_d%E2%80%99Arc_au_sacre_du_roi_Charles_VII).jpg">Fr. Jean Pasquerel (détail d'Ingres, Jeanne d’Arc au sacre du roi Charles VII)</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-lenepveu-sacre-600.webp 600w,/static/art/joan-lenepveu-sacre.webp 1065w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-lenepveu-sacre.jpg" alt="An old postcard of a mural: in a soaring gothic cathedral, a king kneels at the altar as a bishop crowns him, while a girl in armour holds a banner beside him" width="1065" height="1650" loading="lazy"></picture>
+<figcaption><b>The Coronation of Charles VII at Reims</b>, Lenepveu's mural in the Panthéon, on an early twentieth-century postcard by Neurdein Frères. Photo: <a href="https://commons.wikimedia.org/wiki/File:Carte_postale,_Peintures_Murales_du_Panth%C3%A9on,_Sacre_de_Charles_VII_%C3%A0_Reims.jpg">Carte postale, Peintures Murales du Panthéon, Sacre de Charles VII à Reims</a> by Neurdein Frères, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-crowning-600.webp 600w,/static/art/joan-boutet-crowning.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-crowning.jpg" alt="A wide, glowing painting full of gold brocades and banners, with crowds of prelates and nobles in a cathedral at a coronation" width="1280" height="529" loading="lazy"></picture>
+<figcaption><b>The Crowning at Rheims of the Dauphin</b>, Boutet de Monvel (1907, National Gallery of Art, Washington). Image: <a href="https://commons.wikimedia.org/wiki/File:Louis_Maurice_Boutet_de_Monvel,_The_Crowning_at_Rheims_of_the_Dauphin_(Joan_of_Arc_series_-_V),_1907,_NGA_177912.jpg">Louis Maurice Boutet de Monvel, The Crowning at Rheims of the Dauphin (Joan of Arc series - V), 1907, NGA 177912</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=paris>Paris and the hard months</h2>
+
+After Reims, the King's counsellors preferred to negotiate with the Duke of Burgundy, and the army lost precious weeks. On 8 September 1429, the feast of Our Lady's Nativity, Joan led an assault on Paris at the Porte Saint-Honoré. She was struck in the leg by a crossbow bolt and lay in a trench beneath the walls, still urging the men forward, until she was carried away. Soon afterwards the King ordered a retreat. "The Voice told me to remain at Saint-Denis, in France; I wished to do so, but, against my will, the Lords made me leave." She left her armour as an offering at the abbey of Saint-Denis, where the kings of France lay buried.
+
+The winter brought smaller campaigns, the capture of Saint-Pierre-le-Moûtier and a failed siege of La Charité. In Easter week of 1430, in the trenches at Melun, St Catherine and St Margaret warned her what was coming: "Thou wilt be taken before Saint John's Day; and so it must be: do not torment thyself about it: be resigned; God will help thee."
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-paris-600.webp 600w,/static/art/joan-vigiles-paris.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-paris.jpg" alt="A medieval miniature: soldiers with crossbows and longbows, sheltered behind wooden shields, attack the pale walls and towers of a city, as defenders shoot back" width="1280" height="917" loading="lazy"></picture>
+<figcaption><b>The siege of Paris, 1429</b>, from the <i>Vigiles de Charles VII</i> (c. 1484). Image: <a href="https://commons.wikimedia.org/wiki/File:Le_si%C3%A8ge_de_Paris_en_1429_par_Jeanne_d%27Arc_-_Martial.jpg">Le siège de Paris en 1429 par Jeanne d'Arc - Martial</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=compiegne>Captured at Compiègne</h2>
+
+In May 1430 the Burgundians besieged Compiègne, a loyal town on the Oise. Joan slipped into the town early on 23 May and that same evening led a sortie against the Burgundian camp at Margny. The enemy counter-attacked; her company fell back towards the town, and the gate was closed before the rearguard could get in. Dragged from her horse in a cloak of cloth of gold, she gave her word to Lionel, the Bastard of Wandonne, a captain in the service of Jean de Luxembourg. "I prayed always for those at Compiègne," she said later; and the town held out.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-vigiles-compiegne-600.webp 600w,/static/art/joan-vigiles-compiegne.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-vigiles-compiegne.jpg" alt="A manuscript page with a small painting: armoured horsemen seize a rider in gold before the gate of a walled town, with French verse above and below" width="1280" height="2339" loading="lazy"></picture>
+<figcaption><b>Joan is captured at Compiègne</b>, from the <i>Vigiles de Charles VII</i> (c. 1484). Image: <a href="https://commons.wikimedia.org/wiki/File:Vigiles_de_Charles_VII,_fol._70r,_prise_de_Jeanne_d%27Arc_%C3%A0_Compi%C3%A8gne.jpg">Vigiles de Charles VII, fol. 70r, prise de Jeanne d'Arc à Compiègne</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-compiegne-600.webp 600w,/static/art/joan-boutet-compiegne.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-compiegne.jpg" alt="A picture-book illustration: a crush of knights in armour and helmets surrounds Joan, who is being pulled from her horse, with French text beneath" width="1280" height="979" loading="lazy"></picture>
+<figcaption><b>Joan captured at Compiègne, 1430</b>, from Boutet de Monvel's <i>Jeanne d'Arc</i> (1896). Image: <a href="https://commons.wikimedia.org/wiki/File:L.-M._Boutet_de_Monvel_-_Joan_of_Arc_captured_during_the_siege_of_Compi%C3%A8gne,_1430.png">L.-M. Boutet de Monvel - Joan of Arc captured during the siege of Compiègne, 1430</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=beaurevoir>The tower of Beaurevoir</h2>
+
+Jean de Luxembourg held her in his castles, first at Beaulieu-les-Fontaines and then at Beaurevoir, for about four months. The ladies of the castle were kind to her and begged her to wear a woman's dress; she answered gently that she had not yet leave from Our Lord. Then she learned that she was to be sold to the English, and that Compiègne was in danger of falling. Against the counsel of her voices, she jumped from the tower:
+
+> When I knew that the English were come to take me, I was very angry; nevertheless, my Voices forbade me many times to leap. In the end, for fear of the English, I leaped, and commended myself to God and Our Lady. I was wounded.
+
+"Some said I was dead." She could not eat or drink for days, but St Catherine "told me to confess, and to beg pardon of God", and promised that Compiègne would have help before Martinmas; and so it did. "After my fall, I confessed myself and asked pardon. God has forgiven me." Late in 1430 she was sold to the English for a king's ransom of 10,000 livres tournois, and carried by Arras and the castle of Le Crotoy to Rouen.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-beaurevoir-600.webp 600w,/static/art/joan-beaurevoir.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-beaurevoir.jpg" alt="A small, squat stone tower with a low pointed roof stands on a grassy mound above a ploughed field, under a grey sky" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The <b>watchtower at Beaurevoir</b>, called the Tour Jeanne d'Arc, one of the few remains of the castle where Joan was held in 1430. Photo: <a href="https://commons.wikimedia.org/wiki/File:Beaurevoir_(Aisne)_tour_de_guet_MH.JPG">Beaurevoir (Aisne) tour de guet MH</a> by Havang(nl), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=trial>The trial at Rouen</h2>
+
+At Rouen she was locked in a tower of the castle, chained, and guarded day and night by English soldiers, though as a prisoner of the Church she should have been held in a church prison with women to guard her. The judge was Pierre Cauchon, Bishop of Beauvais, a supporter of the English, with Jean Lemaître, deputy of the Inquisitor. Dozens of assessors, many from the University of Paris, sat with him. As a notary of the trial later said, she "had no director, counsel, nor defender, up to the end". From 21 February to the end of March 1431 she was questioned in public and in her cell, often by several men at once, on her voices, her clothes, her banner, the fairies' tree at Domrémy and her obedience to the Church.
+
+She answered with a candour and wit that still shine from the record. "I am come in God's name; I have nothing to do here; let me be sent back to God, whence I came." She told the judges what her voice had said to her that very morning: "Answer boldly; God will help thee." Then came the trap. The judges asked whether she knew she was in the grace of God. If she said yes, she was presumptuous; if no, she condemned herself. Her answer silenced the hall:
+
+> If I am not, may God place me there; if I am, may God so keep me. I should be the saddest in all the world if I knew that I were not in the grace of God.
+
+(The words are often quoted as "may God put me there"; Murray's translation reads "place".)
+
+When they pressed her to submit to the "Church Militant", meaning in practice to them, she appealed again and again to the Pope and to a General Council: "As for me, I believe in our Lord the Pope who is at Rome." On 9 May, in the great tower of the castle, she was shown the instruments of torture. "Truly if you were to tear me limb from limb, and separate soul and body, I will tell you nothing more; and, if I were to say anything else, I should always afterwards declare that you made me say it by force."
+
+On 24 May, in the cemetery of Saint-Ouen, before a crowd and a waiting cart, she signed a short abjuration that she later said she had not understood, and was sentenced to life in prison. Promised a church prison, she was taken back to the English. Days later she was again wearing men's clothes. "I have resumed it because the promise made to me has not been kept," she said: she had been promised that she could go to Mass and receive her Saviour, and be taken out of irons. On 29 May the judges declared her a relapsed heretic.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-delaroche-600.webp 600w,/static/art/joan-delaroche.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-delaroche.jpg" alt="A dark painting: in a prison cell, a cardinal in scarlet robes sits leaning towards a pale young woman in black who lies on straw, while a man listens in the shadows behind" width="1280" height="1641" loading="lazy"></picture>
+<figcaption><b>Joan, sick in prison, is interrogated by the Cardinal of Winchester</b>, by Paul Delaroche (1824). Image: <a href="https://commons.wikimedia.org/wiki/File:Joan_of_arc_interrogation.jpg">Joan of arc interrogation</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-boutet-trial-600.webp 600w,/static/art/joan-boutet-trial.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-boutet-trial.jpg" alt="A wide painting of a long hall lined with seated clerics in dark robes, facing a lone figure in blue who stands with one arm raised" width="1280" height="565" loading="lazy"></picture>
+<figcaption><b>The Trial of Joan of Arc</b>, the last of Boutet de Monvel's large panels (c. 1909–1910, National Gallery of Art, Washington). Image: <a href="https://commons.wikimedia.org/wiki/File:Louis_Maurice_Boutet_de_Monvel,_The_Trial_of_Joan_of_Arc_(Joan_of_Arc_series_-_VI),_c._late_1909-early_1910,_NGA_195567.jpg">Louis Maurice Boutet de Monvel, The Trial of Joan of Arc (Joan of Arc series - VI), c. late 1909-early 1910, NGA 195567</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-window-prison-600.webp 600w,/static/art/joan-orleans-window-prison.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-window-prison.jpg" alt="A tall two-light stained glass window: a white-robed angel with raised arms appears above a group of figures in a dark prison, in deep blues, reds and purples" width="1280" height="3466" loading="lazy"></picture>
+<figcaption><b>Joan in her prison</b>, comforted by her heavenly visitors: the ninth Joan window in Orléans Cathedral (1893–1897). Photo: <a href="https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_(Loiret)_-_Cath%C3%A9drale_Sainte-Croix_-_Verri%C3%A8res_de_Jeanne_d%27Arc_9_Jeanne_d%27Arc_dans_sa_prison.jpg">Orléans (Loiret) - Cathédrale Sainte-Croix - Verrières de Jeanne d'Arc 9 Jeanne d'Arc dans sa prison</a> by Patrick, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=death>"Jesus!": her death in the Old Market</h2>
+
+Early on 30 May 1431, the Dominican Martin Ladvenu heard her confession and, with the bishop's leave, brought her Holy Communion. Then she was taken in a cart to the Old Market, the Vieux-Marché, where a scaffold had been raised beside the church of Saint-Sauveur. After a sermon and the sentence, she knelt and prayed aloud for half an hour, forgiving everyone who had harmed her and asking all present, friends and enemies, to pray for her.
+
+She asked for a cross. Jean Massieu, the court usher, saw what happened next: "an Englishman, who was there present, made a little cross of wood with the ends of a stick, which he gave her, and devoutly she received and kissed it." She put it in her bosom. Then she asked that the cross of the church be brought, "so that she might see it continually until death." The Dominican Isambard de la Pierre fetched it from Saint-Sauveur and held it before her, as she had begged, "to hold it upright on high before her eyes until the moment of death, so that the Cross on which God was hanging might be in life continually before her eyes."
+
+As the flames rose, she cried out to St Michael and to Jesus. A clerk of the archbishop's court, Maugier Leparmentier, never forgot it:
+
+> When she was in the fire she cried, more than six times, "Jesus!" And with the last breath she cried with a loud voice, so that all present might hear, "Jesus!" Nearly all wept for pity.
+
+Pope Benedict XVI wrote that "she died, her gaze fixed upon the Crucified Jesus". That afternoon even the executioner came to the Dominicans, saying, a witness remembered, "that he feared he was damned because he had burnt a saint." Her ashes were thrown into the Seine.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-lenepveu-stake-600.webp 600w,/static/art/joan-lenepveu-stake.webp 552w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-lenepveu-stake.jpg" alt="A mural: Joan in a white shift is bound to a tall stake above a pile of wood, her eyes raised to heaven, while a friar in black and white lifts a cross towards her and soldiers crowd below" width="552" height="768" loading="lazy"></picture>
+<figcaption><b>Joan at the stake</b>, the last of Lenepveu's murals in the Panthéon (1886–1890). Like the witnesses, the painter shows a friar holding up the cross before her. Image: <a href="https://commons.wikimedia.org/wiki/File:Joan_of_arc_burning_at_stake.jpg">Joan of arc burning at stake</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-stilke-600.webp 600w,/static/art/joan-stilke.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-stilke.jpg" alt="A painting: a young woman in a pale gown, bound to a stake on a wooden pyre, turns her face upwards as a crowd watches, with a gothic church spire behind" width="1280" height="1833" loading="lazy"></picture>
+<figcaption><b>Joan of Arc's Death at the Stake</b>, by Hermann Stilke (1843, Hermitage Museum, St Petersburg). Image: <a href="https://commons.wikimedia.org/wiki/File:Stilke_Hermann_Anton_-_Joan_of_Arc%27s_Death_at_the_Stake.jpg">Stilke Hermann Anton - Joan of Arc's Death at the Stake</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-window-stake-600.webp 600w,/static/art/joan-orleans-window-stake.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-window-stake.jpg" alt="A tall four-light stained glass window crowded with figures in rich colours, with red and orange flames rising at the centre, beneath a rose of coloured glass" width="1280" height="2391" loading="lazy"></picture>
+<figcaption><b>Joan at the stake</b>, the tenth and last Joan window in Orléans Cathedral (1893–1897). Photo: <a href="https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_(Loiret)_-_Cath%C3%A9drale_Sainte-Croix_-_Verri%C3%A8res_de_Jeanne_d%27Arc_10_Jeanne_d%27Arc_sur_le_b%C3%BBcher.jpg">Orléans (Loiret) - Cathédrale Sainte-Croix - Verrières de Jeanne d'Arc 10 Jeanne d'Arc sur le bûcher</a> by Patrick, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=rehabilitation>Rehabilitation, 1456</h2>
+
+In 1450, after he had taken Rouen back from the English, Charles VII ordered an inquiry into the trial. In 1455 Pope Callixtus III answered the petition of Joan's aged mother, Isabelle, and her brothers, and appointed three commissioners, led by Jean Juvénal des Ursins, Archbishop of Reims. Witnesses were heard at Domrémy, Orléans, Rouen and elsewhere, about 115 in all: her godparents and childhood friends, the men who rode with her, the women who sheltered her, and the priests and notaries of the trial itself. Their testimony gives us most of what we know of her life and her last day.
+
+On 7 July 1456, at Rouen, the sentence was read: the trial and condemnation were declared null and void, "wicked and unjust". The next day a sermon was preached in the Old Market, and a cross was set up there in her memory.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-champion-600.webp 600w,/static/art/joan-champion.webp 833w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-champion.jpg" alt="A medieval miniature: under a red tent, a woman in red holds the severed head of a man, while beside her a young woman in armour with a lance and a blue shield of lilies stands, labelled Jehanne la pucelle" width="833" height="784" loading="lazy"></picture>
+<figcaption><b>Joan beside Judith</b>, from a manuscript of Martin Le Franc's poem <i>Le Champion des Dames</i>, written around 1440, which praised her alongside the heroines of Scripture (Bibliothèque nationale de France). Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc_-_Judith_-_Le_Champion_des_Dames.jpg">Jeanne d'Arc - Judith - Le Champion des Dames</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=saint>Blessed, Saint and patroness of France</h2>
+
+For four centuries Orléans kept her memory every 8 May. In 1849 Félix Dupanloup, Bishop of Orléans, preached a famous panegyric of her, and in 1869 he asked Rome to open her cause. Leo XIII declared her Venerable in 1894; she was beatified by St Pius X on 18 April 1909, and on 16 May 1920 Pope Benedict XV canonised her. The Church honours her as a virgin, not as a martyr, because she was put to death for her private revelations, not for the faith; but the people have always venerated her as a martyr. On 2 March 1922, in the apostolic letter *Galliam, Ecclesiae filiam primogenitam*, Pius XI proclaimed her the secondary patroness of France, with Our Lady as its principal patroness. The French Republic, too, has kept a national feast of Joan of Arc on the second Sunday of May since 1920.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-dufour-600.webp 600w,/static/art/joan-dufour.webp 977w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-dufour.jpg" alt="A manuscript painting: a young woman in golden armour rides a white horse with a red caparison, holding a banner, before a town, with gothic writing around it" width="977" height="1303" loading="lazy"></picture>
+<figcaption><b>Joan on horseback</b>, from Antoine Dufour's <i>Lives of Famous Women</i>, a manuscript illuminated by Jean Pichore in the first years of the sixteenth century. Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc_-_Les_vies_des_femmes_c%C3%A9l%C3%A8bres_d%27Antoine_Dufour.jpg">Jeanne d'Arc - Les vies des femmes célèbres d'Antoine Dufour</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=places>Her places and churches</h2>
+
+<figure class=map><a href="/static/maps/map-joan-of-arc.svg"><img src="/static/maps/map-joan-of-arc.svg" alt="Map of northern France showing St Joan of Arc's road, numbered in order: 1 Domrémy, her home; 2 Vaucouleurs, where Robert de Baudricourt gave her an escort; 3 Chinon, where she met the Dauphin; 4 Poitiers, where the clergy examined her; 5 Blois, where the army gathered; 6 Orléans, where the siege was raised on 8 May 1429; 7 Patay, the victory of 18 June 1429; 8 Reims, the coronation of 17 July 1429; 9 Paris, the failed assault of 8 September 1429; 10 Compiègne, where she was captured on 23 May 1430; 11 Beaurevoir, where she was held prisoner and leapt from the tower; 12 Rouen, her trial and death in 1431. A solid line traces her road of 1429 by Auxerre, Sainte-Catherine-de-Fierbois, Tours, Jargeau, Gien, Troyes and Saint-Denis; a dashed line traces her journey as a prisoner from Compiègne by Beaurevoir, Arras and Le Crotoy to Rouen." width="1100" height="1080" loading="lazy"></a><figcaption>St Joan's road through France, 1428–1431, from Domrémy to Rouen. Routes are simplified and modern borders are shown. Map by The Daily Word; coastlines and borders from Natural Earth (public domain). Tap to enlarge.</figcaption></figure>
+
+### Domrémy-la-Pucelle: her birthplace and the church of Saint-Rémy
+
+The village, now called Domrémy-la-Pucelle in her honour, still has the stone house where Joan was born and grew up, a protected monument since 1840. Carved coats of arms are set over its door. Beside it stands the church of Saint-Rémy where she was baptised; it was much altered in the nineteenth century, when it was turned round so that the old porch became the choir, but it still keeps a font that tradition says is the one used at her baptism.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-domremy-house-600.webp 600w,/static/art/joan-domremy-house.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-domremy-house.jpg" alt="A carved stone panel over a doorway, with three shields of arms beneath a pointed arch of gothic tracery" width="1280" height="960" loading="lazy"></picture>
+<figcaption>Carved <b>coats of arms over the door of Joan's birthplace</b> at Domrémy. Photo: <a href="https://commons.wikimedia.org/wiki/File:Maison_natale_Jeanne_d%27Arc_028.jpg">Maison natale Jeanne d'Arc 028</a> by Arnaud 25, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-domremy-church-600.webp 600w,/static/art/joan-domremy-church.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-domremy-church.jpg" alt="A small, grey, gothic village church with a square bell tower topped by a cross, beside a lane, under a cloudy sky" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The church of <b>Saint-Rémy</b>, Domrémy, where Joan was baptised and where she heard Mass as a child. Photo: <a href="https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-R%C3%A9my_de_Domr%C3%A9my-la-Pucelle_138.jpg">Église Saint-Rémy de Domrémy-la-Pucelle 138</a> by Arnaud 25, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### The Basilique du Bois-Chenu
+
+On the wooded hillside above the village, where by tradition Joan heard her voices as she tended the flocks, stands the national basilica of St Joan of Arc, called the Bois-Chenu. The first stone was laid in 1881 and the church was finished in 1926; it was first planned in honour of St Michael, since Joan had not yet been beatified. Inside, great murals by Lionel Royer (1910–1913) tell the story of her life.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-bois-chenu-600.webp 600w,/static/art/joan-bois-chenu.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-bois-chenu.jpg" alt="A tall, white-and-grey neo-Romanesque church with a slender spire, against a blue sky with white clouds, on a wooded hillside" width="1280" height="1920" loading="lazy"></picture>
+<figcaption>The <b>Basilique du Bois-Chenu</b>, the national basilica of St Joan of Arc above Domrémy. Photo: <a href="https://commons.wikimedia.org/wiki/File:Basilique_du_Bois-Chenu_10.jpg">Basilique du Bois-Chenu 10</a> by René Hourdry, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-bois-chenu-portal-600.webp 600w,/static/art/joan-bois-chenu-portal.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-bois-chenu-portal.jpg" alt="A round-arched church doorway with dark wooden doors, beneath a gable carved with a cross, in banded stone, with geraniums in front" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The main door of the <b>Bois-Chenu</b> basilica. Photo: <a href="https://commons.wikimedia.org/wiki/File:PA88000042.Basilique_du_Bois-Chenu.7.jpg">PA88000042.Basilique du Bois-Chenu.7</a> by Laberus, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-royer-600.webp 600w,/static/art/joan-royer.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-royer.jpg" alt="A long mural: Joan, with a golden halo, rides a white horse among knights and townspeople, while a woman in a long red cloak stands before her" width="1280" height="855" loading="lazy"></picture>
+<figcaption>A scene from the <b>life of St Joan by Lionel Royer</b> (1910–1913) in the Bois-Chenu basilica. Photo: <a href="https://commons.wikimedia.org/wiki/File:Lionel_Royer_-_Vie_de_Jeanne_d%E2%80%99Arc_01.jpg">Lionel Royer - Vie de Jeanne d’Arc 01</a> by Tylwyth Eldar, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Vaucouleurs
+
+The royal town where Joan wore down Robert de Baudricourt still has its Porte de France, the castle gate she rode out of in 1429 (pictured above), and the crypt of the castle chapel where she prayed.
+
+### Chinon: the royal fortress
+
+The long walls of the fortress where Joan met the Dauphin crown the ridge above the Vienne, with their towers and gates. Joan was lodged in a room in the Tour du Coudray, inside the castle walls.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-chinon-600.webp 600w,/static/art/joan-chinon.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-chinon.jpg" alt="Pale stone castle walls and the tall roofless gable of a hall rise above the slate roofs of a town, with a slender tower beyond" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The <b>Royal Fortress of Chinon</b> above the town, where Joan recognised the Dauphin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Chinon_-_forteresse_royale_01.jpg">Chinon - forteresse royale 01</a> by Fab5669, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-chinon-tower-600.webp 600w,/static/art/joan-chinon-tower.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-chinon-tower.jpg" alt="A round stone tower with a walkway leading to its door, at the edge of a castle wall above a river valley in evening light" width="1280" height="848" loading="lazy"></picture>
+<figcaption>A tower of the <b>fortress of Chinon</b>, looking out over the valley of the Vienne. Photo: <a href="https://commons.wikimedia.org/wiki/File:Chinon_(Indre-et-Loire)_(22518913346).jpg">Chinon (Indre-et-Loire) (22518913346)</a> by Daniel Jolivet, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Sainte-Catherine-de-Fierbois and Poitiers
+
+At Fierbois, Joan lodged in the almshouse built for pilgrims in 1415, which still stands near the fifteenth-century church (shown above). At Poitiers the great hall of the ducal palace recalls the city where the King's theologians examined her.
+
+### Blois
+
+The army for Orléans gathered at Blois, on the Loire, in April 1429. The royal château she knew has been largely rebuilt since.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-blois-600.webp 600w,/static/art/joan-blois.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-blois.jpg" alt="A long range of cream stone buildings with slate roofs and dormer windows around a gravel courtyard with clipped hedges" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The <b>royal château of Blois</b>, where the relief army assembled in 1429; the present buildings are mostly later. Photo: <a href="https://commons.wikimedia.org/wiki/File:Blois_-_ch%C3%A2teau_royal_(05).jpg">Blois - château royal (05)</a> by Fab5669, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Orléans: the cathedral of Sainte-Croix and the house of Joan of Arc
+
+Orléans has never forgotten the girl who saved it. Every year in early May the city keeps its Fêtes johanniques; on the evening of 7 May the standard of Joan is handed over in a ceremony before the cathedral of Sainte-Croix. In the cathedral, ten great stained glass windows by Galland and Gibelin (1893–1897) tell her story, from the voices at Domrémy to the fire at Rouen. The timber-framed Maison de Jeanne d'Arc is a reconstruction of the house where, by tradition, she lodged during the siege.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-cathedral-600.webp 600w,/static/art/joan-orleans-cathedral.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-cathedral.jpg" alt="The tall gothic west front of a cathedral of pale stone, with three doors, rose windows and two open-work towers, under dark clouds" width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The <b>Cathedral of Sainte-Croix, Orléans</b>. Photo: <a href="https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Sainte-Croix_Orl%C3%A9ans_fa%C3%A7ade.JPG">Cathédrale Sainte-Croix Orléans façade</a> by Adam Bishop, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-window-voices-600.webp 600w,/static/art/joan-orleans-window-voices.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-window-voices.jpg" alt="A tall four-light stained glass window: a girl in a red dress among her sheep looks up at a winged angel in golden armour and other heavenly figures, beneath a rose of coloured glass" width="1280" height="2438" loading="lazy"></picture>
+<figcaption><b>At Domrémy, Joan hears the heavenly voices</b>, the first of the Joan windows in Orléans Cathedral (1893–1897). Photo: <a href="https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_(Loiret)_-_Cath%C3%A9drale_Sainte-Croix_-_Verri%C3%A8res_de_Jeanne_d%27Arc_1_A_Domr%C3%A9my,_Jeanne_d%27Arc_entend_des_voix_c%C3%A9lestes.jpg">Orléans (Loiret) - Cathédrale Sainte-Croix - Verrières de Jeanne d'Arc 1 A Domrémy, Jeanne d'Arc entend des voix célestes</a> by Patrick, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-orleans-house-600.webp 600w,/static/art/joan-orleans-house.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-orleans-house.jpg" alt="A tall timber-framed house with a steep gable and dark beams over a stone ground floor, on a paved street, with two people walking past" width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The <b>Maison de Jeanne d'Arc</b>, Orléans, recalling the house where, by tradition, Joan lodged during the siege. Photo: <a href="https://commons.wikimedia.org/wiki/File:Maison_de_Jeanne_d%27Arc_Orl%C3%A9ans_01.jpg">Maison de Jeanne d'Arc Orléans 01</a> by Arnaud 25, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Patay
+
+A statue of Joan stands in the place Jeanne-d'Arc of the little town of Patay, near the fields of the battle.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-patay-600.webp 600w,/static/art/joan-patay.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-patay.jpg" alt="A dark statue of Joan holding up a sword, on a stone pedestal inside iron railings, in a square of autumn trees and fallen leaves" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The <b>place Jeanne-d'Arc</b>, Patay. Photo: <a href="https://commons.wikimedia.org/wiki/File:Patay_-_place_Jeanne_d%27Arc.jpg">Patay - place Jeanne d'Arc</a> by Yzergues, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Reims Cathedral
+
+The coronation church of the kings of France is one of the glories of gothic art. Joan stood with her banner near the high altar in 1429. In front of the cathedral rides an equestrian statue of her by Paul Dubois.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-reims-600.webp 600w,/static/art/joan-reims.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-reims.jpg" alt="The vast gothic west front of Reims Cathedral, crowded with carved figures around three deep portals and a great rose window, between two towers, under a blue sky" width="1280" height="1920" loading="lazy"></picture>
+<figcaption>The west front of <b>Reims Cathedral</b>, where Charles VII was crowned on 17 July 1429. Photo: <a href="https://commons.wikimedia.org/wiki/File:Facade_de_la_Cath%C3%A9drale_de_Reims_-_Parvis.jpg">Facade de la Cathédrale de Reims - Parvis</a> by Ludovic Péron, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-reims-interior-600.webp 600w,/static/art/joan-reims-interior.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-reims-interior.jpg" alt="Inside a gothic cathedral, a dark carved wooden pulpit against a pillar, with a glowing rose window and stained glass beyond" width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The nave of <b>Reims Cathedral</b>. Photo: <a href="https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_ND_de_Reims_-_int%C3%A9rieur_(17).JPG">Cathédrale ND de Reims - intérieur (17)</a> by Fab5669, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-dubois-reims-600.webp 600w,/static/art/joan-dubois-reims.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-dubois-reims.jpg" alt="A green bronze statue of Joan on horseback, holding a sword aloft, on a stone pedestal in a paved square, with bare trees and a stone building behind" width="1280" height="853" loading="lazy"></picture>
+<figcaption><b>Paul Dubois's statue of Joan of Arc</b> on the parvis of Reims Cathedral. Photo: <a href="https://commons.wikimedia.org/wiki/File:Statue_%C3%A9questre_de_Jeanne_d%27Arc_face_%C3%A0_la_cath%C3%A9drale_de_Reims.jpg">Statue équestre de Jeanne d'Arc face à la cathédrale de Reims</a> by Christophe PINARD, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Paris: the Panthéon, Notre-Dame and Sacré-Cœur
+
+Paris did not open its gates to Joan, but it honours her everywhere: in Frémiet's golden statue in the place des Pyramides, near the spot where she was wounded; in Lenepveu's murals in the Panthéon; in her statue in Notre-Dame; and in her equestrian statue by Hippolyte Lefebvre on the porch of the basilica of Sacré-Cœur at Montmartre.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-notre-dame-600.webp 600w,/static/art/joan-notre-dame.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-notre-dame.jpg" alt="A pale stone statue of Joan in armour, hands joined in prayer and eyes raised, with a banner behind her, against a dim stone wall" width="1280" height="1920" loading="lazy"></picture>
+<figcaption><b>St Joan of Arc</b>, a statue in Notre-Dame de Paris. Photo: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc_-_Cath%C3%A9drale_Notre-Dame_de_Paris.jpg">Jeanne d'Arc - Cathédrale Notre-Dame de Paris</a> by Carlos Delgado, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-sacre-coeur-600.webp 600w,/static/art/joan-sacre-coeur.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-sacre-coeur.jpg" alt="A green bronze statue of Joan on horseback, holding up a sword, on a plinth against the pale stone of a church porch" width="1280" height="1920" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Hippolyte Lefebvre, on the façade of the <b>Basilica of Sacré-Cœur</b>, Montmartre. Photo: <a href="https://commons.wikimedia.org/wiki/File:Statue_Jeanne_Arc_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_Paris_3.jpg">Statue Jeanne Arc Basilique Sacré Cœur Montmartre Paris 3</a> by Chabe01, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Compiègne
+
+Compiègne remembers the place of her capture with an equestrian statue by Frémiet and another statue before the town hall.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-compiegne-600.webp 600w,/static/art/joan-compiegne.webp 779w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-compiegne.jpg" alt="A dark bronze statue of Joan on a horse that steps forward, holding a banner high, on a stone pedestal before bare pollarded trees" width="779" height="1400" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Emmanuel Frémiet, at Compiègne. Photo: <a href="https://commons.wikimedia.org/wiki/File:Equestrian_statue_of_Joan_of_Arc_at_Compi%C3%A8gne_France.jpg">Equestrian statue of Joan of Arc at Compiègne France</a> by Olivier Gnat, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-compiegne-hdv-600.webp 600w,/static/art/joan-compiegne-hdv.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-compiegne-hdv.jpg" alt="A richly decorated late-gothic town hall with a tall belfry under a deep blue sky, and at the right a bronze statue of Joan raising a banner on a tall pedestal" width="1280" height="853" loading="lazy"></picture>
+<figcaption>The <b>hôtel de ville of Compiègne</b> and its statue of Joan. Photo: <a href="https://commons.wikimedia.org/wiki/File:0_Compi%C3%A8gne_-_L%27h%C3%B4tel_de_Ville_et_la_statue_de_Jeanne_d%27Arc.JPG">0 Compiègne - L'hôtel de Ville et la statue de Jeanne d'Arc</a> by Jean-Pol GRANDMONT, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Beaurevoir
+
+Of Jean de Luxembourg's castle only a watchtower (pictured above) survives, a listed monument since 1920 and called after Joan.
+
+### Rouen: the donjon, the Vieux-Marché and the church of St Joan of Arc
+
+At Rouen, the great round keep of Philippe Auguste's castle, now called the Tour Jeanne-d'Arc, is the only part of the castle still standing. In this "great Tower" she was shown the instruments of torture on 9 May 1431. The tower in which she was imprisoned has disappeared.
+
+In the Vieux-Marché, the old market square, the foundations of the church of Saint-Sauveur have been uncovered, and a simple marker shows the site of the stake. Beside it stands the modern church of St Joan of Arc, consecrated in 1979, whose bold roof is said to recall both a Viking ship and a fish. Inside, it shelters superb sixteenth-century windows rescued from the church of Saint-Vincent, which was destroyed in 1944.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rouen-donjon-600.webp 600w,/static/art/joan-rouen-donjon.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rouen-donjon.jpg" alt="A massive round stone tower with a conical slate roof, behind iron railings, beside a timber-framed house, under a blue sky with white clouds" width="1280" height="980" loading="lazy"></picture>
+<figcaption>The <b>Tour Jeanne-d'Arc</b>, the keep of the castle of Rouen, where Joan was threatened with torture. Photo: <a href="https://commons.wikimedia.org/wiki/File:Rouen_Donjon_de_Rouen_1.jpg">Rouen Donjon de Rouen 1</a> by Zairon, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rouen-bucher-600.webp 600w,/static/art/joan-rouen-bucher.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rouen-bucher.jpg" alt="A small enclosed garden of rough ground and plants behind a low wooden fence, with a white sign reading LE BUCHER, beneath a modern building" width="1280" height="849" loading="lazy"></picture>
+<figcaption>The <b>site of the stake</b> in the Vieux-Marché, Rouen. Photo: <a href="https://commons.wikimedia.org/wiki/File:Le_bucher_-_place_du_vieux_march%C3%A9,_Rouen_1.JPG">Le bucher - place du vieux marché, Rouen 1</a> by KoS, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rouen-plaque-600.webp 600w,/static/art/joan-rouen-plaque.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rouen-plaque.jpg" alt="A white sign among green plants: LE BUCHER, Emplacement où Jeanne d'Arc fut brûlée le 30 Mai 1431, with the same words in English and German" width="1280" height="960" loading="lazy"></picture>
+<figcaption>The marker of <b>"Le Bûcher"</b>, the place of the stake, in the Vieux-Marché. Photo: <a href="https://commons.wikimedia.org/wiki/File:Location_where_Jeanne_d%27Arc_was_burnt.jpg">Location where Jeanne d'Arc was burnt</a> by Avishai Teicher, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rouen-windows-600.webp 600w,/static/art/joan-rouen-windows.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rouen-windows.jpg" alt="A curving row of tall stained glass windows glowing with many small scenes in reds and blues, beneath a sweeping wooden roof" width="1280" height="1920" loading="lazy"></picture>
+<figcaption><b>Renaissance windows from Saint-Vincent</b> in the church of St Joan of Arc, Rouen. Photo: <a href="https://commons.wikimedia.org/wiki/File:Rouen_(76)_%C3%89glise_Sainte-Jeanne-d%27Arc_Vitraux_137.jpg">Rouen (76) Église Sainte-Jeanne-d'Arc Vitraux 137</a> by GFreihalter, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=art>Joan in art</h2>
+
+### In her own time and the fifteenth century
+
+No true portrait of Joan survives. The only image made in her lifetime is the clerk's doodle in the Paris register (at the top of this page), and the only things we have from her own hand are a few signatures on the letters she dictated. Within a generation, though, she was already a heroine of manuscripts: in Martin Le Franc's poem *Le Champion des Dames*, written around 1440, and in the *Vigiles de Charles VII*, Martial d'Auvergne's long poem on the King's reign, whose richly illuminated copy of about 1484 shows her at Chinon, Orléans, Reims, Paris and Compiègne.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-signature-600.webp 600w,/static/art/joan-signature.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-signature.jpg" alt="The handwritten name Jehanne in dark ink, in a clear, careful hand" width="1280" height="904" loading="lazy"></picture>
+<figcaption>Joan's <b>signature, "Jehanne"</b>, on her letter to the people of Reims of 16 March 1430, probably written by her own hand. Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27arc_signature_16_mars_1430.jpg">Jeanne d'arc signature 16 mars 1430</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-riom-600.webp 600w,/static/art/joan-riom.webp 983w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-riom.jpg" alt="A sheet of pale paper with lines of faded fifteenth-century handwriting, and a signature at the bottom" width="983" height="518" loading="lazy"></picture>
+<figcaption>Joan's <b>letter to the people of Riom</b>, 9 November 1429, written by a secretary and signed "Jehanne". Image: <a href="https://commons.wikimedia.org/wiki/File:Lettre_de_Jeanne_d%27Arc_Riom_9_nov_1429.jpg">Lettre de Jeanne d'Arc Riom 9 nov 1429</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Ingres, Delaroche and the painters of the nineteenth century
+
+The nineteenth century rediscovered Joan. Ingres painted her in 1854 standing beside the altar at Reims in shining armour, with her banner, looking up to heaven, attended by her confessor Jean Pasquerel, three pages and a servant whose face is Ingres's own (the painting at the top of this page, now in the Louvre). Paul Delaroche showed her sick in prison (pictured above), Hermann Stilke at the stake, and Jean-Jacques Scherrer entering Orléans in triumph. The Pre-Raphaelites in England loved her: Dante Gabriel Rossetti painted her kissing her sword in 1882, the last year of his life, and John Everett Millais showed her kneeling in prayer in her armour. Much earlier, Rubens and his workshop had painted her kneeling in armour with her hands joined.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rubens-600.webp 600w,/static/art/joan-rubens.webp 510w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rubens.jpg" alt="A painting: a young woman with long red hair, in black armour, kneels with her hands raised in prayer before a red curtain" width="510" height="800" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b>, workshop of Peter Paul Rubens (c. 1620, North Carolina Museum of Art). Image: <a href="https://commons.wikimedia.org/wiki/File:Jeanne_d%27Arc,_atelier_Rubens.jpg">Jeanne d'Arc, atelier Rubens</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rubens-drawing-600.webp 600w,/static/art/joan-rubens-drawing.webp 732w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rubens-drawing.jpg" alt="A sketchy brown ink drawing of a kneeling figure in armour, hands joined, with lines of a curtain and architecture" width="732" height="693" loading="lazy"></picture>
+<figcaption>Rubens's <b>sketch of Joan kneeling in armour</b> (c. 1622). Image: <a href="https://commons.wikimedia.org/wiki/File:Rubens_Joan_of_Arc_kneeling_in_armor.jpg">Rubens Joan of Arc kneeling in armor</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-rossetti-600.webp 600w,/static/art/joan-rossetti.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-rossetti.jpg" alt="A painting: a red-haired young woman in a russet gown and armoured sleeves presses the hilt of a sword to her lips, gazing upwards, with lilies behind" width="1280" height="1458" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Dante Gabriel Rossetti (1882, Fitzwilliam Museum, Cambridge). Image: <a href="https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Joan_of_Arc_(1882).jpg">Dante Gabriel Rossetti - Joan of Arc (1882)</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-millais-600.webp 600w,/static/art/joan-millais.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-millais.jpg" alt="A painting: a young woman in shining steel armour and a red skirt kneels with a sword across her lap, looking up, against a dark background" width="1280" height="1682" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by John Everett Millais (1865). Image: <a href="https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Joan_of_Arc.jpg">John Everett Millais - Joan of Arc</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Bastien-Lepage's *Joan of Arc*
+
+Jules Bastien-Lepage, who was born in Lorraine like Joan, painted her in 1879 in her parents' garden: a sturdy peasant girl, her hand reaching out, her eyes wide, while her heavenly visitors appear faintly among the trees behind her. It was shown at the Paris Exposition Universelle of 1889. It hangs in the Metropolitan Museum of Art, New York.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-bastien-lepage-600.webp 600w,/static/art/joan-bastien-lepage.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-bastien-lepage.jpg" alt="A painting of an overgrown orchard behind a farmhouse: a young woman in a grey bodice and long skirt stands with one arm outstretched, gazing ahead, while three faint, translucent figures float among the trees" width="1280" height="1159" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Jules Bastien-Lepage (1879, Metropolitan Museum of Art, New York). Image: <a href="https://commons.wikimedia.org/wiki/File:Joan_of_Arc_MET_DP-14201-049.jpg">Joan of Arc MET DP-14201-049</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Lenepveu's murals in the Panthéon
+
+Between 1886 and 1890, Jules-Eugène Lenepveu painted *The History of Joan of Arc* on the walls of the Panthéon in Paris, among the great figures of France's Christian history such as St Denis, St Geneviève and St Louis. Four of its scenes appear above: the voices at Domrémy, the siege of Orléans, the coronation at Reims and her death at Rouen.
+
+### Boutet de Monvel
+
+Louis-Maurice Boutet de Monvel's picture book *Jeanne d'Arc*, with its clear lines, harmonious colours and crowded battle scenes, was a great success and brought him international fame. He went on to design a series of large panels for the new basilica at Domrémy, which was never finished there; a set was completed for Senator William A. Clark and is now in the National Gallery of Art, Washington.
+
+### The statues of Frémiet, Dubois and others
+
+In 1874 Emmanuel Frémiet's gilded bronze statue of Joan on horseback was set up in the place des Pyramides in Paris, close to where she was wounded in 1429; his model was a young woman from Domrémy. Paul Dubois's statue stands before Reims Cathedral. Versions of Frémiet's Joan ride in Nancy, New Orleans, Philadelphia, Portland (Oregon) and Melbourne.
+
+<figure class=photo>
+<picture><source srcset="/static/art/joan-fremiet-600.webp 600w,/static/art/joan-fremiet.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/joan-fremiet.jpg" alt="A gilded bronze statue of Joan in armour on horseback, holding a banner aloft, before a stone building with tall windows and a wrought-iron balcony" width="1280" height="2335" loading="lazy"></picture>
+<figcaption><b>Joan of Arc</b> by Emmanuel Frémiet (1874), place des Pyramides, Paris. Photo: <a href="https://commons.wikimedia.org/wiki/File:Joan_of_Arc_Emmanuel_Fremiet.jpg">Joan of Arc Emmanuel Fremiet</a> by Jastrow, public domain, via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Path to sainthood
-A **retrial in 1456** declared her innocent. She was **beatified on 18 April 1909** by **Pope Pius X** and **canonised on 16 May 1920** by **Pope Benedict XV**.
+
+The judgment of 1431 was declared null and void in a retrial authorised by Pope Callixtus III, which ended at Rouen on 7 July 1456. Bishop Félix Dupanloup of Orléans asked Rome to open her cause in 1869. Leo XIII declared her Venerable on 27 January 1894. She was beatified by Pope St Pius X on 18 April 1909, and canonised by Pope Benedict XV on 16 May 1920. Her feast is kept on 30 May, the day of her death.
 
 ## Patronages
-France (secondary patron, proclaimed by Pius XI on 2 March 1922), soldiers, and women in military service.
+
+France (secondary patroness, proclaimed by Pius XI on 2 March 1922), soldiers, and women in military service. She is also widely invoked by those who are mocked or misunderstood for their faith.
 
 ## Trivia
-- Among the charges against her was **wearing men's clothing**.
-- **St Michael** was one of her voices, which ties her to [St Michael's Line](/pilgrimage/st-michael/) and Mont-Saint-Michel, which never fell to the English.
-- She could not read or write, but her signature ("Jehanne") survives on letters she dictated.
+
+- One of the charges against her was that she wore men's clothing. She said: "What concerns this dress is a small thing—less than nothing."
+- Joan could not read or write, but she learned to sign her name, "Jehanne", on letters she dictated.
+- Her ring was inscribed *Jhesus Maria*, with three crosses; she said she looked at it before battle "in honour of my father and mother".
+- When she stood godmother to babies, she said, she named the boys Charles, in honour of her King, and the girls Jeanne.
+- St Michael, who first came to her, was the patron of Mont-Saint-Michel, the island abbey that never fell to the English during the war. Follow his pilgrim roads on [St Michael's Line](/pilgrimage/st-michael/).
+- St Thérèse of Lisieux loved Joan and wrote two plays about her for her Carmel, performed in 1894 and 1895, playing Joan herself. During the second, the stoves used to represent the stake at Rouen set fire to the screen behind her, and she did not flinch.
+- Her voices: [St Michael the Archangel](/saints/michael-the-archangel/), [St Catherine of Alexandria](/saints/catherine-of-alexandria/) and [St Margaret of Antioch](/saints/margaret-of-antioch/). See also [St Thérèse of Lisieux](/saints/therese-of-lisieux/), [St Louis IX](/saints/louis-ix/), [St Denis](/saints/denis/) and [St Catherine of Siena](/saints/catherine-of-siena/).
 
 ## Sources
-- [Benedict XVI, General Audience on St Joan of Arc (26 Jan 2011), vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110126.html)
-- [Vatican News: St Joan of Arc](https://www.vaticannews.va/en/saints/05/30/st--joan-of-arc--virgin.html)
-- [Britannica: St Joan of Arc](https://www.britannica.com/biography/Saint-Joan-of-Arc)
-- [Catholic Encyclopedia: St Joan of Arc](https://www.newadvent.org/cathen/08409c.htm)
 
-<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar.</p>
+- [Benedict XVI, General Audience on St Joan of Arc, 26 January 2011](https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110126.html)
+- [Vatican News: St Joan of Arc, Virgin](https://www.vaticannews.va/en/saints/05/30/st--joan-of-arc--virgin.html)
+- [Britannica: Saint Joan of Arc](https://www.britannica.com/biography/Saint-Joan-of-Arc)
+- [Catholic Encyclopedia (New Advent): St Joan of Arc](https://www.newadvent.org/cathen/08409c.htm)
+- [T. Douglas Murray, *Jeanne d'Arc, Maid of Orleans, Deliverer of France: being the story of her life, her achievements, and her death, as attested on oath and set forth in the original documents* (1902), Project Gutenberg edition no. 57389, at the Internet Archive](https://archive.org/details/jeannedarcmaidof57389gut)
+- [Wikipedia: Joan of Arc](https://en.wikipedia.org/wiki/Joan_of_Arc)
+- [Wikipedia: Trial of Joan of Arc](https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc)
+- [Wikipedia: Rehabilitation trial of Joan of Arc](https://en.wikipedia.org/wiki/Rehabilitation_trial_of_Joan_of_Arc)
+- [Wikipedia: Domrémy-la-Pucelle](https://en.wikipedia.org/wiki/Domr%C3%A9my-la-Pucelle)
+- [Wikipedia: Robert de Baudricourt](https://en.wikipedia.org/wiki/Robert_de_Baudricourt)
+- [Wikipedia: Jean de Metz](https://en.wikipedia.org/wiki/Jean_de_Metz)
+- [Wikipedia: Château de Chinon](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chinon)
+- [Wikipedia: Sainte-Catherine-de-Fierbois](https://en.wikipedia.org/wiki/Sainte-Catherine-de-Fierbois)
+- [Wikipedia: Siege of Orléans](https://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans)
+- [Wikipedia: Loire Campaign (1429)](https://en.wikipedia.org/wiki/Loire_Campaign_(1429))
+- [Wikipedia: Battle of Patay](https://en.wikipedia.org/wiki/Battle_of_Patay)
+- [Wikipedia: Reims Cathedral](https://en.wikipedia.org/wiki/Reims_Cathedral)
+- [Wikipedia: Siege of Paris (1429)](https://en.wikipedia.org/wiki/Siege_of_Paris_(1429))
+- [Wikipedia: Siege of Compiègne](https://en.wikipedia.org/wiki/Siege_of_Compi%C3%A8gne)
+- [Wikipedia: Pierre Cauchon](https://en.wikipedia.org/wiki/Pierre_Cauchon)
+- [Wikipedia: Orléans Cathedral](https://en.wikipedia.org/wiki/Orl%C3%A9ans_Cathedral)
+- [Wikipedia: Les Vigiles du roi Charles VII](https://en.wikipedia.org/wiki/Vigiles_du_roi_Charles_VII)
+- [Wikipedia: Joan of Arc at the Coronation of Charles VII](https://en.wikipedia.org/wiki/Joan_of_Arc_at_the_Coronation_of_Charles_VII)
+- [Wikipedia: Jeanne d'Arc (Frémiet)](https://en.wikipedia.org/wiki/Jeanne_d%27Arc_(Fr%C3%A9miet))
+- [Wikipedia: Louis-Maurice Boutet de Monvel](https://en.wikipedia.org/wiki/Louis-Maurice_Boutet_de_Monvel)
+- [Wikipedia: Cultural depictions of Joan of Arc](https://en.wikipedia.org/wiki/Cultural_depictions_of_Joan_of_Arc)
+- [Wikipedia: Thérèse of Lisieux](https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux)
+- [Wikipédia (French): Basilique du Bois-Chenu](https://fr.wikipedia.org/wiki/Basilique_du_Bois-Chenu)
+- [Wikipédia (French): Église Sainte-Jeanne-d'Arc de Rouen](https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Jeanne-d%27Arc_de_Rouen)
+- [Wikipédia (French): Tour Jeanne-d'Arc](https://fr.wikipedia.org/wiki/Tour_Jeanne-d%27Arc)
+- [Wikipédia (French): Place du Vieux-Marché](https://fr.wikipedia.org/wiki/Place_du_Vieux-March%C3%A9)
+- [Wikipédia (French): Jeanne d'Arc (Bastien-Lepage)](https://fr.wikipedia.org/wiki/Jeanne_d%27Arc_(Bastien-Lepage))
+- [Wikipédia (French): Fête nationale de Jeanne d'Arc et du patriotisme](https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_de_Jeanne_d%27Arc_et_du_patriotisme)
+
+<p class=src>Fact-checked on October 15, 2026 against New Advent (Catholic Encyclopedia), Vatican documents and news reports. Britannica links are given for further reading. Feast days follow the General Roman Calendar. Expanded and fact-checked November 25, 2026 against the records of her trial of condemnation (1431) and her rehabilitation (1455–56), in T. Douglas Murray's public-domain English translation of 1902, Pope Benedict XVI's catechesis of 2011, Vatican News and the Catholic Encyclopedia, and the history of her places and churches in France. Traditions, such as the finding of the sword of Fierbois and some local associations of places with her, are labelled as such. Images are public domain or openly licensed, via Wikimedia Commons; the map is by The Daily Word.</p>
