@@ -5,37 +5,733 @@ group: Missionaries & Mystics
 order: 64
 hero: st-christina-the-astonishing
 hero_credit: Artistic illustration in a Renaissance fresco style, created for The Daily Word; not a historical likeness. Christina rising from her coffin at her own funeral.
-facts: {"Lived": "c. 1150–1224, Brustem and Sint-Truiden (Belgium)", "Feast day": "24 July (local)", "Recognised": "Venerated locally; never formally canonised"}
-last_verified: October 16, 2026
+facts: {"Lived": "c. 1150 – 24 July 1224", "Feast day": "24 July", "Recognised": "Venerated since her death; named in the Roman Martyrology", "Place": "Born at Brustem by tradition; lived at Sint-Truiden and at the castle of Loon (Borgloon); died at the convent of St Catherine, Sint-Truiden, where her relics are kept in the Church of Our Lady"}
+place: Sint-Truiden
+country: Belgium
+last_verified: November 27, 2026
 ---
-## The story
-Christina was an orphaned peasant girl from **Brustem**, near Sint-Truiden in today's Belgium. Almost everything we know comes from a *Life* written about 1232 by the Dominican **Thomas of Cantimpré**, who said he had spoken with people who knew her. Cardinal Jacques de Vitry also mentions her.
+<nav class=toc aria-label="On this page">
+<div class=k>On this page</div>
+<ol>
+<li><a href="#why">Why the Church honours her</a></li>
+<li><a href="#shepherd">"Known to God alone": the shepherd girl</a></li>
+<li><a href="#funeral">"Like a bird": her funeral Mass</a></li>
+<li><a href="#vision">"This place is purgatory"</a></li>
+<li><a href="#choice">"Stay with me, or go back"</a></li>
+<li><a href="#trees">Like the birds of the air</a></li>
+<li><a href="#meuse">Across the Meuse at Liège</a></li>
+<li><a href="#fire">The fiery ovens</a></li>
+<li><a href="#water">The icy Meuse and the mill wheel</a></li>
+<li><a href="#thorns">Thorns, gibbets and the dogs of the night</a></li>
+<li><a href="#prayer">Prayer in the treetops</a></li>
+<li><a href="#chains">Chains, a cellar and a miracle of oil</a></li>
+<li><a href="#wellen">The font at Wellen</a></li>
+<li><a href="#alms">Bread of sinners</a></li>
+<li><a href="#dying">Weeping and dancing at the deathbeds</a></li>
+<li><a href="#prophecy">"I see the air filled with swords"</a></li>
+<li><a href="#song">"Te Deum laudamus": her songs</a></li>
+<li><a href="#loon">Nine years at Loon</a></li>
+<li><a href="#count">"O how beautiful you are, Lord!"</a></li>
+<li><a href="#confession">The count's last confession</a></li>
+<li><a href="#body">"O sweetest body"</a></li>
+<li><a href="#death">Three deaths</a></li>
+<li><a href="#glory">"Astonishing in life, glorious in death"</a></li>
+<li><a href="#thomas">Thomas of Cantimpré, her witness</a></li>
+<li><a href="#relics">Her relics and her feast</a></li>
+<li><a href="#places">Her places and churches</a></li>
+<li><a href="#art">Christina in art</a></li>
+</ol>
+</nav>
 
-## The full story
+## Her story
 
-### The funeral
-According to Thomas, Christina died of a seizure at about 22. During her funeral Mass, in the open coffin, she sat up and rose to the rafters of the church. The congregation fled. The priest coaxed her down. She said she had seen hell, purgatory and heaven, and had been offered the choice of staying in heaven or returning to suffer for the souls in purgatory. She chose to return.
+The coffin lay open in the church, as the custom was, and the Mass for the dead had begun. Her sisters wept beside it; her friends had mourned her all night. The young shepherd girl of Sint-Truiden was dead, and the town had come to bury her. Then, in the middle of the Mass, the body on the bier stirred. Christina sat up, and before anyone could speak she rose out of the coffin "like a bird" and flew up to the beams of the church roof. The whole congregation fled in terror. Only her eldest sister stayed, trembling, and Christina remained up among the rafters until the Mass was over and the priest, holding the Blessed Sacrament, commanded her to come down.
 
-### A strange life
-She could not bear the smell of human beings, Thomas says, and climbed trees, church towers and rocks to escape it. She threw herself into ovens and freezing rivers, prayed balanced on fence posts, and was chained up by her family, who thought her mad. Later in life she grew calmer and was sought out for advice, including by Count Louis of Looz. She died at the convent of St Catherine in Sint-Truiden in 1224. Thomas wrote to teach the mercy of purgatory, from people who had known her. Christina was a real woman of that town, and Sint-Truiden has kept her.
+When she was home again, and had eaten, she told her friends where she had been. Angels had carried her soul to purgatory, where she saw people she had known suffering more than any tongue could tell; then to hell; and then to the very throne of God. There the Lord gave her a choice. She could stay with him in heaven at once, or she could go back to her body and suffer on earth, in her own flesh, the pains of purgatory, to free the souls she had pitied and to turn the living back to God. "I answered without any hesitation," she said, "that I would go back." Her soul stood before God's throne, she said, when the priest first sang the *Agnus Dei*, and by the third *Agnus Dei* the angels had put it back in her body.
+
+For the next forty-two years Christina kept her promise in ways no one in the Low Countries had ever seen. She threw herself into blazing bread ovens and came out unburned; she stayed for days under the ice of the river Meuse and let the current carry her round on a mill wheel; she fled the smell of sin to the tops of trees and church towers, and sang there with a voice like an angel's. Her own family put her in chains, and God set her free. In time the wild penitent became the gentle counsellor of the town, the friend of nuns and of the dying, the "mother" of Count Louis of Loon, who confessed his whole life to her on his deathbed. She died at the convent of St Catherine outside Sint-Truiden about 1224, and a Dominican friar, Thomas of Cantimpré, wrote her life eight years later from the people who had seen it all. Her town has called her *Christina Mirabilis*, Christina the Astonishing, ever since.
+
+<div class=timeline markdown=1>
+
+### c. 1150 · Born near Sint-Truiden
+Christina is born to good parents in the Hesbaye, by tradition at Brustem just outside Sint-Truiden, the youngest of three sisters.
+
+### Youth · The shepherd girl
+Orphaned, she is set to watch the flocks in the fields, and Christ visits her there in secret.
+
+### c. 1182 · Death and rising
+She dies; at her funeral Mass she rises from the coffin and soars to the rafters. She tells of purgatory, hell and heaven, and of her choice to return.
+
+### The years that follow · Penance for the souls
+Fiery ovens, boiling cauldrons, the icy Meuse, the mill wheel, the thorns: she suffers in the body for the souls in purgatory and is never harmed.
+
+### The 1180s · Chains and freedom
+Taken for possessed, she is chained by her family and friends, healed of a broken leg in a cellar at Liège, and fed by a miracle of oil. Her family begs her pardon and sets her free.
+
+### Before 1187 · The font at Wellen
+She plunges into the baptismal font of the church at Wellen, and from then on can live more gently among people.
+
+### 2 October 1187 · Jerusalem falls
+At the castle of Loon she knows in the spirit, on the very day, that Saladin has taken Jerusalem.
+
+### Later years · Nine years at Loon
+She lives at Loon with the recluse Yvette, sings at night in the church and becomes the counsellor of Count Louis II of Loon.
+
+### 13 October 1213 · The battle of Steppes
+At St Catherine's she cries out that she sees "the air filled with swords and blood" on the day of the slaughter at Steppes.
+
+### July 1218 · The count's death
+Count Louis confesses all his sins to her on his deathbed; she takes on half of his purgatory.
+
+### c. 1224 · Three deaths
+At the convent of St Catherine she dies, returns at the cry of Sister Beatrice to answer her, and dies a third time. By tradition the day is 24 July.
+
+### 1231 · First translation
+When the convent moves to Metsteren (later called Nonnenmielen), her tomb is opened and a sweet grace fills everyone present.
+
+### c. 1232 · Her Life is written
+The Dominican Thomas of Cantimpré writes the *Life of Christina the Astonishing* from the witnesses of Sint-Truiden.
+
+### 1249 · "Raise her body"
+A mysterious woman in white asks the convent to honour her relics; her bones are laid beside the altar, and a paralysed neighbour walks home healed.
+
+### 1836 · With the Redemptorists
+After the French Revolution closes Nonnenmielen, her relics come to the Redemptorist Fathers of Sint-Truiden.
+
+### 2004 · In the Roman Martyrology
+The Church's martyrology names "Blessed Christina, called the Astonishing" on 24 July.
+
+### 2024 · Eight hundred years
+Sint-Truiden and the Hesbaye keep the eighth centenary of her death.
+
+</div>
+
+<h2 id=why>Why the Church honours her</h2>
+
+- **Love for the holy souls.** Shown purgatory, Christina chose to leave heaven's threshold and come back to suffer for the dead. Few saints have made the communion of saints so vivid: our prayers and sacrifices really can help those who have gone before us.
+- **A living sermon on penance.** She said that God sent her back so that "by the example of your life and penance, the living might be converted". Every wonder in her life pointed to one message: turn to God now, while there is time.
+- **Mercy for sinners.** She wept for the dying who turned away from God and danced for joy over those who were saved. She told the people of Sint-Truiden that Christ "seeks occasions" to bring the wretched to salvation, and she stood up for a fallen nun when no one else would.
+- **Love for the Eucharist.** She begged for Holy Communion, drew strength from it in body and soul, and rose from her coffin at the *Agnus Dei*.
+- **Obedience and humility.** For all her wild freedom, she came down from the rafters at the priest's word, came out of the Meuse when he called her in Christ's name, and obeyed the prioress of St Catherine's in everything. She fled honour, and was ashamed when people praised her.
+- **A friend for troubled minds.** Mocked, chained and called mad, she is loved today as the patron of people with mental illness and of those who care for them.
+
+<h2 id=shepherd>"Known to God alone": the shepherd girl</h2>
+
+Sint-Truiden lies in the Hesbaye (Haspengouw in Dutch), a gentle, fertile country of wheat fields and orchards between Brabant and the river Meuse, in the east of today's Belgium. The town had grown up around the great Benedictine abbey founded in the 7th century by St Trudo, and in the 12th century it was one of the busiest market towns of the region. Its lords were the abbot, the bishop of Metz and the counts of Loon, and its parish churches and chapels were full of the bells, processions and Masses of a deeply Catholic world. Three miles to the east lay the village of **Brustem**, where Count Louis I of Loon built a strong octagonal tower about 1170. Local tradition has always named Brustem as Christina's birthplace.
+
+Thomas of Cantimpré begins her story simply. "The illustrious virgin of Christ, Christina, was born in the town of Sint-Truiden in the Hesbaye of good and honest parents." When her mother and father died, three girls were left in the house. The sisters decided to live like religious women at home: the eldest would give herself to prayer, the middle one would keep the house, and the youngest, Christina, would take the cattle and sheep out to pasture.
+
+It was the lowest and humblest job, but, Thomas says, Christ did not leave her without comfort. Out in the fields with the animals he gave her "the grace of inner sweetness" and often visited her with the secrets of heaven. No one knew it. "She remained unknown to all, known to God alone, and all the better known to him for being so hidden."
 
 <figure class=photo>
-<picture><source srcset="/static/art/christina-truiden-600.webp 600w,/static/art/christina-truiden.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/christina-truiden.jpg" alt="A modern bronze sculpture of a reclining figure on the grass of the beguinage at Sint-Truiden, with a brick church and bare trees behind it." width="1280" height="906" loading="lazy"></picture>
-<figcaption>Johan Creten, <em>Christina Mirabilis</em>, 2012, in the beguinage of Sint-Truiden. A modern homage in the town that keeps her, not a portrait from her lifetime. Photo: <a href="https://commons.wikimedia.org/wiki/File:Johan_Creten_Christina_Mirabilis_Sint-Truiden_02.jpg">Eebie</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+<picture><source srcset="/static/art/chr-orchard-600.webp 600w,/static/art/chr-orchard.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-orchard.jpg" alt="Rows of fruit trees in white blossom on a green slope in the Hesbaye countryside near Borgloon, under a blue sky." width="1280" height="960" loading="lazy"></picture>
+<figcaption><b>Orchards in blossom</b> in the Hesbaye near Borgloon. Christina grew up in this rolling country of fields, pastures and fruit trees between Sint-Truiden and Liège, and as a girl she watched her family's flocks here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Boomgaard_Borgloon_-_panoramio.jpg">Boomgaard Borgloon - panoramio</a> by Geert Budenaerts, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-brustem-tower-600.webp 600w,/static/art/chr-brustem-tower.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-brustem-tower.jpg" alt="A tall round stone tower ruin wrapped in scaffolding rises from a grassy mound, with the tower of a village church beyond the trees." width="1280" height="720" loading="lazy"></picture>
+<figcaption>The ruined <b>Torenburcht</b> of Brustem, the tower that Count Louis I of Loon built about 1170, with the tower of the parish church of St Lawrence beyond. Brustem keeps the tradition that Christina was born here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Brustem-Torenburcht_en_Sint-Laurentiuskerk_(2).jpg">Brustem-Torenburcht en Sint-Laurentiuskerk (2)</a> by Romaine, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-melsterbeek-600.webp 600w,/static/art/chr-melsterbeek.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-melsterbeek.jpg" alt="A narrow stream winding between grassy banks and bare autumn trees in flat countryside." width="1280" height="857" loading="lazy"></picture>
+<figcaption>The <b>Melsterbeek</b> at Brustem. The little river flows north past Brustem and Sint-Truiden towards Metsteren, where Christina's relics later rested at Nonnenmielen. Photo: <a href="https://commons.wikimedia.org/wiki/File:Melsterbeek_Brustem.jpg">Melsterbeek Brustem</a> by flamenc, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=map style="max-width:640px;margin:14px auto 18px"><a href="/static/maps/map-christina-loon.svg"><img src="/static/maps/map-christina-loon.svg" alt="Locator map of St Christina the Astonishing&#x27;s country in the medieval Low Countries, in today&#x27;s eastern Belgium: Sint-Truiden in the Hesbaye, her town, with the convent of St Catherine; Brustem, her birthplace by tradition; Borgloon, the castle of the counts of Loon, where she lived for nine years; Wellen, where she plunged into the font; Nonnenmielen, where her relics rested; and Liège on the river Meuse, with St Christopher&#x27;s church. Tongeren, Hasselt, Maastricht, Tienen, Leuven, Huy and Namur are marked, with the medieval Duchy of Brabant, County of Loon and Prince-Bishopric of Liège. An inset shows the area within Belgium." width="900" height="640" loading=lazy></a><figcaption>Christina's country: Sint-Truiden, Loon and Liège in the medieval Low Countries. Map by The Daily Word; borders and rivers from Natural Earth (public domain). Tap to enlarge.</figcaption></figure>
+
+<h2 id=funeral>"Like a bird": her funeral Mass</h2>
+
+Then, Thomas writes, the body of the young shepherdess grew weak "from the inward practice of contemplation", and she died. Her friends and sisters laid out her lifeless body in the middle of the house and mourned over her all night. In the morning they carried her to the church for the funeral. Local tradition says it was the parish church of Our Lady on the market square of Sint-Truiden.
+
+The priest began the Mass for her burial. And then, Thomas says, "suddenly the body stirred and rose up on the bier, and at once she was carried upward like a bird and climbed to the beams of the church". Everyone in the church ran for the doors. Only her eldest sister stayed, and she was terrified. Christina remained motionless up in the rafters until the end of the Mass. Then the priest, "constraining her with the Sacrament", commanded her to come down, and she came. "Some say," Thomas adds, "that the fineness of her spirit could not bear the smell of human bodies."
+
+She went home with her sisters and they gave her food. Then her spiritual friends gathered round and begged her to tell them what she had seen and suffered.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-olv-nave-600.webp 600w,/static/art/chr-olv-nave.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-olv-nave.jpg" alt="The tall Gothic nave of the Church of Our Lady in Sint-Truiden, with pointed arches, painted vaults and rows of chairs leading to the choir." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The nave of the <b>Church of Our Lady</b> (Onze-Lieve-Vrouwekerk) on the Grote Markt of Sint-Truiden. By local tradition Christina's funeral Mass was sung in the church of Our Lady, and here she rose to the roof beams. The present Gothic church was built after her time on the site of the older one. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_OLV-kerk,_interieur01.jpg">Sint-Truiden, OLV-kerk, interieur01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-seizure-600.webp 600w,/static/art/chr-tondal-seizure.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-seizure.jpg" alt="A manuscript page with a miniature of a knight in a blue tunic collapsing beside a long dinner table while the other diners look on, above lines of text in a border of flowers." width="1280" height="1823" loading="lazy"></picture>
+<figcaption>A soul about to be shown the next world: the Irish knight Tondal falls down as if dead at a dinner, in Simon Marmion's <i>Visions of the Knight Tondal</i>, made in 1475 for Margaret of York. Christina's story was told and copied in the same Flemish world that loved such visions of purgatory, hell and heaven. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_Tondal_Suffers_a_Seizure_at_Dinner_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - Tondal Suffers a Seizure at Dinner - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-dead-600.webp 600w,/static/art/chr-tondal-dead.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-dead.jpg" alt="A manuscript page with a small miniature of a man lying on the floor while a group of people in dark robes gather round and look down at him." width="1280" height="1820" loading="lazy"></picture>
+<figcaption>Tondal "appears to be dead" and his friends mourn over him, from Simon Marmion's <i>Visions of the Knight Tondal</i>, 1475. In the same way Christina's friends wept over her body through the night before her funeral. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_Tondal_Appears_to_be_Dead_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - Tondal Appears to be Dead - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-olv-judgement-600.webp 600w,/static/art/chr-olv-judgement.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-olv-judgement.jpg" alt="The painted Last Judgement on the great triumphal arch of the Church of Our Lady in Sint-Truiden, with Christ in glory above, the blessed rising on one side and the damned on the other." width="1280" height="1257" loading="lazy"></picture>
+<figcaption>The <b>Last Judgement</b> painted by Johannes van den Eynde in 1626 on the triumphal arch of the Church of Our Lady in Sint-Truiden. The people of Christina's town have prayed for four centuries beneath this picture of heaven, purgatory's hope and hell, the world she said she had seen. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_OLV-kerk,_interieur02.jpg">Sint-Truiden, OLV-kerk, interieur02</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=vision>"This place is purgatory"</h2>
+
+"As soon as I died," Christina said, "ministers of light, angels of God, received my soul, and they led me to a dark and horrible place, full of the souls of men. The torments I saw in that place were so great and so cruel that no tongue could tell them. And I saw there many dead people whom I had known in the flesh."
+
+She was filled with pity for those poor souls. She asked what this place was, thinking it must be hell. "And my guides answered me that this place was purgatory, where repentant sinners pay the penalty for their sins of this life." Then the angels led her on to the torments of hell, and there too she recognised some she had known when they were alive.
+
+Long afterwards Christina told her friends more about what she had seen. There was a place, she said, near hell itself, where God purifies those who were stained with terrible sins but repented at the point of death. Its pains were like the pains of hell, with one difference: the souls there could sigh with hope, because they knew they would be forgiven.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-angel-600.webp 600w,/static/art/chr-tondal-angel.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-angel.jpg" alt="A manuscript page with a small dark miniature of a naked soul standing beside a winged angel in blue robes in the night." width="1280" height="1823" loading="lazy"></picture>
+<figcaption>Tondal's soul, naked and afraid, is led into the darkness by his guardian angel, from Simon Marmion's <i>Visions of the Knight Tondal</i>, 1475. Christina said that "ministers of light, angels of God" received her soul the moment she died and led her to a dark and horrible place. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_Tondal%27s_Soul_Enters_Hell,_Accompanied_by_his_Guardian_Angel_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - Tondal's Soul Enters Hell, Accompanied by his Guardian Angel - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-trh-purgatory-600.webp 600w,/static/art/chr-trh-purgatory.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-trh-purgatory.jpg" alt="A medieval miniature of purgatory: naked souls in fire and water among rocks, while angels lift some of them upward to the sky." width="1280" height="1781" loading="lazy"></picture>
+<figcaption><b>Purgatory</b>, from the <i>Très Riches Heures</i> of the Duke of Berry (15th century), Musée Condé, Chantilly. Souls suffer in fire and water while angels draw the purified up to heaven. This is the mercy Christina came back to serve. Image: <a href="https://commons.wikimedia.org/wiki/File:Folio_113v_-_Purgatory.jpg">Folio 113v - Purgatory</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-cleves-purgatory-600.webp 600w,/static/art/chr-cleves-purgatory.webp 1112w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-cleves-purgatory.jpg" alt="A medieval miniature of angels pulling souls out of a fiery pit and raising them towards heaven, framed by a border." width="1112" height="1624" loading="lazy"></picture>
+<figcaption><b>Souls delivered from purgatory</b>, from the <i>Hours of Catherine of Cleves</i>, painted in Utrecht about 1440. Angels lift the freed souls out of the flames. Christina was promised that her sufferings would set free all the souls she had pitied. Morgan Library and Museum, New York, Ms. M.917, fol. 107r. Image: <a href="https://commons.wikimedia.org/wiki/File:%C3%82mes_d%C3%A9livr%C3%A9es_du_Purgatoire_-_Heures_de_Catherine_de_Cl%C3%A8ves_(MS_M.917,_fol._107r).jpg">Âmes délivrées du Purgatoire - Heures de Catherine de Clèves (MS M.917, fol. 107r)</a> by Master of Catherine of Cleves, Morgan Library, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-wall-600.webp 600w,/static/art/chr-tondal-wall.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-wall.jpg" alt="A miniature of a naked soul and an angel in blue on a green meadow beside a high grey wall lined with pale standing figures." width="1280" height="1823" loading="lazy"></picture>
+<figcaption>"The bad but not very bad", waiting in discomfort outside the wall of heaven, from Simon Marmion's <i>Visions of the Knight Tondal</i>, 1475. The medieval imagination pictured purgatory as a waiting and a cleansing that ends in joy. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_The_Wall_of_Heaven_Where_the_Bad_But_Not_Very_Bad_are_in_Temporary_Discomfort_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - The Wall of Heaven Where the Bad But Not Very Bad are in Temporary Discomfort - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=choice>"Stay with me, or go back"</h2>
+
+"After that," Christina went on, "I was carried into paradise, to the throne of the divine majesty. And when I saw the Lord rejoicing over me and welcoming me, I was glad beyond all measure, thinking that from then on I would stay with the Lord for ever."
+
+But the Lord answered the desire of her heart at once. "Truly, my dearest," he said, "you will be here with me. But now I offer you a choice between two things. Either stay with me now; or go back to your body, and there, in your mortal body, suffer the pains of an immortal soul without harm to the body, and by these sufferings of yours set free all the souls you pitied in purgatory. And the living, seeing the example of your suffering and your life, will turn to me and turn away from their sins. And when all this is done, you will come back to me at last, heaped with the reward of many merits."
+
+"I answered without any hesitation," Christina said, "that I chose to go back on the terms he had offered."
+
+The Lord was glad at her answer and ordered her soul to be taken back to her body. "And see how swift the angels are at the Lord's command!" she said. "At the moment when the first *Agnus Dei, qui tollis peccata mundi* (Lamb of God, who takes away the sins of the world) was sung in the Mass celebrated for me, my soul was standing before the throne of the divine majesty. And when the *Agnus Dei* was said for the third time, the swift angels had given me back to my body." So she was given back to life "for the amendment of men". And she warned her friends: "Do not be upset by the things you are going to see in me. What God will do with me is beyond understanding. Such things have never been seen among mortals." Her friends were filled with awe, and waited to see what would happen.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-martyrs-600.webp 600w,/static/art/chr-tondal-martyrs.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-martyrs.jpg" alt="A miniature of a naked soul and an angel in blue before a golden wall with rows of saints seated in its windows." width="1280" height="1823" loading="lazy"></picture>
+<figcaption>"The martyrs and the pure sing praises to God", from Simon Marmion's <i>Visions of the Knight Tondal</i>, 1475. Christina was brought "to the throne of the divine majesty" and wanted to stay among the blessed for ever. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_The_Martyrs_and_the_Pure_Sing_Praises_to_God_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - The Martyrs and the Pure Sing Praises to God - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-bosch-ascent-600.webp 600w,/static/art/chr-bosch-ascent.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-bosch-ascent.jpg" alt="A dark panel painting in which angels guide naked souls upward through the night towards a brilliant tunnel of light." width="1280" height="2846" loading="lazy"></picture>
+<figcaption>Hieronymus Bosch, <b>Ascent of the Blessed</b>, from the <i>Visions of the Hereafter</i>, about 1490–1516, Gallerie dell'Accademia, Venice. Angels carry souls up into the light of God. Christina saw that light, and chose to come back for the souls still waiting. Image: <a href="https://commons.wikimedia.org/wiki/File:Visions_of_the_Hereafter_-_Ascent_of_the_Blessed.jpg">Visions of the Hereafter - Ascent of the Blessed</a> by Hieronymus Bosch, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-memling-600.webp 600w,/static/art/chr-memling.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-memling.jpg" alt="A large triptych of the Last Judgement: Christ on a rainbow above, St Michael weighing souls in the centre, the blessed entering a Gothic gate of heaven on the left and the damned falling into fire on the right." width="1280" height="863" loading="lazy"></picture>
+<figcaption>Hans Memling, <b>The Last Judgement</b>, 1467–1471, National Museum, Gdańsk. A Flemish painter of the generations after Christina shows the whole of what she said she had seen: heaven's gate, the weighing of souls and the fire of hell. Image: <a href="https://commons.wikimedia.org/wiki/File:Hans_Memling_-_Last_Judgment_Triptych_(open)_-_WGA14829.jpg">Hans Memling - Last Judgment Triptych (open) - WGA14829</a> by Hans Memling, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+Christina's choice is the heart of her story. She did not come back because heaven was closed to her; she came back because she could not bear to leave the souls in purgatory without help. The Church teaches that "all who die in God's grace and friendship, but still imperfectly purified, are indeed assured of their eternal salvation; but after death they undergo purification" (*Catechism*, 1030), and that we can help them by our prayers and sacrifices, above all the Mass. Pope Benedict XVI wrote that "the belief that love can reach into the afterlife, that reciprocal giving and receiving is possible, in which our affection for one another continues beyond the limits of death, has been a fundamental conviction of Christianity throughout the ages" (*Spe Salvi*, 48). Christina lived that conviction with her whole body.
+
+<h2 id=trees>Like the birds of the air</h2>
+
+What her friends saw next was beyond anything they had imagined. Christina fled from people "with a wonderful horror". She ran into the wild country and hid in the trees, on the tops of towers and churches, on anything high. The smell of sinful human beings was agony to her.
+
+The people of Sint-Truiden could only think that she was full of demons. After a long struggle they caught her and bound her in iron chains. She suffered greatly in captivity, most of all from the human smell around her. Then one night, "with the Lord's help", her chains and fetters fell open, and she escaped to the remotest forests "and lived there in the trees like the birds".
+
+Even her light, fine body needed food, and soon she was tormented by hunger. Still she would not go back; she wanted to stay alone with the Lord in the wilderness. So she prayed to him and humbly asked him to look on her distress with the eyes of his mercy. At once, Thomas writes, she looked down and saw that her dry virgin breasts, "against the very laws of nature", were dripping with sweet milk. "A wonderful thing, unheard of in all the ages since the incomparable Virgin Mother of Christ!" For nine weeks Christina lived on that milk. Then her people found her again, seized her and chained her as before. "But in vain."
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tondal-nuns-600.webp 600w,/static/art/chr-tondal-nuns.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tondal-nuns.jpg" alt="A miniature of a naked soul and an angel in blue beside a cluster of coloured pavilions in a green meadow." width="1280" height="1823" loading="lazy"></picture>
+<figcaption>"The glory of good monks and nuns", shown as bright pavilions in a meadow of heaven, from Simon Marmion's <i>Visions of the Knight Tondal</i>, 1475. Christina had glimpsed that glory, and fled from the world to live alone with God in the wilderness. J. Paul Getty Museum, Ms. 30. Image: <a href="https://commons.wikimedia.org/wiki/File:Simon_Marmion_(Flemish,_active_1450_-_1489)_-_The_Glory_of_Good_Monks_and_Nuns_-_Google_Art_Project.jpg">Simon Marmion (Flemish, active 1450 - 1489) - The Glory of Good Monks and Nuns - Google Art Project</a> by Simon Marmion, J. Paul Getty Museum, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=meuse>Across the Meuse at Liège</h2>
+
+Once again the Lord set her free, and this time she went to the great city of **Liège**, the seat of the prince-bishop, about twenty miles south-east of Sint-Truiden on the river Meuse. There, Thomas says, "hungering for the sacred flesh of the spotless Paschal Lamb", she begged the priest of **St Christopher's** to strengthen her with Holy Communion. St Christopher's was a new church outside the walls of Liège, first built between 1179 and 1183 among the hospitals and houses of devout women west of the city. The priest promised to give her Communion, but said he was busy just then. Christina could not bear to wait. She went to the priest of another church and asked him for the Body of Christ, and he gave it to her at once.
+
+Then, "moved by some sudden impulse", she ran out of the city. The priest who had given her Communion ran after her in amazement, and the priest of St Christopher's joined him, and the two of them chased her all the way to the banks of the Meuse. They were delighted, Thomas says, because the river blocked her way and now they would surely catch her. Instead they stood and stared, "dumbfounded", as the woman, in a real body that seemed like a phantom's, walked into the deep swirling waters and came out unharmed on the far bank.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-liege-blaeu-600.webp 600w,/static/art/chr-liege-blaeu.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-liege-blaeu.jpg" alt="A 17th-century bird's-eye engraving of the walled city of Liège on the river Meuse, crowded with churches, towers and bridges, with hills behind." width="1280" height="714" loading="lazy"></picture>
+<figcaption><b>Liège</b> on the Meuse, from the bird's-eye view engraved by Julius Milheuser in 1627 and published by Joan Blaeu in 1649 in his atlas of the cities of the Low Countries. The city of churches that Christina knew lay on both banks of the river; St Christopher's stood outside the old walls to the west. Image: <a href="https://commons.wikimedia.org/wiki/File:Liege-Blaeu-00.jpg">Liege-Blaeu-00</a> by Julius Milheuser and Joan Blaeu, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-christophe-600.webp 600w,/static/art/chr-christophe.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-christophe.jpg" alt="The west front of a simple Gothic church of dark stone with a large pointed window, seen from a square in Liège." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The church of <b>St Christopher</b> (Saint-Christophe) in Liège, where Christina begged the priest for Holy Communion. The first church here was built between 1179 and 1183; the present one, raised about 1240, is thought to be the oldest surviving church of the beguine movement in Europe. Photo: <a href="https://commons.wikimedia.org/wiki/File:2014_Li%C3%A8ge,_Eglise_St-Christophe_(03).jpg">2014 Liège, Eglise St-Christophe (03)</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-christophe-int-600.webp 600w,/static/art/chr-christophe-int.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-christophe-int.jpg" alt="The interior of a Gothic church with plain stone arches, tall windows and rows of chairs facing a decorated altar." width="1280" height="1080" loading="lazy"></picture>
+<figcaption>Inside <b>St Christopher's</b>, Liège. Here devout women of Christina's generation, the first beguines, came to pray, and here Christina's hunger for the Eucharist could not wait. Photo: <a href="https://commons.wikimedia.org/wiki/File:2014_Li%C3%A8ge,_Eglise_St-Christophe_(09).jpg">2014 Liège, Eglise St-Christophe (09)</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=fire>The fiery ovens</h2>
+
+"Then Christina began to do the things for which the Lord had sent her back." With these words Thomas begins the most astonishing chapter of her life.
+
+She used to climb into the blazing ovens where bread was about to be baked. The flames tormented her "just as they would one of us", so that she screamed horribly in her agony; and yet when she came out, there was no mark of injury on her body. When there was no oven to hand, she threw herself into a great fire in someone's house, or held her hands or her feet in the flames for so long that "if it had not been a divine miracle, they would have been burned to ashes". Sometimes she climbed into cauldrons of boiling water up to her breast or her waist, and poured the scalding water over the rest of her body, and cried out "like a woman in labour". When she climbed out, she was unharmed.
+
+Cardinal Jacques de Vitry, who knew her, wrote the same in a few short lines: God granted her prayer "that "while living in the body in this world" she might suffer the pains of purgatory, so that "at times she rolled in fire, and in winter stayed long in icy waters". Christina was not seeking pain for its own sake. Every cry from the ovens was for the souls she had seen, a living prayer that God would shorten their purgatory and bring them home.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-baker-600.webp 600w,/static/art/chr-baker.webp 750w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-baker.jpg" alt="A late-medieval calendar miniature of a baker in an apron sliding loaves on a long wooden peel into a domed brick oven glowing with fire." width="750" height="1143" loading="lazy"></picture>
+<figcaption>A baker putting his loaves into the oven, from a calendar page of a Flemish book of hours of about 1490–1500. Christina climbed into just such blazing bread ovens and came out unburned. Royal Library, The Hague, 76 F 14. Image: <a href="https://commons.wikimedia.org/wiki/File:Bakermiddleages.jpg">Bakermiddleages</a> by Royal Library, The Hague, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=water>The icy Meuse and the mill wheel</h2>
+
+Fire was only half of it. "In the icy cold of winter she would often stay under the waters of the Meuse for a long time," Thomas writes, "so long that she remained there six days or more." The priest who had care of her would come and stand on the riverbank and adjure her in the name of Christ, and then, obedient, she would come out.
+
+In winter she would also go and stand upright under a mill wheel, so that the freezing water poured over her head and down her whole body. And sometimes she floated down the stream with the current and fell with the water onto the turning wheel, and was carried round on it, "and yet no injury appeared in her limbs". St Robert Bellarmine, the great Jesuit cardinal and Doctor of the Church, retold how the wheel "whirled her round in a manner frightful to behold, yet without breaking or dislocating one of her bones". It is because of the mill wheel that the millers of the Low Countries have taken her as their patron.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-meuse-1910-600.webp 600w,/static/art/chr-meuse-1910.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-meuse-1910.jpg" alt="An old photographic postcard of the broad river Meuse at Liège, with boats moored along stone quays and houses and church towers on the far bank." width="1280" height="825" loading="lazy"></picture>
+<figcaption><b>The Meuse at Liège</b>, on a postcard of about 1910. Christina crossed this river as if it were dry land, and in the depth of winter stayed for days beneath its icy waters, praying for the souls of the dead. Image: <a href="https://commons.wikimedia.org/wiki/File:Li%C3%A9ge._La_Meuse_%C3%A0_l%27Ev%C3%AAch%C3%A9,_GP044372.jpg">Liége. La Meuse à l'Evêché, GP044372</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-meuse-600.webp 600w,/static/art/chr-meuse.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-meuse.jpg" alt="The wide Meuse flowing through modern Liège under a broad bridge, with tall buildings on the banks and a church dome on the hills beyond." width="1280" height="920" loading="lazy"></picture>
+<figcaption>The Meuse in Liège today, with the Albert I bridge. Thomas of Cantimpré wrote that she stayed "under the waters of the Meuse" for six days and more, and came out only when her priest called her in the name of Christ. Photo: <a href="https://commons.wikimedia.org/wiki/File:Li%C3%A8ge_Meuse_R01.jpg">Liège Meuse R01</a> by Marc Ryckaert, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-abbey-mill-600.webp 600w,/static/art/chr-abbey-mill.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-abbey-mill.jpg" alt="The overgrown stone remains of an old water mill, with a wheel pit and brick walls, in a garden at the abbey of Sint-Truiden." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The remains of the <b>abbey mill</b> of Sint-Truiden, on the little river Cicindria that ran through the abbey grounds. The Hesbaye was full of water mills like this in Christina's day, and she stood beneath their wheels in the winter cold. Photo: <a href="https://commons.wikimedia.org/wiki/File:Abdijmolen_Sint-Truiden.jpg">Abdijmolen Sint-Truiden</a> by Eebie, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=thorns>Thorns, gibbets and the dogs of the night</h2>
+
+Christina went where no one else would go. On the great wheels where pirates had once been put to death, she twisted her own arms and legs the way the executioners did, and came down with no bone broken. She went to the gallows outside the town and hung herself there among the hanged robbers for a day or two, and came down alive. Often she went into the tombs of the dead and lamented there over the sins of men.
+
+Sometimes, in the middle of the night, she would get up and set every dog in Sint-Truiden barking, and then run ahead of them like a hunted animal. The dogs chased her through the woods and the thickets of thorns until no part of her body was without a wound; and yet, Thomas says, when she washed off the blood, there was no trace of a single cut. She tore herself with thorns and briars until she seemed drenched in blood, so that people who saw it wondered how one body could hold so much. And when she had washed, she was whole again.
+
+Her body was so light and fine, Thomas adds, that she could walk on the steepest heights, and perch in the trees "like a sparrow on the thinnest branches".
+
+<h2 id=prayer>Prayer in the treetops</h2>
+
+When Christina wanted to pray, she had to climb to the tops of trees or towers or other high places, where, far from everyone, her spirit could find rest. When the grace of contemplation came down on her, Thomas writes, her limbs drew together "as if they were warm wax" into a single ball, so that nothing could be seen of her but a round shape. Then, when the "spiritual drunkenness" had passed and her senses came back, her body uncurled "like a hedgehog" and her limbs stretched out again.
+
+Often she stood upright on top of the fence posts round the fields and sang the whole of the Psalms there. Touching the ground at such times was very painful to her.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-town-view-600.webp 600w,/static/art/chr-town-view.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-town-view.jpg" alt="A view over the red roofs of Sint-Truiden from a high tower, with the tall spire of the Church of Our Lady and the belfry of the town hall on the market square." width="1280" height="960" loading="lazy"></picture>
+<figcaption>Sint-Truiden from the tower of its old abbey, with the <b>Church of Our Lady</b> and the town hall belfry on the Grote Markt. Christina fled "to the tops of towers and churches" in this town to pray, high above the noise and smell of the streets. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_abdijcomplex,_uitzicht05.jpg">Sint-Truiden, abdijcomplex, uitzicht05</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-abbey-tower-600.webp 600w,/static/art/chr-abbey-tower.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-abbey-tower.jpg" alt="The tall square Romanesque tower of the old abbey of Sint-Truiden standing alone on a lawn marked with rows of metal poles, with the town towers on the horizon." width="1280" height="850" loading="lazy"></picture>
+<figcaption>The <b>abbey tower</b> of Sint-Truiden, the last standing part of the great abbey church of St Trudo. Rows of poles on the lawn trace the pillars of the vanished church. The abbey dominated the town in Christina's day. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden_Abbey_Site.jpg">Sint-Truiden Abbey Site</a> by Kees Recourt, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=chains>Chains, a cellar and a miracle of oil</h2>
+
+All this filled her sisters and friends with shame, "because people thought she was full of demons". So they hired a strong and brutal man to hunt her down and bring her back in chains. He chased her through the wilderness but could not lay hands on her, and when at last he came within reach, he broke her shin with a club. She was carried home, and her sisters found a doctor to set the broken bone. They took her to Liège in a cart.
+
+The doctor knew how strong she was. He shut her up in a cellar walled in on every side, chained her to a pillar and bolted the doors. Then he bound up her leg with medicines and left her. But as soon as he was gone, Christina took the bandages off, "thinking it unworthy that her wounds should be treated by any physician but our Saviour Jesus Christ". Her faith was not disappointed. One night "the Spirit of God rushed upon her", her chains fell off, and her leg was healed. She walked round the cellar floor, dancing and praising "him for whom alone she had chosen to live and die". Then, feeling cramped in that narrow place, she picked up a stone from the floor, broke a hole in the wall and flew out "like an arrow from a bow".
+
+Even then her family would not give up. When she came home they caught her again and bound her to a wooden post, and fed her like a dog on a little bread and water. Her shoulders and back were rubbed raw against the wood until the sores festered, and she was in such pain that she could not eat. No one pitied her. And then, Thomas says, the Lord worked a miracle "unknown to all past generations". Her virgin breasts began to flow "with the clearest oil". She used it to soften her dry bread and to anoint her festering wounds.
+
+When her sisters and friends saw it, they began to weep. They would fight the will of God no longer. They unchained her, threw themselves on the ground before her and begged her pardon for the wrong they had done, "and they let her go free".
+
+
+<h2 id=wellen>The font at Wellen</h2>
+
+Now that she was free to do as the Spirit led her, Christina went on suffering for the sins of others as before. People came every day from near and far, "even from the remotest lands", to see the works of God in her. The devout men and women of Sint-Truiden grew afraid. Her miracles were so far beyond human understanding, Thomas says, that they feared the "beastly minds of men" might take God's work for the devil's, especially when she flew to high places like a bird or lived for days in the water like a fish. So they prayed together, with tears, that God would temper his wonders in Christina and bring them closer to ordinary human life. "Nor did the Lord spurn their prayers."
+
+One day, "violently driven by the Spirit", Christina ran to the church in the village of **Wellen**, a few miles north-east of Sint-Truiden. She found the holy font of baptism uncovered, and plunged herself into it completely. From that day, it was said, her way of life was gentler and more in keeping with ordinary people. She was calmer; she could bear the smell of human beings better, and live among them.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-wellen-600.webp 600w,/static/art/chr-wellen.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-wellen.jpg" alt="A village church with a sturdy Romanesque stone tower and later Gothic nave, under a bright sky." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>The church of <b>St John the Baptist</b> at Wellen, with its Romanesque tower. In "a certain church in the village called Wellen", Thomas writes, Christina found the baptismal font open and plunged into it, and from that day she lived more gently among people. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Jan_de_Doperkerk_1.jpg">Sint-Jan de Doperkerk 1</a> by Bert76, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-wellen-int-600.webp 600w,/static/art/chr-wellen-int.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-wellen-int.jpg" alt="The interior of a village church with a central aisle between rows of pews leading to a high, light-filled choir." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>Inside the church at <b>Wellen</b>. The waters of baptism, which make us children of God, marked the turning point of Christina's life. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Jan_de_Doperkerk_2.jpg">Sint-Jan de Doperkerk 2</a> by Bert76, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=alms>Bread of sinners</h2>
+
+From then on Christina received Holy Communion often, especially on Sundays, and from it, she said, she drew strength of body and the greatest joy of spirit. She had given up for Christ everything she owned, even her share of the family inheritance, and she lived entirely on the alms she begged from door to door. The Spirit made her beg above all from wicked people, she explained, so that through their gifts they might be horrified at their sins and repent. "Nothing so moves God to mercy towards sinners," she said, "as when sinners have mercy on their neighbours."
+
+One day, Thomas says, God tormented her with a terrible thirst. She ran to the table of a very wicked man who was dining in splendour and asked him for a drink, and he, "moved by an unaccustomed feeling of pity", gave her a little wine. That small mercy, Christina said afterwards, won him the grace of repentance and contrition at his death, against everything that people who knew him would have expected.
+
+When she ate food that had been gained dishonestly, it seemed to her like the flesh of toads and the entrails of serpents, and she cried out, "O Christ, what are you doing to me?" She dressed in a long white tunic and a white scapular, sewn together with bark from the linden tree or with willow twigs, and she went barefoot in every season. When her tunic lost a sleeve, the Spirit told her whom to ask for a new one, and she did not mind if the sleeves did not match. She fasted for two or three days at a time, and then ate scraps boiled in water with hard bran bread.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-print-vinck-600.webp 600w,/static/art/chr-print-vinck.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-print-vinck.jpg" alt="A 19th-century lithograph of St Christina in a veil holding a crucifix and rosary, with great dark wings behind her, a dove above and a skull at her feet, framed by a Latin inscription." width="1280" height="1904" loading="lazy"></picture>
+<figcaption>St Christina Mirabilis, "Virgin of Sint-Truiden", on a holy card lithographed by <b>Michiel Vinck</b> in Antwerp, about 1824–1841. The artist gives her wings for her flights to the treetops and towers, a skull for her vigils among the tombs and a crucifix for the Lord she suffered for. MAS, Antwerp. Image: <a href="https://commons.wikimedia.org/wiki/File:Devotieprent_van_de_heilige_Christina_Mirabilis,_asset_ZMOFSSmiYohHaVRXAWWWwL8D.tif">Devotieprent van de heilige Christina Mirabilis, asset ZMOFSSmiYohHaVRXAWWWwL8D.tif</a> by Michiel Vinck, MAS Antwerp, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=dying>Weeping and dancing at the deathbeds</h2>
+
+Christina fled honour and praise "with the greatest zeal". It was for this very thing, she said, that people who had known the truth of Christ suffered most in hell or purgatory. She always went about like someone in mourning, and no wonder, Thomas says, "since every day God revealed to her whether the dying were going to salvation or to damnation".
+
+When someone in the town died who she knew had been lost through his sin, she wept and writhed, and bent her arms and fingers as if they had no bones. No one was so hard that he could watch her without the deepest sorrow and compunction. But when someone died who was going to be saved, she leaped and danced for joy, "so that it was wonderful to see her so merry". People who knew her gift could tell from her joy or her grief how it had gone with the dying of the town.
+
+So she went to the dying "most willingly and with great kindness", urging them to confess their sins, to do penance, to hope for eternal joy and to fear the flames. She went not only to Christians but, "with remarkable compassion", to the Jews as well, of whom there was a large community in the town. And she spoke "with wonderful grace" about Christ. "The Lord Christ is most merciful," she said, to all who choose to turn to him. He punishes sin most unwillingly, and grieves when he must; "and he diligently seeks occasions by which he can bring the wretched to salvation".
+
+<h2 id=prophecy>"I see the air filled with swords"</h2>
+
+God gave Christina the spirit of prophecy. She warned many people for their salvation, and in private she told many of their secret sins and called them to penance.
+
+On **13 October 1213**, the army of the Duke of Brabant was destroyed by the prince-bishop of Liège and the count of Loon in the plain of **Steppes**, near Montenaken, and many hundreds of men were killed. On that very day Christina, at the convent of St Catherine, cried out like a woman in labour: "Woe, woe! I see the air filled with swords and blood! Run, sisters, run! Pray to the Lord and weep, lest in his anger he hold back his mercies!" And she said to one of the nuns, "Run, daughter, run quickly to prayer, and pray to the Lord for your father, for he is in the gravest danger at this moment."
+
+Years before, she had foretold that the Holy Land would fall to the Saracens. On the day Saladin took Jerusalem, **2 October 1187**, Christina was at the castle of Loon, and she knew it in the spirit. She was full of a wild joy. When people asked why, she answered: "Today the Lord Christ is rejoicing with the angels, because he has given an occasion for a great part of the human race to be saved." The Holy Land would one day pass away with the world, she explained, but the souls redeemed by Christ's blood would never pass away, and many would now give their lives for him in great devotion, as he had given his life for them. Those present marked the day, and when news came back from across the sea, they found that Jerusalem had fallen on that very day.
+
+When a noblewoman begged her to pray her husband safely home from pilgrimage to the Holy Sepulchre, Christina prayed and fasted for him and he came home safe; but she warned the wife that she would not enjoy his company for long, and a few days later he died. When a nun of St Catherine's was thinking of leaving the convent, Christina called her "an empty vessel" who would bring great disgrace on the house, and so it happened. But when the nun repented and the sisters would not take her back, it was Christina who stood up for her: "Though you think her damnation a small thing, her soul was not so little valued by Christ, who deigned to shed his blood and die for it." She would not stop saying it until the penitent was received home.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-steppes-600.webp 600w,/static/art/chr-steppes.webp 1131w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-steppes.jpg" alt="An early 15th-century manuscript drawing of armoured knights on horseback crowding together in battle, with lances and banners, lightly coloured." width="1131" height="1040" loading="lazy"></picture>
+<figcaption><b>The battle of Steppes</b>, 13 October 1213, in an early 15th-century copy of Jan van Boendale's Brabant chronicle, the <i>Brabantsche Yeesten</i>. On the day of the battle Christina cried out at St Catherine's that she saw "the air filled with swords and blood". KBR, Royal Library of Belgium, Brussels, ms IV 684. Image: <a href="https://commons.wikimedia.org/wiki/File:Brabantsche_Yeesten,_KBR,_ms_IV_684,_Slag_bij_Steps_(1213).jpg">Brabantsche Yeesten, KBR, ms IV 684, Slag bij Steps (1213)</a> by KBR, Royal Library of Belgium, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=song>"Te Deum laudamus": her songs</h2>
+
+In her calmer years Christina became a close friend of the nuns of **St Catherine's**, a small convent just outside the walls of Sint-Truiden. She loved to sit and talk with the sisters about Christ. Sometimes, as they talked, the Spirit would seize her without warning, and her body would begin to whirl round and round "like a top that children play with", so fast that no shape of her limbs could be seen. When at last she lay still, worn out, a wonderful melody would sound "between her throat and her chest", a music no mortal could understand or copy. It had the tones and turns of music, Thomas says, but its words, if they were words, could not be understood; and not a breath came from her mouth or nose. "The angelic melody sounded only between her throat and her chest."
+
+After a while she would come back to herself "like one drunk", and rise, still drunk with the Spirit, and cry out: "Bring the whole convent to me, so that we may praise Jesus for his wonderful goodness!" The nuns came running from every corner of the house, for they loved these moments of consolation, and Christina began the great hymn of thanksgiving, *Te Deum laudamus*, "We praise you, O God", and they sang it to the end with her. But afterwards, when she had fully come to herself and heard what she had done, she ran away in shame. If one of the sisters held her back, she grieved beyond measure and called herself a fool.
+
+Sometimes, coming out of these raptures, she would cry with great bitterness: "O wretched and miserable world, that does not know its Maker! Why do you not serve him? If you could see his goodness, you could not be turned away from loving him, not if another world forbade you. But you have turned away, wretched world. You have shut your eyes and chosen not to see."
+
+It was in these years, too, that a young nun at St Catherine's named **Lutgard** came to love Christina. Lutgard of Aywières would become one of the great mystics of the Low Countries, and Thomas of Cantimpré would write her life too. When she was hesitating about leaving St Catherine's for the strict Cistercian abbey of Aywières, it was Christina who counselled her to go, and in 1208 Lutgard went.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-station-1907-600.webp 600w,/static/art/chr-station-1907.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-station-1907.jpg" alt="An old black-and-white photograph of a long two-storey railway station building with a row of tall windows." width="1280" height="779" loading="lazy"></picture>
+<figcaption>The railway station of Sint-Truiden in 1907, during the provincial exhibition. The station stands on the site of the convent of <b>St Catherine</b>, where Christina sang the <i>Te Deum</i> with the nuns, where she died, and where she was first buried. Image: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden_-_Station_Sint-Truiden1907.jpg">Sint-Truiden - Station Sint-Truiden1907</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-lutgard-galle-600.webp 600w,/static/art/chr-lutgard-galle.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-lutgard-galle.jpg" alt="A 17th-century engraving of a nun in a Cistercian habit embracing Christ, who leans down from the cross to hold her." width="1280" height="1720" loading="lazy"></picture>
+<figcaption>St <b>Lutgard of Aywières</b> embraced by Christ crucified, an engraving by Cornelis Galle the Elder, 1624. Lutgard was a young nun at St Catherine's in Sint-Truiden in Christina's day, and Thomas of Cantimpré wrote the lives of them both. Image: <a href="https://commons.wikimedia.org/wiki/File:Lutgardis_van_Tongeren_(tg-uact-876).jpg">Lutgardis van Tongeren (tg-uact-876)</a> by Cornelis Galle the Elder, University of Antwerp Library, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-lutgard-goya-600.webp 600w,/static/art/chr-lutgard-goya.webp 525w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-lutgard-goya.jpg" alt="A painting of a nun in a white habit kneeling in prayer with outstretched hands in a dark space, her face lit by a heavenly light." width="525" height="792" loading="lazy"></picture>
+<figcaption>Francisco Goya, <b>St Lutgard</b>, 1787. The Spanish master painted Christina's friend in the white habit of the Cistercians, rapt in prayer. Image: <a href="https://commons.wikimedia.org/wiki/File:Santa_Lutgarda-Goya.JPG">Santa Lutgarda-Goya</a> by Francisco de Goya, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=loon>Nine years at Loon</h2>
+
+After this Christina left her home and her kin and went to **Loon**, the castle of the counts on the edge of the German lands. Today the little town is called Borgloon. There she lived for nine years with a recluse, "a woman of most devout life", named **Yvette** (in Dutch tradition, Jutta). Yvette later told many of these things to Thomas of Cantimpré, who says he came "from a distant region of France" for that very purpose.
+
+At Loon Christina went to Matins in the church every night. When everyone else had gone and the doors were barred, she walked up and down the stone floor and sang a song "of such sweetness that it seemed more the song of angels than of men". It surpassed the sound of every instrument and every human voice, Thomas says, though it was still not as lovely as the song that sounded in her breast in her raptures. And this song was in Latin, "adorned with wonderful rhymes".
+
+Though she had never learned to read, Christina understood Latin perfectly and grasped the meaning of Holy Scripture. When spiritual friends asked her about the hardest passages, she could explain them very clearly. But she did it rarely and unwillingly, saying that explaining Scripture belonged to the clergy, not to her. She had a wonderful reverence for priests, "because of her burning love for Christ", even though some of them had hurt her badly. When a priest had sinned, she would warn him gently and privately, with great respect, "as if he were her own father", not to bring shame on the name of Christ among the people.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-loon-gulpen-600.webp 600w,/static/art/chr-loon-gulpen.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-loon-gulpen.jpg" alt="A coloured 19th-century drawing of a village church with a tall spire beside a grassy mound topped by a row of trees, with a French inscription below." width="1280" height="781" loading="lazy"></picture>
+<figcaption>The church of Borgloon and the <b>castle hill of the counts of Loon</b>, in a coloured drawing by Philippe van Gulpen of about 1840. The inscription reads: "Mound where the castle or residence of the old counts of Looz stood, beside the great church of Looz." Christina spent nine years here. Image: <a href="https://commons.wikimedia.org/wiki/File:Borgloon,_kerk_en_burchtheuvel_(Ph_v_Gulpen).jpg">Borgloon, kerk en burchtheuvel (Ph v Gulpen)</a> by Philippe van Gulpen, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-odulf-600.webp 600w,/static/art/chr-odulf.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-odulf.jpg" alt="The tall stone west tower of St Odulf's church in Borgloon, with a slate spire, rising above low buildings." width="1280" height="1649" loading="lazy"></picture>
+<figcaption>The tower of <b>St Odulf's</b> church in Borgloon. St Odulf's is the great church of Borgloon, beside the old castle hill; in the church of Loon Christina sang alone at night after Matins, in Latin, "a song more of angels than of men". Photo: <a href="https://commons.wikimedia.org/wiki/File:Borgloon,_StOdulfuskerk01.jpg">Borgloon, StOdulfuskerk01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-lutgard-stool-600.webp 600w,/static/art/chr-lutgard-stool.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-lutgard-stool.jpg" alt="A heavy medieval wooden prayer stool with plain sides and a kneeling board, standing against a wall." width="1280" height="1357" loading="lazy"></picture>
+<figcaption>The <b>prayer stool of St Lutgard</b>, about 1200, now kept in St Odulf's church at Borgloon. It was long kept by the nuns of Nonnenmielen, the community of St Catherine's where Lutgard and Christina had been friends. Photo: <a href="https://commons.wikimedia.org/wiki/File:Bidstoel_van_de_H._Lutgardis_(circa_1200)_Sint-Odulfuskerk_(Borgloon).jpg">Bidstoel van de H. Lutgardis (circa 1200) Sint-Odulfuskerk (Borgloon)</a> by Paul Hermans, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=count>"O how beautiful you are, Lord!"</h2>
+
+At Loon Christina met the most powerful man of the country: **Louis II, Count of Loon**, who ruled from 1194 to 1218. The count had heard of her holiness, and he came to love her "with all his heart" and to follow her advice. Whenever he saw her, he jumped up, ran to meet her and called her "mother". But when he had sinned against justice, or against the Church and her ministers, she grieved over him like a mother over her son. She would go to him in his palace, rebuke him "with a mother's freedom", and win from him whatever amends justice required.
+
+One day the count was lying at ease in the churchyard with a crowd of his knights around him. Christina came up quietly and stood over his head. She lifted her eyes and her hands and began to speak, in a wonderfully sweet voice: "O how beautiful you are, O Lord!" The knights laughed and said to the count, "Do you hear, my lord count, how this holy woman praises you?" And the count answered: "I know whom she is praising. It is not me, but her Lord in heaven, the maker of all beauty, who is the most beautiful of all." "You have spoken the truth," said Christina. "Then why do you not love him?"
+
+Another day, at noon in summer, the count was lying on a cushion in his palace at Loon, talking with the Duke of Limburg and another count. Christina burst in and cried, "O wretched man, who are you talking with? See, here is one who treats you as a friend, but he is your enemy, and he is reaching out his hand right now to betray you." The traitor shuddered at her words and said nothing, and hid the truth; but events proved her right.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-brustem-church-600.webp 600w,/static/art/chr-brustem-church.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-brustem-church.jpg" alt="A stone village church with a pointed spire and slate roofs, seen among trees." width="1280" height="720" loading="lazy"></picture>
+<figcaption>The church of <b>St Lawrence</b> at Brustem. Brustem was a stronghold of the counts of Loon, Christina's friends, and the traditional place of her birth. Photo: <a href="https://commons.wikimedia.org/wiki/File:Brustem-Sint-Laurentiuskerk_(1).jpg">Brustem-Sint-Laurentiuskerk (1)</a> by Romaine, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=confession>The count's last confession</h2>
+
+When Count Louis lay dying in the summer of 1218, he sent for Christina and begged her to stay with him until he died. She gladly agreed. He sent everyone else out of the room and kept only her. Then, with what little strength he had left, the count got out of bed, threw himself down at Christina's feet, and with many tears told her all the sins of his life, "from the age of eleven up to that very day". He did not do it for absolution, Thomas carefully explains, for that she had no power to give, but so that she might pray for him all the more. Then he called his household back, set his affairs in order by her advice, and died.
+
+Christina saw his soul taken to purgatory, to suffer very bitter pains. She was full of pity for him, and she won from God the grace to share them. When the count appeared to her after his death to ask for her help, she told him: "Go now, and suffer the punishment for your sins as God has judged. But I will punish my own body, and take upon myself half of your purgatory." From then on, for a long time, people saw Christina at night tormented now by burning heat and now by icy cold, "and it is certain," Thomas says, "that the soul of the count was being purified by the same pains". In the places where he had sinned most, she wept as if she could not be comforted, and suffered pain where he had taken empty pleasure.
+
+No scene in her life shows more clearly what she came back from heaven for. A great lord who had loved her, and who had needed her rebukes, was not left to suffer alone. Love, as Pope Benedict wrote, "can reach into the afterlife".
+
+
+<h2 id=body>"O sweetest body"</h2>
+
+In the last year of her life Christina spent most of her time alone in the wilderness, coming back only when the Spirit sent her to help someone's salvation or when she needed food. When she came home at dusk, she passed through the house "like a spirit", so lightly that she hardly seemed to touch the ground, and no one dared greet her or ask her anything. When she came back to Sint-Truiden she often stayed at St Catherine's.
+
+The priest Thomas, later abbot of Sint-Truiden, told Thomas of Cantimpré a story he had seen with his own eyes. One morning at dawn he was coming home from Matins with a companion when Christina rushed past them into the church. They followed and hid behind a pillar to watch. She threw herself down before the altar "like a sack of dry bones", groaning and beating her body with her fists. "O wretched and miserable body!" she cried. "How long will you torment me? Why do you keep my unhappy soul so long? How long will you hold me back from the sight of Christ?" Then she took the body's part and answered the soul: "O wretched soul, why do you torment me so? Why do you not let me go back to the earth I came from and rest, until I am joined to you again on the day of judgement?"
+
+Then she lay quiet for a while, and as she glowed with a purer love of God, she burst out laughing with joy. She took her feet in her hands, kissed their soles tenderly, and said: "O sweetest body! Why did I beat you? Did you not obey me in every good work I undertook at God's command? Be patient now, my good and lovely body. The end of your labour is near. Soon you will rest in the dust and sleep a little, and then, when the trumpet sounds, you will cast off all corruption and rise again, and be joined with your soul in everlasting joy, as you have been its companion in sorrow." And she poured out her wonderful song of praise until it seemed her body would burst with joy. "Truly God is wonderful in his saints," Thomas writes, "and in this saint, I would say, wonderful beyond all wonder!"
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-pieter-int-600.webp 600w,/static/art/chr-pieter-int.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-pieter-int.jpg" alt="The interior of a Romanesque church with round arches on sturdy pillars, a flat painted ceiling and rows of chairs leading to the altar." width="1280" height="764" loading="lazy"></picture>
+<figcaption>Inside <b>St Peter's</b> in Sint-Truiden, a Romanesque church built about 1180–1190, in Christina's own lifetime. In churches like this one she prayed at dawn and sang praises to God until her body seemed to burst with joy. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_StPieterskerk07.jpg">Sint-Truiden, StPieterskerk07</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=death>Three deaths</h2>
+
+At the end of her life Christina ate very little. Her heart was heavy with what God showed her of the state of the world, and she walked in the wilderness at night praying and weeping for sinners. As her last illness came near, she was so absorbed in contemplation that it was hard for her to think of anything else. She asked a nun of St Catherine's named **Beatrice** to make up a bed for her quietly in a room of the convent. There she lay sick for three weeks. Then she asked for Holy Communion and the anointing of the sick, and received them.
+
+Beatrice knelt beside her and begged her to answer a question before she died. Christina was silent, and Beatrice, thinking her mind was elsewhere, went out for a moment. While she was gone, "Christina was called by Christ and breathed her last". Christina had often asked the Lord, Thomas says, to let her die the ordinary death of all people, without miracles; and the Lord heard her. When Beatrice came back with another sister, they found her body laid out on the floor in the manner of the dead, "and I truly believe," Thomas writes, "that the angels did this service".
+
+Beatrice threw herself on the body, weeping and crying aloud, and asked her again and again why she had gone to the Lord without the sisters' leave and blessing. Then, growing bolder, she put her face close to the face of the dead woman and cried: "O Christina! You were always obedient to me in life. Now I beg and implore you, through the Lord Jesus Christ, whom you loved with burning desire, to obey me now too. You are with him now, and through him you can do whatever you will. Come back to life, and tell me what I begged you to tell me while you were alive."
+
+"An astonishing thing!" At these words Christina came back into her body. She gave a deep sigh and looked at Beatrice in anguish. "O Beatrice," she said, "why did you disturb me? Why did you call me back? I was at that very moment being led into the presence of Christ. But now, my sister, ask quickly what you want, and let me go, I beg you, to the place I have longed for so long." Beatrice asked her question and Christina answered it. By then the sisters of the convent had gathered round her. She blessed them with the sign of the cross, saying the holy words, and then she died for the third time, "and so passed over into the eternal world without end".
+
+It was about the year 1224, forty-two years after her first rising. The Church keeps her memory on **24 July**, the day tradition gives for her passing.
+
+<h2 id=glory>"Astonishing in life, glorious in death"</h2>
+
+The sisters buried Christina at St Catherine's, outside the town. Seven years later, in 1231, the whole convent moved to a better site near the town, at Metsteren, which came to be called Nonnenmielen, "Mielen of the nuns". The townspeople gathered, and the clergy and the sisters went together to her tomb. When they lifted the lid, "so sweet a grace filled every one of them" that they all cried out with one voice that Christina was "astonishing in life, and no less glorious in death". From that time, Thomas says, no one doubted that those who came to her tomb in faith received grace and healing.
+
+Thomas ends his book with a call to his readers that sums up her whole life: "What else did Christina proclaim all her life long, but that people should do penance and be ready at every hour? She taught it by her many words, by her tears, by her wailings, by her endless cries, and by the example of her life, more than anyone we have read or heard of before or after her, to the praise and glory of Christ."
+
+Her story did not end there. Early one morning in **1249**, an aged woman dressed in white knocked at the gate of the convent and asked to see a priest-monk. "I have been sent by divine revelation," she told him, "to tell you to raise from its resting place the body of a most holy woman named Christina, who has been buried without due honour. If you do it, this house will gain grace and glory by her merits and prayers." The monk ran to fetch the prioress and the sisters, but when he came back the woman was gone, and no one in the streets had seen her come or go. The nuns, joyfully and quickly, took the holy bones from the tomb, washed and dried them with care, and laid them in a place of honour beside the altar.
+
+At once a miracle followed. A woman living near the convent had long been so weak that she could not have got out of bed if her house were on fire. When she heard the news, she begged her husband to take her to the convent. Moved by her tears, he laid her in a hay wagon and drove her there, and she was carried to the tomb. "She was healed in all her limbs and rose up, and blessing Christ and his bride Christina, she walked home on her own feet."
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-nonnenmielen-600.webp 600w,/static/art/chr-nonnenmielen.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-nonnenmielen.jpg" alt="A long brick manor house with tall windows and a slate roof, seen across a lawn through bare trees." width="1280" height="959" loading="lazy"></picture>
+<figcaption>The castle of <b>Nonnenmielen</b> at Metsteren, north of Sint-Truiden, which keeps part of the buildings of the former abbey. The nuns of St Catherine's moved here in 1231, bringing Christina's body with them, and here her bones were raised to the altar in 1249. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kasteel_Nonnenmielen.jpg">Kasteel Nonnenmielen</a> by Eebie, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-nonnenmielen-gate-600.webp 600w,/static/art/chr-nonnenmielen-gate.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-nonnenmielen-gate.jpg" alt="A brick gatehouse with an arched entrance and a farmhouse beside it, framed by trees." width="1280" height="959" loading="lazy"></picture>
+<figcaption>The <b>gatehouse and farm</b> of Nonnenmielen. In 1249, Thomas's continuator writes, an aged woman in white knocked at the convent gate to ask that Christina's body be honoured, and then vanished. Photo: <a href="https://commons.wikimedia.org/wiki/File:Nonnenmielen_poort.jpg">Nonnenmielen poort</a> by Eebie, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=thomas>Thomas of Cantimpré, her witness</h2>
+
+We know Christina's story because a young priest set out to gather it while the people who had seen it were still alive. **Thomas of Cantimpré** was born in 1201 at Sint-Pieters-Leeuw near Brussels, the son of a knight who had fought in the Holy Land. As a boy he studied at Liège, where he heard the great preacher Jacques de Vitry. At sixteen he joined the Augustinian canons of Cantimpré near Cambrai, and in 1232 he entered the new Order of Preachers, the Dominicans, at Leuven. He went on to study at Cologne under St Albert the Great, and then at Paris, and spent the rest of his life as a teacher and preacher in Brabant, until his death at Leuven about 1272.
+
+Thomas wrote the *Life of Christina the Astonishing* about 1232, signing himself "an unworthy brother of the Order of Preachers". It was only eight years after her death. He travelled, he says, "from a distant region of France" to hear about her from the recluse Yvette of Loon, who had lived with her for nine years. He spoke with Thomas, abbot of Sint-Truiden, who had watched her pray in the church at dawn, and with the people of the town and the nuns of St Catherine's. "I am certain of the truth of what has been told me," he wrote, "for many of these events I have as many witnesses as there were people of sound mind in Sint-Truiden at that time. These things were not done in a corner, but in full public view." What Christina alone could know, he heard from people who swore they had heard it from her own lips.
+
+Thomas begins his book with the words of **Jacques de Vitry**, the most famous preacher of the age, later bishop of Acre and cardinal, who had known the holy women of the diocese of Liège. In his Life of St Marie of Oignies, written in 1215 while Christina was still alive, Jacques wrote: "I saw another woman, in whom the Lord worked so wonderfully that, after she had lain dead a long time, before she was buried, her soul returned to her body and she lived again. She obtained from the Lord that she should suffer purgatory in this world, living in the body. So for a long time she was wonderfully afflicted by the Lord: sometimes she rolled in fire, and in winter she stayed long in icy waters, and sometimes she was driven into the tombs of the dead. But after so much penance she lived in such peace, and won such grace from the Lord, that many times, rapt in spirit, she led the souls of the dead as far as purgatory, or through purgatory to the kingdom of heaven, without any harm to herself."
+
+Thomas went on to write the lives of Christina's friend St Lutgard and of Margaret of Ypres, and a great book on the natural world, *On the Nature of Things*, which the Flemish poet Jacob van Maerlant turned into Dutch verse.
+
+Four centuries later the great Jesuit cardinal and Doctor of the Church **St Robert Bellarmine** retold her story in his writings on purgatory. Thomas's testimony can be trusted, he said, because it is backed by "another grave author", Jacques de Vitry, and because Thomas "relates what happened in his own time, and even in the province where he lived. Besides, the sufferings of this admirable virgin were not hidden." By her, Bellarmine wrote, God "willed to silence those libertines who make open profession of believing in nothing, and who have the audacity to ask in scorn, 'Who has returned from the other world?'"
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-vitry-medal-600.webp 600w,/static/art/chr-vitry-medal.webp 1051w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-vitry-medal.jpg" alt="A bronze portrait medal of a man in a cap and fur collar in profile, with a Latin inscription round the rim." width="1051" height="1053" loading="lazy"></picture>
+<figcaption><b>Jacques de Vitry</b> (about 1170–1240), preacher, bishop of Acre and cardinal, on a portrait medal of 1518. "I saw another woman," he wrote of Christina in 1215, "in whom the Lord worked wonderfully." Photo: <a href="https://commons.wikimedia.org/wiki/File:Ignoto,_cardinale_jacques_de_vitry,_1518.JPG">Ignoto, cardinale jacques de vitry, 1518</a> by Sailko, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-oignies-cup-600.webp 600w,/static/art/chr-oignies-cup.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-oignies-cup.jpg" alt="A tall silver-gilt cup with a lid, its surface covered in fine filigree and engraved figures, lit against a dark background." width="1280" height="1707" loading="lazy"></picture>
+<figcaption>A <b>silver-gilt cup</b> of about 1228–1230 from the workshop of Hugo of Oignies, now in the Treasury of Oignies at Namur. It was made in the years when Thomas of Cantimpré was writing, for the priory where Jacques de Vitry's friend St Marie of Oignies lived and prayed. Photo: <a href="https://commons.wikimedia.org/wiki/File:Gobelet_dit_de_%22sainte_Marie_d%27Oignies%22.jpg">Gobelet dit de "sainte Marie d'Oignies"</a> by Okapi07, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-cantimpre-ms-600.webp 600w,/static/art/chr-cantimpre-ms.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-cantimpre-ms.jpg" alt="A medieval manuscript page with a drawing of a crowned figure holding a book, above a great cluster of red circles naming learned authorities." width="1280" height="2022" loading="lazy"></picture>
+<figcaption>A page of <b>Der naturen bloeme</b>, Jacob van Maerlant's 13th-century Dutch verse version of Thomas of Cantimpré's book <i>On the Nature of Things</i>, showing the many learned authorities Thomas drew on. Thomas was among the most widely read writers of the Low Countries in the Middle Ages. Image: <a href="https://commons.wikimedia.org/wiki/File:Der_naturen_bloeme_Brussel_bronnen_KB_19_546_f_2r.jpg">Der naturen bloeme Brussel bronnen KB 19 546 f 2r</a> by KBR, Royal Library of Belgium, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<h2 id=relics>Her relics and her feast</h2>
+
+Christina's body lay first in the convent of St Catherine outside Sint-Truiden, and from 1231 in the convent's new home at Metsteren, which became the Benedictine abbey of **Nonnenmielen** in 1543. Her bones were raised to a place of honour beside the altar in 1249, and there the nuns kept them for more than five hundred years. The Benedictines obtained leave to keep her feast every year on 24 July with great solemnity, singing the Mass of Virgins, and on that day the roads to the cloister of Mielen were crowded with pilgrims of every age and rank, coming to ask her help in their needs of body and soul. The Elector Palatine Johann Wilhelm once asked for a relic of her, and gave in exchange a splendid silver-gilt monstrance, about a metre high, made by the goldsmiths of Augsburg, which is still in Sint-Truiden.
+
+When the French Revolution suppressed Nonnenmielen in 1796, Christina's relics were saved. From 1836 they were in the care of the **Redemptorist Fathers** of Sint-Truiden, whose church became the centre of her devotion. In 1892 Bishop Victor-Joseph Doutreloux of Liège approved a prayer card that tells her story and her "extraordinary" power of intercession. In 1863 a new shrine was made for her relics, with painted panels by G. Schoofs. Today her relics are kept in the treasury of the **Church of Our Lady** in Sint-Truiden, and a small relic is honoured far to the north, in the hermitage of Warfhuizen in the Netherlands.
+
+Her feast is kept on **24 July**. The prayer card of 1892 tells of a special devotion to her at that time "in the church of the hospital at Borgloon", on her feast day and on the second Sunday of every month. In 2024 Sint-Truiden and the whole Hesbaye kept the eight-hundredth anniversary of her death.
+
+<h2 id=places>Her places and churches</h2>
+
+<figure class=map><a href="/static/maps/map-christina.svg"><img src="/static/maps/map-christina.svg" alt="Map of St Christina the Astonishing&#x27;s places and churches, numbered: 1 Sint-Truiden, her town, with an inset showing the Church of Our Lady, the abbey tower, St Gangulf&#x27;s, St Peter&#x27;s, the Beguinage, and the railway station on the site of the convent of St Catherine, where she sang, died and was first buried; 2 Brustem, her birthplace by tradition; 3 Wellen, where she plunged into the baptismal font; 4 Borgloon, the castle of the counts of Loon, where she lived nine years; 5 Liège on the Meuse, with St Christopher&#x27;s church; 6 Nonnenmielen, the abbey where her relics rested from 1231 to 1796. Tongeren and the battlefield of Steppes are also marked." width="1000" height="780" loading=lazy></a><figcaption>St Christina's places and churches, from Sint-Truiden and Brustem to Loon and Liège. Map by The Daily Word; borders and rivers from Natural Earth (public domain); places located with OpenStreetMap. Tap to enlarge.</figcaption></figure>
+
+### Sint-Truiden: the Church of Our Lady
+
+The **Church of Our Lady** (Onze-Lieve-Vrouwekerk) stands on the great market square of Sint-Truiden, beside the town hall and its belfry. It was the town's first parish church; the church Christina knew had stood here since the early 12th century, after an older one burned in 1086. The present church was rebuilt in the Gothic style from the 14th to the 16th centuries, and its tall tower was added between 1847 and 1852. Inside, Johannes van den Eynde's great Last Judgement of 1626 fills the arch before the choir. Beneath the church, a crypt treasury keeps the reliquaries of Sint-Truiden's saints, and among them the relics of St Christina.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-olv-west-600.webp 600w,/static/art/chr-olv-west.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-olv-west.jpg" alt="The tall neo-Gothic tower of the Church of Our Lady in Sint-Truiden, with a pointed spire and stair turrets, rising above the Gothic church." width="1280" height="1816" loading="lazy"></picture>
+<figcaption>The west front and tower of the <b>Church of Our Lady</b>, Sint-Truiden. Her relics are kept in the church's treasury today. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_OLV-kerk01.jpg">Sint-Truiden, OLV-kerk01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-grote-markt-600.webp 600w,/static/art/chr-grote-markt.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-grote-markt.jpg" alt="The town hall of Sint-Truiden with its tall baroque belfry, and the spire of the Church of Our Lady beyond, on the broad market square." width="1280" height="1865" loading="lazy"></picture>
+<figcaption>The <b>Grote Markt</b> of Sint-Truiden, with the town hall and belfry on the left and the tower of the Church of Our Lady on the right. Christina ran through these streets at night, and begged her bread from door to door here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden_Grote_Markt_2.JPG">Sint-Truiden Grote Markt 2</a> by Torsade de Pointes, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-postcard-600.webp 600w,/static/art/chr-postcard.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-postcard.jpg" alt="An old black-and-white postcard of the town hall of Sint-Truiden with its belfry, and the tower of the Church of Our Lady behind it." width="1280" height="2038" loading="lazy"></picture>
+<figcaption>The town hall and the Church of Our Lady on a postcard from before the First World War. Image: <a href="https://commons.wikimedia.org/wiki/File:Postkaart_stadhuis_Sint-Truiden.jpg">Postkaart stadhuis Sint-Truiden</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-treasury-600.webp 600w,/static/art/chr-treasury.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-treasury.jpg" alt="A carved wooden statue of a monk saint standing in a dark museum room among glass cases of golden reliquaries." width="1280" height="1542" loading="lazy"></picture>
+<figcaption>The <b>treasury</b> of the Church of Our Lady, with a statue of St Trudo, the town's founder, among the reliquaries of the saints of Sint-Truiden. St Christina's relics are kept here today. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_OLV-kerk,_schatkamer01.jpg">Sint-Truiden, OLV-kerk, schatkamer01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-hairnet-600.webp 600w,/static/art/chr-hairnet.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-hairnet.jpg" alt="A dome-shaped net of fine silk, decorated with rows of small medallions with figures, lit against a black background." width="1280" height="960" loading="lazy"></picture>
+<figcaption>A <b>silk hairnet of the 13th century</b> from the treasury of the Church of Our Lady, Sint-Truiden, one of the rare textiles of Christina's own century. It is listed among the masterpieces of Flemish heritage. Photo: <a href="https://commons.wikimedia.org/wiki/File:Filet_%C3%A0_cheveux.jpg">Filet à cheveux</a> by Okapi071, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Sint-Truiden: the Abbey of St Trudo
+
+The Benedictine **Abbey of St Trudo**, founded about 655, was one of the oldest and most powerful abbeys of the Low Countries, and the town grew up around it. Its great Romanesque church was pulled down in 1798, after the French Revolution; only the tall abbey tower still stands, with poles in the lawn marking where the pillars of the church once rose. It was an abbot of this house, Thomas, who as a young priest watched Christina pray before the altar at dawn.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-abbey-600.webp 600w,/static/art/chr-abbey.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-abbey.jpg" alt="A long 18th-century classical building of brick and stone with rows of tall windows, behind an old wall, under a blue sky." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The 18th-century buildings of the <b>Abbey of St Trudo</b>, designed by Laurent-Benoît Dewez. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_abdijcomplex01.jpg">Sint-Truiden, abdijcomplex01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Sint-Truiden: St Peter's and St Gangulf's
+
+Two Romanesque parish churches of Christina's time still stand in the town. **St Gangulf's** was built between 1055 and 1082 by Abbot Adelard II and became a parish church in 1133. **St Peter's**, in the old quarter of Zerkingen south of the centre, where tradition places St Trudo's family home, was built about 1180–1190, in the very years when Christina was astonishing the town.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-gangulf-600.webp 600w,/static/art/chr-gangulf.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-gangulf.jpg" alt="A Romanesque church of pale stone with a small west tower and a long nave, beside a street with lamp posts." width="1280" height="932" loading="lazy"></picture>
+<figcaption><b>St Gangulf's</b>, Sint-Truiden, built in the 11th century and a parish church since 1133. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Truiden,_StGangulfus01.jpg">Sint-Truiden, StGangulfus01</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-gangulf-int-600.webp 600w,/static/art/chr-gangulf-int.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-gangulf-int.jpg" alt="The plain Romanesque nave of St Gangulf's church, with round arches and a round window high in the east wall above the altar." width="1280" height="1280" loading="lazy"></picture>
+<figcaption>The nave of <b>St Gangulf's</b>, restored in 1956–1961 to its Romanesque simplicity. Photo: <a href="https://commons.wikimedia.org/wiki/File:Interieur_Sint_Gangulfus.jpg">Interieur Sint Gangulfus</a> by Thebeautyparlorisfilledwithsailors, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-pieter-600.webp 600w,/static/art/chr-pieter.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-pieter.jpg" alt="A Romanesque church front of pale stone banded with brick, with a slender slate spire and a round-arched door." width="1280" height="2205" loading="lazy"></picture>
+<figcaption><b>St Peter's</b>, Sint-Truiden, built about 1180–1190 and restored in the 19th century. Photo: <a href="https://commons.wikimedia.org/wiki/File:Sint-Pieterskerk_Sint-Truiden.jpg">Sint-Pieterskerk Sint-Truiden</a> by J.G.G., <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Sint-Truiden: the site of St Catherine's
+
+The convent of **St Catherine**, named for [St Catherine of Alexandria](/saints/catherine-of-alexandria/), stood just outside the town walls, where the railway station is today. Its church was consecrated in 1193. Here Christina whirled in ecstasy and sang the *Te Deum* with the nuns, here she foretold the battle of Steppes, here Lutgard lived as a young nun, and here Christina died three times and was buried. In 1231 the nuns moved to Metsteren, and the old church was pulled down in the 18th century.
+
+### Sint-Truiden: the Beguinage
+
+The **Beguinage of St Agnes** was founded in the middle of the 13th century, soon after Christina's death, on land given by the abbey to the "religious women" who until then lived scattered through the town. Its church was begun in 1258, and its walls and pillars are covered with medieval and later paintings of the saints. With other Flemish beguinages it is a UNESCO World Heritage Site. Christina, with her love of prayer, of the poor and of the dying, belongs to the same great awakening of devout women that gave the Low Countries the beguines.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-begijnhof-600.webp 600w,/static/art/chr-begijnhof.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-begijnhof.jpg" alt="The Gothic church of the beguinage of Sint-Truiden standing on a wide lawn among trees, with small houses around the green." width="1280" height="960" loading="lazy"></picture>
+<figcaption>The church and green of the <b>Beguinage of St Agnes</b>, Sint-Truiden. Photo: <a href="https://commons.wikimedia.org/wiki/File:Begijnhof_Sint-Truiden1.JPG">Begijnhof Sint-Truiden1</a> by Wasily, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-begijnhofkerk-600.webp 600w,/static/art/chr-begijnhofkerk.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-begijnhofkerk.jpg" alt="The Gothic stone church of the Sint-Truiden beguinage with a small bell turret and tall pointed windows, among trees in autumn." width="1280" height="853" loading="lazy"></picture>
+<figcaption>The <b>beguinage church</b>, begun in 1258, a generation after Christina's death. Photo: <a href="https://commons.wikimedia.org/wiki/File:Begijnhof_Sint-Truiden_13.jpg">Begijnhof Sint-Truiden 13</a> by FrDr, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-begijnhof-int-600.webp 600w,/static/art/chr-begijnhof-int.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-begijnhof-int.jpg" alt="A photograph of the interior of the beguinage church, with white walls and pillars covered in painted saints." width="1280" height="907" loading="lazy"></picture>
+<figcaption>The painted walls and pillars inside the <b>beguinage church</b>. Image: <a href="https://commons.wikimedia.org/wiki/File:Provincie_Limburg._Provinciaal_Museum_voor_religieuze_kunst._Begijnhofkerk,_Sint-Truiden._Interieur_met_wand-_en_pijlerschilderingen,_GP065366.jpg">Provincie Limburg. Provinciaal Museum voor religieuze kunst. Begijnhofkerk, Sint-Truiden. Interieur met wand- en pijlerschilderingen, GP065366</a>, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-dymphna-600.webp 600w,/static/art/chr-dymphna.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-dymphna.jpg" alt="A tall painting on a pillar of St Dymphna as a crowned young woman holding a sword and a book, with a small demon at her feet." width="1280" height="2166" loading="lazy"></picture>
+<figcaption><b>St Dymphna</b>, on a pillar painting in the beguinage church. Like Christina, [St Dymphna](/saints/dymphna/) is loved in the Low Countries as a patron of people with mental illness. Photo: <a href="https://commons.wikimedia.org/wiki/File:Begijnhofkerk,_muurschildering_,_H.Dimpna_van_Geel_-_373513_-_onroerenderfgoed.jpg">Begijnhofkerk, muurschildering , H.Dimpna van Geel - 373513 - onroerenderfgoed</a> by Kris Vandevorst, Onroerend Erfgoed, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Brustem
+
+The village of **Brustem**, now part of Sint-Truiden, keeps the tradition of Christina's birth. Its parish church of St Lawrence stands beside the ruined tower that Count Louis I of Loon built about 1170, when Christina was a girl.
+
+### Wellen
+
+In the church of **St John the Baptist** at Wellen, with its Romanesque tower, Christina plunged into the font and from then on lived more gently among people. The Romanesque font itself was later sold and crossed the ocean; it is now in The Cloisters, the medieval museum of the Metropolitan Museum of Art in New York. A faithful copy in blue stone, made in 2012, stands in St Gangulf's church in Sint-Truiden.
+
+### Borgloon, the castle of Loon
+
+**Borgloon** was the seat of the counts of Loon, whose county stretched across much of today's Belgian Limburg. Here Christina lived nine years with the recluse Yvette, sang in the church at night and counselled Count Louis II. The castle has gone; its mound stands beside the church of St Odulf, which keeps St Lutgard's prayer stool.
+
+### Liège: St Christopher's and the Meuse
+
+**Liège**, the city of the prince-bishops, lies on the Meuse some 30 km (20 miles) south-east of Sint-Truiden. Christina begged for Holy Communion at the church of **St Christopher**, first built between 1179 and 1183, and walked through the deep river to escape the priests who chased her. In a cellar in Liège her chains fell away and her broken leg was healed. In Liège's **Cathedral of St Paul**, a painting of the saints of the diocese shows her beside St Trudo.
+
+### Nonnenmielen
+
+At Metsteren, a short way north of Sint-Truiden, the nuns of St Catherine's built their new convent in 1231, and Christina's body rested here until 1796. After the abbey was suppressed, a manor house was built on its site; an 18th-century gatehouse and an abbey farm dated 1686 remain.
+
+<h2 id=art>Christina in art</h2>
+
+Christina's town never forgot her. Engravers and printers of the Low Countries made her picture for the faithful: a veiled holy woman with the wings of a bird, a crucifix and a rosary in her hands, often with a skull for the tombs where she prayed and a dove for the Holy Spirit who carried her. Holy cards printed in Sint-Truiden, Antwerp and Bruges told her story and carried prayers for the souls in purgatory. Her picture appears in calendars of saints from the 17th century, and in the Cathedral of St Paul in Liège she stands among the saints of the diocese.
+
+### In the calendar of saints
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-fasti-1630-600.webp 600w,/static/art/chr-fasti-1630.webp 736w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-fasti-1630.jpg" alt="A small hand-coloured 17th-century engraving in an oval frame of St Christina rising in a cloud above a church interior with a bier, while souls in flames reach up below, with Latin verses beneath." width="736" height="1397" loading="lazy"></picture>
+<figcaption><b>S. Christina Mirabilis</b> in the <i>Fasti Mariani</i>, a calendar of saints printed in 1630 with a picture for every day of the year, her feast on 24 July. She rises from her bier in the church, while the souls in the flames of purgatory reach up to her. The ribbon above reads <i>Anathema pro fratribus</i>, St Paul's words about being willing to be cut off "for my brethren", and beneath it is written <i>Horror aeternarum poenarum pro peccatoribus</i>, "the horror of eternal pains, for sinners". Photo: <a href="https://commons.wikimedia.org/wiki/File:Christina_the_Astonishing_1630_prayer_card_Fasti_Mariani.png">Christina the Astonishing 1630 prayer card Fasti Mariani</a> by Patrick3Lopez, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Among the saints of Liège
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-tassin-liege-600.webp 600w,/static/art/chr-tassin-liege.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-tassin-liege.jpg" alt="A neo-Gothic wall painting of two haloed saints on a gold ground under pointed arches: on the left a veiled woman in a dark habit, on the right an abbot with a staff." width="1280" height="1791" loading="lazy"></picture>
+<figcaption><b>St Christina Mirabilis</b> (left) and St Trudo, from Adolphe Tassin's wall paintings of the saints of the diocese of Liège, 1899–1902, in the Cathedral of St Paul, Liège. The inscription under Christina reads <i>Qui mirabilia pro me passus est, mirabilia pro me operatus est</i>: "He who suffered wondrous things for me has done wondrous things for me." Photo: <a href="https://commons.wikimedia.org/wiki/File:2014_Li%C3%A8ge,_Cath%C3%A9dral_St-Paul,_saints_du_dioc%C3%A8se_(05).jpg">2014 Liège, Cathédral St-Paul, saints du diocèse (05)</a> by Kleon3, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### Holy cards of Sint-Truiden
+
+For two centuries the people of Sint-Truiden carried her picture home from her shrine. The cards show her with wings, praying before the crucifix, and on the back they tell her story and offer a prayer approved by the bishop of Liège.
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-print-1863-600.webp 600w,/static/art/chr-print-1863.webp 500w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-print-1863.jpg" alt="A 19th-century engraved holy card of St Christina with wings and a veil, praying before a crucifix, with a dove above and a French caption below." width="500" height="807" loading="lazy"></picture>
+<figcaption>A <b>holy card of 1863</b>, printed by Vanwest-Pluymers in Sint-Truiden: "Feast on 24 July… Her relics rest in the church of the Redemptorist Fathers at Saint-Trond." MAS, Antwerp. Image: <a href="https://commons.wikimedia.org/wiki/File:Devotieprent_van_de_heilige_Christina_Mirabilis,_asset_X2AXiBgkViRVdmGbeSSFyQGr.tif">Devotieprent van de heilige Christina Mirabilis, asset X2AXiBgkViRVdmGbeSSFyQGr.tif</a> by Vanwest-Pluymers, MAS Antwerp, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-print-1863-text-600.webp 600w,/static/art/chr-print-1863-text.webp 500w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-print-1863-text.jpg" alt="The printed back of a 19th-century Dutch holy card, with the title &quot;Christina de Wonderbare&quot; in black letter, a short life and a prayer." width="500" height="808" loading="lazy"></picture>
+<figcaption>The back of the same card, in Dutch: "Saint Christina the Astonishing, patroness of a good death." It tells how she died three times and returned to life, and how she suffered the pains of the souls in purgatory to set them free, with a prayer to her for a holy death, approved by the bishop of Liège in 1863. MAS, Antwerp. Image: <a href="https://commons.wikimedia.org/wiki/File:Devotieprent_van_de_heilige_Christina_Mirabilis,_asset_X1BQba7ViODbcI9geHsEgXQo.tif">Devotieprent van de heilige Christina Mirabilis, asset X1BQba7ViODbcI9geHsEgXQo.tif</a> by Vanwest-Pluymers, MAS Antwerp, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-print-zalige-600.webp 600w,/static/art/chr-print-zalige.webp 500w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-print-zalige.jpg" alt="A colourful 19th-century holy card of St Christina in a brown habit and white veil, with wings, standing beside a small altar with a crucifix, in a flowered frame." width="500" height="733" loading="lazy"></picture>
+<figcaption>"Blessed Christina Mirabilis", a coloured holy card of the 19th century, with the wings of her flights and the crucifix of her prayer. MAS, Antwerp. Image: <a href="https://commons.wikimedia.org/wiki/File:Devotieprent_van_de_zalige_Christina_Mirabilis,_asset_BXOMaVumanPal77RX1A3pMtd.tif">Devotieprent van de zalige Christina Mirabilis, asset BXOMaVumanPal77RX1A3pMtd.tif</a> by MAS Antwerp, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-card-1892-600.webp 600w,/static/art/chr-card-1892.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-card-1892.jpg" alt="A colourful holy card of St Christina in a brown habit and white veil, with wings, her hands joined, beside an altar with a crucifix and candles, with a dove above, in a red and gold frame." width="1280" height="2046" loading="lazy"></picture>
+<figcaption>A <b>holy card of 1892</b>, printed by the Society of St Augustine in Bruges: <i>Sancta Christina Mirabilis, Virgo de Sancto Trudone</i>, "St Christina the Astonishing, virgin of Sint-Truiden". Photo: <a href="https://commons.wikimedia.org/wiki/File:St_Christina_the_Astonishing_1892_Prayer_Card_-_with_Bishop%27s_Statement_front.jpg">St Christina the Astonishing 1892 Prayer Card - with Bishop's Statement front</a> by Patrick3Lopez, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure class=photo>
+<picture><source srcset="/static/art/chr-card-1892-back-600.webp 600w,/static/art/chr-card-1892-back.webp 1280w" sizes="(max-width:760px) 100vw,760px" type="image/webp"><img src="/static/art/chr-card-1892-back.jpg" alt="The back of a holy card printed in Dutch, with a short life of St Christina, a prayer and the signature of the bishop of Liège, dated 8 December 1892." width="1280" height="2061" loading="lazy"></picture>
+<figcaption>The back of the 1892 card, approved by <b>Bishop Victor-Joseph Doutreloux</b> of Liège on 8 December 1892. It tells how she spent nine years at Borgloon with the holy Jutta, that she "came back to life twice", and that her bones rest with the Redemptorist Fathers of Sint-Truiden. It calls on her for the conversion of sinners, a holy death, the relief of the souls in purgatory, difficult matters and protection from disease. Photo: <a href="https://commons.wikimedia.org/wiki/File:St_Christina_the_Astonishing_1892_Prayer_Card_-_Bishop%27s_Statement_back.jpg">St Christina the Astonishing 1892 Prayer Card - Bishop's Statement back</a> by Patrick3Lopez, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 ## Path to sainthood
-Never formally canonised; venerated locally in the diocese of Liège and in the Roman Martyrology tradition of the Low Countries.
+
+St Christina belongs to the great company of saints whose holiness was recognised by the faith of their own people, before the formal processes of canonisation took shape. From the day her tomb was opened in 1231, Sint-Truiden has honoured her as a saint; her bones were raised to the altar in 1249, and her veneration has continued for eight hundred years with the blessing of the bishops of Liège, who granted indulgences for prayers in her honour. She was never formally canonised, and her cult is above all a long-standing local one, rooted in the Hesbaye and the diocese of Liège; but the Church has long written her name in her martyrologies. The *Fasti Mariani* of 1630 kept her feast on 24 July, and the **Roman Martyrology**, the Church's official book of the saints, names her on that day: "At Sint-Truiden in Brabant, Blessed Christina, called the Astonishing, virgin, in whom the Lord worked wonderfully, both when she was afflicted in body and when she was rapt in spirit (1224)." In her own country she has always been simply "Saint Christina".
 
 ## Patronages
-Mental illness, therapists, psychiatrists (popular patronage).
+
+People with mental illness and those who care for them, including psychiatrists, therapists and mental-health workers; millers; the souls in purgatory; a holy death; Sint-Truiden and the Hesbaye.
 
 ## Trivia
-- Nick Cave wrote a song, "Christina the Astonishing" (1996), about her.
-- Her relics are at the Redemptorist church in Sint-Truiden.
+
+- Her Latin name, *Christina Mirabilis*, means "Christina the Wonderful" or "the Astonishing". In Dutch she is *Christina de Wonderbare*.
+- In the Middle Ages a Franciscan friar named Geraert turned Thomas's Life into Middle Dutch rhyming verse, so that the people of the Low Countries could hear her story in their own tongue.
+- Christina's friend St Lutgard went to the abbey of Aywières on Christina's advice, and the two saints shared the same biographer.
+- The beguinage church of Sint-Truiden, a few minutes' walk from where she died, has a painting of [St Dymphna](/saints/dymphna/), the other great patron of people with mental illness in the Low Countries.
+- The very font she plunged into at Wellen is now in The Cloisters museum in New York, and a copy stands in St Gangulf's, Sint-Truiden.
+- The Australian singer Nick Cave wrote a song about her, "Christina the Astonishing", on his 1992 album *Henry's Dream*.
+- A modern statue of her by the Belgian sculptor Johan Creten has lain since 2012 on the green of the beguinage of Sint-Truiden.
+- The 800th anniversary of her death in 2024 was kept in Sint-Truiden and across the Hesbaye.
 
 ## Sources
-- Thomas of Cantimpré, *Vita Christinae Mirabilis* (c. 1232), in *Acta Sanctorum*, July, vol. 5.
-- [Wikipedia: Christina the Astonishing (overview with scholarly references)](https://en.wikipedia.org/wiki/Christina_the_Astonishing)
 
-<p class=src>Written October 16, 2026 from the sources above. The Sint-Truiden photograph was added November 6, 2026. Feast days follow the General Roman Calendar unless noted.</p>
+- [Thomas of Cantimpré: *Vita Christinae Mirabilis*, Latin text and English translation by Mark Reynolds (2015), Internet Archive](https://archive.org/details/st.-christina)
+- [F. X. Schouppe: *Purgatory Illustrated by the Lives and Legends of the Saints* (1893), chapter XII, Internet Archive](https://archive.org/details/purgatoryillustr00schouoft)
+- [Pope Benedict XVI: *Spe Salvi* (2007)](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)
+- [Catechism of the Catholic Church, 1030–1032: the final purification](https://www.vatican.va/archive/ENG0015/__P2N.HTM)
+- [The Roman Martyrology for 24 July, Latin text, Cinerecilicio](https://www.cinerecilicio.com/2023/07/the-roman-martyrology-for-9th-day.html)
+- [Santi e Beati: Beata Cristina l'Ammirabile](https://www.santiebeati.it/dettaglio/64160)
+- [Sancteo: Santa Cristina l'Ammirabile](https://www.sancteo.org/it/santi/1136-santa-cristina-l-ammirabile)
+- [Erfgoud: Christina de Wonderbare](https://www.erfgoud.be/nl/lees/113)
+- [Erfgoud: The baptismal font of Christina Mirabilis](https://www.erfgoud.be/nl/lees/1644)
+- [Otheo: Haspengouw focust op Christina de Wonderbaarlijke (2024)](https://www.otheo.be/artikel/haspengouw-focust-christina-wonderbaarlijke)
+- [Sint-Truiden: Schatkamer van de Onze-Lieve-Vrouwekerk](https://www.sint-truiden.be/schatkamer-onze-lieve-vrouwekerk)
+- [Wikipedia: Christina the Astonishing](https://en.wikipedia.org/wiki/Christina_the_Astonishing)
+- [Wikipedia (Dutch): Christina de Wonderbare](https://nl.wikipedia.org/wiki/Christina_de_Wonderbare)
+- [Wikipedia (French): Christine l'Admirable](https://fr.wikipedia.org/wiki/Christine_l%27Admirable)
+- [Wikipedia: Thomas of Cantimpré](https://en.wikipedia.org/wiki/Thomas_of_Cantimpr%C3%A9)
+- [Wikipedia: Jacques de Vitry](https://en.wikipedia.org/wiki/Jacques_de_Vitry)
+- [Wikipedia: Lutgardis](https://en.wikipedia.org/wiki/Lutgardis)
+- [Wikipedia: Louis II, Count of Loon](https://en.wikipedia.org/wiki/Louis_II,_Count_of_Loon)
+- [Wikipedia: Battle of Steppes](https://en.wikipedia.org/wiki/Battle_of_Steppes)
+- [Wikipedia (Dutch): Abdij van Nonnemielen](https://nl.wikipedia.org/wiki/Abdij_van_Nonnemielen)
+- [Wikipedia (Dutch): Onze-Lieve-Vrouwekerk (Sint-Truiden)](https://nl.wikipedia.org/wiki/Onze-Lieve-Vrouwekerk_(Sint-Truiden))
+- [Wikipedia (Dutch): Abdij van Sint-Truiden](https://nl.wikipedia.org/wiki/Abdij_van_Sint-Truiden)
+- [Wikipedia (Dutch): Begijnhof (Sint-Truiden)](https://nl.wikipedia.org/wiki/Begijnhof_(Sint-Truiden))
+- [Wikipedia (Dutch): Sint-Gangulfuskerk (Sint-Truiden)](https://nl.wikipedia.org/wiki/Sint-Gangulfuskerk_(Sint-Truiden))
+- [Wikipedia (Dutch): Sint-Pieterskerk (Sint-Truiden)](https://nl.wikipedia.org/wiki/Sint-Pieterskerk_(Sint-Truiden))
+- [Wikipedia (French): Église Saint-Christophe de Liège](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Christophe_de_Li%C3%A8ge)
+
+Quotations of St Christina and the accounts of her life, miracles and death are our own renderings from Thomas of Cantimpré's Latin *Vita Christinae Mirabilis* (about 1232) and its continuation, checked against Mark Reynolds' Latin and English edition; the account of the 1249 raising of her relics is from the continuation of the Life; the words of Jacques de Vitry are from Thomas's prologue, and St Robert Bellarmine's from F. X. Schouppe's *Purgatory*. The miracles are told as Thomas recorded them from those who knew her. The Roman Martyrology is quoted in our translation from the Latin of the 2004 edition.
+
+<p class=src>Originally written October 16, 2026 from the sources above. Photo added November 6, 2026. Expanded November 27, 2026 with her full story, two maps and pictures from Wikimedia Commons, fact-checked against Thomas of Cantimpré's Life, the Roman Martyrology and the sources listed. Feast days follow the Roman Martyrology.</p>
