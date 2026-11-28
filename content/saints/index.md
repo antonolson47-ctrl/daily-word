@@ -7,7 +7,7 @@ group_notes: {"Saints of Italy": "[St Mark the Evangelist](/saints/mark/), patro
 ---
 Short, sourced portraits of the saints: when they lived, their story, how the Church came to recognise them, and some trivia. Saints from the first thousand years were recognised by popular devotion and local bishops long before the formal process existed (they're called **pre-Congregation** saints). Modern saints go through the Dicastery for the Causes of Saints: *Servant of God* → *Venerable* → *Blessed* (usually after one approved miracle) → *Saint* (usually after a second).
 
-There are now 157 entries here, and more are added in batches. The Holy Innocents are one feast, not a list of named children. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
+There are now 159 entries here, and more are added in batches. The Holy Innocents are one feast, not a list of named children. Where a saint's story is mostly legend rather than history (St Christopher, St George's dragon, St Valentine), the page says so.
 
 **[St Michael the Archangel](/saints/michael-the-archangel/)**, prince of the heavenly host, is told at length: what Scripture names, what the Church has loved to add, the art made for him, and every sanctuary on [St Michael's Line](/pilgrimage/st-michael/).
 <!--list-->
@@ -114,6 +114,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Roch](/saints/roch/) | Montpellier | His traditional birthplace; the great cult and claimed relics are at San Rocco and the Scuola Grande di San Rocco, Venice |
 | [St John Vianney](/saints/john-vianney/) | Ars-sur-Formans | Basilica of Ars (his body); the presbytery and the old parish church |
 | [St Martin of Tours](/saints/martin-of-tours/) | Tours / Szombathely | Basilica of St Martin, Tours; Ligugé and Marmoutier; his birthplace at Szombathely, Hungary |
+| [St Elzéar of Sabran](/saints/elzear/) | Ansouis / Apt | Church of Saint-Martin, Ansouis (reliquary busts of Elzéar and Delphine) and the castle of the Sabrans; Cathedral of Sainte-Anne, Apt, where he was buried |
 
 ### Ireland & Britain
 
@@ -192,6 +193,7 @@ Where the saints lived, died and are honoured, and where to go to visit them. Pi
 | [St Damien of Molokai](/saints/damien/) | Kalaupapa, Molokai (Hawaii) | St Philomena Church and his grave, Kalaupapa National Historical Park; Cathedral Basilica of Our Lady of Peace, Honolulu; St Anthony's Church, Leuven (tomb) |
 | [St Óscar Romero](/saints/oscar-romero/) | San Salvador (El Salvador) | Metropolitan Cathedral crypt (his tomb); the chapel of the Hospital Divina Providencia, where he was shot |
 | [St Elizabeth Ann Seton](/saints/elizabeth-ann-seton/) | Emmitsburg, Maryland (USA) | National Shrine of St Elizabeth Ann Seton (her tomb); St Peter's, Barclay Street, New York, where she was received |
+| [St Elzéar of Sabran](/saints/elzear/) | San Elizario, Texas (USA) | Presidio Chapel of San Elizario, named for him, on the El Paso Mission Trail, with the Socorro and Ysleta missions |
 
 
 <div class=warn markdown=1>Dates for ancient saints are often approximate, and those are marked "c." (circa). Where sources disagree we say so with ⚠.</div>
